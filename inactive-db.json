@@ -1,6 +1,21 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BaddBoyzHosts/domains.list": {
-        "1520877698": [
+        "1520964259": [
+            "valuecitfurniture.com",
+            "vari.koz.su",
+            "viclgesdfp7wbjhbbwua4yi1q3oo5p.plushlikegarnier.com",
+            "victoria.nanasx.com",
+            "video.tep.su",
+            "vww.fallabellacmr.com",
+            "w7s.ru",
+            "waffenboard.de",
+            "wandal.pl",
+            "watchmyfb.pl",
+            "waterpurifier.club",
+            "wayforwardafrica.org",
+            "wearablesmed.com"
+        ],
+        "to_test": [
             "001.vwoool.com",
             "0906porno.nl",
             "0zproxy.gq",
@@ -507,8 +522,8 @@
             "unlocked-accountid.com",
             "unsecured-guarantor-loans.co.uk",
             "updatservice.serveradminmanagment.com",
-            "usarmymil.info"
-        ],
-        "to_test": []
+            "usarmymil.info",
+            "utilidades.paraelpc.com"
+        ]
     }
 }
