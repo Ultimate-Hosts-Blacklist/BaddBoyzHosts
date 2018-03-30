@@ -219,9 +219,7 @@
             "chrome-setup.bid",
             "clickut.com.br",
             "clqzz.alldownloads.hapc.gdn",
-            "cluster.blingblingcontent.com"
-        ],
-        "to_test": [
+            "cluster.blingblingcontent.com",
             "cobras-fussballmanager.de",
             "com-onlinesupport.host",
             "com-onlinesupport.site",
@@ -243,7 +241,9 @@
             "d403.2co.jp",
             "daskoerpchen.de",
             "daymusam.com",
-            "ddsoldes.fr",
+            "ddsoldes.fr"
+        ],
+        "to_test": [
             "dealkolld.top",
             "defuseitgame.com",
             "dentaldatei.de",
