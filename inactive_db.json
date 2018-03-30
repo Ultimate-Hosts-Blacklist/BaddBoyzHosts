@@ -1,6 +1,19 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BaddBoyzHosts/domains.list": {
-        "1522323227": [
+        "1522409948": [
+            "pixeled.mx",
+            "pjszz.alldownloads.hapc.gdn",
+            "play-movie.pl",
+            "plugs.top",
+            "poephoeren.nl",
+            "poeptieners.nl",
+            "polaerunity.top",
+            "poooperfath.top",
+            "porn-sites.biz",
+            "porn4access.com",
+            "porn8teen.com"
+        ],
+        "to_test": [
             "001.vwoool.com",
             "0906porno.nl",
             "0zproxy.gq",
@@ -474,8 +487,8 @@
             "paypal.limited-verificationupdatenow.com",
             "paypal.resolution-account.com",
             "pcdonne.mrtopic.com",
-            "personnel.exclusive-company.ru"
-        ],
-        "to_test": []
+            "personnel.exclusive-company.ru",
+            "pinkelbilder.de"
+        ]
     }
 }
