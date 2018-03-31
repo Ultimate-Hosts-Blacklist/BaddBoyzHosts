@@ -7,7 +7,6 @@
             "plugs.top",
             "poephoeren.nl",
             "poeptieners.nl",
-            "polaerunity.top",
             "poooperfath.top",
             "porn-sites.biz",
             "porn4access.com",
@@ -585,11 +584,10 @@
             "paypal.account-verifycations.review",
             "paypal.limited-verificationupdatenow.com",
             "paypal.resolution-account.com",
-            "pcdonne.mrtopic.com"
-        ],
-        "to_test": [
+            "pcdonne.mrtopic.com",
             "personnel.exclusive-company.ru",
             "pinkelbilder.de"
-        ]
+        ],
+        "to_test": []
     }
 }
