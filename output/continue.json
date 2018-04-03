@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BaddBoyzHosts/domains.list": {
-        "down": 484,
+        "down": 507,
         "invalid": 23,
-        "tested": 16556,
-        "up": 16049
+        "tested": 17374,
+        "up": 16844
     }
 }
