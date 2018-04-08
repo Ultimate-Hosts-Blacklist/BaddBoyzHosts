@@ -1,7 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BaddBoyzHosts/domains.list": {
-        "1522687553": [
+        "1523186814": [
             "0zproxy.gq",
+            "100s.pl",
             "101jokes.dk",
             "1minutelifehack.com",
             "214.13.190.195.unknown.steephost.net",
@@ -9,8 +10,12 @@
             "2itech.ru",
             "78984.xyz",
             "a2.364736.com",
+            "abmuctymq.top",
+            "aboomnsaoq.top",
             "absolutelyanalog.com",
-            "accionmasvida.com.ar",
+            "accionmasvida.com.ar"
+        ],
+        "to_test": [
             "ad.pdassi.de",
             "ad1.adinfuse.com",
             "ad2.adinfuse.com",
@@ -646,9 +651,6 @@
             "zhongtongbus.lk",
             "znanekobiety.pl",
             "zonasegurabn1.netfallabela.ru",
-            "001.vwoool.com",
-            "100s.pl",
-            "abmuctymq.top",
             "beyonds.biz",
             "erotykon.pl",
             "forum.bestcollegehunt.com",
@@ -677,8 +679,8 @@
             "zulmitv.xyz",
             "zuzka-model.net",
             "zvezdagedon.ru",
-            "zwickauer-musikforum.de"
-        ],
-        "to_test": []
+            "zwickauer-musikforum.de",
+            "001.vwoool.com"
+        ]
     }
 }
