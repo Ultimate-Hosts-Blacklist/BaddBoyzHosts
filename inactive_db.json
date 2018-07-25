@@ -1,20 +1,24 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BaddBoyzHosts/domains.list": {
-        "1526584508": [
+        "1532520243": [
             "0190-telefonsex.de.lv",
             "0zproxy.gq",
-            "101jokes.dk",
             "123kontaktanzeigen.de",
             "1minutelifehack.com",
             "24-7-singles.com",
+            "2boys.pl",
             "2itech.ru",
             "78984.xyz",
             "a2.364736.com",
+            "aaronjames.com.au",
+            "abenteuer-wohnmobil.de",
             "abiente.ru",
             "absolutelyanalog.com",
             "accionmasvida.com.ar",
             "acortar.tk",
-            "ad1.adinfuse.com",
+            "ad1.adinfuse.com"
+        ],
+        "to_test": [
             "ad2.adinfuse.com",
             "adam-kaserne.de",
             "addray.pro",
@@ -598,7 +602,6 @@
             "zuzka-model.net",
             "zvezdagedon.ru",
             "zwickauer-musikforum.de",
-            "001.vwoool.com",
             "amber-nude-model.centerfold-model.com",
             "amber.watchmenude.com",
             "blotevrouw.nl",
@@ -617,8 +620,8 @@
             "verifikation-zentrum.top",
             "verkrachtingsfantasie.nl",
             "woman-h.ru",
-            "yogamatsexpert.com"
-        ],
-        "to_test": []
+            "yogamatsexpert.com",
+            "001.vwoool.com"
+        ]
     }
 }
