@@ -1,31 +1,35 @@
 env:
   global:
-    - secure: mr9lmzc7osPtBTJBD5u3eSB8KCee+FOgo+YzuxaAfd0iAC0sv+742+shege/jCQKCy96crcubSrpdZ2x7x9IWa5/yKLUXzAKVOmYyDgZL67myTmq4Bzlf7fDqvfVCeWbOmOkG1K74aTmCBPP4hbCiPiy4Pc+feD1OKqGdoEbBJvODl9XKmhc1zPzvGAU867UG/ntGCxsUL/ez0wunrlp/5YAsyDIRoK1SwE1VgOezch3U6trSfbeyfv948D8XxB3SG/g70zru5aXRDnz/fPdOcCiOnXHuJirwwmInXxGMhrKG1PPnjmFS6a674h1rHee0NGVgY9GTHCvF04g2tH7askaftGMiOge/7pAFs6770vmVFLTQHQNv3Smi4/3EGx/8To8IVlw5WlC5emmDa2rGthrZ8EbpvKPKcvf8AjcHFuW+j5yTsAv3bayWuvj+8tjsuKLaf+amlRYmwipNIvhc3hW6gJXicg+JPj0AGDyWUeyIKCI/uq1KbkvaZf9w60k3AX1bJuq33yNjkSpwyUXCSH+ukOZcWLOHmW6LlnDbwZ1yzAevLh0Ey9Ayjqyb2IT+12oU+uhxRi9Pr3zgeue83PEecVfN2NdM3T8dQH+0tD7ID2g1LvUCw6LQ9KLOkNzUOs/S5GGM8UO8UBBVEVhv86wNEAW5DlkQCmZbJbssag=
+    - secure: dInDfAU9Qvl5/389Kpqo13wOVwcJT9RZX1c134w7RsC5Pgzcyjbn/erkgbtDp/vzrFn+tRfMcB0rB+QD4KFgA588AqzvCxJsn5A4jNm0B4QvCO1d9fibAcHpvA2Ff68f0HdqU3YJD2K2KQabIl6Nzz4cgAU60Ekx30Ngl5b9rv8zwje4ZMY2Rra+9/q+8TFfwbTDE9CO9GeNzIcmoTFdpVb+2Ifgm/XPgwqwAOuhQ2/+QMh9xCAs9jAXoKGOYuNnCEFyLITKXEtp9byNv5X8LmtEQZ5Yb8hvphECqVdHmxBko4Hqhk/csQbtzFuvS8wGJscp1D9aYp6mbDQPOLWHJDaFP9ugbsHZyteMW9Q7Srh8dbFRFMahk8PCzLMmEJdh8vK19cpKmFYn+ub9nk3ObpDVeTB2aQpKirXZOoZXKYNe9RVkVqQGIZ2RZrdpAMxjPgGpsG0pfsp5O6vAUDQ2uux7PKTyz+dgUYlB2H7SDPMwomFLh6DAJsENmtVMhLW47jouvFCsgxBtcotmE2pb0h+MQuyoXFSNpps/PcK0bhYhQqh/n3RIHCIBxJa3y6SIfUXI8hdbneJ3sARvnouiQDBultYjTQ3d8hQ5a/bkGCz3GfJDjb3zYFTP3Zo/omcmqlMQPpJjKLHDUY0W2ASllpAdN3rGlnJcBXCEn4UZtdU=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/BaddBoyzHosts
     - GIT_BRANCH: master
 
+dist: xenial
+sudo: required
 language: python
 
 python:
-  - "3.6"
+  - "3.7"
 
 matrix:
   fast_finish: true
 
 cache:
-  - apt
   - pip
 
-sudo: required
+addons:
+  apt:
+    packages:
+      - dos2unix
 
-before_install:
-  - pip3 install colorama
-  - sudo apt-get -y install dos2unix
+install:
+  - pip3 install --upgrade pip
+  - pip3 install requests
 
 script:
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble && python3 ./update.py
+  - python3 ./update.py
 
 notifications:
   on_success:   change
