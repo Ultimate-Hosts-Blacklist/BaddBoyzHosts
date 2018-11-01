@@ -3700,6 +3700,11 @@
             "expiration_date": "31-oct-2019",
             "state": "future"
         },
+        "art-fashion.pl": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
         "art-n-couture.com": {
             "epoch": "1558915200",
             "expiration_date": "27-may-2019",
@@ -5605,6 +5610,11 @@
             "expiration_date": "10-jun-2019",
             "state": "future"
         },
+        "buyessaynow.biz": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
         "buyforzat5.com": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
@@ -5793,6 +5803,11 @@
         "camorg.net": {
             "epoch": "1561939200",
             "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "candelluxsklep.pl": {
+            "epoch": "1555459200",
+            "expiration_date": "17-apr-2019",
             "state": "future"
         },
         "candiceloves.us": {
