@@ -18735,6 +18735,11 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "mice.pl": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
         "michaeldelugg.com": {
             "epoch": "1570406400",
             "expiration_date": "07-oct-2019",
@@ -18826,8 +18831,8 @@
             "state": "future"
         },
         "milkeat.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
             "state": "future"
         },
         "millennium-teens.com": {
@@ -18910,6 +18915,11 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "mmsolar.pl": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
         "mmstat.com": {
             "epoch": "1608854400",
             "expiration_date": "25-dec-2020",
@@ -18951,8 +18961,8 @@
             "state": "future"
         },
         "momssex.info": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "monarhs.info": {
@@ -18973,7 +18983,7 @@
         "mondo-porno.nu": {
             "epoch": "1540944000",
             "expiration_date": "31-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "monenzo.com": {
             "epoch": "1570147200",
@@ -19001,8 +19011,8 @@
             "state": "future"
         },
         "moneychord.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "moneyfree.ru": {
@@ -19540,6 +19550,11 @@
             "expiration_date": "27-jan-2019",
             "state": "future"
         },
+        "mysex.pl": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
         "mysexpics.ru": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
@@ -19801,9 +19816,9 @@
             "state": "future"
         },
         "ninjaa.info": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "ninjaweb.info": {
             "epoch": "1543017600",
@@ -19976,9 +19991,9 @@
             "state": "future"
         },
         "non-nude.info": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "none.nu": {
             "epoch": "1536019200",
