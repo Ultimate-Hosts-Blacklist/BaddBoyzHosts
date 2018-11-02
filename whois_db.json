@@ -30171,8 +30171,8 @@
             "state": "future"
         },
         "traffictrade.info": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "traffictrade.life": {
@@ -30253,7 +30253,7 @@
         "transsexual.nu": {
             "epoch": "1540944000",
             "expiration_date": "31-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "trashysluts.com": {
             "epoch": "1536364800",
@@ -31956,9 +31956,9 @@
             "state": "future"
         },
         "webunblockproxy.info": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "weburok.com": {
             "epoch": "1585180800",
