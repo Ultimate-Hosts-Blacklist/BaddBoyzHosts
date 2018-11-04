@@ -32816,9 +32816,9 @@
             "state": "future"
         },
         "xxxfactors.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "xxxfeast.com": {
             "epoch": "1548547200",
@@ -33056,8 +33056,8 @@
             "state": "future"
         },
         "xxxproam.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "xxxpussypics.nu": {
@@ -33341,9 +33341,9 @@
             "state": "past"
         },
         "ypcpw.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "ypfghpqnkgbxu.bid": {
             "epoch": "1535328000",
@@ -33401,9 +33401,9 @@
             "state": "future"
         },
         "ytqm.org": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "yubikk.info": {
             "epoch": "1554336000",
@@ -33723,7 +33723,7 @@
         "zoo-x.net": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "zoodrawings.com": {
             "epoch": "1546732800",
