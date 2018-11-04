@@ -20428,7 +20428,7 @@
         "odat.info": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "oddogg.com": {
             "epoch": "1570665600",
@@ -20630,6 +20630,11 @@
             "expiration_date": "03-oct-2019",
             "state": "future"
         },
+        "oral.pl": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
         "oralbondage.com": {
             "epoch": "1568419200",
             "expiration_date": "14-sep-2019",
@@ -20656,8 +20661,8 @@
             "state": "past"
         },
         "oralsilk.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "oralyx.com": {
@@ -20771,8 +20776,8 @@
             "state": "past"
         },
         "paypal-s.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "paypalcridit.com": {
@@ -21246,8 +21251,8 @@
             "state": "future"
         },
         "pinoyputang.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "pinsdaddy.com": {
@@ -21536,8 +21541,8 @@
             "state": "future"
         },
         "plaisir-sensuel.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "plaisirdujour.com": {
@@ -22233,7 +22238,7 @@
         "pornosu.ru": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pornosubee.com": {
             "epoch": "1543881600",
