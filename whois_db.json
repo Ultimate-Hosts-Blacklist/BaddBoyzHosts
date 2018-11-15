@@ -15156,9 +15156,9 @@
             "state": "future"
         },
         "hyrlastbilgoteborg.se": {
-            "epoch": "1535414400",
-            "expiration_date": "28-aug-2018",
-            "state": "past"
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "hystersister.com": {
             "epoch": "1550102400",
@@ -16130,6 +16130,11 @@
             "expiration_date": "06-apr-2019",
             "state": "future"
         },
+        "joysporn.co": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
         "judaismart.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
@@ -16526,8 +16531,8 @@
             "state": "future"
         },
         "keephide.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "keepongoing.info": {
@@ -16788,6 +16793,11 @@
         "kinotorka.ru": {
             "epoch": "1560556800",
             "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "kinowepremiery.pl": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "kinsalehistorysociety.com": {
@@ -17243,7 +17253,7 @@
         "la-jeune-fille.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "labelwater.se": {
             "epoch": "1568246400",
@@ -17496,8 +17506,8 @@
             "state": "past"
         },
         "lavideodujour.fr": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "lavo.info": {
