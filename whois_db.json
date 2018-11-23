@@ -5336,8 +5336,8 @@
             "state": "future"
         },
         "bluesman.nu": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "blumepower.net": {
@@ -5386,9 +5386,9 @@
             "state": "future"
         },
         "bondage-here.com": {
-            "epoch": "1536710400",
-            "expiration_date": "12-sep-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "bondage-porn.net": {
             "epoch": "1570147200",
@@ -5528,12 +5528,12 @@
         "bootsonclearance.info": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bootsoutlets-store12.info": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bootydancer.com": {
             "epoch": "1571184000",
@@ -6381,8 +6381,8 @@
             "state": "future"
         },
         "cienum.fr": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "cif.su": {
@@ -7056,8 +7056,8 @@
             "state": "future"
         },
         "crystalxxxmovies.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "cs-gra.pl": {
@@ -8681,8 +8681,8 @@
             "state": "future"
         },
         "doo-interactive.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "dookie.biz": {
@@ -9251,8 +9251,8 @@
             "state": "future"
         },
         "edmyth.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "edosushicresthill.com": {
@@ -10581,8 +10581,8 @@
             "state": "future"
         },
         "familyinbed.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "famir.com": {
@@ -10715,6 +10715,11 @@
             "expiration_date": "16-sep-2019",
             "state": "future"
         },
+        "fb-szpieguj.pl": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
         "fbcpublications.com": {
             "epoch": "1571097600",
             "expiration_date": "15-oct-2019",
@@ -10818,6 +10823,11 @@
         "feieo.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "fejspejs.pl": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "felceconserve.com": {
