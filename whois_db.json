@@ -15783,7 +15783,7 @@
         "intermaids.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "intermare.it": {
             "epoch": "1556064000",
@@ -17878,7 +17878,7 @@
         "livepornworld.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "liver-chintai.org": {
             "epoch": "1566259200",
@@ -18468,7 +18468,7 @@
         "maxs.dk": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "maxthon.com": {
             "epoch": "1556668800",
@@ -22141,8 +22141,8 @@
             "state": "past"
         },
         "porno-play.net": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "porno-porn.nu": {
