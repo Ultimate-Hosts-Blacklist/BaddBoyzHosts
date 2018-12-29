@@ -16931,8 +16931,8 @@
             "state": "future"
         },
         "kittyscontent.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "kittystore.net": {
@@ -16953,7 +16953,7 @@
         "kiwinija.com": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "kizlar.info": {
             "epoch": "1576972800",
@@ -17521,8 +17521,8 @@
             "state": "future"
         },
         "lanzarotehoppa.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "laparfumotec.com": {
