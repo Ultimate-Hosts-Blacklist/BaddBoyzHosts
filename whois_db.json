@@ -10276,8 +10276,8 @@
             "state": "future"
         },
         "exoticaproductions.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "exoticclubhouse.com": {
@@ -10383,7 +10383,7 @@
         "extremegrannies.com": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "extremepeeing.com": {
             "epoch": "1548806400",
@@ -10536,8 +10536,8 @@
             "state": "future"
         },
         "factwest.com": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
             "state": "future"
         },
         "fades.biz": {
@@ -10626,8 +10626,8 @@
             "state": "future"
         },
         "famouslinks.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "famouslynaked.com": {
@@ -10691,9 +10691,9 @@
             "state": "past"
         },
         "fatwomennaked.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
-            "state": "past"
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
         },
         "favino.ru": {
             "epoch": "1576281600",
@@ -10746,9 +10746,9 @@
             "state": "future"
         },
         "fbhexa.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
-            "state": "past"
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
         },
         "fbmarketingfaq.com": {
             "epoch": "1572825600",
@@ -15521,8 +15521,8 @@
             "state": "future"
         },
         "imagegalleries.org": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "imageprostyle-communication.fr": {
@@ -15811,8 +15811,8 @@
             "state": "future"
         },
         "internetartfair.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "internetoboz.ru": {
@@ -15898,7 +15898,7 @@
         "inveseting.com": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "invest-pamm.ru": {
             "epoch": "1552521600",
