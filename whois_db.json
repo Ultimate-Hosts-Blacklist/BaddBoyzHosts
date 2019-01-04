@@ -148,7 +148,7 @@
         "0nn.info": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "0ping.info": {
             "epoch": "1575676800",
@@ -636,9 +636,9 @@
             "state": "future"
         },
         "22kkkk.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
-            "state": "past"
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
         },
         "24-ak.ru": {
             "epoch": "1565827200",
@@ -868,7 +868,7 @@
         "300sk.com": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "30sec.info": {
             "epoch": "1600646400",
@@ -916,8 +916,8 @@
             "state": "future"
         },
         "3cloud.net": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "3d-daughter-list.info": {
@@ -986,8 +986,8 @@
             "state": "future"
         },
         "3vig.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "3w24.com": {
@@ -1671,9 +1671,9 @@
             "state": "future"
         },
         "a1thumbpost.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
-            "state": "past"
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
         },
         "a2btrans.pl": {
             "epoch": "1564790400",
@@ -1771,8 +1771,8 @@
             "state": "future"
         },
         "aab94f698f36684c5a852a2ef272e031bb.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -2506,8 +2506,8 @@
             "state": "future"
         },
         "allaboutxxx.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "allamericanmadetoys.com": {
