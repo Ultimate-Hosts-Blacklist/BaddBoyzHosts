@@ -645,9 +645,7 @@
             "www.dt1blog.com",
             "www.payments-us-account-selection.com",
             "www.paypal-secure.me",
-            "www.php-myaccount.me"
-        ],
-        "to_test": [
+            "www.php-myaccount.me",
             "baomihua.co",
             "battlecarnival.su",
             "bdhzz.alldownloads.hapc.gdn",
@@ -673,8 +671,8 @@
             "bogidoggy.top",
             "boobsdom.com",
             "boz8899.com",
-            "bp.idea-unlimited.com",
             "bpc.idea-unlimited.com",
+            "bp.idea-unlimited.com",
             "bpi.idea-unlimited.com",
             "bryangarnier-am.com",
             "bubalino.com.br",
@@ -687,9 +685,9 @@
             "candy-glam-hp.com",
             "canyonranchdestination.com",
             "carlandren.se",
-            "carp-island.com",
             "carpe-obscurum.de",
             "carpetandupholstreycleaning.com",
+            "carp-island.com",
             "carslberg.se",
             "casars.xyz",
             "ccdzz.alldownloads.hapc.gdn",
@@ -701,7 +699,9 @@
             "check-free.tk",
             "cherrypointplace.ca",
             "chrome-setup.bid",
-            "cineacademy.ru",
+            "cineacademy.ru"
+        ],
+        "to_test": [
             "fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com",
             "finally.nu",
             "fireads.men",
