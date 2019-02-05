@@ -28456,9 +28456,9 @@
             "state": "past"
         },
         "staceyscloset.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
-            "state": "past"
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
         },
         "stackpoints.com": {
             "epoch": "1569283200",
@@ -33418,7 +33418,7 @@
         "xxxstory.net": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "xxxtraders.com": {
             "epoch": "1577404800",
@@ -33683,7 +33683,7 @@
         "yun56.co": {
             "epoch": "1549238400",
             "expiration_date": "04-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "yur-p.ru": {
             "epoch": "1560643200",
@@ -33946,9 +33946,9 @@
             "state": "future"
         },
         "zoguo.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
-            "state": "past"
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
         },
         "zojirushi-products.ru": {
             "epoch": "1578787200",
