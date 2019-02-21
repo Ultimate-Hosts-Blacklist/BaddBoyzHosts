@@ -8551,8 +8551,8 @@
             "state": "future"
         },
         "dogbreedspicture.net": {
-            "epoch": "1550620800",
-            "expiration_date": "20-feb-2019",
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
             "state": "future"
         },
         "dogcommerce.com": {
@@ -9358,7 +9358,7 @@
         "edv-donner.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "ee0909.com": {
             "epoch": "1576022400",
@@ -13343,7 +13343,7 @@
         "gogalleryawesome.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "gogirl.info": {
             "epoch": "1571356800",
