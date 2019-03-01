@@ -7141,8 +7141,8 @@
             "state": "future"
         },
         "create2fear.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "createfeartr3.com": {
@@ -7431,8 +7431,8 @@
             "state": "future"
         },
         "custodieva.ru": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1582934400",
+            "expiration_date": "29-feb-2020",
             "state": "future"
         },
         "custom-electric-guitar.com": {
@@ -9486,8 +9486,8 @@
             "state": "future"
         },
         "educationtree.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "educontest.net": {
@@ -10551,8 +10551,8 @@
             "state": "future"
         },
         "explore2be.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "exportshop.us": {
@@ -13416,8 +13416,8 @@
             "state": "future"
         },
         "gms1.ru": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1582934400",
+            "expiration_date": "29-feb-2020",
             "state": "future"
         },
         "gne8.com": {
@@ -15520,6 +15520,11 @@
             "expiration_date": "24-oct-2019",
             "state": "future"
         },
+        "idc.com.ua": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
         "iddpmiram.org": {
             "epoch": "1617321600",
             "expiration_date": "02-apr-2021",
@@ -15625,6 +15630,11 @@
             "expiration_date": "03-jan-2020",
             "state": "future"
         },
+        "iflycapetown.co.za": {
+            "epoch": "1581811200",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
         "iforgotappple.com": {
             "epoch": "1557446400",
             "expiration_date": "10-may-2019",
@@ -15651,9 +15661,9 @@
             "state": "future"
         },
         "ignorantfishing.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
-            "state": "past"
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
         },
         "igrovyeavtomaty777.ru": {
             "epoch": "1571356800",
@@ -15706,8 +15716,8 @@
             "state": "future"
         },
         "ilovevitaly.ru": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "ilte.info": {
