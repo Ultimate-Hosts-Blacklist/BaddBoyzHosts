@@ -6475,6 +6475,11 @@
             "expiration_date": "06-jun-2019",
             "state": "future"
         },
+        "ciaplus.com.br": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
         "ciceklioglu.com": {
             "epoch": "1668988800",
             "expiration_date": "21-nov-2022",
@@ -6733,6 +6738,11 @@
         "comment-devenirriche.com": {
             "epoch": "1572652800",
             "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "communisave.co.za": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
             "state": "future"
         },
         "communitypetclinicmanteca.com": {
