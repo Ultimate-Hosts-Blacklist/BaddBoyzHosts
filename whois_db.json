@@ -4455,6 +4455,11 @@
             "expiration_date": "12-feb-2019",
             "state": "future"
         },
+        "banstex.com": {
+            "epoch": "1603065600",
+            "expiration_date": "19-oct-2020",
+            "state": "future"
+        },
         "bdsmanonse.com.pl": {
             "epoch": "1557532800",
             "expiration_date": "11-may-2019",
