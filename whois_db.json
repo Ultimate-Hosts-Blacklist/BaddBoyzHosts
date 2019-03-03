@@ -34338,7 +34338,7 @@
         "zarabiaj-dzis.pl": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "zarabotat-na-sajte.ru": {
             "epoch": "1556236800",
@@ -34508,7 +34508,7 @@
         "zlektorem.pl": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "znakomstva-piter78.ru": {
             "epoch": "1566172800",
