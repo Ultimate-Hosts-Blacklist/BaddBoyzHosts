@@ -3346,9 +3346,9 @@
             "state": "future"
         },
         "anal-acrobats.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
-            "state": "past"
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
         },
         "anal-cinema.org": {
             "epoch": "1575676800",
@@ -6796,8 +6796,8 @@
             "state": "future"
         },
         "compucelunlock.net": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "computernetworksonline.com": {
@@ -7003,7 +7003,7 @@
         "cornerstone-countertops.com": {
             "epoch": "1551744000",
             "expiration_date": "05-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "coroasnet.net": {
             "epoch": "1570320000",
