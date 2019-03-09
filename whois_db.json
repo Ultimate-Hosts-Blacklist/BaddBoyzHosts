@@ -2161,8 +2161,8 @@
             "state": "future"
         },
         "activepr.ru": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
             "state": "future"
         },
         "activewatch.ro": {
@@ -2211,8 +2211,8 @@
             "state": "future"
         },
         "airportaxi.pl": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1559779200",
+            "expiration_date": "06-jun-2019",
             "state": "future"
         },
         "airportsys.com": {
@@ -7031,8 +7031,8 @@
             "state": "future"
         },
         "cosadclinic.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "cositos.com.mx": {
@@ -7218,7 +7218,7 @@
         "cs-passion.pl": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "cs1g.com": {
             "epoch": "1559606400",
