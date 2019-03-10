@@ -16816,9 +16816,9 @@
             "state": "past"
         },
         "katariyaconsultancy.com": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
-            "state": "past"
+            "epoch": "1583712000",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
         },
         "katastof.nu": {
             "epoch": "1536019200",
@@ -21081,9 +21081,9 @@
             "state": "future"
         },
         "ofertypan.pl": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
-            "state": "past"
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
         },
         "offer-pills.ru": {
             "epoch": "1573948800",
@@ -24761,8 +24761,8 @@
             "state": "future"
         },
         "quickpayportaal.com": {
-            "epoch": "1552176000",
-            "expiration_date": "10-mar-2019",
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
             "state": "future"
         },
         "quiksearchgenealogy.com": {
