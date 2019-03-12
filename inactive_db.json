@@ -1868,9 +1868,7 @@
             "www.gnptijuana.com",
             "www.goatminer.com",
             "www.godegodage.com",
-            "www.gofun.info"
-        ],
-        "to_test": [
+            "www.gofun.info",
             "www.zarepta.com",
             "www.zdesoboi.com",
             "www.zebramart.ru",
@@ -1946,6 +1944,7 @@
             "zulmitv.xyz",
             "zuzka-model.net",
             "zvezdagedon.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
