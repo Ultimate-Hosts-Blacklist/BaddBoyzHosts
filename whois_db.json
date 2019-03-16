@@ -2338,7 +2338,7 @@
         "albergoabruzzo.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "alberguecasaanita.com": {
             "epoch": "1569801600",
@@ -5761,8 +5761,8 @@
             "state": "future"
         },
         "buyfriend.ru": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "buyhoverboard.com": {
@@ -6561,9 +6561,9 @@
             "state": "future"
         },
         "cinnamonmaster.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
-            "state": "past"
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
         },
         "cinselkameralisohbet.com": {
             "epoch": "1569801600",
@@ -8833,7 +8833,7 @@
         "domain2008.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "domini.cat": {
             "epoch": "1557014400",
