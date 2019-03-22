@@ -21,8 +21,8 @@
             "state": "future"
         },
         "00go.com": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
             "state": "future"
         },
         "00it.com": {
@@ -8051,8 +8051,8 @@
             "state": "future"
         },
         "dentalcliniclondonontario.com": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
             "state": "future"
         },
         "dentalimpllants.com": {
@@ -9498,7 +9498,7 @@
         "educatemetv.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "education-cz.ru": {
             "epoch": "1579046400",
