@@ -15458,7 +15458,7 @@
         "hygromycin-b-50mg-ml-solution.com": {
             "epoch": "1553385600",
             "expiration_date": "24-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "hyipbrowser.biz": {
             "epoch": "1574640000",
@@ -17881,8 +17881,8 @@
             "state": "future"
         },
         "lankarns.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "lanticoforno.it": {
@@ -28783,7 +28783,7 @@
         "soft1.ru": {
             "epoch": "1553299200",
             "expiration_date": "23-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "softclit.com": {
             "epoch": "1568073600",
