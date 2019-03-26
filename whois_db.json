@@ -1103,7 +1103,7 @@
         "4meme.com": {
             "epoch": "1553558400",
             "expiration_date": "26-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "4o64flb.com": {
             "epoch": "1583712000",
@@ -2201,8 +2201,8 @@
             "state": "future"
         },
         "airnetinfotech.com": {
-            "epoch": "1553472000",
-            "expiration_date": "25-mar-2019",
+            "epoch": "1837555200",
+            "expiration_date": "25-mar-2028",
             "state": "future"
         },
         "airpb.com": {
@@ -5551,9 +5551,9 @@
             "state": "future"
         },
         "boob.dk": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
         },
         "boobfilter.com": {
             "epoch": "1571788800",
@@ -10216,9 +10216,9 @@
             "state": "future"
         },
         "ethnicafrique.com": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
-            "state": "past"
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "ethnicking.com": {
             "epoch": "1562976000",
