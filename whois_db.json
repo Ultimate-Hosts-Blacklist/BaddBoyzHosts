@@ -13908,7 +13908,7 @@
         "greatsexcontent.dk": {
             "epoch": "1553990400",
             "expiration_date": "31-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "greatshoesever.com": {
             "epoch": "1562284800",
@@ -15488,7 +15488,7 @@
         "hympsvtktvtm.biz": {
             "epoch": "1553990400",
             "expiration_date": "31-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "hypel.ru": {
             "epoch": "1573603200",
@@ -24543,7 +24543,7 @@
         "q-moto.ru": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "q-venture.com": {
             "epoch": "1557532800",
@@ -28781,9 +28781,9 @@
             "state": "future"
         },
         "soft1.ru": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
-            "state": "past"
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "softclit.com": {
             "epoch": "1568073600",
