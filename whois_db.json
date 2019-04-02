@@ -28660,6 +28660,11 @@
             "expiration_date": "06-dec-2019",
             "state": "future"
         },
+        "slowmac.tech": {
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
         "slowmacfaster.trade": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
@@ -28979,6 +28984,11 @@
             "epoch": "1572566400",
             "expiration_date": "01-nov-2019",
             "state": "future"
+        },
+        "spasswelt.xyz": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "past"
         },
         "spb-plitka.ru": {
             "epoch": "1573084800",
