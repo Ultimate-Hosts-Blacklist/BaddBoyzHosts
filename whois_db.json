@@ -8850,6 +8850,11 @@
             "expiration_date": "16-mar-2020",
             "state": "future"
         },
+        "domainanalyzing.xyz": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
         "domini.cat": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
