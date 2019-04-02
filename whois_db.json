@@ -250,6 +250,11 @@
             "expiration_date": "27-nov-2019",
             "state": "future"
         },
+        "101lesbian.xyz": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
         "101raccoon.ru": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
@@ -1248,7 +1253,7 @@
         "550a.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "57883.net": {
             "epoch": "1564272000",
@@ -2480,6 +2485,11 @@
             "expiration_date": "01-nov-2019",
             "state": "future"
         },
+        "aliclonepro.xyz": {
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
         "aliecspres.com": {
             "epoch": "1572393600",
             "expiration_date": "30-oct-2019",
@@ -3543,7 +3553,7 @@
         "anduongjsc.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "andydill.com": {
             "epoch": "1574208000",
@@ -3636,8 +3646,8 @@
             "state": "past"
         },
         "answerzones.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "antcompany.com": {
@@ -4348,6 +4358,11 @@
         "backvids.com": {
             "epoch": "1571184000",
             "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "bagsonsale.online": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "bahisstratejileri.info": {
@@ -6768,7 +6783,7 @@
         "companycreators.co.uk": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "compassenergyservices.com": {
             "epoch": "1579824000",
@@ -6998,7 +7013,7 @@
         "cordstrap.cc": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "cornerstone-countertops.com": {
             "epoch": "1583366400",
