@@ -266,8 +266,8 @@
             "state": "future"
         },
         "108shot.com": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "10bet.com": {
@@ -296,8 +296,8 @@
             "state": "future"
         },
         "123any.com": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "123cha.com": {
@@ -3136,8 +3136,8 @@
             "state": "past"
         },
         "amateurtour.biz": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "amateurwifevids.com": {
@@ -8151,9 +8151,9 @@
             "state": "future"
         },
         "designdevise.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "designmeat.com": {
             "epoch": "1575331200",
