@@ -1862,9 +1862,7 @@
             "www.zoo-x.net",
             "www.zoofilia.cc",
             "www.zoosex-top.com",
-            "www.zorras.cc"
-        ],
-        "to_test": [
+            "www.zorras.cc",
             "www.zvero.org",
             "www.zybezradio.com",
             "x-x-x-x.biz",
@@ -1921,6 +1919,7 @@
             "zulmitv.xyz",
             "zuzka-model.net",
             "zvezdagedon.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
