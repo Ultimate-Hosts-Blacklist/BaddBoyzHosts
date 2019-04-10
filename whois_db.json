@@ -1856,8 +1856,8 @@
             "state": "future"
         },
         "aaronabel.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
             "state": "future"
         },
         "aaronautosandtrucks.com": {
@@ -2358,7 +2358,7 @@
         "alboautotrasportatori.it": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "alcohort.com": {
             "epoch": "1571443200",
@@ -6926,8 +6926,8 @@
             "state": "future"
         },
         "coolemailnames.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
             "state": "future"
         },
         "coolfoto.dk": {
