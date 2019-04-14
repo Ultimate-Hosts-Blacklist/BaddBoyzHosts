@@ -17795,6 +17795,11 @@
             "expiration_date": "25-aug-2019",
             "state": "future"
         },
+        "lachambrana.com": {
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
+            "state": "future"
+        },
         "lachattepoilue.net": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
@@ -19011,8 +19016,8 @@
             "state": "future"
         },
         "maylasia.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "mazda-roadsters.com": {
