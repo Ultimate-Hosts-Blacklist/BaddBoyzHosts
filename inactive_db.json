@@ -1893,9 +1893,7 @@
             "www.f1rstfuck.com",
             "www.face-books.org",
             "www.facebook-hacks.com",
-            "www.facemebook.com"
-        ],
-        "to_test": [
+            "www.facemebook.com",
             "zebramart.ru",
             "zeikerd.net",
             "zenzuell.se",
@@ -1909,6 +1907,7 @@
             "zulmitv.xyz",
             "zuzka-model.net",
             "zvezdagedon.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
