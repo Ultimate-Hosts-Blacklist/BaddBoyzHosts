@@ -1,10 +1,7 @@
 {
-    "arguments": [],
-    "clean_original": "1",
     "currently_under_test": "0",
-    "days_until_next_test": "2",
-    "last_test": "1557515140",
+    "days_until_next_test": 2,
+    "last_test": 1557515140,
     "name": "BaddBoyzHosts",
-    "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
-    "stable": "1"
+    "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt"
 }
