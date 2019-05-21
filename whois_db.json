@@ -350,9 +350,9 @@
         "state": "future"
     },
     "12u.info": {
-        "epoch": 1557619200,
-        "expiration_date": "12-may-2019",
-        "state": "past"
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
     },
     "12xhardcore.com": {
         "epoch": "1568505600",
@@ -6820,8 +6820,8 @@
         "state": "past"
     },
     "compositefarming.com": {
-        "epoch": "1558051200",
-        "expiration_date": "17-may-2019",
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "comprafacil.com.br": {
@@ -11497,6 +11497,11 @@
     "financialnewsupdates.com": {
         "epoch": "1571702400",
         "expiration_date": "22-oct-2019",
+        "state": "future"
+    },
+    "fnmsk.ru": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "fosamobi.com": {
@@ -28281,7 +28286,7 @@
     },
     "simon3.ru": {
         "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "expiration_date": "23-jan-2020",
         "state": "future"
     },
     "simpatiaose.com": {
@@ -29300,8 +29305,8 @@
         "state": "future"
     },
     "startonmonday.com": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "startpornwebmasters.com": {
