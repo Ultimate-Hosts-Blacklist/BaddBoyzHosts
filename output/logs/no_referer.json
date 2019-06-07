@@ -1,414 +1,146 @@
 {
-    "1559759843.604735": {
-        "domain": "aboutproperty.co.uk",
-        "extension": "uk"
-    },
-    "1559759851.5294573": {
-        "domain": "66av.cc",
-        "extension": "cc"
-    },
-    "1559759851.5441287": {
-        "domain": "www.66av.cc",
-        "extension": "cc"
-    },
-    "1559759851.9635365": {
-        "domain": "iopeninghours.co.uk",
-        "extension": "uk"
-    },
-    "1559759851.97795": {
-        "domain": "www.iopeninghours.co.uk",
-        "extension": "uk"
-    },
-    "1559759860.9457383": {
-        "domain": "freeuploader.ml",
-        "extension": "ml"
-    },
-    "1559759860.9551618": {
-        "domain": "www.freeuploader.ml",
-        "extension": "ml"
-    },
-    "1559759867.4218023": {
-        "domain": "acompanhantesbrasil.com.br",
-        "extension": "br"
-    },
-    "1559759867.4376094": {
-        "domain": "www.acompanhantesbrasil.com.br",
-        "extension": "br"
-    },
-    "1559759867.5348816": {
-        "domain": "acmsa.com.ar",
-        "extension": "ar"
-    },
-    "1559759867.5410674": {
-        "domain": "www.acmsa.com.ar",
-        "extension": "ar"
-    },
-    "1559759930.642496": {
-        "domain": "sistemacentral.xpg.com.br",
-        "extension": "br"
-    },
-    "1559759953.0655496": {
-        "domain": "925.lt",
-        "extension": "lt"
-    },
-    "1559759953.0849214": {
-        "domain": "www.925.lt",
-        "extension": "lt"
-    },
-    "1559759968.8420365": {
-        "domain": "kitaj.dk",
-        "extension": "dk"
-    },
-    "1559759968.8671484": {
-        "domain": "www.kitaj.dk",
-        "extension": "dk"
-    },
-    "1559759968.9947774": {
-        "domain": "www.akita.kz",
-        "extension": "kz"
-    },
-    "1559759969.00065": {
-        "domain": "akita.kz",
-        "extension": "kz"
-    },
-    "1559759992.4557579": {
-        "domain": "maxs.dk",
-        "extension": "dk"
-    },
-    "1559759992.4685962": {
-        "domain": "www.maxs.dk",
-        "extension": "dk"
-    },
-    "1559760002.820942": {
-        "domain": "www.ytf8i5ce.top",
-        "extension": "top"
-    },
-    "1559760002.8340821": {
-        "domain": "ytf8i5ce.top",
-        "extension": "top"
-    },
-    "1559760003.0971878": {
-        "domain": "www.ciaplus.com.br",
-        "extension": "br"
-    },
-    "1559760003.1053092": {
-        "domain": "ciaplus.com.br",
-        "extension": "br"
-    },
-    "1559760006.4283254": {
-        "domain": "iframe.cc",
-        "extension": "cc"
-    },
-    "1559760006.451783": {
-        "domain": "www.iframe.cc",
-        "extension": "cc"
-    },
-    "1559760027.8213935": {
-        "domain": "5hmmm1mk.top",
-        "extension": "top"
-    },
-    "1559760027.8354993": {
-        "domain": "www.5hmmm1mk.top",
-        "extension": "top"
-    },
-    "1559762249.7421181": {
-        "domain": "everytalk.tv",
-        "extension": "tv"
-    },
-    "1559762249.748781": {
-        "domain": "www.everytalk.tv",
-        "extension": "tv"
-    },
-    "1559762279.9902227": {
-        "domain": "abcsex.dk",
-        "extension": "dk"
-    },
-    "1559762280.0008872": {
-        "domain": "www.abcsex.dk",
-        "extension": "dk"
-    },
-    "1559762285.965544": {
-        "domain": "comprafacil.com.br",
-        "extension": "br"
-    },
-    "1559762285.9843605": {
-        "domain": "www.comprafacil.com.br",
-        "extension": "br"
-    },
-    "1559762286.263988": {
-        "domain": "acpbdf.com.br",
-        "extension": "br"
-    },
-    "1559762286.273896": {
-        "domain": "www.acpbdf.com.br",
-        "extension": "br"
-    },
-    "1559762294.0900602": {
-        "domain": "www.cineitalia.top",
-        "extension": "top"
-    },
-    "1559762294.1107242": {
-        "domain": "cineitalia.top",
-        "extension": "top"
-    },
-    "1559762308.0183806": {
-        "domain": "landtrades.co.uk",
-        "extension": "uk"
-    },
-    "1559762308.032903": {
-        "domain": "www.landtrades.co.uk",
-        "extension": "uk"
-    },
-    "1559762331.9371374": {
-        "domain": "kellnerengenharia.com.br",
-        "extension": "br"
-    },
-    "1559762331.9664721": {
-        "domain": "www.kellnerengenharia.com.br",
-        "extension": "br"
-    },
-    "1559762334.5876968": {
-        "domain": "0n-line.tv",
-        "extension": "tv"
-    },
-    "1559762334.6024265": {
-        "domain": "www.0n-line.tv",
-        "extension": "tv"
-    },
-    "1559762342.394045": {
-        "domain": "www.080jxrab.top",
-        "extension": "top"
-    },
-    "1559762342.400458": {
-        "domain": "080jxrab.top",
-        "extension": "top"
-    },
-    "1559762360.7209651": {
+    "1559929667.0157688": {
         "domain": "evile.co.uk",
         "extension": "uk"
     },
-    "1559762360.739175": {
+    "1559929667.0254343": {
         "domain": "www.evile.co.uk",
         "extension": "uk"
     },
-    "1559762360.8576477": {
-        "domain": "amorepaixaomensagens.com.br",
-        "extension": "br"
-    },
-    "1559762360.8688767": {
-        "domain": "www.amorepaixaomensagens.com.br",
-        "extension": "br"
-    },
-    "1559762361.010103": {
-        "domain": "spankbang.co.uk",
-        "extension": "uk"
-    },
-    "1559762361.0315173": {
-        "domain": "www.spankbang.co.uk",
-        "extension": "uk"
-    },
-    "1559762361.6009638": {
-        "domain": "9n68b4.top",
+    "1559929689.0125415": {
+        "domain": "www.7cfmnf.top",
         "extension": "top"
     },
-    "1559762361.651122": {
-        "domain": "www.9n68b4.top",
+    "1559929689.022974": {
+        "domain": "7cfmnf.top",
         "extension": "top"
     },
-    "1559762387.5946193": {
+    "1559929721.2664685": {
+        "domain": "kaz.kz",
+        "extension": "kz"
+    },
+    "1559929721.2782028": {
+        "domain": "www.kaz.kz",
+        "extension": "kz"
+    },
+    "1559929732.4805503": {
+        "domain": "sistemacentral.xpg.com.br",
+        "extension": "br"
+    },
+    "1559929738.6525984": {
+        "domain": "925.lt",
+        "extension": "lt"
+    },
+    "1559929738.6691182": {
+        "domain": "www.925.lt",
+        "extension": "lt"
+    },
+    "1559929738.8221283": {
+        "domain": "maxs.dk",
+        "extension": "dk"
+    },
+    "1559929738.8467615": {
+        "domain": "www.maxs.dk",
+        "extension": "dk"
+    },
+    "1559929758.9481778": {
+        "domain": "comprafacil.com.br",
+        "extension": "br"
+    },
+    "1559929758.9621136": {
+        "domain": "www.comprafacil.com.br",
+        "extension": "br"
+    },
+    "1559929762.0777943": {
         "domain": "familyholiday.ml",
         "extension": "ml"
     },
-    "1559762387.6081367": {
+    "1559929762.1071723": {
         "domain": "www.familyholiday.ml",
         "extension": "ml"
     },
-    "1559762400.0112567": {
-        "domain": "andrwnolas.top",
-        "extension": "top"
+    "1559929793.7045584": {
+        "domain": "acpbdf.com.br",
+        "extension": "br"
     },
-    "1559762400.0219111": {
-        "domain": "www.andrwnolas.top",
-        "extension": "top"
+    "1559929793.7128625": {
+        "domain": "www.acpbdf.com.br",
+        "extension": "br"
     },
-    "1559762400.4662032": {
+    "1559929800.4853625": {
         "domain": "iece1vi.top",
         "extension": "top"
     },
-    "1559762400.481476": {
+    "1559929800.503797": {
         "domain": "www.iece1vi.top",
         "extension": "top"
     },
-    "1559762411.656316": {
-        "domain": "2pxg8bcf.top",
-        "extension": "top"
-    },
-    "1559762411.6762865": {
-        "domain": "www.2pxg8bcf.top",
-        "extension": "top"
-    },
-    "1559762421.2764688": {
-        "domain": "fae5ret.top",
-        "extension": "top"
-    },
-    "1559762425.711736": {
-        "domain": "0n-line.tv",
-        "extension": "tv"
-    },
-    "1559762425.732384": {
-        "domain": "www.0n-line.tv",
-        "extension": "tv"
-    },
-    "1559762443.4922662": {
-        "domain": "www.2pxg8bcf.top",
-        "extension": "top"
-    },
-    "1559762458.988253": {
-        "domain": "www.69sex.com.br",
-        "extension": "br"
-    },
-    "1559762459.0409844": {
-        "domain": "69sex.com.br",
-        "extension": "br"
-    },
-    "1559762498.5367224": {
-        "domain": "euadoroisso.com.br",
-        "extension": "br"
-    },
-    "1559762504.6568167": {
-        "domain": "www.fae5ret.top",
-        "extension": "top"
-    },
-    "1559762511.743719": {
-        "domain": "www.hyggefis.dk",
+    "1559929845.0305612": {
+        "domain": "kitaj.dk",
         "extension": "dk"
     },
-    "1559762511.7464879": {
-        "domain": "hyggefis.dk",
+    "1559929845.0517483": {
+        "domain": "www.kitaj.dk",
         "extension": "dk"
     },
-    "1559764405.4860644": {
-        "domain": "www.2pxg8bcf.top",
-        "extension": "top"
-    },
-    "1559764409.9654675": {
-        "domain": "www.fae5ret.top",
-        "extension": "top"
-    },
-    "1559764413.5882149": {
-        "domain": "0n-line.tv",
+    "1559929859.5036309": {
+        "domain": "stain.tv",
         "extension": "tv"
     },
-    "1559764428.9146981": {
-        "domain": "2pxg8bcf.top",
-        "extension": "top"
+    "1559929859.5077505": {
+        "domain": "www.stain.tv",
+        "extension": "tv"
     },
-    "1559764429.5794008": {
-        "domain": "69sex.com.br",
-        "extension": "br"
-    },
-    "1559764470.042412": {
-        "domain": "euadoroisso.com.br",
-        "extension": "br"
-    },
-    "1559764470.4314406": {
-        "domain": "fae5ret.top",
-        "extension": "top"
-    },
-    "1559764476.56613": {
-        "domain": "hyggefis.dk",
-        "extension": "dk"
-    },
-    "1559764502.9987838": {
+    "1559929890.662929": {
         "domain": "ofertasbh.com.br",
         "extension": "br"
     },
-    "1559764503.0872707": {
-        "domain": "omercadobitcoin.com.br",
+    "1559929890.6765785": {
+        "domain": "www.ofertasbh.com.br",
         "extension": "br"
     },
-    "1559764503.1008983": {
-        "domain": "www.planetavirtual.com.br",
+    "1559929897.0492775": {
+        "domain": "2step-garage.co.uk",
+        "extension": "uk"
+    },
+    "1559929897.0574858": {
+        "domain": "www.2step-garage.co.uk",
+        "extension": "uk"
+    },
+    "1559929905.1337767": {
+        "domain": "acompanhantesbrasil.com.br",
         "extension": "br"
     },
-    "1559764503.1094868": {
-        "domain": "planetavirtual.com.br",
-        "extension": "br"
+    "1559929909.9853234": {
+        "domain": "www.freeuploader.ml",
+        "extension": "ml"
     },
-    "1559764512.7336543": {
-        "domain": "www.zoofilia.cc",
-        "extension": "cc"
+    "1559929909.9941053": {
+        "domain": "freeuploader.ml",
+        "extension": "ml"
     },
-    "1559764512.7575867": {
-        "domain": "zoofilia.cc",
-        "extension": "cc"
-    },
-    "1559764523.1799347": {
-        "domain": "zoofilia.cc",
-        "extension": "cc"
-    },
-    "1559764523.1961236": {
-        "domain": "www.zoofilia.cc",
-        "extension": "cc"
-    },
-    "1559764524.025902": {
-        "domain": "www.2pxg8bcf.top",
+    "1559929928.3214695": {
+        "domain": "50h6v79p.top",
         "extension": "top"
     },
-    "1559764527.6856048": {
-        "domain": "www.fae5ret.top",
+    "1559929928.3450184": {
+        "domain": "www.50h6v79p.top",
         "extension": "top"
     },
-    "1559764531.13929": {
-        "domain": "0n-line.tv",
-        "extension": "tv"
-    },
-    "1559764534.4267156": {
-        "domain": "2pxg8bcf.top",
-        "extension": "top"
-    },
-    "1559764550.0155327": {
-        "domain": "69sex.com.br",
-        "extension": "br"
-    },
-    "1559764570.502867": {
-        "domain": "euadoroisso.com.br",
-        "extension": "br"
-    },
-    "1559764570.930148": {
-        "domain": "fae5ret.top",
-        "extension": "top"
-    },
-    "1559764582.954605": {
-        "domain": "hyggefis.dk",
+    "1559929928.8669827": {
+        "domain": "greatsexcontent.dk",
         "extension": "dk"
     },
-    "1559764605.036192": {
-        "domain": "ofertasbh.com.br",
-        "extension": "br"
+    "1559929928.881855": {
+        "domain": "www.greatsexcontent.dk",
+        "extension": "dk"
     },
-    "1559764607.5027032": {
-        "domain": "omercadobitcoin.com.br",
-        "extension": "br"
-    },
-    "1559764607.5464287": {
-        "domain": "planetavirtual.com.br",
-        "extension": "br"
-    },
-    "1559764607.5593185": {
-        "domain": "www.planetavirtual.com.br",
-        "extension": "br"
-    },
-    "1559764614.930479": {
-        "domain": "www.zoofilia.cc",
+    "1559929928.9851127": {
+        "domain": "iframe.cc",
         "extension": "cc"
     },
-    "1559764614.9326596": {
-        "domain": "zoofilia.cc",
-        "extension": "cc"
-    },
-    "1559764625.1759465": {
-        "domain": "zoofilia.cc",
+    "1559929929.0204113": {
+        "domain": "www.iframe.cc",
         "extension": "cc"
     }
 }
