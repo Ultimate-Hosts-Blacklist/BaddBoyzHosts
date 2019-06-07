@@ -1319,6 +1319,11 @@
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
+    "actulite.com": {
+        "epoch": 1567209600,
+        "expiration_date": "31-aug-2019",
+        "state": "future"
+    },
     "ad-logics.com": {
         "epoch": 1578096000,
         "expiration_date": "04-jan-2020",
@@ -1487,6 +1492,11 @@
     "alfa-img.com": {
         "epoch": 1573344000,
         "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
+    "alfa-medosmotr.ru": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "alfa-search.com": {
@@ -2092,6 +2102,11 @@
     "constructionskills.in": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "construfuturo.com.mx": {
+        "epoch": 1569196800,
+        "expiration_date": "23-sep-2019",
         "state": "future"
     },
     "construmac.com.mx": {
@@ -3194,6 +3209,11 @@
         "expiration_date": "06-jun-2019",
         "state": "future"
     },
+    "katariyaconsultancy.com": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
     "katushka.net": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
@@ -3364,6 +3384,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "lankamailads.info": {
+        "epoch": 1588291200,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
     "lankarns.com": {
         "epoch": 1553299200,
         "expiration_date": "23-mar-2019",
@@ -3479,9 +3504,19 @@
         "expiration_date": "03-may-2020",
         "state": "future"
     },
+    "lussuria.biz": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "m1media.net": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "maturepornmovs.com": {
+        "epoch": 1571875200,
+        "expiration_date": "24-oct-2019",
         "state": "future"
     },
     "matureporntop.com": {
@@ -4392,6 +4427,11 @@
     "zdesformula.ru": {
         "epoch": 1581379200,
         "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "zebradudka.com": {
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "zed21.net": {
