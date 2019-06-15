@@ -2464,6 +2464,11 @@
         "expiration_date": "21-nov-2019",
         "state": "future"
     },
+    "cif.su": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
     "cigarette-online.com": {
         "epoch": 1590883200,
         "expiration_date": "31-may-2020",
