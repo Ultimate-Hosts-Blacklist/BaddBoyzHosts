@@ -2889,6 +2889,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "fades.biz": {
+        "epoch": 1571875200,
+        "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
     "falcoware.com": {
         "epoch": 1627689600,
         "expiration_date": "31-jul-2021",
@@ -3282,6 +3287,11 @@
     "hygar.com": {
         "epoch": 1576195200,
         "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "hyggefis.dk": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "hygromycin-b-50mg-ml-solution.com": {
@@ -4564,6 +4574,11 @@
         "expiration_date": "10-jan-2020",
         "state": "future"
     },
+    "planetavirtual.com.br": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
+        "state": "future"
+    },
     "planetsex.pl": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
@@ -5320,8 +5335,8 @@
         "state": "future"
     },
     "zapatos.net.pl": {
-        "epoch": 1560124800,
-        "expiration_date": "10-jun-2019",
+        "epoch": 1567900800,
+        "expiration_date": "08-sep-2019",
         "state": "future"
     },
     "zapme.net": {
