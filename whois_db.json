@@ -679,6 +679,11 @@
         "expiration_date": "12-nov-2019",
         "state": "future"
     },
+    "3-dauto.com": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
     "3-gay.com": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
@@ -972,6 +977,11 @@
     "52djcy.com": {
         "epoch": 1581465600,
         "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "550a.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "57883.net": {
@@ -4412,7 +4422,7 @@
     "my-big-family.com": {
         "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "myadultdiary.com": {
         "epoch": 1578960000,
@@ -5310,8 +5320,8 @@
         "state": "future"
     },
     "yur-p.ru": {
-        "epoch": 1560643200,
-        "expiration_date": "16-jun-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "yurgorod.ru": {
