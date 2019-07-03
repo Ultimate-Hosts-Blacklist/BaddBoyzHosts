@@ -3699,6 +3699,11 @@
         "expiration_date": "17-dec-2022",
         "state": "future"
     },
+    "snomer1.ru": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "sofit-dmd.ru": {
         "epoch": 1578096000,
         "expiration_date": "04-jan-2020",
