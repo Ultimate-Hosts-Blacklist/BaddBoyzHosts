@@ -2084,6 +2084,11 @@
         "expiration_date": "10-jan-2020",
         "state": "future"
     },
+    "cinedaily.com": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
     "cineface.com": {
         "epoch": 1563408000,
         "expiration_date": "18-jul-2019",
@@ -2260,8 +2265,8 @@
         "state": "future"
     },
     "cs-passion.pl": {
-        "epoch": 1562284800,
-        "expiration_date": "05-jul-2019",
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
         "state": "future"
     },
     "cs1g.com": {
