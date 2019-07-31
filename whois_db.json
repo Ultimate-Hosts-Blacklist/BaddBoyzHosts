@@ -1790,8 +1790,8 @@
         "state": "future"
     },
     "alif-ba-ta.com": {
-        "epoch": 1564099200,
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "alirey.com": {
@@ -3097,6 +3097,11 @@
     "hzdoctor.com": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "i-c-c-c.com": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "i-dating.info": {
@@ -4844,6 +4849,11 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "star-gay.net": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
     "star-modelgroup.com": {
         "epoch": 1595635200,
         "expiration_date": "25-jul-2020",
@@ -5012,6 +5022,11 @@
     "zeg-distribution.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "zolotoy-lis.ru": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "zona-aqua.ru": {
