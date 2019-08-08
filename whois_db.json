@@ -1409,6 +1409,11 @@
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
+    "aac52006ec82a24e08b665f4db2b5013f7.com": {
+        "epoch": 1579305600,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
     "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
         "epoch": 1579305600,
         "expiration_date": "18-jan-2020",
@@ -2119,6 +2124,11 @@
         "expiration_date": "19-dec-2019",
         "state": "future"
     },
+    "anal-acrobats.com": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
     "anal-et-sodomie.com": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
@@ -2172,7 +2182,7 @@
     "ananashotel.com": {
         "epoch": 1565222400,
         "expiration_date": "08-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "anatomytrains.co.uk": {
         "epoch": 1606521600,
@@ -2250,7 +2260,7 @@
         "state": "future"
     },
     "animadulte.com": {
-        "epoch": 1571616000,
+        "epoch": 157161600000,
         "expiration_date": "21-oct-2019",
         "state": "future"
     },
@@ -2864,6 +2874,7 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "expiration_date": "16-mar-2020",
     "fades.biz": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
@@ -3027,6 +3038,11 @@
     "gofun.info": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "gotporn.info": {
+        "epoch": 1579737600,
+        "expiration_date": "23-jan-2020",
         "state": "future"
     },
     "gotwebsite1.com": {
@@ -3482,6 +3498,11 @@
     "igrulca174.ru": {
         "epoch": 1577577600,
         "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "ihackgame.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
         "state": "future"
     },
     "ilovevitaly.com": {
@@ -4137,7 +4158,7 @@
     "landtrades.co.uk": {
         "epoch": 1565222400,
         "expiration_date": "08-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "languagecode.com": {
         "epoch": 1579651200,
@@ -5084,6 +5105,11 @@
         "expiration_date": "24-sep-2019",
         "state": "future"
     },
+    "stacyhubert.com": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
     "stadiumcrossing.com": {
         "epoch": 1675123200,
         "expiration_date": "31-jan-2023",
@@ -5174,6 +5200,7 @@
         "expiration_date": "22-aug-2019",
         "state": "future"
     },
+    "state": "future",
     "wpisz-to.pl": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
