@@ -2874,7 +2874,6 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
-    "expiration_date": "16-mar-2020",
     "fades.biz": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
@@ -5200,7 +5199,6 @@
         "expiration_date": "22-aug-2019",
         "state": "future"
     },
-    "state": "future",
     "wpisz-to.pl": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
