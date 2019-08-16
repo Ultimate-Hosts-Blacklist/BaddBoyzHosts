@@ -809,6 +809,11 @@
         "expiration_date": "18-oct-2021",
         "state": "future"
     },
+    "acrowiswhite.com": {
+        "epoch": 1562284800,
+        "expiration_date": "05-jul-2019",
+        "state": "past"
+    },
     "actionmobilemarine.net": {
         "epoch": 1569283200,
         "expiration_date": "24-sep-2019",
@@ -1274,6 +1279,11 @@
         "expiration_date": "21-nov-2019",
         "state": "future"
     },
+    "cif.su": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
     "cinedaily.com": {
         "epoch": 1593388800,
         "expiration_date": "29-jun-2020",
@@ -1632,6 +1642,11 @@
     "hustlervip.net": {
         "epoch": 1570838400,
         "expiration_date": "12-oct-2019",
+        "state": "future"
+    },
+    "hut1.ru": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
         "state": "future"
     },
     "hybrid.ru": {
@@ -2429,6 +2444,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "porno-service.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "porno-star-dvd.com": {
         "epoch": 1567900800,
         "expiration_date": "08-sep-2019",
@@ -2437,6 +2457,11 @@
     "porno-supreme.com": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
+        "state": "future"
+    },
+    "porno-transsexuals.ru": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "porno-v1.com": {
