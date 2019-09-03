@@ -229,6 +229,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "1lesbiansex.com": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "1pamm.ru": {
         "epoch": 1584057600,
         "expiration_date": "13-mar-2020",
@@ -943,6 +948,11 @@
         "epoch": 1634515200,
         "expiration_date": "18-oct-2021",
         "state": "future"
+    },
+    "acrowiswhite.com": {
+        "epoch": 1562284800,
+        "expiration_date": "05-jul-2019",
+        "state": "past"
     },
     "actionmobilemarine.net": {
         "epoch": 1600905600,
@@ -1852,6 +1862,11 @@
     "hunks-hardcore.com": {
         "epoch": 1588636800,
         "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "hunks-naked.com": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "hunktoons.com": {
@@ -3162,6 +3177,11 @@
     "zolotoy-lis.ru": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "zona-aqua.ru": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "zonaamateur.com": {
