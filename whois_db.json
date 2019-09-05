@@ -484,6 +484,11 @@
         "expiration_date": "29-sep-2019",
         "state": "future"
     },
+    "2p9fyvx.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "2rich4bitches.com": {
         "epoch": 1578700800,
         "expiration_date": "11-jan-2020",
@@ -987,6 +992,11 @@
     "a85.info": {
         "epoch": 1577232000,
         "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
+    "a94.info": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
         "state": "future"
     },
     "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1647,6 +1657,11 @@
     "anticodistretto.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "anticosm.com": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
         "state": "future"
     },
     "apepix.com": {
@@ -3114,6 +3129,11 @@
         "expiration_date": "19-oct-2019",
         "state": "future"
     },
+    "licealistki.pl": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
     "m1media.net": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
@@ -3195,8 +3215,8 @@
         "state": "future"
     },
     "myamateurvideos.com": {
-        "epoch": 1575763200,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "myanyone.net": {
@@ -3465,9 +3485,9 @@
         "state": "future"
     },
     "simpatiaose.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
     },
     "simple-image.com.ua": {
         "epoch": 1562544000,
