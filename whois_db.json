@@ -2149,6 +2149,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "eu-cookie-law.info": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "eu-survey.com": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
