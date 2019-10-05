@@ -2334,6 +2334,11 @@
         "expiration_date": "13-sep-2019",
         "state": "past"
     },
+    "freehanbam.net": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "freehealthpoints.com": {
         "epoch": 1597881600,
         "expiration_date": "20-aug-2020",
@@ -3742,6 +3747,11 @@
     "silveris.net": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "silvermountholidays.com": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "similardeals.net": {
