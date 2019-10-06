@@ -1989,6 +1989,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "backlinkwatch.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "backofficellc.com": {
         "epoch": 1613520000,
         "expiration_date": "17-feb-2021",
@@ -2304,6 +2309,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "every-day.net": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
     "everydresses.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
@@ -2452,6 +2462,11 @@
     "go-gal.com": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "go.biz": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "gobettygo.com": {
@@ -3967,6 +3982,11 @@
     "smartadserver.com": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "smf-modellismo.net": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "smichovbike.cz": {
