@@ -524,6 +524,11 @@
         "expiration_date": "26-oct-2019",
         "state": "future"
     },
+    "2o34.com": {
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "2p9fyvx.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
