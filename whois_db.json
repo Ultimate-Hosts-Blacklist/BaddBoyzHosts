@@ -2395,9 +2395,9 @@
         "state": "future"
     },
     "computernetworksonline.com": {
-        "epoch": 1563753600,
-        "expiration_date": "22-jul-2019",
-        "state": "past"
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
     },
     "comsalud360.com": {
         "epoch": 1634774400,
@@ -3869,6 +3869,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "languagecode.com": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
     "languages-online.org.uk": {
         "epoch": 1584403200,
         "expiration_date": "17-mar-2020",
@@ -4922,6 +4927,11 @@
     "zolotoy-lis.ru": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "zona-aqua.ru": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "zonaamateur.com": {
