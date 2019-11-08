@@ -1,25 +1,25 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Thu Nov  7 12:12:36 2019",
-    "end_epoch": 1573128756.67983,
+    "end_datetime": "Fri Nov  8 19:00:04 2019",
+    "end_epoch": 1573239604.298764,
     "last_autosave_datetime": "Thu Nov  7 10:58:53 2019",
     "last_autosave_epoch": 1573124333.06613,
     "name": "BaddBoyzHosts",
     "previous_stats": {
-        "builds": 2,
-        "clean.list": 2317,
+        "builds": 1,
+        "clean.list": 1652,
         "counter": {
-            "down": 180,
+            "down": 158,
             "invalid": 0,
-            "tested": 2497,
-            "up": 2317
+            "tested": 1810,
+            "up": 1652
         },
-        "domains.list": 2497,
-        "volatile.list": 2317,
-        "whitelisted.list": 2317
+        "domains.list": 1810,
+        "volatile.list": 1652,
+        "whitelisted.list": 1652
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
-    "start_datetime": "Thu Nov  7 10:48:51 2019",
-    "start_epoch": 1573123731.036448
+    "start_datetime": "Fri Nov  8 18:52:13 2019",
+    "start_epoch": 1573239133.188707
 }
