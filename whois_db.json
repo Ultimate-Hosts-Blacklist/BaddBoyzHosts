@@ -130,8 +130,8 @@
         "state": "future"
     },
     "10000hai.com": {
-        "epoch": 1573430400.0,
-        "expiration_date": "11-nov-2019",
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "1000cumshots.com": {
@@ -647,7 +647,7 @@
     "2ydian.com": {
         "epoch": 1573516800.0,
         "expiration_date": "12-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "3-dauto.com": {
         "epoch": 1604534400.0,
@@ -3149,6 +3149,11 @@
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
+    "husky-shop.cz": {
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
     "hustlervip.net": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -3564,6 +3569,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "kabannihon.biz": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "klbu.com": {
         "epoch": 1578182400,
         "expiration_date": "05-jan-2020",
@@ -3572,6 +3582,11 @@
     "lflash.ru": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "myasianfetish.com": {
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
         "state": "future"
     },
     "mycasinoonnet.com": {
@@ -3602,6 +3617,11 @@
     "stain.tv": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
+    "yun56.co": {
+        "epoch": 1587772800.0,
+        "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "zarepta.com": {
