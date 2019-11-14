@@ -2060,8 +2060,8 @@
         "state": "future"
     },
     "amplitude-peinture.fr": {
-        "epoch": 1573689600.0,
-        "expiration_date": "14-nov-2019",
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "ampower.me": {
@@ -3045,9 +3045,9 @@
         "state": "future"
     },
     "greatpussies.com": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
-        "state": "past"
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
     },
     "greatsexcontent.dk": {
         "epoch": 1585612800.0,
@@ -3592,6 +3592,11 @@
     "mycasinoonnet.com": {
         "epoch": 1603670400,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "odpicujfure.pl": {
+        "epoch": 1587513600.0,
+        "expiration_date": "22-apr-2020",
         "state": "future"
     },
     "porn-portal.net": {
