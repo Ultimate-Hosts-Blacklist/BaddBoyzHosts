@@ -2439,6 +2439,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "cinema3satu.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "cinemabio.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
