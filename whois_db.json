@@ -2300,9 +2300,9 @@
         "state": "future"
     },
     "avoidaroid.com": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
-        "state": "past"
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
     },
     "avoidfilter.net": {
         "epoch": 1576368000.0,
@@ -3407,6 +3407,11 @@
     "kabannihon.biz": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "keepcolletive.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "kickasscash.biz": {
