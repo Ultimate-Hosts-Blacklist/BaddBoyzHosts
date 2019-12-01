@@ -2840,9 +2840,9 @@
         "state": "future"
     },
     "family1st.ca": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "famir.com": {
         "epoch": 1591401600.0,
@@ -3512,6 +3512,11 @@
     "sit.com.tr": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "slowmac.tech": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "slut-factory.com": {
