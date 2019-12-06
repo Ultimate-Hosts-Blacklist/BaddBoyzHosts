@@ -540,9 +540,9 @@
         "state": "future"
     },
     "259572.com": {
-        "epoch": 1569024000.0,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "267932.com": {
         "epoch": 1569024000.0,
@@ -3077,7 +3077,7 @@
     "greatsimplicity.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "h-villamotel.com": {
         "epoch": 1585267200.0,
