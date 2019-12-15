@@ -1169,6 +1169,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "7y7.us": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "8090cpa.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
@@ -1542,7 +1547,7 @@
     "abogadodejacksonville.com": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "abouthomesdecorating.com": {
         "epoch": 1588204800.0,
@@ -2104,6 +2109,11 @@
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "amung.us": {
+        "epoch": 1647475200.0,
+        "expiration_date": "17-mar-2022",
+        "state": "future"
+    },
     "amwatching.com": {
         "epoch": 1663632000.0,
         "expiration_date": "20-sep-2022",
@@ -2332,7 +2342,7 @@
     "avoidfilter.net": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "avon-severozapad.ru": {
         "epoch": 1578614400.0,
@@ -2847,7 +2857,7 @@
     "evobill.biz": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "evogarage.com": {
         "epoch": 1582675200.0,
