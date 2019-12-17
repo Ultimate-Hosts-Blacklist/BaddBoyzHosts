@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 2,
+        "builds": 3,
         "counter": {
-            "down": 59,
+            "down": 93,
             "invalid": 0,
-            "tested": 1157,
-            "up": 1098
+            "tested": 1605,
+            "up": 1512
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Mon Dec 16 21:42:32 2019",
     "end_epoch": 1576532552.370803,
-    "last_autosave_datetime": "Tue Dec 17 01:03:15 2019",
-    "last_autosave_epoch": 1576544595.694759,
+    "last_autosave_datetime": "Tue Dec 17 02:29:54 2019",
+    "last_autosave_epoch": 1576549794.780211,
     "name": "BaddBoyzHosts",
     "previous_stats": {
         "builds": 4,
