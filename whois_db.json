@@ -407,7 +407,7 @@
     "1forced.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "1hour.info": {
         "epoch": 1603670400.0,
@@ -1784,6 +1784,11 @@
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
+    "alberguecasaanita.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "alblux.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -2849,6 +2854,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "freedomart.cz": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "freegayporn.biz": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -2875,9 +2885,9 @@
         "state": "future"
     },
     "freehostservers.com": {
-        "epoch": 1569715200.0,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
     },
     "freeindiangals.com": {
         "epoch": 1579651200.0,
