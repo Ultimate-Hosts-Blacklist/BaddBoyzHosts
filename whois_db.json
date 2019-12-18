@@ -1177,7 +1177,7 @@
     "888-vip.net": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "888.com": {
         "epoch": 1676332800.0,
@@ -3270,9 +3270,9 @@
         "state": "future"
     },
     "idealtits.net": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "ideationary.com": {
         "epoch": 1571702400.0,
