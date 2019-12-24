@@ -1894,6 +1894,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "aliclonepro.xyz": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "aliecspres.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
