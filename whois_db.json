@@ -1345,13 +1345,13 @@
         "state": "future"
     },
     "aa625d84f1587749c1ab011d6f269f7d64.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "aa81bf391151884adfa3dd677e41f94be1.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "aa9bd78f328a6a41279d0fad0a88df1901.com": {
@@ -2065,8 +2065,8 @@
         "state": "past"
     },
     "amphorasf.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "amplitude-peinture.fr": {
