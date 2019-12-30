@@ -1204,6 +1204,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "8khmer.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
     "8rf.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -2122,7 +2127,7 @@
     "anal-pictures.biz": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "anal-videos-photos.com": {
         "epoch": 1582329600.0,
