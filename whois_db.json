@@ -525,9 +525,9 @@
         "state": "past"
     },
     "24holdem.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "24tradeplus.com": {
         "epoch": 1581206400.0,
@@ -1172,7 +1172,7 @@
     "86d6.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "87w.info": {
         "epoch": 1591142400.0,
@@ -2340,8 +2340,8 @@
         "state": "future"
     },
     "baby-soft.ca": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "babylyst.com": {
@@ -2785,9 +2785,9 @@
         "state": "future"
     },
     "everydresses.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "everytalk.tv": {
         "epoch": 1606608000.0,
