@@ -120,9 +120,9 @@
         "state": "future"
     },
     "1-free-share-buttons.com": {
-        "epoch": 1571875200.0,
-        "expiration_date": "24-oct-2019",
-        "state": "past"
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
     },
     "1-pregnant-sex.com": {
         "epoch": 1608508800.0,
@@ -1595,8 +1595,8 @@
         "state": "future"
     },
     "acmmarketingdigital.com.br": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "acmsa.com.ar": {
