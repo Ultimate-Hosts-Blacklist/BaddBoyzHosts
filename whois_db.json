@@ -702,7 +702,7 @@
     "3am.info": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "3angelsvideo.com": {
         "epoch": 1586822400.0,
@@ -3092,6 +3092,11 @@
     "hunt4porn.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "husky-shop.cz": {
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "hustlervip.net": {
