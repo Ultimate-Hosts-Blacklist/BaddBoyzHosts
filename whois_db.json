@@ -2354,6 +2354,11 @@
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
+    "bagsonsale.online": {
+        "epoch": 1580169600.0,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
     "beamfall.info": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
@@ -3072,6 +3077,11 @@
     "hundejo.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "hunger.xyz": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "hungergame.com": {
