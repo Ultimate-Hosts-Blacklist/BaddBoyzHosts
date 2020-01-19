@@ -905,9 +905,9 @@
         "state": "future"
     },
     "4xporn.com": {
-        "epoch": 1572393600.0,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "4youcom.com": {
         "epoch": 1602892800.0,
@@ -1337,7 +1337,7 @@
     "aa9bd78f328a6a41279d0fad0a88df1901.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "aa9d046aab36af4ff182f097f840430d51.com": {
         "epoch": 1579305600.0,
@@ -1372,7 +1372,7 @@
     "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "aadroid.net": {
         "epoch": 1590105600.0,
@@ -1697,7 +1697,7 @@
     "aksao.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "aksonural.ru": {
         "epoch": 1582934400.0,
