@@ -832,7 +832,7 @@
     "4love.info": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "4meme.com": {
         "epoch": 1585180800.0,
@@ -932,7 +932,7 @@
     "5241.it": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "529collegesaving.com": {
         "epoch": 1604188800.0,
@@ -1105,9 +1105,9 @@
         "state": "future"
     },
     "7gfs.com": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
-        "state": "past"
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
     },
     "7minuteworkout.com": {
         "epoch": 1610668800.0,
@@ -2140,9 +2140,9 @@
         "state": "future"
     },
     "android-style.com": {
-        "epoch": 1573171200.0,
-        "expiration_date": "08-nov-2019",
-        "state": "past"
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
     },
     "android-systems.ru": {
         "epoch": 1595030400.0,
@@ -2420,8 +2420,8 @@
         "state": "future"
     },
     "cinemabio.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "cinematraffic.com": {
@@ -2670,9 +2670,9 @@
         "state": "future"
     },
     "etymonline.co": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
-        "state": "past"
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
     },
     "eu-cookie-law.info": {
         "epoch": 1590451200.0,
@@ -2935,9 +2935,9 @@
         "state": "future"
     },
     "gotporn.info": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
-        "state": "past"
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
     },
     "gotwebsite1.com": {
         "epoch": 1601683200.0,
