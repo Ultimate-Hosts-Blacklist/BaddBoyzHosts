@@ -2245,9 +2245,9 @@
         "state": "future"
     },
     "avkzarabotok.info": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
-        "state": "past"
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
     },
     "avoidaroid.com": {
         "epoch": 1606608000.0,
@@ -3052,7 +3052,7 @@
     "humanelydrew.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "humorpool.com": {
         "epoch": 1610323200.0,
