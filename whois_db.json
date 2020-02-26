@@ -282,7 +282,7 @@
     "138shenbosbo.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "13tabs.com": {
         "epoch": 1597363200.0,
@@ -2789,6 +2789,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "freedomart.cz": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "freegayporn.biz": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -3125,8 +3130,8 @@
         "state": "future"
     },
     "hyjxtz.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "hymen-defloration.info": {
