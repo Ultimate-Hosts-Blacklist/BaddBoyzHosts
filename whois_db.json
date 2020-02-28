@@ -27,7 +27,7 @@
     "00sexus.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "00webcams.com": {
         "epoch": 1611187200.0,
@@ -280,9 +280,9 @@
         "state": "future"
     },
     "138shenbosbo.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
-        "state": "past"
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
     },
     "13tabs.com": {
         "epoch": 1597363200.0,
@@ -2045,8 +2045,8 @@
         "state": "future"
     },
     "anal-intentions.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "anal-love.net": {
@@ -2580,9 +2580,9 @@
         "state": "future"
     },
     "cs6hm.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
-        "state": "past"
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
     },
     "csgo-jackpot.net": {
         "epoch": 1614470400.0,
