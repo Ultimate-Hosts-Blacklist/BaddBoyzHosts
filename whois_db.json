@@ -25,9 +25,9 @@
         "state": "future"
     },
     "00sexus.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "00webcams.com": {
         "epoch": 1611187200.0,
@@ -1849,6 +1849,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "aliclonepro.xyz": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "aliecspres.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -1960,9 +1965,9 @@
         "state": "future"
     },
     "amateursconvert.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "amateursexdvd.com": {
         "epoch": 1609977600.0,
