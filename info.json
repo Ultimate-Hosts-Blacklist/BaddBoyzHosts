@@ -7,8 +7,8 @@
     "last_autosave_epoch": 1583099999.880186,
     "name": "BaddBoyzHosts",
     "previous_stats": {
-        "builds": 2,
-        "clean_list": 224,
+        "builds": 1,
+        "clean_list": 232,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 0,
-        "volatile.list": 224,
-        "whitelisted.list": 224
+        "volatile.list": 232,
+        "whitelisted.list": 232
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
-    "start_datetime": "2020-03-11T11:12:46.733011",
-    "start_epoch": 1583925166.733011
+    "start_datetime": "2020-03-12T20:47:28.383766",
+    "start_epoch": 1584046048.383766
 }
