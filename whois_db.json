@@ -1127,7 +1127,7 @@
     "8090cpa.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "86d6.com": {
         "epoch": 1578528000.0,
@@ -2342,6 +2342,11 @@
     "bagsonsale.online": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "beamfall.info": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "cialisforsalecialiscostcye.com": {
