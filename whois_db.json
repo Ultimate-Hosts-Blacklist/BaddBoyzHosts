@@ -660,9 +660,9 @@
         "state": "future"
     },
     "300sk.com": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
-        "state": "past"
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
     },
     "30sec.info": {
         "epoch": 1600646400.0,
