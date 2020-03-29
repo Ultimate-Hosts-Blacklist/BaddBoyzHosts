@@ -374,6 +374,11 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "18teengirl.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "18xtube.com": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -655,8 +660,8 @@
         "state": "future"
     },
     "3-letter-domains.net": {
-        "epoch": 1585440000.0,
-        "expiration_date": "29-mar-2020",
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "300sk.com": {
@@ -1025,9 +1030,9 @@
         "state": "past"
     },
     "69boysex.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
-        "state": "past"
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
     },
     "69lingerie.com": {
         "epoch": 1577750400.0,
@@ -2335,9 +2340,9 @@
         "state": "future"
     },
     "backvids.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
     },
     "bagsonsale.online": {
         "epoch": 1611792000.0,
@@ -3007,6 +3012,11 @@
     "hallohaus.co": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "hmuana.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "huanqiucaijing.cn": {
