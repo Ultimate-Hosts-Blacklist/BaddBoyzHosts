@@ -1,5 +1,19 @@
 {
-    "currently_under_test": false,
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 231,
+        "whitelisted.list": 231
+    },
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T20:33:09.806693",
     "end_epoch": 1583102425.626206,
@@ -23,6 +37,6 @@
         "whitelisted.list": 231
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
-    "start_datetime": "2020-04-01T11:11:21.503661",
-    "start_epoch": 1585739481.503661
+    "start_datetime": "2020-04-02T11:16:56.605176",
+    "start_epoch": 1585826216.605176
 }
