@@ -1235,8 +1235,8 @@
         "state": "future"
     },
     "9c51vda.com": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "9h7n8.com": {
@@ -1262,7 +1262,7 @@
     "9thien.com": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "a-5.info": {
         "epoch": 1601510400.0,
@@ -1285,13 +1285,13 @@
         "state": "future"
     },
     "a2zgroup.in": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
-        "state": "past"
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
     },
     "a48.info": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "a85.info": {
@@ -1300,8 +1300,8 @@
         "state": "future"
     },
     "a94.info": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -1555,8 +1555,8 @@
         "state": "future"
     },
     "acmsa.com.ar": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "acneforums.com": {
@@ -1675,8 +1675,8 @@
         "state": "future"
     },
     "ajkzd9h.com": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "akama.com": {
@@ -1705,8 +1705,8 @@
         "state": "future"
     },
     "akusherok.ru": {
-        "epoch": 1585440000.0,
-        "expiration_date": "29-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "akzmaihd.net": {
@@ -1750,8 +1750,8 @@
         "state": "future"
     },
     "albanypowerexchange.com": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "alberguecasaanita.com": {
