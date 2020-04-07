@@ -2389,6 +2389,11 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "cigar.pt": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "cigarette-online.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
