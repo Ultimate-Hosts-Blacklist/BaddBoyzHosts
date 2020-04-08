@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 145,
+        "builds": 146,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -17,11 +17,11 @@
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T20:33:09.806693",
     "end_epoch": 1583102425.626206,
+    "issue_link": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/new/choose",
     "last_autosave_datetime": "2020-03-03T20:33:09.806901",
     "last_autosave_epoch": 1583099999.880186,
-    "name": "BaddBoyzHosts",
     "link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
-    "issue_link": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/new/choose",
+    "name": "BaddBoyzHosts",
     "previous_stats": {
         "builds": 2,
         "clean_list": 234,
