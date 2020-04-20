@@ -597,7 +597,7 @@
     "2manshow.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "2mj.pl": {
         "epoch": 1607126400.0,
