@@ -3130,9 +3130,9 @@
         "state": "future"
     },
     "hvd-store.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
-        "state": "past"
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
     },
     "hy-tec.com": {
         "epoch": 1603065600.0,
