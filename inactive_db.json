@@ -255,8 +255,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1588493503.0,
-            "last_retested_at_iso": "2020-05-03T08:11:43",
+            "last_retested_at_epoch": 1588587886.789242,
+            "last_retested_at_iso": "2020-05-04T10:24:46.789242",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -437,8 +437,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1588500258.0,
-            "last_retested_at_iso": "2020-05-03T10:04:18",
+            "last_retested_at_epoch": 1588587724.164929,
+            "last_retested_at_iso": "2020-05-04T10:22:04.164929",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -1116,8 +1116,8 @@
         "www.377baidu.com": {
             "included_at_epoch": 1588499813.0,
             "included_at_iso": "2020-05-03T09:56:53",
-            "last_retested_at_epoch": 1588499813.0,
-            "last_retested_at_iso": "2020-05-03T09:56:53",
+            "last_retested_at_epoch": 1588587385.584573,
+            "last_retested_at_iso": "2020-05-04T10:16:25.584573",
             "status": "INACTIVE"
         },
         "www.39bola.com": {
@@ -1508,8 +1508,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1588493503.0,
-            "last_retested_at_iso": "2020-05-03T08:11:43",
+            "last_retested_at_epoch": 1588587886.81555,
+            "last_retested_at_iso": "2020-05-04T10:24:46.815550",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1725,8 +1725,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1588499753.0,
-            "last_retested_at_iso": "2020-05-03T09:55:53",
+            "last_retested_at_epoch": 1588587529.488557,
+            "last_retested_at_iso": "2020-05-04T10:18:49.488557",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -2152,8 +2152,8 @@
         "www.cookingyourspanish.com": {
             "included_at_epoch": 1588493130.0,
             "included_at_iso": "2020-05-03T08:05:30",
-            "last_retested_at_epoch": 1588493130.0,
-            "last_retested_at_iso": "2020-05-03T08:05:30",
+            "last_retested_at_epoch": 1588587454.391565,
+            "last_retested_at_iso": "2020-05-04T10:17:34.391565",
             "status": "INACTIVE"
         },
         "www.coolbar.pro": {
