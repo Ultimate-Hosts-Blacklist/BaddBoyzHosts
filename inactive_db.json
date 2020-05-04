@@ -80,8 +80,8 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1588544001.33203,
-            "last_retested_at_iso": "2020-05-03T22:13:21.332030",
+            "last_retested_at_epoch": 1588632710.352611,
+            "last_retested_at_iso": "2020-05-04T22:51:50.352611",
             "status": "INACTIVE"
         },
         "1hour.info": {
@@ -101,8 +101,8 @@
         "247locksmith-tucson.com": {
             "included_at_epoch": 1588445334.0,
             "included_at_iso": "2020-05-02T18:48:54",
-            "last_retested_at_epoch": 1588539094.540507,
-            "last_retested_at_iso": "2020-05-03T20:51:34.540507",
+            "last_retested_at_epoch": 1588632739.926697,
+            "last_retested_at_iso": "2020-05-04T22:52:19.926697",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -467,6 +467,13 @@
             "included_at_iso": "2020-05-02T20:05:58",
             "last_retested_at_epoch": 1588539414.252882,
             "last_retested_at_iso": "2020-05-03T20:56:54.252882",
+            "status": "INACTIVE"
+        },
+        "aviodg.eu": {
+            "included_at_epoch": 1588632627.39365,
+            "included_at_iso": "2020-05-04T22:50:27.393650",
+            "last_retested_at_epoch": 1588632627.39365,
+            "last_retested_at_iso": "2020-05-04T22:50:27.393650",
             "status": "INACTIVE"
         },
         "avoidfilter.net": {
@@ -878,8 +885,8 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1588544001.364103,
-            "last_retested_at_iso": "2020-05-03T22:13:21.364103",
+            "last_retested_at_epoch": 1588632710.369411,
+            "last_retested_at_iso": "2020-05-04T22:51:50.369411",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
@@ -941,8 +948,8 @@
         "www.247locksmith-tucson.com": {
             "included_at_epoch": 1588445335.0,
             "included_at_iso": "2020-05-02T18:48:55",
-            "last_retested_at_epoch": 1588539094.675517,
-            "last_retested_at_iso": "2020-05-03T20:51:34.675517",
+            "last_retested_at_epoch": 1588632740.010547,
+            "last_retested_at_iso": "2020-05-04T22:52:20.010547",
             "status": "INACTIVE"
         },
         "www.24holdem.com": {
@@ -1340,8 +1347,8 @@
         "www.69tubex.com": {
             "included_at_epoch": 1588440625.0,
             "included_at_iso": "2020-05-02T17:30:25",
-            "last_retested_at_epoch": 1588534717.830039,
-            "last_retested_at_iso": "2020-05-03T19:38:37.830039",
+            "last_retested_at_epoch": 1588632831.674117,
+            "last_retested_at_iso": "2020-05-04T22:53:51.674117",
             "status": "INACTIVE"
         },
         "www.6ftlady.com": {
@@ -2037,6 +2044,13 @@
             "last_retested_at_iso": "2020-02-07T20:12:06",
             "status": "INACTIVE"
         },
+        "www.aviodg.eu": {
+            "included_at_epoch": 1588632626.924645,
+            "included_at_iso": "2020-05-04T22:50:26.924645",
+            "last_retested_at_epoch": 1588632626.924645,
+            "last_retested_at_iso": "2020-05-04T22:50:26.924645",
+            "status": "INACTIVE"
+        },
         "www.avixxx.com": {
             "included_at_epoch": 1584824625.0,
             "included_at_iso": "2020-03-21T21:03:45",
@@ -2063,6 +2077,13 @@
             "included_at_iso": "2020-05-03T10:54:47",
             "last_retested_at_epoch": 1588605597.937591,
             "last_retested_at_iso": "2020-05-04T15:19:57.937591",
+            "status": "INACTIVE"
+        },
+        "www.babywantsbling.com": {
+            "included_at_epoch": 1588633080.252309,
+            "included_at_iso": "2020-05-04T22:58:00.252309",
+            "last_retested_at_epoch": 1588633080.252309,
+            "last_retested_at_iso": "2020-05-04T22:58:00.252309",
             "status": "INACTIVE"
         },
         "www.bacanal.cl": {
@@ -2257,8 +2278,8 @@
         "www.fnmsk.ru": {
             "included_at_epoch": 1588449675.0,
             "included_at_iso": "2020-05-02T20:01:15",
-            "last_retested_at_epoch": 1588543825.984419,
-            "last_retested_at_iso": "2020-05-03T22:10:25.984419",
+            "last_retested_at_epoch": 1588632639.844477,
+            "last_retested_at_iso": "2020-05-04T22:50:39.844477",
             "status": "INACTIVE"
         },
         "www.freegayporn.biz": {
