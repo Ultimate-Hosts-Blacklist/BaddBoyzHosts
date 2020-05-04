@@ -962,8 +962,8 @@
         "www.257639.com": {
             "included_at_epoch": 1588500315.0,
             "included_at_iso": "2020-05-03T10:05:15",
-            "last_retested_at_epoch": 1588500315.0,
-            "last_retested_at_iso": "2020-05-03T10:05:15",
+            "last_retested_at_epoch": 1588592340.636186,
+            "last_retested_at_iso": "2020-05-04T11:39:00.636186",
             "status": "INACTIVE"
         },
         "www.259572.com": {
@@ -1704,8 +1704,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1588503459.0,
-            "last_retested_at_iso": "2020-05-03T10:57:39",
+            "last_retested_at_epoch": 1588592417.360884,
+            "last_retested_at_iso": "2020-05-04T11:40:17.360884",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -2117,8 +2117,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1588499931.0,
-            "last_retested_at_iso": "2020-05-03T09:58:51",
+            "last_retested_at_epoch": 1588592342.385268,
+            "last_retested_at_iso": "2020-05-04T11:39:02.385268",
             "status": "INACTIVE"
         },
         "www.cineitalia.top": {
