@@ -199,8 +199,8 @@
         "86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1588578365.137912,
-            "last_retested_at_iso": "2020-05-04T07:46:05.137912",
+            "last_retested_at_epoch": 1588668704.109024,
+            "last_retested_at_iso": "2020-05-05T08:51:44.109024",
             "status": "INACTIVE"
         },
         "8khmer.com": {
@@ -227,8 +227,8 @@
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1588578305.994621,
-            "last_retested_at_iso": "2020-05-04T07:45:05.994621",
+            "last_retested_at_epoch": 1588668358.720792,
+            "last_retested_at_iso": "2020-05-05T08:45:58.720792",
             "status": "INACTIVE"
         },
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -248,8 +248,8 @@
         "aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1588569499.412979,
-            "last_retested_at_iso": "2020-05-04T05:18:19.412979",
+            "last_retested_at_epoch": 1588668316.528717,
+            "last_retested_at_iso": "2020-05-05T08:45:16.528717",
             "status": "INACTIVE"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -626,15 +626,15 @@
         "ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1588574307.722878,
-            "last_retested_at_iso": "2020-05-04T06:38:27.722878",
+            "last_retested_at_epoch": 1588668769.852632,
+            "last_retested_at_iso": "2020-05-05T08:52:49.852632",
             "status": "INACTIVE"
         },
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1588578535.165833,
-            "last_retested_at_iso": "2020-05-04T07:48:55.165833",
+            "last_retested_at_epoch": 1588668479.857419,
+            "last_retested_at_iso": "2020-05-05T08:47:59.857419",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -913,8 +913,8 @@
         "www.1re.info": {
             "included_at_epoch": 1588490134.0,
             "included_at_iso": "2020-05-03T07:15:34",
-            "last_retested_at_epoch": 1588578621.72844,
-            "last_retested_at_iso": "2020-05-04T07:50:21.728440",
+            "last_retested_at_epoch": 1588668634.36283,
+            "last_retested_at_iso": "2020-05-05T08:50:34.362830",
             "status": "INACTIVE"
         },
         "www.1unblock.com": {
@@ -1116,8 +1116,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1588578325.016729,
-            "last_retested_at_iso": "2020-05-04T07:45:25.016729",
+            "last_retested_at_epoch": 1588668703.282301,
+            "last_retested_at_iso": "2020-05-05T08:51:43.282301",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -1403,8 +1403,8 @@
         "www.86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1588578365.11565,
-            "last_retested_at_iso": "2020-05-04T07:46:05.115650",
+            "last_retested_at_epoch": 1588668704.288828,
+            "last_retested_at_iso": "2020-05-05T08:51:44.288828",
             "status": "INACTIVE"
         },
         "www.87w.info": {
@@ -1480,8 +1480,8 @@
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1588578306.042962,
-            "last_retested_at_iso": "2020-05-04T07:45:06.042962",
+            "last_retested_at_epoch": 1588668358.719839,
+            "last_retested_at_iso": "2020-05-05T08:45:58.719839",
             "status": "INACTIVE"
         },
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -1508,8 +1508,8 @@
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1588569499.516198,
-            "last_retested_at_iso": "2020-05-04T05:18:19.516198",
+            "last_retested_at_epoch": 1588668316.51891,
+            "last_retested_at_iso": "2020-05-05T08:45:16.518910",
             "status": "INACTIVE"
         },
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -2068,8 +2068,8 @@
         "www.avon-ukraine.com": {
             "included_at_epoch": 1588489658.0,
             "included_at_iso": "2020-05-03T07:07:38",
-            "last_retested_at_epoch": 1588578402.148255,
-            "last_retested_at_iso": "2020-05-04T07:46:42.148255",
+            "last_retested_at_epoch": 1588668589.3086,
+            "last_retested_at_iso": "2020-05-05T08:49:49.308600",
             "status": "INACTIVE"
         },
         "www.baby-soft.ca": {
@@ -2474,8 +2474,8 @@
         "www.ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1588574307.64394,
-            "last_retested_at_iso": "2020-05-04T06:38:27.643940",
+            "last_retested_at_epoch": 1588668769.832167,
+            "last_retested_at_iso": "2020-05-05T08:52:49.832167",
             "status": "INACTIVE"
         },
         "www.idecoideas.com": {
@@ -2523,8 +2523,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1588578535.364752,
-            "last_retested_at_iso": "2020-05-04T07:48:55.364752",
+            "last_retested_at_epoch": 1588668479.892368,
+            "last_retested_at_iso": "2020-05-05T08:47:59.892368",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
