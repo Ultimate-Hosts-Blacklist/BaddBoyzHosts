@@ -220,8 +220,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588573964.734,
-            "last_retested_at_iso": "2020-05-04T06:32:44.734000",
+            "last_retested_at_epoch": 1588664195.212008,
+            "last_retested_at_iso": "2020-05-05T07:36:35.212008",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -269,8 +269,8 @@
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482757.0,
             "included_at_iso": "2020-05-03T05:12:37",
-            "last_retested_at_epoch": 1588569724.944379,
-            "last_retested_at_iso": "2020-05-04T05:22:04.944379",
+            "last_retested_at_epoch": 1588664195.794019,
+            "last_retested_at_iso": "2020-05-05T07:36:35.794019",
             "status": "INACTIVE"
         },
         "aasoldes.fr": {
@@ -1312,8 +1312,8 @@
         "www.666s.info": {
             "included_at_epoch": 1588482294.0,
             "included_at_iso": "2020-05-03T05:04:54",
-            "last_retested_at_epoch": 1588569657.138588,
-            "last_retested_at_iso": "2020-05-04T05:20:57.138588",
+            "last_retested_at_epoch": 1588663820.624166,
+            "last_retested_at_iso": "2020-05-05T07:30:20.624166",
             "status": "INACTIVE"
         },
         "www.66av.cc": {
@@ -1473,8 +1473,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588573964.757171,
-            "last_retested_at_iso": "2020-05-04T06:32:44.757171",
+            "last_retested_at_epoch": 1588664195.440195,
+            "last_retested_at_iso": "2020-05-05T07:36:35.440195",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1529,8 +1529,8 @@
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482758.0,
             "included_at_iso": "2020-05-03T05:12:38",
-            "last_retested_at_epoch": 1588569724.992243,
-            "last_retested_at_iso": "2020-05-04T05:22:04.992243",
+            "last_retested_at_epoch": 1588664196.297882,
+            "last_retested_at_iso": "2020-05-05T07:36:36.297882",
             "status": "INACTIVE"
         },
         "www.aapz.com": {
@@ -2152,8 +2152,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1588573777.911856,
-            "last_retested_at_iso": "2020-05-04T06:29:37.911856",
+            "last_retested_at_epoch": 1588663835.776798,
+            "last_retested_at_iso": "2020-05-05T07:30:35.776798",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
