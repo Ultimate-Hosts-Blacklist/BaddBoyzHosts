@@ -45,8 +45,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1588549311.55185,
-            "last_retested_at_iso": "2020-05-03T23:41:51.551850",
+            "last_retested_at_epoch": 1588637417.832927,
+            "last_retested_at_iso": "2020-05-05T00:10:17.832927",
             "status": "INACTIVE"
         },
         "1000bannerx.free.fr": {
@@ -640,8 +640,8 @@
         "slowmac.tech": {
             "included_at_epoch": 1588459637.0,
             "included_at_iso": "2020-05-02T22:47:17",
-            "last_retested_at_epoch": 1588549140.64463,
-            "last_retested_at_iso": "2020-05-03T23:39:00.644630",
+            "last_retested_at_epoch": 1588637337.3726,
+            "last_retested_at_iso": "2020-05-05T00:08:57.372600",
             "status": "INACTIVE"
         },
         "www.00sexus.com": {
@@ -710,8 +710,8 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1588549311.640249,
-            "last_retested_at_iso": "2020-05-03T23:41:51.640249",
+            "last_retested_at_epoch": 1588637417.756989,
+            "last_retested_at_iso": "2020-05-05T00:10:17.756989",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
@@ -962,8 +962,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1588549315.824856,
-            "last_retested_at_iso": "2020-05-03T23:41:55.824856",
+            "last_retested_at_epoch": 1588637667.893584,
+            "last_retested_at_iso": "2020-05-05T00:14:27.893584",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1193,8 +1193,8 @@
         "www.423.ru": {
             "included_at_epoch": 1588459214.0,
             "included_at_iso": "2020-05-02T22:40:14",
-            "last_retested_at_epoch": 1588549315.458596,
-            "last_retested_at_iso": "2020-05-03T23:41:55.458596",
+            "last_retested_at_epoch": 1588637454.96084,
+            "last_retested_at_iso": "2020-05-05T00:10:54.960840",
             "status": "INACTIVE"
         },
         "www.4inn.pl": {
@@ -1298,8 +1298,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1588548896.740719,
-            "last_retested_at_iso": "2020-05-03T23:34:56.740719",
+            "last_retested_at_epoch": 1588637632.743942,
+            "last_retested_at_iso": "2020-05-05T00:13:52.743942",
             "status": "INACTIVE"
         },
         "www.65xps.com": {
@@ -1564,15 +1564,15 @@
         "www.abahah.com": {
             "included_at_epoch": 1588459278.0,
             "included_at_iso": "2020-05-02T22:41:18",
-            "last_retested_at_epoch": 1588549103.789725,
-            "last_retested_at_iso": "2020-05-03T23:38:23.789725",
+            "last_retested_at_epoch": 1588637567.272285,
+            "last_retested_at_iso": "2020-05-05T00:12:47.272285",
             "status": "INACTIVE"
         },
         "www.abbeyxxx.com": {
             "included_at_epoch": 1588454631.0,
             "included_at_iso": "2020-05-02T21:23:51",
-            "last_retested_at_epoch": 1588548970.305542,
-            "last_retested_at_iso": "2020-05-03T23:36:10.305542",
+            "last_retested_at_epoch": 1588637238.08814,
+            "last_retested_at_iso": "2020-05-05T00:07:18.088140",
             "status": "INACTIVE"
         },
         "www.abdl-adult-baby-phone-sex.info": {
@@ -2551,8 +2551,8 @@
         "www.slowmac.tech": {
             "included_at_epoch": 1588459636.0,
             "included_at_iso": "2020-05-02T22:47:16",
-            "last_retested_at_epoch": 1588549140.64263,
-            "last_retested_at_iso": "2020-05-03T23:39:00.642630",
+            "last_retested_at_epoch": 1588637336.991326,
+            "last_retested_at_iso": "2020-05-05T00:08:56.991326",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
@@ -2565,8 +2565,8 @@
         "yunque.pluto.ro": {
             "included_at_epoch": 1588353519.0,
             "included_at_iso": "2020-05-01T17:18:39",
-            "last_retested_at_epoch": 1588353519.0,
-            "last_retested_at_iso": "2020-05-01T17:18:39",
+            "last_retested_at_epoch": 1588637580.139336,
+            "last_retested_at_iso": "2020-05-05T00:13:00.139336",
             "status": "INACTIVE"
         }
     }
