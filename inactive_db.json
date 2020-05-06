@@ -87,8 +87,8 @@
         "1hour.info": {
             "included_at_epoch": 1588468623.0,
             "included_at_iso": "2020-05-03T01:17:03",
-            "last_retested_at_epoch": 1588646152.584358,
-            "last_retested_at_iso": "2020-05-05T02:35:52.584358",
+            "last_retested_at_epoch": 1588734516.689449,
+            "last_retested_at_iso": "2020-05-06T03:08:36.689449",
             "status": "INACTIVE"
         },
         "2005-search.com": {
@@ -465,8 +465,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1588646012.623258,
-            "last_retested_at_iso": "2020-05-05T02:33:32.623258",
+            "last_retested_at_epoch": 1588734451.141478,
+            "last_retested_at_iso": "2020-05-06T03:07:31.141478",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -892,8 +892,8 @@
         "www.1hour.info": {
             "included_at_epoch": 1588468623.0,
             "included_at_iso": "2020-05-03T01:17:03",
-            "last_retested_at_epoch": 1588646152.524184,
-            "last_retested_at_iso": "2020-05-05T02:35:52.524184",
+            "last_retested_at_epoch": 1588734516.439061,
+            "last_retested_at_iso": "2020-05-06T03:08:36.439061",
             "status": "INACTIVE"
         },
         "www.1lesbiansex.com": {
@@ -1459,8 +1459,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1588623083.022605,
-            "last_retested_at_iso": "2020-05-04T20:11:23.022605",
+            "last_retested_at_epoch": 1588733979.492065,
+            "last_retested_at_iso": "2020-05-06T02:59:39.492065",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -2033,8 +2033,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1588646012.593351,
-            "last_retested_at_iso": "2020-05-05T02:33:32.593351",
+            "last_retested_at_epoch": 1588734450.952202,
+            "last_retested_at_iso": "2020-05-06T03:07:30.952202",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
