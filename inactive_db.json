@@ -1214,8 +1214,8 @@
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1588695743.871044,
-            "last_retested_at_iso": "2020-05-05T16:22:23.871044",
+            "last_retested_at_epoch": 1588798461.600901,
+            "last_retested_at_iso": "2020-05-06T20:54:21.600901",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -2453,8 +2453,8 @@
         "www.hypnotone.com": {
             "included_at_epoch": 1588445048.0,
             "included_at_iso": "2020-05-02T18:44:08",
-            "last_retested_at_epoch": 1588710836.902468,
-            "last_retested_at_iso": "2020-05-05T20:33:56.902468",
+            "last_retested_at_epoch": 1588798290.757553,
+            "last_retested_at_iso": "2020-05-06T20:51:30.757553",
             "status": "INACTIVE"
         },
         "www.hystersister.com": {
