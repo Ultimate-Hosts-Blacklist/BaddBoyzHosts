@@ -304,8 +304,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1588677578.210408,
-            "last_retested_at_iso": "2020-05-05T11:19:38.210408",
+            "last_retested_at_epoch": 1588777648.958059,
+            "last_retested_at_iso": "2020-05-06T15:07:28.958059",
             "status": "INACTIVE"
         },
         "acount-cheks0912.suport-acount-confrim12.gq": {
@@ -1074,8 +1074,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1588686664.268113,
-            "last_retested_at_iso": "2020-05-05T13:51:04.268113",
+            "last_retested_at_epoch": 1588777631.903885,
+            "last_retested_at_iso": "2020-05-06T15:07:11.903885",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1627,8 +1627,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1588677578.290453,
-            "last_retested_at_iso": "2020-05-05T11:19:38.290453",
+            "last_retested_at_epoch": 1588777648.978248,
+            "last_retested_at_iso": "2020-05-06T15:07:28.978248",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -1697,8 +1697,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1588690936.812578,
-            "last_retested_at_iso": "2020-05-05T15:02:16.812578",
+            "last_retested_at_epoch": 1588777568.89307,
+            "last_retested_at_iso": "2020-05-06T15:06:08.893070",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -1760,8 +1760,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1588682040.115113,
-            "last_retested_at_iso": "2020-05-05T12:34:00.115113",
+            "last_retested_at_epoch": 1588777695.870633,
+            "last_retested_at_iso": "2020-05-06T15:08:15.870633",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -1998,8 +1998,8 @@
         "www.andrewrobertsllc.info": {
             "included_at_epoch": 1588509262.0,
             "included_at_iso": "2020-05-03T12:34:22",
-            "last_retested_at_epoch": 1588691372.776858,
-            "last_retested_at_iso": "2020-05-05T15:09:32.776858",
+            "last_retested_at_epoch": 1588777822.729726,
+            "last_retested_at_iso": "2020-05-06T15:10:22.729726",
             "status": "INACTIVE"
         },
         "www.android-style.com": {
@@ -2586,8 +2586,8 @@
         "zc1.delta-boa.com": {
             "included_at_epoch": 1588686597.981689,
             "included_at_iso": "2020-05-05T13:49:57.981689",
-            "last_retested_at_epoch": 1588686597.981689,
-            "last_retested_at_iso": "2020-05-05T13:49:57.981689",
+            "last_retested_at_epoch": 1588777600.708693,
+            "last_retested_at_iso": "2020-05-06T15:06:40.708693",
             "status": "INACTIVE"
         }
     }
