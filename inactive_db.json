@@ -66,8 +66,8 @@
         "123.fluxads.com": {
             "included_at_epoch": 1588518886.0,
             "included_at_iso": "2020-05-03T15:14:46",
-            "last_retested_at_epoch": 1588613983.201113,
-            "last_retested_at_iso": "2020-05-04T17:39:43.201113",
+            "last_retested_at_epoch": 1588729440.388934,
+            "last_retested_at_iso": "2020-05-06T01:44:00.388934",
             "status": "INACTIVE"
         },
         "18teengirl.com": {
@@ -136,8 +136,8 @@
         "3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1588641864.683526,
-            "last_retested_at_iso": "2020-05-05T01:24:24.683526",
+            "last_retested_at_epoch": 1588729883.533302,
+            "last_retested_at_iso": "2020-05-06T01:51:23.533302",
             "status": "INACTIVE"
         },
         "3xit.net": {
@@ -262,8 +262,8 @@
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1588641782.153737,
-            "last_retested_at_iso": "2020-05-05T01:23:02.153737",
+            "last_retested_at_epoch": 1588729641.075242,
+            "last_retested_at_iso": "2020-05-06T01:47:21.075242",
             "status": "INACTIVE"
         },
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -640,8 +640,8 @@
         "slowmac.tech": {
             "included_at_epoch": 1588459637.0,
             "included_at_iso": "2020-05-02T22:47:17",
-            "last_retested_at_epoch": 1588637337.3726,
-            "last_retested_at_iso": "2020-05-05T00:08:57.372600",
+            "last_retested_at_epoch": 1588729627.093424,
+            "last_retested_at_iso": "2020-05-06T01:47:07.093424",
             "status": "INACTIVE"
         },
         "www.00sexus.com": {
@@ -962,8 +962,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1588637667.893584,
-            "last_retested_at_iso": "2020-05-05T00:14:27.893584",
+            "last_retested_at_epoch": 1588729551.979978,
+            "last_retested_at_iso": "2020-05-06T01:45:51.979978",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1081,8 +1081,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1588641856.368669,
-            "last_retested_at_iso": "2020-05-05T01:24:16.368669",
+            "last_retested_at_epoch": 1588729667.426962,
+            "last_retested_at_iso": "2020-05-06T01:47:47.426962",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -1151,8 +1151,8 @@
         "www.3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1588641864.932065,
-            "last_retested_at_iso": "2020-05-05T01:24:24.932065",
+            "last_retested_at_epoch": 1588729883.519704,
+            "last_retested_at_iso": "2020-05-06T01:51:23.519704",
             "status": "INACTIVE"
         },
         "www.3dsemulator.info": {
@@ -1172,8 +1172,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1588641527.046532,
-            "last_retested_at_iso": "2020-05-05T01:18:47.046532",
+            "last_retested_at_epoch": 1588729588.340076,
+            "last_retested_at_iso": "2020-05-06T01:46:28.340076",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1193,8 +1193,8 @@
         "www.423.ru": {
             "included_at_epoch": 1588459214.0,
             "included_at_iso": "2020-05-02T22:40:14",
-            "last_retested_at_epoch": 1588637454.96084,
-            "last_retested_at_iso": "2020-05-05T00:10:54.960840",
+            "last_retested_at_epoch": 1588729768.887774,
+            "last_retested_at_iso": "2020-05-06T01:49:28.887774",
             "status": "INACTIVE"
         },
         "www.4inn.pl": {
@@ -1522,8 +1522,8 @@
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1588641782.120025,
-            "last_retested_at_iso": "2020-05-05T01:23:02.120025",
+            "last_retested_at_epoch": 1588729641.264728,
+            "last_retested_at_iso": "2020-05-06T01:47:21.264728",
             "status": "INACTIVE"
         },
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -1627,8 +1627,8 @@
         "www.acads.net": {
             "included_at_epoch": 1588464052.0,
             "included_at_iso": "2020-05-03T00:00:52",
-            "last_retested_at_epoch": 1588641723.878529,
-            "last_retested_at_iso": "2020-05-05T01:22:03.878529",
+            "last_retested_at_epoch": 1588729961.955122,
+            "last_retested_at_iso": "2020-05-06T01:52:41.955122",
             "status": "INACTIVE"
         },
         "www.acoustoopticmodulator.com": {
@@ -2502,8 +2502,8 @@
         "www.idvipteam.com": {
             "included_at_epoch": 1588464477.0,
             "included_at_iso": "2020-05-03T00:07:57",
-            "last_retested_at_epoch": 1588641798.333129,
-            "last_retested_at_iso": "2020-05-05T01:23:18.333129",
+            "last_retested_at_epoch": 1588729730.846185,
+            "last_retested_at_iso": "2020-05-06T01:48:50.846185",
             "status": "INACTIVE"
         },
         "www.imdaginea.cf": {
@@ -2551,8 +2551,8 @@
         "www.slowmac.tech": {
             "included_at_epoch": 1588459636.0,
             "included_at_iso": "2020-05-02T22:47:16",
-            "last_retested_at_epoch": 1588637336.991326,
-            "last_retested_at_iso": "2020-05-05T00:08:56.991326",
+            "last_retested_at_epoch": 1588729622.169852,
+            "last_retested_at_iso": "2020-05-06T01:47:02.169852",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
