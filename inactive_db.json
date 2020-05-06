@@ -199,8 +199,8 @@
         "86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1588668704.109024,
-            "last_retested_at_iso": "2020-05-05T08:51:44.109024",
+            "last_retested_at_epoch": 1588756499.811486,
+            "last_retested_at_iso": "2020-05-06T09:14:59.811486",
             "status": "INACTIVE"
         },
         "8khmer.com": {
@@ -220,8 +220,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588664195.212008,
-            "last_retested_at_iso": "2020-05-05T07:36:35.212008",
+            "last_retested_at_epoch": 1588756200.228803,
+            "last_retested_at_iso": "2020-05-06T09:10:00.228803",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -248,8 +248,8 @@
         "aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1588668316.528717,
-            "last_retested_at_iso": "2020-05-05T08:45:16.528717",
+            "last_retested_at_epoch": 1588755996.897072,
+            "last_retested_at_iso": "2020-05-06T09:06:36.897072",
             "status": "INACTIVE"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -913,8 +913,8 @@
         "www.1re.info": {
             "included_at_epoch": 1588490134.0,
             "included_at_iso": "2020-05-03T07:15:34",
-            "last_retested_at_epoch": 1588668634.36283,
-            "last_retested_at_iso": "2020-05-05T08:50:34.362830",
+            "last_retested_at_epoch": 1588756172.062571,
+            "last_retested_at_iso": "2020-05-06T09:09:32.062571",
             "status": "INACTIVE"
         },
         "www.1unblock.com": {
@@ -1389,8 +1389,8 @@
         "www.7gfs.com": {
             "included_at_epoch": 1588473883.0,
             "included_at_iso": "2020-05-03T02:44:43",
-            "last_retested_at_epoch": 1588659742.63231,
-            "last_retested_at_iso": "2020-05-05T06:22:22.632310",
+            "last_retested_at_epoch": 1588756269.978138,
+            "last_retested_at_iso": "2020-05-06T09:11:09.978138",
             "status": "INACTIVE"
         },
         "www.8090cpa.com": {
@@ -1403,8 +1403,8 @@
         "www.86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1588668704.288828,
-            "last_retested_at_iso": "2020-05-05T08:51:44.288828",
+            "last_retested_at_epoch": 1588756499.837482,
+            "last_retested_at_iso": "2020-05-06T09:14:59.837482",
             "status": "INACTIVE"
         },
         "www.87w.info": {
@@ -1473,8 +1473,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588664195.440195,
-            "last_retested_at_iso": "2020-05-05T07:36:35.440195",
+            "last_retested_at_epoch": 1588756200.332833,
+            "last_retested_at_iso": "2020-05-06T09:10:00.332833",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1508,8 +1508,8 @@
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1588668316.51891,
-            "last_retested_at_iso": "2020-05-05T08:45:16.518910",
+            "last_retested_at_epoch": 1588755997.010588,
+            "last_retested_at_iso": "2020-05-06T09:06:37.010588",
             "status": "INACTIVE"
         },
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -2068,8 +2068,8 @@
         "www.avon-ukraine.com": {
             "included_at_epoch": 1588489658.0,
             "included_at_iso": "2020-05-03T07:07:38",
-            "last_retested_at_epoch": 1588668589.3086,
-            "last_retested_at_iso": "2020-05-05T08:49:49.308600",
+            "last_retested_at_epoch": 1588756288.142588,
+            "last_retested_at_iso": "2020-05-06T09:11:28.142588",
             "status": "INACTIVE"
         },
         "www.baby-soft.ca": {
