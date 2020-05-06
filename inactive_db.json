@@ -10,8 +10,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1588641326.130004,
-            "last_retested_at_iso": "2020-05-05T01:15:26.130004",
+            "last_retested_at_epoch": 1588738833.287334,
+            "last_retested_at_iso": "2020-05-06T04:20:33.287334",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -101,8 +101,8 @@
         "247locksmith-tucson.com": {
             "included_at_epoch": 1588445334.0,
             "included_at_iso": "2020-05-02T18:48:54",
-            "last_retested_at_epoch": 1588632739.926697,
-            "last_retested_at_iso": "2020-05-04T22:52:19.926697",
+            "last_retested_at_epoch": 1588738546.911689,
+            "last_retested_at_iso": "2020-05-06T04:15:46.911689",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -115,8 +115,8 @@
         "272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1588650432.935511,
-            "last_retested_at_iso": "2020-05-05T03:47:12.935511",
+            "last_retested_at_epoch": 1588738986.498277,
+            "last_retested_at_iso": "2020-05-06T04:23:06.498277",
             "status": "INACTIVE"
         },
         "2cam.nl": {
@@ -661,8 +661,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1588641326.294761,
-            "last_retested_at_iso": "2020-05-05T01:15:26.294761",
+            "last_retested_at_epoch": 1588738833.28633,
+            "last_retested_at_iso": "2020-05-06T04:20:33.286330",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -703,8 +703,8 @@
         "www.0m4.ru": {
             "included_at_epoch": 1588454561.0,
             "included_at_iso": "2020-05-02T21:22:41",
-            "last_retested_at_epoch": 1588650883.627888,
-            "last_retested_at_iso": "2020-05-05T03:54:43.627888",
+            "last_retested_at_epoch": 1588738807.71264,
+            "last_retested_at_iso": "2020-05-06T04:20:07.712640",
             "status": "INACTIVE"
         },
         "www.0pros.com": {
@@ -948,8 +948,8 @@
         "www.247locksmith-tucson.com": {
             "included_at_epoch": 1588445335.0,
             "included_at_iso": "2020-05-02T18:48:55",
-            "last_retested_at_epoch": 1588632740.010547,
-            "last_retested_at_iso": "2020-05-04T22:52:20.010547",
+            "last_retested_at_epoch": 1588738546.876705,
+            "last_retested_at_iso": "2020-05-06T04:15:46.876705",
             "status": "INACTIVE"
         },
         "www.24holdem.com": {
@@ -1004,8 +1004,8 @@
         "www.272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1588650433.405578,
-            "last_retested_at_iso": "2020-05-05T03:47:13.405578",
+            "last_retested_at_epoch": 1588738986.567603,
+            "last_retested_at_iso": "2020-05-06T04:23:06.567603",
             "status": "INACTIVE"
         },
         "www.2anal.net": {
@@ -1109,8 +1109,8 @@
         "www.31seconds.net": {
             "included_at_epoch": 1588449467.0,
             "included_at_iso": "2020-05-02T19:57:47",
-            "last_retested_at_epoch": 1588646188.506949,
-            "last_retested_at_iso": "2020-05-05T02:36:28.506949",
+            "last_retested_at_epoch": 1588738882.916776,
+            "last_retested_at_iso": "2020-05-06T04:21:22.916776",
             "status": "INACTIVE"
         },
         "www.3278dy.com": {
@@ -1396,8 +1396,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1588646457.74933,
-            "last_retested_at_iso": "2020-05-05T02:40:57.749330",
+            "last_retested_at_epoch": 1588738607.613568,
+            "last_retested_at_iso": "2020-05-06T04:16:47.613568",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -1501,8 +1501,8 @@
         "www.aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588464287.0,
             "included_at_iso": "2020-05-03T00:04:47",
-            "last_retested_at_epoch": 1588650814.974283,
-            "last_retested_at_iso": "2020-05-05T03:53:34.974283",
+            "last_retested_at_epoch": 1588738782.377486,
+            "last_retested_at_iso": "2020-05-06T04:19:42.377486",
             "status": "INACTIVE"
         },
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
@@ -1823,8 +1823,8 @@
         "www.allbestpantyhose.com": {
             "included_at_epoch": 1588449964.0,
             "included_at_iso": "2020-05-02T20:06:04",
-            "last_retested_at_epoch": 1588646218.022087,
-            "last_retested_at_iso": "2020-05-05T02:36:58.022087",
+            "last_retested_at_epoch": 1588738400.779552,
+            "last_retested_at_iso": "2020-05-06T04:13:20.779552",
             "status": "INACTIVE"
         },
         "www.allbritishescorts.com": {
@@ -2292,8 +2292,8 @@
         "www.freehomosexual.com": {
             "included_at_epoch": 1588468902.0,
             "included_at_iso": "2020-05-03T01:21:42",
-            "last_retested_at_epoch": 1588650601.792013,
-            "last_retested_at_iso": "2020-05-05T03:50:01.792013",
+            "last_retested_at_epoch": 1588738729.999307,
+            "last_retested_at_iso": "2020-05-06T04:18:49.999307",
             "status": "INACTIVE"
         },
         "www.freehornygirls.com": {
@@ -2425,8 +2425,8 @@
         "www.hymen-defloration.info": {
             "included_at_epoch": 1588464031.0,
             "included_at_iso": "2020-05-03T00:00:31",
-            "last_retested_at_epoch": 1588646425.769984,
-            "last_retested_at_iso": "2020-05-05T02:40:25.769984",
+            "last_retested_at_epoch": 1588738959.595406,
+            "last_retested_at_iso": "2020-05-06T04:22:39.595406",
             "status": "INACTIVE"
         },
         "www.hympsvtktvtm.biz": {
