@@ -493,8 +493,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1588793961.09299,
-            "last_retested_at_iso": "2020-05-06T19:39:21.092990",
+            "last_retested_at_epoch": 1588888828.264495,
+            "last_retested_at_iso": "2020-05-07T22:00:28.264495",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1214,8 +1214,8 @@
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1588798461.600901,
-            "last_retested_at_iso": "2020-05-06T20:54:21.600901",
+            "last_retested_at_epoch": 1588888879.002152,
+            "last_retested_at_iso": "2020-05-07T22:01:19.002152",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -2089,8 +2089,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1588793961.058736,
-            "last_retested_at_iso": "2020-05-06T19:39:21.058736",
+            "last_retested_at_epoch": 1588888828.208357,
+            "last_retested_at_iso": "2020-05-07T22:00:28.208357",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2194,8 +2194,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1588790269.981984,
-            "last_retested_at_iso": "2020-05-06T18:37:49.981984",
+            "last_retested_at_epoch": 1588888733.128309,
+            "last_retested_at_iso": "2020-05-07T21:58:53.128309",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
