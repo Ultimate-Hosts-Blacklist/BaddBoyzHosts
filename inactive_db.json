@@ -136,8 +136,8 @@
         "3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1588729883.533302,
-            "last_retested_at_iso": "2020-05-06T01:51:23.533302",
+            "last_retested_at_epoch": 1588820497.748986,
+            "last_retested_at_iso": "2020-05-07T03:01:37.748986",
             "status": "INACTIVE"
         },
         "3xit.net": {
@@ -262,8 +262,8 @@
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1588729641.075242,
-            "last_retested_at_iso": "2020-05-06T01:47:21.075242",
+            "last_retested_at_epoch": 1588820089.234969,
+            "last_retested_at_iso": "2020-05-07T02:54:49.234969",
             "status": "INACTIVE"
         },
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -962,8 +962,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1588729551.979978,
-            "last_retested_at_iso": "2020-05-06T01:45:51.979978",
+            "last_retested_at_epoch": 1588820096.793357,
+            "last_retested_at_iso": "2020-05-07T02:54:56.793357",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1151,8 +1151,8 @@
         "www.3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1588729883.519704,
-            "last_retested_at_iso": "2020-05-06T01:51:23.519704",
+            "last_retested_at_epoch": 1588820497.728827,
+            "last_retested_at_iso": "2020-05-07T03:01:37.728827",
             "status": "INACTIVE"
         },
         "www.3dsemulator.info": {
@@ -1165,15 +1165,15 @@
         "www.3jmcwio.com": {
             "included_at_epoch": 1588521937.0,
             "included_at_iso": "2020-05-03T16:05:37",
-            "last_retested_at_epoch": 1588710590.417701,
-            "last_retested_at_iso": "2020-05-05T20:29:50.417701",
+            "last_retested_at_epoch": 1588820324.652814,
+            "last_retested_at_iso": "2020-05-07T02:58:44.652814",
             "status": "INACTIVE"
         },
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1588729588.340076,
-            "last_retested_at_iso": "2020-05-06T01:46:28.340076",
+            "last_retested_at_epoch": 1588820008.114794,
+            "last_retested_at_iso": "2020-05-07T02:53:28.114794",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1536,8 +1536,8 @@
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1588729641.264728,
-            "last_retested_at_iso": "2020-05-06T01:47:21.264728",
+            "last_retested_at_epoch": 1588820089.41153,
+            "last_retested_at_iso": "2020-05-07T02:54:49.411530",
             "status": "INACTIVE"
         },
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -1641,8 +1641,8 @@
         "www.acads.net": {
             "included_at_epoch": 1588464052.0,
             "included_at_iso": "2020-05-03T00:00:52",
-            "last_retested_at_epoch": 1588729961.955122,
-            "last_retested_at_iso": "2020-05-06T01:52:41.955122",
+            "last_retested_at_epoch": 1588820075.489224,
+            "last_retested_at_iso": "2020-05-07T02:54:35.489224",
             "status": "INACTIVE"
         },
         "www.acoustoopticmodulator.com": {
