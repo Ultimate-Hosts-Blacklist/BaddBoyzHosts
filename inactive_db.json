@@ -24,8 +24,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1588724512.762331,
-            "last_retested_at_iso": "2020-05-06T00:21:52.762331",
+            "last_retested_at_epoch": 1588815907.911394,
+            "last_retested_at_iso": "2020-05-07T01:45:07.911394",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -598,8 +598,8 @@
         "graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1588715686.023044,
-            "last_retested_at_iso": "2020-05-05T21:54:46.023044",
+            "last_retested_at_epoch": 1588815970.399361,
+            "last_retested_at_iso": "2020-05-07T01:46:10.399361",
             "status": "INACTIVE"
         },
         "hmuana.com": {
@@ -675,8 +675,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1588724512.833792,
-            "last_retested_at_iso": "2020-05-06T00:21:52.833792",
+            "last_retested_at_epoch": 1588815908.128632,
+            "last_retested_at_iso": "2020-05-07T01:45:08.128632",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -2341,8 +2341,8 @@
         "www.graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1588715686.048278,
-            "last_retested_at_iso": "2020-05-05T21:54:46.048278",
+            "last_retested_at_epoch": 1588815970.397226,
+            "last_retested_at_iso": "2020-05-07T01:46:10.397226",
             "status": "INACTIVE"
         },
         "www.gratis-sexkontakte.com": {
