@@ -255,8 +255,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1588859734.465353,
-            "last_retested_at_iso": "2020-05-07T13:55:34.465353",
+            "last_retested_at_epoch": 1588955827.012559,
+            "last_retested_at_iso": "2020-05-08T16:37:07.012559",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -367,8 +367,8 @@
         "allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1588869130.013962,
-            "last_retested_at_iso": "2020-05-07T16:32:10.013962",
+            "last_retested_at_epoch": 1588955699.401316,
+            "last_retested_at_iso": "2020-05-08T16:34:59.401316",
             "status": "INACTIVE"
         },
         "allboard.xobor.de": {
@@ -612,8 +612,8 @@
         "hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1588838216.932232,
-            "last_retested_at_iso": "2020-05-07T07:56:56.932232",
+            "last_retested_at_epoch": 1588955912.845705,
+            "last_retested_at_iso": "2020-05-08T16:38:32.845705",
             "status": "INACTIVE"
         },
         "husky-shop.cz": {
@@ -913,8 +913,8 @@
         "www.1re.info": {
             "included_at_epoch": 1588490134.0,
             "included_at_iso": "2020-05-03T07:15:34",
-            "last_retested_at_epoch": 1588851010.426681,
-            "last_retested_at_iso": "2020-05-07T11:30:10.426681",
+            "last_retested_at_epoch": 1588955950.261881,
+            "last_retested_at_iso": "2020-05-08T16:39:10.261881",
             "status": "INACTIVE"
         },
         "www.1unblock.com": {
@@ -1074,8 +1074,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1588864383.459133,
-            "last_retested_at_iso": "2020-05-07T15:13:03.459133",
+            "last_retested_at_epoch": 1588956081.520191,
+            "last_retested_at_iso": "2020-05-08T16:41:21.520191",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1116,8 +1116,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1588864276.893852,
-            "last_retested_at_iso": "2020-05-07T15:11:16.893852",
+            "last_retested_at_epoch": 1588955604.741879,
+            "last_retested_at_iso": "2020-05-08T16:33:24.741879",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -1529,8 +1529,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1588859734.561539,
-            "last_retested_at_iso": "2020-05-07T13:55:34.561539",
+            "last_retested_at_epoch": 1588955827.048293,
+            "last_retested_at_iso": "2020-05-08T16:37:07.048293",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1816,15 +1816,15 @@
         "www.allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1588869130.077258,
-            "last_retested_at_iso": "2020-05-07T16:32:10.077258",
+            "last_retested_at_epoch": 1588955699.466773,
+            "last_retested_at_iso": "2020-05-08T16:34:59.466773",
             "status": "INACTIVE"
         },
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1588869161.621966,
-            "last_retested_at_iso": "2020-05-07T16:32:41.621966",
+            "last_retested_at_epoch": 1588955897.751632,
+            "last_retested_at_iso": "2020-05-08T16:38:17.751632",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
@@ -2411,8 +2411,8 @@
         "www.hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1588838217.051076,
-            "last_retested_at_iso": "2020-05-07T07:56:57.051076",
+            "last_retested_at_epoch": 1588955912.79151,
+            "last_retested_at_iso": "2020-05-08T16:38:32.791510",
             "status": "INACTIVE"
         },
         "www.husky-shop.cz": {
