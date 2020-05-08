@@ -10,8 +10,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1588842796.599251,
-            "last_retested_at_iso": "2020-05-07T09:13:16.599251",
+            "last_retested_at_epoch": 1588932342.240235,
+            "last_retested_at_iso": "2020-05-08T10:05:42.240235",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -31,8 +31,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1588842559.177843,
-            "last_retested_at_iso": "2020-05-07T09:09:19.177843",
+            "last_retested_at_epoch": 1588932047.483148,
+            "last_retested_at_iso": "2020-05-08T10:00:47.483148",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -171,8 +171,8 @@
         "69lingerie.com": {
             "included_at_epoch": 1588463960.0,
             "included_at_iso": "2020-05-02T23:59:20",
-            "last_retested_at_epoch": 1588833803.635583,
-            "last_retested_at_iso": "2020-05-07T06:43:23.635583",
+            "last_retested_at_epoch": 1588932121.404764,
+            "last_retested_at_iso": "2020-05-08T10:02:01.404764",
             "status": "INACTIVE"
         },
         "69proof.com": {
@@ -220,8 +220,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588842790.798579,
-            "last_retested_at_iso": "2020-05-07T09:13:10.798579",
+            "last_retested_at_epoch": 1588932203.359995,
+            "last_retested_at_iso": "2020-05-08T10:03:23.359995",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -234,8 +234,8 @@
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
             "included_at_epoch": 1588474015.0,
             "included_at_iso": "2020-05-03T02:46:55",
-            "last_retested_at_epoch": 1588842472.444288,
-            "last_retested_at_iso": "2020-05-07T09:07:52.444288",
+            "last_retested_at_epoch": 1588932202.306409,
+            "last_retested_at_iso": "2020-05-08T10:03:22.306409",
             "status": "INACTIVE"
         },
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
@@ -465,8 +465,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1588828907.213384,
-            "last_retested_at_iso": "2020-05-07T05:21:47.213384",
+            "last_retested_at_epoch": 1588931990.71588,
+            "last_retested_at_iso": "2020-05-08T09:59:50.715880",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -661,8 +661,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1588842796.684924,
-            "last_retested_at_iso": "2020-05-07T09:13:16.684924",
+            "last_retested_at_epoch": 1588932342.414891,
+            "last_retested_at_iso": "2020-05-08T10:05:42.414891",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -682,8 +682,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1588842559.31243,
-            "last_retested_at_iso": "2020-05-07T09:09:19.312430",
+            "last_retested_at_epoch": 1588932047.575736,
+            "last_retested_at_iso": "2020-05-08T10:00:47.575736",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -752,8 +752,8 @@
         "www.1001lingerie.com": {
             "included_at_epoch": 1588454632.0,
             "included_at_iso": "2020-05-02T21:23:52",
-            "last_retested_at_epoch": 1588838434.994331,
-            "last_retested_at_iso": "2020-05-07T08:00:34.994331",
+            "last_retested_at_epoch": 1588932112.988627,
+            "last_retested_at_iso": "2020-05-08T10:01:52.988627",
             "status": "INACTIVE"
         },
         "www.100dollars-seo.com": {
@@ -1081,8 +1081,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1588838580.495171,
-            "last_retested_at_iso": "2020-05-07T08:03:00.495171",
+            "last_retested_at_epoch": 1588932372.001637,
+            "last_retested_at_iso": "2020-05-08T10:06:12.001637",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -1333,8 +1333,8 @@
         "www.69lingerie.com": {
             "included_at_epoch": 1588463961.0,
             "included_at_iso": "2020-05-02T23:59:21",
-            "last_retested_at_epoch": 1588833803.600248,
-            "last_retested_at_iso": "2020-05-07T06:43:23.600248",
+            "last_retested_at_epoch": 1588932121.385109,
+            "last_retested_at_iso": "2020-05-08T10:02:01.385109",
             "status": "INACTIVE"
         },
         "www.69proof.com": {
@@ -1487,8 +1487,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588842790.737528,
-            "last_retested_at_iso": "2020-05-07T09:13:10.737528",
+            "last_retested_at_epoch": 1588932203.41922,
+            "last_retested_at_iso": "2020-05-08T10:03:23.419220",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1501,8 +1501,8 @@
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
             "included_at_epoch": 1588474015.0,
             "included_at_iso": "2020-05-03T02:46:55",
-            "last_retested_at_epoch": 1588842472.498733,
-            "last_retested_at_iso": "2020-05-07T09:07:52.498733",
+            "last_retested_at_epoch": 1588932202.28317,
+            "last_retested_at_iso": "2020-05-08T10:03:22.283170",
             "status": "INACTIVE"
         },
         "www.aa81bf391151884adfa3dd677e41f94be1.com": {
@@ -2047,8 +2047,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1588828907.030129,
-            "last_retested_at_iso": "2020-05-07T05:21:47.030129",
+            "last_retested_at_epoch": 1588931990.897193,
+            "last_retested_at_iso": "2020-05-08T09:59:50.897193",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
@@ -2306,8 +2306,8 @@
         "www.freehomosexual.com": {
             "included_at_epoch": 1588468902.0,
             "included_at_iso": "2020-05-03T01:21:42",
-            "last_retested_at_epoch": 1588842762.167978,
-            "last_retested_at_iso": "2020-05-07T09:12:42.167978",
+            "last_retested_at_epoch": 1588932282.880596,
+            "last_retested_at_iso": "2020-05-08T10:04:42.880596",
             "status": "INACTIVE"
         },
         "www.freehornygirls.com": {
@@ -2537,8 +2537,8 @@
         "www.inleadership.co.nz": {
             "included_at_epoch": 1588478652.0,
             "included_at_iso": "2020-05-03T04:04:12",
-            "last_retested_at_epoch": 1588842999.814977,
-            "last_retested_at_iso": "2020-05-07T09:16:39.814977",
+            "last_retested_at_epoch": 1588931918.279378,
+            "last_retested_at_iso": "2020-05-08T09:58:38.279378",
             "status": "INACTIVE"
         },
         "www.keepcolletive.com": {
