@@ -45,8 +45,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1588898710.112589,
-            "last_retested_at_iso": "2020-05-08T00:45:10.112589",
+            "last_retested_at_epoch": 1588994896.824109,
+            "last_retested_at_iso": "2020-05-09T03:28:16.824109",
             "status": "INACTIVE"
         },
         "1000bannerx.free.fr": {
@@ -710,15 +710,15 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1588898710.157906,
-            "last_retested_at_iso": "2020-05-08T00:45:10.157906",
+            "last_retested_at_epoch": 1588994896.881551,
+            "last_retested_at_iso": "2020-05-09T03:28:16.881551",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
             "included_at_epoch": 1588496777.0,
             "included_at_iso": "2020-05-03T09:06:17",
-            "last_retested_at_epoch": 1588869091.83824,
-            "last_retested_at_iso": "2020-05-07T16:31:31.838240",
+            "last_retested_at_epoch": 1588994401.771089,
+            "last_retested_at_iso": "2020-05-09T03:20:01.771089",
             "status": "INACTIVE"
         },
         "www.1-free-share-buttons.com": {
@@ -2404,8 +2404,8 @@
         "www.hunks-hardcore.com": {
             "included_at_epoch": 1585826717.0,
             "included_at_iso": "2020-04-02T11:25:17",
-            "last_retested_at_epoch": 1588904078.082614,
-            "last_retested_at_iso": "2020-05-08T02:14:38.082614",
+            "last_retested_at_epoch": 1588994530.463539,
+            "last_retested_at_iso": "2020-05-09T03:22:10.463539",
             "status": "INACTIVE"
         },
         "www.hunktoons.com": {
