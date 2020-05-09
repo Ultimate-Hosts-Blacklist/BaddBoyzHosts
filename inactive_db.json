@@ -24,8 +24,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1588903947.615967,
-            "last_retested_at_iso": "2020-05-08T02:12:27.615967",
+            "last_retested_at_epoch": 1588999664.79454,
+            "last_retested_at_iso": "2020-05-09T04:47:44.794540",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -486,8 +486,8 @@
         "ayerbo.xhost.ro": {
             "included_at_epoch": 1588142144.0,
             "included_at_iso": "2020-04-29T06:35:44",
-            "last_retested_at_epoch": 1588903944.648914,
-            "last_retested_at_iso": "2020-05-08T02:12:24.648914",
+            "last_retested_at_epoch": 1588999117.170148,
+            "last_retested_at_iso": "2020-05-09T04:38:37.170148",
             "status": "INACTIVE"
         },
         "baby-soft.ca": {
@@ -675,8 +675,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1588903947.732478,
-            "last_retested_at_iso": "2020-05-08T02:12:27.732478",
+            "last_retested_at_epoch": 1588999664.934502,
+            "last_retested_at_iso": "2020-05-09T04:47:44.934502",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -1102,8 +1102,8 @@
         "www.300sk.com": {
             "included_at_epoch": 1588518694.0,
             "included_at_iso": "2020-05-03T15:11:34",
-            "last_retested_at_epoch": 1588904043.49409,
-            "last_retested_at_iso": "2020-05-08T02:14:03.494090",
+            "last_retested_at_epoch": 1588999483.200703,
+            "last_retested_at_iso": "2020-05-09T04:44:43.200703",
             "status": "INACTIVE"
         },
         "www.31seconds.net": {
@@ -1949,8 +1949,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1588898830.029875,
-            "last_retested_at_iso": "2020-05-08T00:47:10.029875",
+            "last_retested_at_epoch": 1588999401.739272,
+            "last_retested_at_iso": "2020-05-09T04:43:21.739272",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
