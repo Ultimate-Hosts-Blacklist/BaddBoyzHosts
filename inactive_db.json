@@ -220,8 +220,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588932203.359995,
-            "last_retested_at_iso": "2020-05-08T10:03:23.359995",
+            "last_retested_at_epoch": 1589027234.583999,
+            "last_retested_at_iso": "2020-05-09T12:27:14.583999",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -465,8 +465,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1588931990.71588,
-            "last_retested_at_iso": "2020-05-08T09:59:50.715880",
+            "last_retested_at_epoch": 1589027652.343284,
+            "last_retested_at_iso": "2020-05-09T12:34:12.343284",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1487,8 +1487,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1588932203.41922,
-            "last_retested_at_iso": "2020-05-08T10:03:23.419220",
+            "last_retested_at_epoch": 1589027234.730748,
+            "last_retested_at_iso": "2020-05-09T12:27:14.730748",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -2047,8 +2047,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1588931990.897193,
-            "last_retested_at_iso": "2020-05-08T09:59:50.897193",
+            "last_retested_at_epoch": 1589027652.202455,
+            "last_retested_at_iso": "2020-05-09T12:34:12.202455",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
@@ -2117,8 +2117,8 @@
         "www.backvids.com": {
             "included_at_epoch": 1588468604.0,
             "included_at_iso": "2020-05-03T01:16:44",
-            "last_retested_at_epoch": 1588937195.335791,
-            "last_retested_at_iso": "2020-05-08T11:26:35.335791",
+            "last_retested_at_epoch": 1589027252.195041,
+            "last_retested_at_iso": "2020-05-09T12:27:32.195041",
             "status": "INACTIVE"
         },
         "www.bagsonsale.online": {
@@ -2166,8 +2166,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1588927822.796524,
-            "last_retested_at_iso": "2020-05-08T08:50:22.796524",
+            "last_retested_at_epoch": 1589027553.698048,
+            "last_retested_at_iso": "2020-05-09T12:32:33.698048",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
@@ -2390,8 +2390,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1588927775.531182,
-            "last_retested_at_iso": "2020-05-08T08:49:35.531182",
+            "last_retested_at_epoch": 1589027381.642898,
+            "last_retested_at_iso": "2020-05-09T12:29:41.642898",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
@@ -2509,8 +2509,8 @@
         "www.ideibiznesa2015.ru": {
             "included_at_epoch": 1588473905.0,
             "included_at_iso": "2020-05-03T02:45:05",
-            "last_retested_at_epoch": 1588927969.691102,
-            "last_retested_at_iso": "2020-05-08T08:52:49.691102",
+            "last_retested_at_epoch": 1589027539.977409,
+            "last_retested_at_iso": "2020-05-09T12:32:19.977409",
             "status": "INACTIVE"
         },
         "www.idkom.com": {
@@ -2537,8 +2537,8 @@
         "www.inleadership.co.nz": {
             "included_at_epoch": 1588478652.0,
             "included_at_iso": "2020-05-03T04:04:12",
-            "last_retested_at_epoch": 1588931918.279378,
-            "last_retested_at_iso": "2020-05-08T09:58:38.279378",
+            "last_retested_at_epoch": 1589027321.989478,
+            "last_retested_at_iso": "2020-05-09T12:28:41.989478",
             "status": "INACTIVE"
         },
         "www.keepcolletive.com": {
