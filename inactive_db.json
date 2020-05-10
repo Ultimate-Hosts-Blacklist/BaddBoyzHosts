@@ -24,8 +24,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1588999664.79454,
-            "last_retested_at_iso": "2020-05-09T04:47:44.794540",
+            "last_retested_at_epoch": 1589086248.291142,
+            "last_retested_at_iso": "2020-05-10T04:50:48.291142",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -45,8 +45,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1588994896.824109,
-            "last_retested_at_iso": "2020-05-09T03:28:16.824109",
+            "last_retested_at_epoch": 1589086162.450948,
+            "last_retested_at_iso": "2020-05-10T04:49:22.450948",
             "status": "INACTIVE"
         },
         "1000bannerx.free.fr": {
@@ -675,8 +675,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1588999664.934502,
-            "last_retested_at_iso": "2020-05-09T04:47:44.934502",
+            "last_retested_at_epoch": 1589086248.401813,
+            "last_retested_at_iso": "2020-05-10T04:50:48.401813",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -710,8 +710,8 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1588994896.881551,
-            "last_retested_at_iso": "2020-05-09T03:28:16.881551",
+            "last_retested_at_epoch": 1589086162.567738,
+            "last_retested_at_iso": "2020-05-10T04:49:22.567738",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
@@ -1102,8 +1102,8 @@
         "www.300sk.com": {
             "included_at_epoch": 1588518694.0,
             "included_at_iso": "2020-05-03T15:11:34",
-            "last_retested_at_epoch": 1588999483.200703,
-            "last_retested_at_iso": "2020-05-09T04:44:43.200703",
+            "last_retested_at_epoch": 1589085936.393573,
+            "last_retested_at_iso": "2020-05-10T04:45:36.393573",
             "status": "INACTIVE"
         },
         "www.31seconds.net": {
@@ -1949,8 +1949,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1588999401.739272,
-            "last_retested_at_iso": "2020-05-09T04:43:21.739272",
+            "last_retested_at_epoch": 1589085894.00507,
+            "last_retested_at_iso": "2020-05-10T04:44:54.005070",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
@@ -2194,8 +2194,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1588985085.966082,
-            "last_retested_at_iso": "2020-05-09T00:44:45.966082",
+            "last_retested_at_epoch": 1589086051.509084,
+            "last_retested_at_iso": "2020-05-10T04:47:31.509084",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
