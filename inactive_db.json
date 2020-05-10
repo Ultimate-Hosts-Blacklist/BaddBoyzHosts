@@ -248,8 +248,8 @@
         "aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1589051724.275781,
-            "last_retested_at_iso": "2020-05-09T19:15:24.275781",
+            "last_retested_at_epoch": 1589138817.863129,
+            "last_retested_at_iso": "2020-05-10T19:26:57.863129",
             "status": "INACTIVE"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -612,8 +612,8 @@
         "hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1589047009.093443,
-            "last_retested_at_iso": "2020-05-09T17:56:49.093443",
+            "last_retested_at_epoch": 1589139118.260777,
+            "last_retested_at_iso": "2020-05-10T19:31:58.260777",
             "status": "INACTIVE"
         },
         "husky-shop.cz": {
@@ -1522,8 +1522,8 @@
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1589051724.287948,
-            "last_retested_at_iso": "2020-05-09T19:15:24.287948",
+            "last_retested_at_epoch": 1589138817.929277,
+            "last_retested_at_iso": "2020-05-10T19:26:57.929277",
             "status": "INACTIVE"
         },
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -2187,8 +2187,8 @@
         "www.cookingyourspanish.com": {
             "included_at_epoch": 1588493130.0,
             "included_at_iso": "2020-05-03T08:05:30",
-            "last_retested_at_epoch": 1589046953.575128,
-            "last_retested_at_iso": "2020-05-09T17:55:53.575128",
+            "last_retested_at_epoch": 1589139243.88954,
+            "last_retested_at_iso": "2020-05-10T19:34:03.889540",
             "status": "INACTIVE"
         },
         "www.coolbar.pro": {
@@ -2418,8 +2418,8 @@
         "www.hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1589047009.091699,
-            "last_retested_at_iso": "2020-05-09T17:56:49.091699",
+            "last_retested_at_epoch": 1589139118.406625,
+            "last_retested_at_iso": "2020-05-10T19:31:58.406625",
             "status": "INACTIVE"
         },
         "www.husky-shop.cz": {
