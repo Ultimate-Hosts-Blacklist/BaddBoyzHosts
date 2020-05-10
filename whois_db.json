@@ -2215,9 +2215,9 @@
         "state": "future"
     },
     "anticodistretto.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "anticosm.com": {
         "epoch": 1609113600.0,
