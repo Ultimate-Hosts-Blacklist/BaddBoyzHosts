@@ -262,8 +262,8 @@
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1589182512.307219,
-            "last_retested_at_iso": "2020-05-11T07:35:12.307219",
+            "last_retested_at_epoch": 1589269487.938826,
+            "last_retested_at_iso": "2020-05-12T07:44:47.938826",
             "status": "INACTIVE"
         },
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -1536,8 +1536,8 @@
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1589182512.336627,
-            "last_retested_at_iso": "2020-05-11T07:35:12.336627",
+            "last_retested_at_epoch": 1589269487.917061,
+            "last_retested_at_iso": "2020-05-12T07:44:47.917061",
             "status": "INACTIVE"
         },
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
