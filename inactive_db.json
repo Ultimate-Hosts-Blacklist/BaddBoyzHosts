@@ -227,8 +227,8 @@
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1589149025.014944,
-            "last_retested_at_iso": "2020-05-10T22:17:05.014944",
+            "last_retested_at_epoch": 1589251437.126022,
+            "last_retested_at_iso": "2020-05-12T02:43:57.126022",
             "status": "INACTIVE"
         },
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -493,8 +493,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589163106.0968,
-            "last_retested_at_iso": "2020-05-11T02:11:46.096800",
+            "last_retested_at_epoch": 1589251317.044352,
+            "last_retested_at_iso": "2020-05-12T02:41:57.044352",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1480,8 +1480,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1589153770.580096,
-            "last_retested_at_iso": "2020-05-10T23:36:10.580096",
+            "last_retested_at_epoch": 1589251499.228137,
+            "last_retested_at_iso": "2020-05-12T02:44:59.228137",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -1494,8 +1494,8 @@
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1589149025.164861,
-            "last_retested_at_iso": "2020-05-10T22:17:05.164861",
+            "last_retested_at_epoch": 1589251437.328426,
+            "last_retested_at_iso": "2020-05-12T02:43:57.328426",
             "status": "INACTIVE"
         },
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -1753,8 +1753,8 @@
         "www.alexxxxpages.info": {
             "included_at_epoch": 1588521880.0,
             "included_at_iso": "2020-05-03T16:04:40",
-            "last_retested_at_epoch": 1589163366.539369,
-            "last_retested_at_iso": "2020-05-11T02:16:06.539369",
+            "last_retested_at_epoch": 1589251381.794199,
+            "last_retested_at_iso": "2020-05-12T02:43:01.794199",
             "status": "INACTIVE"
         },
         "www.alf-img.com": {
@@ -2089,8 +2089,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589163106.097794,
-            "last_retested_at_iso": "2020-05-11T02:11:46.097794",
+            "last_retested_at_epoch": 1589251317.043271,
+            "last_retested_at_iso": "2020-05-12T02:41:57.043271",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2152,8 +2152,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1589163466.999198,
-            "last_retested_at_iso": "2020-05-11T02:17:46.999198",
+            "last_retested_at_epoch": 1589251010.552273,
+            "last_retested_at_iso": "2020-05-12T02:36:50.552273",
             "status": "INACTIVE"
         },
         "www.cineitalia.top": {
@@ -2341,8 +2341,8 @@
         "www.grabbersex.com": {
             "included_at_epoch": 1588515946.0,
             "included_at_iso": "2020-05-03T14:25:46",
-            "last_retested_at_epoch": 1589158865.410632,
-            "last_retested_at_iso": "2020-05-11T01:01:05.410632",
+            "last_retested_at_epoch": 1589251054.29778,
+            "last_retested_at_iso": "2020-05-12T02:37:34.297780",
             "status": "INACTIVE"
         },
         "www.graffcolor.net": {
