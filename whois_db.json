@@ -70,8 +70,8 @@
         "state": "future"
     },
     "03e.info": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "03p.info": {
@@ -927,7 +927,7 @@
     "511a.cn": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "5241.it": {
         "epoch": 1611446400.0,
