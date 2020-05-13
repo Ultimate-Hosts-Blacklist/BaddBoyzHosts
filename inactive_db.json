@@ -185,8 +185,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1589240758.061374,
-            "last_retested_at_iso": "2020-05-11T23:45:58.061374",
+            "last_retested_at_epoch": 1589332585.350545,
+            "last_retested_at_iso": "2020-05-13T01:16:25.350545",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -850,8 +850,8 @@
         "www.15bb51.info": {
             "included_at_epoch": 1588473845.0,
             "included_at_iso": "2020-05-03T02:44:05",
-            "last_retested_at_epoch": 1589226528.79084,
-            "last_retested_at_iso": "2020-05-11T19:48:48.790840",
+            "last_retested_at_epoch": 1589332608.880133,
+            "last_retested_at_iso": "2020-05-13T01:16:48.880133",
             "status": "INACTIVE"
         },
         "www.16aq.cn": {
@@ -1242,8 +1242,8 @@
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1589245954.118978,
-            "last_retested_at_iso": "2020-05-12T01:12:34.118978",
+            "last_retested_at_epoch": 1589332458.056157,
+            "last_retested_at_iso": "2020-05-13T01:14:18.056157",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -1368,8 +1368,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1589240758.135556,
-            "last_retested_at_iso": "2020-05-11T23:45:58.135556",
+            "last_retested_at_epoch": 1589332585.448876,
+            "last_retested_at_iso": "2020-05-13T01:16:25.448876",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1480,8 +1480,8 @@
         "www.99topnn.info": {
             "included_at_epoch": 1588482471.0,
             "included_at_iso": "2020-05-03T05:07:51",
-            "last_retested_at_epoch": 1589231602.887876,
-            "last_retested_at_iso": "2020-05-11T21:13:22.887876",
+            "last_retested_at_epoch": 1589332790.836515,
+            "last_retested_at_iso": "2020-05-13T01:19:50.836515",
             "status": "INACTIVE"
         },
         "www.9c51vda.com": {
