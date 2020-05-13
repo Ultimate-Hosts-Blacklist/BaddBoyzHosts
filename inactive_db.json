@@ -80,8 +80,8 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1589296602.226511,
-            "last_retested_at_iso": "2020-05-12T15:16:42.226511",
+            "last_retested_at_epoch": 1589387156.642982,
+            "last_retested_at_iso": "2020-05-13T16:25:56.642982",
             "status": "INACTIVE"
         },
         "1hour.info": {
@@ -605,8 +605,8 @@
         "graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1589296622.228973,
-            "last_retested_at_iso": "2020-05-12T15:17:02.228973",
+            "last_retested_at_epoch": 1589387356.277469,
+            "last_retested_at_iso": "2020-05-13T16:29:16.277469",
             "status": "INACTIVE"
         },
         "hmuana.com": {
@@ -913,8 +913,8 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1589296602.37795,
-            "last_retested_at_iso": "2020-05-12T15:16:42.377950",
+            "last_retested_at_epoch": 1589387156.730636,
+            "last_retested_at_iso": "2020-05-13T16:25:56.730636",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
@@ -1466,8 +1466,8 @@
         "www.94cdn.com": {
             "included_at_epoch": 1588459703.0,
             "included_at_iso": "2020-05-02T22:48:23",
-            "last_retested_at_epoch": 1589296450.884143,
-            "last_retested_at_iso": "2020-05-12T15:14:10.884143",
+            "last_retested_at_epoch": 1589387469.485247,
+            "last_retested_at_iso": "2020-05-13T16:31:09.485247",
             "status": "INACTIVE"
         },
         "www.98oi.ru": {
@@ -2362,8 +2362,8 @@
         "www.goddessvip.com": {
             "included_at_epoch": 1589119492.912587,
             "included_at_iso": "2020-05-10T14:04:52.912587",
-            "last_retested_at_epoch": 1589296489.491684,
-            "last_retested_at_iso": "2020-05-12T15:14:49.491684",
+            "last_retested_at_epoch": 1589387480.429792,
+            "last_retested_at_iso": "2020-05-13T16:31:20.429792",
             "status": "INACTIVE"
         },
         "www.grabbersex.com": {
@@ -2376,8 +2376,8 @@
         "www.graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1589296622.377466,
-            "last_retested_at_iso": "2020-05-12T15:17:02.377466",
+            "last_retested_at_epoch": 1589387356.256344,
+            "last_retested_at_iso": "2020-05-13T16:29:16.256344",
             "status": "INACTIVE"
         },
         "www.gratis-sexkontakte.com": {
