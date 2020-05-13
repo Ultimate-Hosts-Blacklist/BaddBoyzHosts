@@ -101,8 +101,8 @@
         "247locksmith-tucson.com": {
             "included_at_epoch": 1588445334.0,
             "included_at_iso": "2020-05-02T18:48:54",
-            "last_retested_at_epoch": 1589283168.347982,
-            "last_retested_at_iso": "2020-05-12T11:32:48.347982",
+            "last_retested_at_epoch": 1589371417.546568,
+            "last_retested_at_iso": "2020-05-13T12:03:37.546568",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -199,8 +199,8 @@
         "7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1589282772.967507,
-            "last_retested_at_iso": "2020-05-12T11:26:12.967507",
+            "last_retested_at_epoch": 1589371283.231554,
+            "last_retested_at_iso": "2020-05-13T12:01:23.231554",
             "status": "INACTIVE"
         },
         "86d6.com": {
@@ -647,8 +647,8 @@
         "slowmac.tech": {
             "included_at_epoch": 1588459637.0,
             "included_at_iso": "2020-05-02T22:47:17",
-            "last_retested_at_epoch": 1589282897.06198,
-            "last_retested_at_iso": "2020-05-12T11:28:17.061980",
+            "last_retested_at_epoch": 1589371332.212963,
+            "last_retested_at_iso": "2020-05-13T12:02:12.212963",
             "status": "INACTIVE"
         },
         "ssl.eroscomix.com": {
@@ -976,8 +976,8 @@
         "www.247locksmith-tucson.com": {
             "included_at_epoch": 1588445335.0,
             "included_at_iso": "2020-05-02T18:48:55",
-            "last_retested_at_epoch": 1589283168.478427,
-            "last_retested_at_iso": "2020-05-12T11:32:48.478427",
+            "last_retested_at_epoch": 1589371417.75101,
+            "last_retested_at_iso": "2020-05-13T12:03:37.751010",
             "status": "INACTIVE"
         },
         "www.24holdem.com": {
@@ -1410,8 +1410,8 @@
         "www.7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1589282773.224933,
-            "last_retested_at_iso": "2020-05-12T11:26:13.224933",
+            "last_retested_at_epoch": 1589371282.978589,
+            "last_retested_at_iso": "2020-05-13T12:01:22.978589",
             "status": "INACTIVE"
         },
         "www.7gfs.com": {
@@ -2607,8 +2607,8 @@
         "www.slowmac.tech": {
             "included_at_epoch": 1588459636.0,
             "included_at_iso": "2020-05-02T22:47:16",
-            "last_retested_at_epoch": 1589282892.128533,
-            "last_retested_at_iso": "2020-05-12T11:28:12.128533",
+            "last_retested_at_epoch": 1589371327.286384,
+            "last_retested_at_iso": "2020-05-13T12:02:07.286384",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
