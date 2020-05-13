@@ -500,8 +500,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589251317.044352,
-            "last_retested_at_iso": "2020-05-12T02:41:57.044352",
+            "last_retested_at_epoch": 1589346220.716341,
+            "last_retested_at_iso": "2020-05-13T05:03:40.716341",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1102,8 +1102,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1589255955.050754,
-            "last_retested_at_iso": "2020-05-12T03:59:15.050754",
+            "last_retested_at_epoch": 1589346473.268225,
+            "last_retested_at_iso": "2020-05-13T05:07:53.268225",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1599,8 +1599,8 @@
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
-            "last_retested_at_epoch": 1589256167.413218,
-            "last_retested_at_iso": "2020-05-12T04:02:47.413218",
+            "last_retested_at_epoch": 1589346079.089799,
+            "last_retested_at_iso": "2020-05-13T05:01:19.089799",
             "status": "INACTIVE"
         },
         "www.abahah.com": {
@@ -2117,8 +2117,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589251317.043271,
-            "last_retested_at_iso": "2020-05-12T02:41:57.043271",
+            "last_retested_at_epoch": 1589346220.599426,
+            "last_retested_at_iso": "2020-05-13T05:03:40.599426",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
