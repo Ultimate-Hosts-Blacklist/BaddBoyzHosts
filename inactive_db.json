@@ -24,8 +24,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1589350581.70016,
-            "last_retested_at_iso": "2020-05-13T06:16:21.700160",
+            "last_retested_at_epoch": 1589437306.167807,
+            "last_retested_at_iso": "2020-05-14T06:21:46.167807",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -689,8 +689,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1589350581.723874,
-            "last_retested_at_iso": "2020-05-13T06:16:21.723874",
+            "last_retested_at_epoch": 1589437306.278368,
+            "last_retested_at_iso": "2020-05-14T06:21:46.278368",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -1277,8 +1277,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1589350765.390379,
-            "last_retested_at_iso": "2020-05-13T06:19:25.390379",
+            "last_retested_at_epoch": 1589437261.903818,
+            "last_retested_at_iso": "2020-05-14T06:21:01.903818",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1606,8 +1606,8 @@
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
-            "last_retested_at_epoch": 1589346079.089799,
-            "last_retested_at_iso": "2020-05-13T05:01:19.089799",
+            "last_retested_at_epoch": 1589436958.012949,
+            "last_retested_at_iso": "2020-05-14T06:15:58.012949",
             "status": "INACTIVE"
         },
         "www.abahah.com": {
@@ -2033,8 +2033,8 @@
         "www.andrewrobertsllc.info": {
             "included_at_epoch": 1588509262.0,
             "included_at_iso": "2020-05-03T12:34:22",
-            "last_retested_at_epoch": 1589350941.114688,
-            "last_retested_at_iso": "2020-05-13T06:22:21.114688",
+            "last_retested_at_epoch": 1589437393.307381,
+            "last_retested_at_iso": "2020-05-14T06:23:13.307381",
             "status": "INACTIVE"
         },
         "www.android-style.com": {
@@ -2628,8 +2628,8 @@
         "yunque.pluto.ro": {
             "included_at_epoch": 1588353519.0,
             "included_at_iso": "2020-05-01T17:18:39",
-            "last_retested_at_epoch": 1589314028.567627,
-            "last_retested_at_iso": "2020-05-12T20:07:08.567627",
+            "last_retested_at_epoch": 1589436825.91915,
+            "last_retested_at_iso": "2020-05-14T06:13:45.919150",
             "status": "INACTIVE"
         },
         "zc1.delta-boa.com": {
