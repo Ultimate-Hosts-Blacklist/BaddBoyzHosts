@@ -332,8 +332,8 @@
         "ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1589336974.007361,
-            "last_retested_at_iso": "2020-05-13T02:29:34.007361",
+            "last_retested_at_epoch": 1589425130.372878,
+            "last_retested_at_iso": "2020-05-14T02:58:50.372878",
             "status": "INACTIVE"
         },
         "ad.directanetworks.com": {
@@ -1242,8 +1242,8 @@
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1589332458.056157,
-            "last_retested_at_iso": "2020-05-13T01:14:18.056157",
+            "last_retested_at_epoch": 1589425295.501282,
+            "last_retested_at_iso": "2020-05-14T03:01:35.501282",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -1475,6 +1475,13 @@
             "included_at_iso": "2020-03-03T20:42:24",
             "last_retested_at_epoch": 1583268144.0,
             "last_retested_at_iso": "2020-03-03T20:42:24",
+            "status": "INACTIVE"
+        },
+        "www.999webdesign.com": {
+            "included_at_epoch": 1589425024.082575,
+            "included_at_iso": "2020-05-14T02:57:04.082575",
+            "last_retested_at_epoch": 1589425024.082575,
+            "last_retested_at_iso": "2020-05-14T02:57:04.082575",
             "status": "INACTIVE"
         },
         "www.99topnn.info": {
@@ -1711,8 +1718,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1589336974.033368,
-            "last_retested_at_iso": "2020-05-13T02:29:34.033368",
+            "last_retested_at_epoch": 1589425130.52467,
+            "last_retested_at_iso": "2020-05-14T02:58:50.524670",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
@@ -2012,8 +2019,8 @@
         "www.analsexhard.com": {
             "included_at_epoch": 1588524716.0,
             "included_at_iso": "2020-05-03T16:51:56",
-            "last_retested_at_epoch": 1589337357.802698,
-            "last_retested_at_iso": "2020-05-13T02:35:57.802698",
+            "last_retested_at_epoch": 1589424867.662421,
+            "last_retested_at_iso": "2020-05-14T02:54:27.662421",
             "status": "INACTIVE"
         },
         "www.anchorpoint.co.za": {
