@@ -1746,8 +1746,8 @@
         "www.akzmaihd.net": {
             "included_at_epoch": 1588512570.0,
             "included_at_iso": "2020-05-03T13:29:30",
-            "last_retested_at_epoch": 1589341882.974937,
-            "last_retested_at_iso": "2020-05-13T03:51:22.974937",
+            "last_retested_at_epoch": 1589433225.562027,
+            "last_retested_at_iso": "2020-05-14T05:13:45.562027",
             "status": "INACTIVE"
         },
         "www.alamosupply.com": {
