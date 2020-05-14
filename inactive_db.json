@@ -241,8 +241,8 @@
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
             "included_at_epoch": 1588474015.0,
             "included_at_iso": "2020-05-03T02:46:55",
-            "last_retested_at_epoch": 1589404290.072061,
-            "last_retested_at_iso": "2020-05-13T21:11:30.072061",
+            "last_retested_at_epoch": 1589493792.472707,
+            "last_retested_at_iso": "2020-05-14T22:03:12.472707",
             "status": "INACTIVE"
         },
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
@@ -297,8 +297,8 @@
         "abdl-adult-baby-phone-sex.info": {
             "included_at_epoch": 1588473654.0,
             "included_at_iso": "2020-05-03T02:40:54",
-            "last_retested_at_epoch": 1589404356.997298,
-            "last_retested_at_iso": "2020-05-13T21:12:36.997298",
+            "last_retested_at_epoch": 1589493662.032796,
+            "last_retested_at_iso": "2020-05-14T22:01:02.032796",
             "status": "INACTIVE"
         },
         "abeggs.com": {
@@ -633,15 +633,15 @@
         "ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1589404104.711054,
-            "last_retested_at_iso": "2020-05-13T21:08:24.711054",
+            "last_retested_at_epoch": 1589493443.790526,
+            "last_retested_at_iso": "2020-05-14T21:57:23.790526",
             "status": "INACTIVE"
         },
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1589404245.827846,
-            "last_retested_at_iso": "2020-05-13T21:10:45.827846",
+            "last_retested_at_epoch": 1589493787.000898,
+            "last_retested_at_iso": "2020-05-14T22:03:07.000898",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -1536,8 +1536,8 @@
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
             "included_at_epoch": 1588474015.0,
             "included_at_iso": "2020-05-03T02:46:55",
-            "last_retested_at_epoch": 1589404290.110169,
-            "last_retested_at_iso": "2020-05-13T21:11:30.110169",
+            "last_retested_at_epoch": 1589493792.632651,
+            "last_retested_at_iso": "2020-05-14T22:03:12.632651",
             "status": "INACTIVE"
         },
         "www.aa81bf391151884adfa3dd677e41f94be1.com": {
@@ -1781,8 +1781,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1589395513.096944,
-            "last_retested_at_iso": "2020-05-13T18:45:13.096944",
+            "last_retested_at_epoch": 1589493531.473637,
+            "last_retested_at_iso": "2020-05-14T21:58:51.473637",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -2537,8 +2537,8 @@
         "www.ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1589404104.77104,
-            "last_retested_at_iso": "2020-05-13T21:08:24.771040",
+            "last_retested_at_epoch": 1589493443.608383,
+            "last_retested_at_iso": "2020-05-14T21:57:23.608383",
             "status": "INACTIVE"
         },
         "www.idecoideas.com": {
@@ -2586,8 +2586,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1589404245.95697,
-            "last_retested_at_iso": "2020-05-13T21:10:45.956970",
+            "last_retested_at_epoch": 1589493786.998366,
+            "last_retested_at_iso": "2020-05-14T22:03:06.998366",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
