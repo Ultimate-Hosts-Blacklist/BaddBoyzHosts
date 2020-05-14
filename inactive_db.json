@@ -500,8 +500,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589346220.716341,
-            "last_retested_at_iso": "2020-05-13T05:03:40.716341",
+            "last_retested_at_epoch": 1589441051.794335,
+            "last_retested_at_iso": "2020-05-14T07:24:11.794335",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -710,8 +710,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1589328239.088401,
-            "last_retested_at_iso": "2020-05-13T00:03:59.088401",
+            "last_retested_at_epoch": 1589440838.359706,
+            "last_retested_at_iso": "2020-05-14T07:20:38.359706",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -2124,8 +2124,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589346220.599426,
-            "last_retested_at_iso": "2020-05-13T05:03:40.599426",
+            "last_retested_at_epoch": 1589441051.774022,
+            "last_retested_at_iso": "2020-05-14T07:24:11.774022",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2446,8 +2446,8 @@
         "www.hunks-hardcore.com": {
             "included_at_epoch": 1585826717.0,
             "included_at_iso": "2020-04-02T11:25:17",
-            "last_retested_at_epoch": 1589350995.366215,
-            "last_retested_at_iso": "2020-05-13T06:23:15.366215",
+            "last_retested_at_epoch": 1589440691.403543,
+            "last_retested_at_iso": "2020-05-14T07:18:11.403543",
             "status": "INACTIVE"
         },
         "www.hunktoons.com": {
