@@ -1039,8 +1039,8 @@
         "www.2anal.net": {
             "included_at_epoch": 1588445185.0,
             "included_at_iso": "2020-05-02T18:46:25",
-            "last_retested_at_epoch": 1589359582.141061,
-            "last_retested_at_iso": "2020-05-13T08:46:22.141061",
+            "last_retested_at_epoch": 1589448825.566128,
+            "last_retested_at_iso": "2020-05-14T09:33:45.566128",
             "status": "INACTIVE"
         },
         "www.2cam.nl": {
@@ -1326,8 +1326,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1589355369.755191,
-            "last_retested_at_iso": "2020-05-13T07:36:09.755191",
+            "last_retested_at_epoch": 1589448658.972065,
+            "last_retested_at_iso": "2020-05-14T09:30:58.972065",
             "status": "INACTIVE"
         },
         "www.65xps.com": {
