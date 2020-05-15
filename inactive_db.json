@@ -24,8 +24,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1589437306.167807,
-            "last_retested_at_iso": "2020-05-14T06:21:46.167807",
+            "last_retested_at_epoch": 1589525111.005117,
+            "last_retested_at_iso": "2020-05-15T06:45:11.005117",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -234,8 +234,8 @@
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1589429346.025181,
-            "last_retested_at_iso": "2020-05-14T04:09:06.025181",
+            "last_retested_at_epoch": 1589524620.488506,
+            "last_retested_at_iso": "2020-05-15T06:37:00.488506",
             "status": "INACTIVE"
         },
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -689,8 +689,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1589437306.278368,
-            "last_retested_at_iso": "2020-05-14T06:21:46.278368",
+            "last_retested_at_epoch": 1589525111.2401,
+            "last_retested_at_iso": "2020-05-15T06:45:11.240100",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -1277,8 +1277,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1589437261.903818,
-            "last_retested_at_iso": "2020-05-14T06:21:01.903818",
+            "last_retested_at_epoch": 1589524839.395123,
+            "last_retested_at_iso": "2020-05-15T06:40:39.395123",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1536,8 +1536,8 @@
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1589429346.10961,
-            "last_retested_at_iso": "2020-05-14T04:09:06.109610",
+            "last_retested_at_epoch": 1589524620.602402,
+            "last_retested_at_iso": "2020-05-15T06:37:00.602402",
             "status": "INACTIVE"
         },
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -2026,8 +2026,8 @@
         "www.analsexhard.com": {
             "included_at_epoch": 1588524716.0,
             "included_at_iso": "2020-05-03T16:51:56",
-            "last_retested_at_epoch": 1589424867.662421,
-            "last_retested_at_iso": "2020-05-14T02:54:27.662421",
+            "last_retested_at_epoch": 1589525117.027343,
+            "last_retested_at_iso": "2020-05-15T06:45:17.027343",
             "status": "INACTIVE"
         },
         "www.anchorpoint.co.za": {
@@ -2194,8 +2194,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1589429216.263105,
-            "last_retested_at_iso": "2020-05-14T04:06:56.263105",
+            "last_retested_at_epoch": 1589524894.226607,
+            "last_retested_at_iso": "2020-05-15T06:41:34.226607",
             "status": "INACTIVE"
         },
         "www.cineitalia.top": {
