@@ -633,15 +633,15 @@
         "ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1589493443.790526,
-            "last_retested_at_iso": "2020-05-14T21:57:23.790526",
+            "last_retested_at_epoch": 1589581011.892703,
+            "last_retested_at_iso": "2020-05-15T22:16:51.892703",
             "status": "INACTIVE"
         },
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1589493787.000898,
-            "last_retested_at_iso": "2020-05-14T22:03:07.000898",
+            "last_retested_at_epoch": 1589581279.423555,
+            "last_retested_at_iso": "2020-05-15T22:21:19.423555",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -843,8 +843,8 @@
         "www.138shenbosbo.com": {
             "included_at_epoch": 1588464180.0,
             "included_at_iso": "2020-05-03T00:03:00",
-            "last_retested_at_epoch": 1589489442.68727,
-            "last_retested_at_iso": "2020-05-14T20:50:42.687270",
+            "last_retested_at_epoch": 1589581337.840219,
+            "last_retested_at_iso": "2020-05-15T22:22:17.840219",
             "status": "INACTIVE"
         },
         "www.15bb51.info": {
@@ -1788,8 +1788,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1589493531.473637,
-            "last_retested_at_iso": "2020-05-14T21:58:51.473637",
+            "last_retested_at_epoch": 1589581110.191352,
+            "last_retested_at_iso": "2020-05-15T22:18:30.191352",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -1914,8 +1914,8 @@
         "www.amateursconvert.com": {
             "included_at_epoch": 1588449899.0,
             "included_at_iso": "2020-05-02T20:04:59",
-            "last_retested_at_epoch": 1589484470.24748,
-            "last_retested_at_iso": "2020-05-14T19:27:50.247480",
+            "last_retested_at_epoch": 1589581434.919787,
+            "last_retested_at_iso": "2020-05-15T22:23:54.919787",
             "status": "INACTIVE"
         },
         "www.amateursexplace.com": {
@@ -2544,8 +2544,8 @@
         "www.ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1589493443.608383,
-            "last_retested_at_iso": "2020-05-14T21:57:23.608383",
+            "last_retested_at_epoch": 1589581012.089471,
+            "last_retested_at_iso": "2020-05-15T22:16:52.089471",
             "status": "INACTIVE"
         },
         "www.idecoideas.com": {
@@ -2593,8 +2593,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1589493786.998366,
-            "last_retested_at_iso": "2020-05-14T22:03:06.998366",
+            "last_retested_at_epoch": 1589581279.258429,
+            "last_retested_at_iso": "2020-05-15T22:21:19.258429",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
