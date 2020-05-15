@@ -1333,8 +1333,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1589448658.972065,
-            "last_retested_at_iso": "2020-05-14T09:30:58.972065",
+            "last_retested_at_epoch": 1589538768.958505,
+            "last_retested_at_iso": "2020-05-15T10:32:48.958505",
             "status": "INACTIVE"
         },
         "www.65xps.com": {
@@ -1522,8 +1522,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1589444700.382887,
-            "last_retested_at_iso": "2020-05-14T08:25:00.382887",
+            "last_retested_at_epoch": 1589538556.092318,
+            "last_retested_at_iso": "2020-05-15T10:29:16.092318",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
