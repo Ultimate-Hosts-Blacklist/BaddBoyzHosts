@@ -59,8 +59,8 @@
         "103.hosting-5.xtream.co.il": {
             "included_at_epoch": 1588395394.0,
             "included_at_iso": "2020-05-02T04:56:34",
-            "last_retested_at_epoch": 1588395394.0,
-            "last_retested_at_iso": "2020-05-02T04:56:34",
+            "last_retested_at_epoch": 1589661698.576423,
+            "last_retested_at_iso": "2020-05-16T20:41:38.576423",
             "status": "INACTIVE"
         },
         "123.fluxads.com": {
@@ -80,8 +80,8 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1589571964.498825,
-            "last_retested_at_iso": "2020-05-15T19:46:04.498825",
+            "last_retested_at_epoch": 1589661771.596689,
+            "last_retested_at_iso": "2020-05-16T20:42:51.596689",
             "status": "INACTIVE"
         },
         "1hour.info": {
@@ -913,8 +913,8 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1589571964.691919,
-            "last_retested_at_iso": "2020-05-15T19:46:04.691919",
+            "last_retested_at_epoch": 1589661771.679109,
+            "last_retested_at_iso": "2020-05-16T20:42:51.679109",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
@@ -1116,8 +1116,8 @@
         "www.3-gay.com": {
             "included_at_epoch": 1588478504.0,
             "included_at_iso": "2020-05-03T04:01:44",
-            "last_retested_at_epoch": 1589571591.090686,
-            "last_retested_at_iso": "2020-05-15T19:39:51.090686",
+            "last_retested_at_epoch": 1589662089.859458,
+            "last_retested_at_iso": "2020-05-16T20:48:09.859458",
             "status": "INACTIVE"
         },
         "www.3-letter-domains.net": {
@@ -1473,8 +1473,8 @@
         "www.94cdn.com": {
             "included_at_epoch": 1588459703.0,
             "included_at_iso": "2020-05-02T22:48:23",
-            "last_retested_at_epoch": 1589572012.949146,
-            "last_retested_at_iso": "2020-05-15T19:46:52.949146",
+            "last_retested_at_epoch": 1589661908.955842,
+            "last_retested_at_iso": "2020-05-16T20:45:08.955842",
             "status": "INACTIVE"
         },
         "www.98oi.ru": {
@@ -1557,8 +1557,8 @@
         "www.aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588464287.0,
             "included_at_iso": "2020-05-03T00:04:47",
-            "last_retested_at_epoch": 1589571897.510003,
-            "last_retested_at_iso": "2020-05-15T19:44:57.510003",
+            "last_retested_at_epoch": 1589661876.431083,
+            "last_retested_at_iso": "2020-05-16T20:44:36.431083",
             "status": "INACTIVE"
         },
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
@@ -2278,8 +2278,8 @@
         "www.eu-survey.com": {
             "included_at_epoch": 1588473937.0,
             "included_at_iso": "2020-05-03T02:45:37",
-            "last_retested_at_epoch": 1589553335.261409,
-            "last_retested_at_iso": "2020-05-15T14:35:35.261409",
+            "last_retested_at_epoch": 1589662146.929519,
+            "last_retested_at_iso": "2020-05-16T20:49:06.929519",
             "status": "INACTIVE"
         },
         "www.euuaa.com": {
@@ -2383,8 +2383,8 @@
         "www.goddessvip.com": {
             "included_at_epoch": 1589119492.912587,
             "included_at_iso": "2020-05-10T14:04:52.912587",
-            "last_retested_at_epoch": 1589571885.893838,
-            "last_retested_at_iso": "2020-05-15T19:44:45.893838",
+            "last_retested_at_epoch": 1589661850.489619,
+            "last_retested_at_iso": "2020-05-16T20:44:10.489619",
             "status": "INACTIVE"
         },
         "www.grabbersex.com": {
@@ -2439,8 +2439,8 @@
         "www.hugoparisescort.com": {
             "included_at_epoch": 1588490033.0,
             "included_at_iso": "2020-05-03T07:13:53",
-            "last_retested_at_epoch": 1589572009.49602,
-            "last_retested_at_iso": "2020-05-15T19:46:49.496020",
+            "last_retested_at_epoch": 1589661758.447888,
+            "last_retested_at_iso": "2020-05-16T20:42:38.447888",
             "status": "INACTIVE"
         },
         "www.humanelydrew.com": {
