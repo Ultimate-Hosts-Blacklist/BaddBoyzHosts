@@ -444,8 +444,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1589516125.760409,
-            "last_retested_at_iso": "2020-05-15T04:15:25.760409",
+            "last_retested_at_epoch": 1589610426.783274,
+            "last_retested_at_iso": "2020-05-16T06:27:06.783274",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -619,8 +619,8 @@
         "hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1589520286.766985,
-            "last_retested_at_iso": "2020-05-15T05:24:46.766985",
+            "last_retested_at_epoch": 1589610572.445387,
+            "last_retested_at_iso": "2020-05-16T06:29:32.445387",
             "status": "INACTIVE"
         },
         "husky-shop.cz": {
@@ -1242,8 +1242,8 @@
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1589520609.35431,
-            "last_retested_at_iso": "2020-05-15T05:30:09.354310",
+            "last_retested_at_epoch": 1589610498.787117,
+            "last_retested_at_iso": "2020-05-16T06:28:18.787117",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -1403,8 +1403,8 @@
         "www.6stuff.com": {
             "included_at_epoch": 1588515640.0,
             "included_at_iso": "2020-05-03T14:20:40",
-            "last_retested_at_epoch": 1589506756.894085,
-            "last_retested_at_iso": "2020-05-15T01:39:16.894085",
+            "last_retested_at_epoch": 1589610564.980452,
+            "last_retested_at_iso": "2020-05-16T06:29:24.980452",
             "status": "INACTIVE"
         },
         "www.72impala.com": {
@@ -1753,8 +1753,8 @@
         "www.akzmaihd.net": {
             "included_at_epoch": 1588512570.0,
             "included_at_iso": "2020-05-03T13:29:30",
-            "last_retested_at_epoch": 1589520269.036004,
-            "last_retested_at_iso": "2020-05-15T05:24:29.036004",
+            "last_retested_at_epoch": 1589610669.442331,
+            "last_retested_at_iso": "2020-05-16T06:31:09.442331",
             "status": "INACTIVE"
         },
         "www.alamosupply.com": {
@@ -2390,8 +2390,8 @@
         "www.grabbersex.com": {
             "included_at_epoch": 1588515946.0,
             "included_at_iso": "2020-05-03T14:25:46",
-            "last_retested_at_epoch": 1589515599.419421,
-            "last_retested_at_iso": "2020-05-15T04:06:39.419421",
+            "last_retested_at_epoch": 1589610641.573932,
+            "last_retested_at_iso": "2020-05-16T06:30:41.573932",
             "status": "INACTIVE"
         },
         "www.graffcolor.net": {
@@ -2467,8 +2467,8 @@
         "www.hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1589520286.663398,
-            "last_retested_at_iso": "2020-05-15T05:24:46.663398",
+            "last_retested_at_epoch": 1589610572.424333,
+            "last_retested_at_iso": "2020-05-16T06:29:32.424333",
             "status": "INACTIVE"
         },
         "www.husky-shop.cz": {
