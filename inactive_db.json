@@ -45,8 +45,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1589533683.423411,
-            "last_retested_at_iso": "2020-05-15T09:08:03.423411",
+            "last_retested_at_epoch": 1589626571.494198,
+            "last_retested_at_iso": "2020-05-16T10:56:11.494198",
             "status": "INACTIVE"
         },
         "1000bannerx.free.fr": {
@@ -332,8 +332,8 @@
         "ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1589515915.941856,
-            "last_retested_at_iso": "2020-05-15T04:11:55.941856",
+            "last_retested_at_epoch": 1589626424.175136,
+            "last_retested_at_iso": "2020-05-16T10:53:44.175136",
             "status": "INACTIVE"
         },
         "ad.directanetworks.com": {
@@ -731,8 +731,8 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1589533683.422347,
-            "last_retested_at_iso": "2020-05-15T09:08:03.422347",
+            "last_retested_at_epoch": 1589626571.55376,
+            "last_retested_at_iso": "2020-05-16T10:56:11.553760",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
@@ -1158,8 +1158,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1589533698.56101,
-            "last_retested_at_iso": "2020-05-15T09:08:18.561010",
+            "last_retested_at_epoch": 1589626469.105961,
+            "last_retested_at_iso": "2020-05-16T10:54:29.105961",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1725,8 +1725,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1589515915.940759,
-            "last_retested_at_iso": "2020-05-15T04:11:55.940759",
+            "last_retested_at_epoch": 1589626424.147169,
+            "last_retested_at_iso": "2020-05-16T10:53:44.147169",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
