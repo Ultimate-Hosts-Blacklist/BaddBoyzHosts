@@ -1739,8 +1739,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1589515959.131963,
-            "last_retested_at_iso": "2020-05-15T04:12:39.131963",
+            "last_retested_at_epoch": 1589602843.303166,
+            "last_retested_at_iso": "2020-05-16T04:20:43.303166",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -1837,8 +1837,8 @@
         "www.alhijaztrvl.com": {
             "included_at_epoch": 1588486047.0,
             "included_at_iso": "2020-05-03T06:07:27",
-            "last_retested_at_epoch": 1589506642.502667,
-            "last_retested_at_iso": "2020-05-15T01:37:22.502667",
+            "last_retested_at_epoch": 1589602536.983908,
+            "last_retested_at_iso": "2020-05-16T04:15:36.983908",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2145,8 +2145,8 @@
         "www.bacanal.cl": {
             "included_at_epoch": 1588459170.0,
             "included_at_iso": "2020-05-02T22:39:30",
-            "last_retested_at_epoch": 1589489011.358646,
-            "last_retested_at_iso": "2020-05-14T20:43:31.358646",
+            "last_retested_at_epoch": 1589602787.877013,
+            "last_retested_at_iso": "2020-05-16T04:19:47.877013",
             "status": "INACTIVE"
         },
         "www.backonline.info": {
@@ -2208,8 +2208,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1589511321.819254,
-            "last_retested_at_iso": "2020-05-15T02:55:21.819254",
+            "last_retested_at_epoch": 1589602498.014815,
+            "last_retested_at_iso": "2020-05-16T04:14:58.014815",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
@@ -2271,8 +2271,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1589506650.166221,
-            "last_retested_at_iso": "2020-05-15T01:37:30.166221",
+            "last_retested_at_epoch": 1589602647.378678,
+            "last_retested_at_iso": "2020-05-16T04:17:27.378678",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
@@ -2593,8 +2593,8 @@
         "www.inleadership.co.nz": {
             "included_at_epoch": 1588478652.0,
             "included_at_iso": "2020-05-03T04:04:12",
-            "last_retested_at_epoch": 1589516071.531615,
-            "last_retested_at_iso": "2020-05-15T04:14:31.531615",
+            "last_retested_at_epoch": 1589602794.470723,
+            "last_retested_at_iso": "2020-05-16T04:19:54.470723",
             "status": "INACTIVE"
         },
         "www.keepcolletive.com": {
