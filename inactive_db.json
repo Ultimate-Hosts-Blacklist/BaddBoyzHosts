@@ -24,8 +24,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1589614383.625426,
-            "last_retested_at_iso": "2020-05-16T07:33:03.625426",
+            "last_retested_at_epoch": 1589707094.841798,
+            "last_retested_at_iso": "2020-05-17T09:18:14.841798",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -150,8 +150,8 @@
         "3xit.net": {
             "included_at_epoch": 1588473938.0,
             "included_at_iso": "2020-05-03T02:45:38",
-            "last_retested_at_epoch": 1589618330.113907,
-            "last_retested_at_iso": "2020-05-16T08:38:50.113907",
+            "last_retested_at_epoch": 1589707422.359354,
+            "last_retested_at_iso": "2020-05-17T09:23:42.359354",
             "status": "INACTIVE"
         },
         "50centstreetkingimmortal.com": {
@@ -234,8 +234,8 @@
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1589614129.668134,
-            "last_retested_at_iso": "2020-05-16T07:28:49.668134",
+            "last_retested_at_epoch": 1589707163.629151,
+            "last_retested_at_iso": "2020-05-17T09:19:23.629151",
             "status": "INACTIVE"
         },
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -500,8 +500,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589618514.933922,
-            "last_retested_at_iso": "2020-05-16T08:41:54.933922",
+            "last_retested_at_epoch": 1589707313.235852,
+            "last_retested_at_iso": "2020-05-17T09:21:53.235852",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -689,8 +689,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1589614383.701033,
-            "last_retested_at_iso": "2020-05-16T07:33:03.701033",
+            "last_retested_at_epoch": 1589707094.911116,
+            "last_retested_at_iso": "2020-05-17T09:18:14.911116",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -710,8 +710,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1589618707.45254,
-            "last_retested_at_iso": "2020-05-16T08:45:07.452540",
+            "last_retested_at_epoch": 1589707004.417433,
+            "last_retested_at_iso": "2020-05-17T09:16:44.417433",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1214,8 +1214,8 @@
         "www.3xit.net": {
             "included_at_epoch": 1588473939.0,
             "included_at_iso": "2020-05-03T02:45:39",
-            "last_retested_at_epoch": 1589618330.112962,
-            "last_retested_at_iso": "2020-05-16T08:38:50.112962",
+            "last_retested_at_epoch": 1589707422.41127,
+            "last_retested_at_iso": "2020-05-17T09:23:42.411270",
             "status": "INACTIVE"
         },
         "www.423.ru": {
@@ -1277,8 +1277,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1589618245.894526,
-            "last_retested_at_iso": "2020-05-16T08:37:25.894526",
+            "last_retested_at_epoch": 1589707127.893621,
+            "last_retested_at_iso": "2020-05-17T09:18:47.893621",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1536,8 +1536,8 @@
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1589614129.634875,
-            "last_retested_at_iso": "2020-05-16T07:28:49.634875",
+            "last_retested_at_epoch": 1589707163.628084,
+            "last_retested_at_iso": "2020-05-17T09:19:23.628084",
             "status": "INACTIVE"
         },
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -1613,8 +1613,8 @@
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
-            "last_retested_at_epoch": 1589618551.971446,
-            "last_retested_at_iso": "2020-05-16T08:42:31.971446",
+            "last_retested_at_epoch": 1589707325.9854,
+            "last_retested_at_iso": "2020-05-17T09:22:05.985400",
             "status": "INACTIVE"
         },
         "www.abahah.com": {
@@ -1739,8 +1739,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1589602843.303166,
-            "last_retested_at_iso": "2020-05-16T04:20:43.303166",
+            "last_retested_at_epoch": 1589707023.71837,
+            "last_retested_at_iso": "2020-05-17T09:17:03.718370",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2026,8 +2026,8 @@
         "www.analsexhard.com": {
             "included_at_epoch": 1588524716.0,
             "included_at_iso": "2020-05-03T16:51:56",
-            "last_retested_at_epoch": 1589618801.551491,
-            "last_retested_at_iso": "2020-05-16T08:46:41.551491",
+            "last_retested_at_epoch": 1589707291.258875,
+            "last_retested_at_iso": "2020-05-17T09:21:31.258875",
             "status": "INACTIVE"
         },
         "www.anchorpoint.co.za": {
@@ -2131,8 +2131,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589618514.960941,
-            "last_retested_at_iso": "2020-05-16T08:41:54.960941",
+            "last_retested_at_epoch": 1589707313.217318,
+            "last_retested_at_iso": "2020-05-17T09:21:53.217318",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2194,8 +2194,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1589614306.594574,
-            "last_retested_at_iso": "2020-05-16T07:31:46.594574",
+            "last_retested_at_epoch": 1589707105.516751,
+            "last_retested_at_iso": "2020-05-17T09:18:25.516751",
             "status": "INACTIVE"
         },
         "www.cineitalia.top": {
