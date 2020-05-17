@@ -1,5 +1,12 @@
 {
     "api_call": {
+        "000owamail0.000webhostapp.com": {
+            "included_at_epoch": 1589716056.501572,
+            "included_at_iso": "2020-05-17T11:47:36.501572",
+            "last_retested_at_epoch": 1589716056.501572,
+            "last_retested_at_iso": "2020-05-17T11:47:36.501572",
+            "status": "INACTIVE"
+        },
         "000tristanprod.free.fr": {
             "included_at_epoch": 1588344941.0,
             "included_at_iso": "2020-05-01T14:55:41",
@@ -332,8 +339,8 @@
         "ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1589626424.175136,
-            "last_retested_at_iso": "2020-05-16T10:53:44.175136",
+            "last_retested_at_epoch": 1589715827.188888,
+            "last_retested_at_iso": "2020-05-17T11:43:47.188888",
             "status": "INACTIVE"
         },
         "ad.directanetworks.com": {
@@ -1102,8 +1109,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1589622662.430974,
-            "last_retested_at_iso": "2020-05-16T09:51:02.430974",
+            "last_retested_at_epoch": 1589715594.713144,
+            "last_retested_at_iso": "2020-05-17T11:39:54.713144",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1725,8 +1732,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1589626424.147169,
-            "last_retested_at_iso": "2020-05-16T10:53:44.147169",
+            "last_retested_at_epoch": 1589715827.231953,
+            "last_retested_at_iso": "2020-05-17T11:43:47.231953",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
@@ -2040,8 +2047,8 @@
         "www.andrewrobertsllc.info": {
             "included_at_epoch": 1588509262.0,
             "included_at_iso": "2020-05-03T12:34:22",
-            "last_retested_at_epoch": 1589622608.060351,
-            "last_retested_at_iso": "2020-05-16T09:50:08.060351",
+            "last_retested_at_epoch": 1589715998.020003,
+            "last_retested_at_iso": "2020-05-17T11:46:38.020003",
             "status": "INACTIVE"
         },
         "www.android-style.com": {
@@ -2236,8 +2243,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1589622628.984366,
-            "last_retested_at_iso": "2020-05-16T09:50:28.984366",
+            "last_retested_at_epoch": 1589715912.654816,
+            "last_retested_at_iso": "2020-05-17T11:45:12.654816",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
