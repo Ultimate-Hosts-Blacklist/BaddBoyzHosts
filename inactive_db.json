@@ -227,8 +227,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1589606585.512164,
-            "last_retested_at_iso": "2020-05-16T05:23:05.512164",
+            "last_retested_at_epoch": 1589702762.925034,
+            "last_retested_at_iso": "2020-05-17T08:06:02.925034",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -444,8 +444,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1589610426.783274,
-            "last_retested_at_iso": "2020-05-16T06:27:06.783274",
+            "last_retested_at_epoch": 1589702977.781209,
+            "last_retested_at_iso": "2020-05-17T08:09:37.781209",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -1207,8 +1207,8 @@
         "www.3wt4c.com": {
             "included_at_epoch": 1588459713.0,
             "included_at_iso": "2020-05-02T22:48:33",
-            "last_retested_at_epoch": 1589598559.132422,
-            "last_retested_at_iso": "2020-05-16T03:09:19.132422",
+            "last_retested_at_epoch": 1589702819.325866,
+            "last_retested_at_iso": "2020-05-17T08:06:59.325866",
             "status": "INACTIVE"
         },
         "www.3xit.net": {
@@ -1529,8 +1529,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1589606585.693958,
-            "last_retested_at_iso": "2020-05-16T05:23:05.693958",
+            "last_retested_at_epoch": 1589702763.179709,
+            "last_retested_at_iso": "2020-05-17T08:06:03.179709",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1865,8 +1865,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1589614108.918698,
-            "last_retested_at_iso": "2020-05-16T07:28:28.918698",
+            "last_retested_at_epoch": 1589702838.490942,
+            "last_retested_at_iso": "2020-05-17T08:07:18.490942",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
