@@ -52,8 +52,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1589626571.494198,
-            "last_retested_at_iso": "2020-05-16T10:56:11.494198",
+            "last_retested_at_epoch": 1589724067.436481,
+            "last_retested_at_iso": "2020-05-17T14:01:07.436481",
             "status": "INACTIVE"
         },
         "1000bannerx.free.fr": {
@@ -255,8 +255,8 @@
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588493262.0,
             "included_at_iso": "2020-05-03T08:07:42",
-            "last_retested_at_epoch": 1589634728.814055,
-            "last_retested_at_iso": "2020-05-16T13:12:08.814055",
+            "last_retested_at_epoch": 1589723835.680945,
+            "last_retested_at_iso": "2020-05-17T13:57:15.680945",
             "status": "INACTIVE"
         },
         "aa9d046aab36af4ff182f097f840430d51.com": {
@@ -738,8 +738,8 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1589626571.55376,
-            "last_retested_at_iso": "2020-05-16T10:56:11.553760",
+            "last_retested_at_epoch": 1589724067.512411,
+            "last_retested_at_iso": "2020-05-17T14:01:07.512411",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
@@ -1998,8 +1998,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1589634508.856164,
-            "last_retested_at_iso": "2020-05-16T13:08:28.856164",
+            "last_retested_at_epoch": 1589723848.126801,
+            "last_retested_at_iso": "2020-05-17T13:57:28.126801",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
