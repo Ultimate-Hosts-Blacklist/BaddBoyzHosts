@@ -108,8 +108,8 @@
         "247locksmith-tucson.com": {
             "included_at_epoch": 1588445334.0,
             "included_at_iso": "2020-05-02T18:48:54",
-            "last_retested_at_epoch": 1589638150.997165,
-            "last_retested_at_iso": "2020-05-16T14:09:10.997165",
+            "last_retested_at_epoch": 1589728617.800466,
+            "last_retested_at_iso": "2020-05-17T15:16:57.800466",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -276,15 +276,15 @@
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1589630692.256487,
-            "last_retested_at_iso": "2020-05-16T12:04:52.256487",
+            "last_retested_at_epoch": 1589728398.250841,
+            "last_retested_at_iso": "2020-05-17T15:13:18.250841",
             "status": "INACTIVE"
         },
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482757.0,
             "included_at_iso": "2020-05-03T05:12:37",
-            "last_retested_at_epoch": 1589642246.835017,
-            "last_retested_at_iso": "2020-05-16T15:17:26.835017",
+            "last_retested_at_epoch": 1589728659.649088,
+            "last_retested_at_iso": "2020-05-17T15:17:39.649088",
             "status": "INACTIVE"
         },
         "aasoldes.fr": {
@@ -983,8 +983,8 @@
         "www.247locksmith-tucson.com": {
             "included_at_epoch": 1588445335.0,
             "included_at_iso": "2020-05-02T18:48:55",
-            "last_retested_at_epoch": 1589638150.996079,
-            "last_retested_at_iso": "2020-05-16T14:09:10.996079",
+            "last_retested_at_epoch": 1589728617.892858,
+            "last_retested_at_iso": "2020-05-17T15:16:57.892858",
             "status": "INACTIVE"
         },
         "www.24holdem.com": {
@@ -1200,8 +1200,8 @@
         "www.3jmcwio.com": {
             "included_at_epoch": 1588521937.0,
             "included_at_iso": "2020-05-03T16:05:37",
-            "last_retested_at_epoch": 1589638303.747975,
-            "last_retested_at_iso": "2020-05-16T14:11:43.747975",
+            "last_retested_at_epoch": 1589728440.919483,
+            "last_retested_at_iso": "2020-05-17T15:14:00.919483",
             "status": "INACTIVE"
         },
         "www.3lm.info": {
@@ -1340,8 +1340,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1589634573.934436,
-            "last_retested_at_iso": "2020-05-16T13:09:33.934436",
+            "last_retested_at_epoch": 1589728619.090401,
+            "last_retested_at_iso": "2020-05-17T15:16:59.090401",
             "status": "INACTIVE"
         },
         "www.65xps.com": {
@@ -1529,8 +1529,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1589638251.065254,
-            "last_retested_at_iso": "2020-05-16T14:10:51.065254",
+            "last_retested_at_epoch": 1589728270.56428,
+            "last_retested_at_iso": "2020-05-17T15:11:10.564280",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -1585,15 +1585,15 @@
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1589630692.331369,
-            "last_retested_at_iso": "2020-05-16T12:04:52.331369",
+            "last_retested_at_epoch": 1589728398.270658,
+            "last_retested_at_iso": "2020-05-17T15:13:18.270658",
             "status": "INACTIVE"
         },
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482758.0,
             "included_at_iso": "2020-05-03T05:12:38",
-            "last_retested_at_epoch": 1589642246.896123,
-            "last_retested_at_iso": "2020-05-16T15:17:26.896123",
+            "last_retested_at_epoch": 1589728659.761098,
+            "last_retested_at_iso": "2020-05-17T15:17:39.761098",
             "status": "INACTIVE"
         },
         "www.aapz.com": {
