@@ -87,8 +87,8 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1589751251.798576,
-            "last_retested_at_iso": "2020-05-17T21:34:11.798576",
+            "last_retested_at_epoch": 1589840604.960396,
+            "last_retested_at_iso": "2020-05-18T22:23:24.960396",
             "status": "INACTIVE"
         },
         "1hour.info": {
@@ -920,8 +920,8 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1589751251.65675,
-            "last_retested_at_iso": "2020-05-17T21:34:11.656750",
+            "last_retested_at_epoch": 1589840604.905079,
+            "last_retested_at_iso": "2020-05-18T22:23:24.905079",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
@@ -2285,8 +2285,8 @@
         "www.eu-survey.com": {
             "included_at_epoch": 1588473937.0,
             "included_at_iso": "2020-05-03T02:45:37",
-            "last_retested_at_epoch": 1589751440.968492,
-            "last_retested_at_iso": "2020-05-17T21:37:20.968492",
+            "last_retested_at_epoch": 1589840428.441108,
+            "last_retested_at_iso": "2020-05-18T22:20:28.441108",
             "status": "INACTIVE"
         },
         "www.euuaa.com": {
@@ -2642,8 +2642,8 @@
         "yuarra.pluto.ro": {
             "included_at_epoch": 1588418326.0,
             "included_at_iso": "2020-05-02T11:18:46",
-            "last_retested_at_epoch": 1589638559.025217,
-            "last_retested_at_iso": "2020-05-16T14:15:59.025217",
+            "last_retested_at_epoch": 1589840803.783391,
+            "last_retested_at_iso": "2020-05-18T22:26:43.783391",
             "status": "INACTIVE"
         },
         "yunque.pluto.ro": {
