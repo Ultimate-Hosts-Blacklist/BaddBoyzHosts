@@ -2467,8 +2467,8 @@
         "www.hunks-hardcore.com": {
             "included_at_epoch": 1585826717.0,
             "included_at_iso": "2020-04-02T11:25:17",
-            "last_retested_at_epoch": 1589720080.660656,
-            "last_retested_at_iso": "2020-05-17T12:54:40.660656",
+            "last_retested_at_epoch": 1589808680.534101,
+            "last_retested_at_iso": "2020-05-18T13:31:20.534101",
             "status": "INACTIVE"
         },
         "www.hunktoons.com": {
@@ -2649,8 +2649,8 @@
         "yunque.pluto.ro": {
             "included_at_epoch": 1588353519.0,
             "included_at_iso": "2020-05-01T17:18:39",
-            "last_retested_at_epoch": 1589571840.638119,
-            "last_retested_at_iso": "2020-05-15T19:44:00.638119",
+            "last_retested_at_epoch": 1589808392.209097,
+            "last_retested_at_iso": "2020-05-18T13:26:32.209097",
             "status": "INACTIVE"
         },
         "zc1.delta-boa.com": {
