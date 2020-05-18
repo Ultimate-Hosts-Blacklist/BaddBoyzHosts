@@ -24,15 +24,15 @@
         "013sv.com": {
             "included_at_epoch": 1588496502.0,
             "included_at_iso": "2020-05-03T09:01:42",
-            "last_retested_at_epoch": 1589694802.312531,
-            "last_retested_at_iso": "2020-05-17T05:53:22.312531",
+            "last_retested_at_epoch": 1589794572.249204,
+            "last_retested_at_iso": "2020-05-18T09:36:12.249204",
             "status": "INACTIVE"
         },
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1589707094.841798,
-            "last_retested_at_iso": "2020-05-17T09:18:14.841798",
+            "last_retested_at_epoch": 1589794275.762663,
+            "last_retested_at_iso": "2020-05-18T09:31:15.762663",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -199,8 +199,8 @@
         "6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1589694816.465905,
-            "last_retested_at_iso": "2020-05-17T05:53:36.465905",
+            "last_retested_at_epoch": 1589794676.565365,
+            "last_retested_at_iso": "2020-05-18T09:37:56.565365",
             "status": "INACTIVE"
         },
         "7cfmnf.top": {
@@ -451,8 +451,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1589702977.781209,
-            "last_retested_at_iso": "2020-05-17T08:09:37.781209",
+            "last_retested_at_epoch": 1589794442.25301,
+            "last_retested_at_iso": "2020-05-18T09:34:02.253010",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -507,8 +507,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589707313.235852,
-            "last_retested_at_iso": "2020-05-17T09:21:53.235852",
+            "last_retested_at_epoch": 1589794350.282419,
+            "last_retested_at_iso": "2020-05-18T09:32:30.282419",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -689,15 +689,15 @@
         "www.013sv.com": {
             "included_at_epoch": 1588496502.0,
             "included_at_iso": "2020-05-03T09:01:42",
-            "last_retested_at_epoch": 1589694802.320625,
-            "last_retested_at_iso": "2020-05-17T05:53:22.320625",
+            "last_retested_at_epoch": 1589794572.283264,
+            "last_retested_at_iso": "2020-05-18T09:36:12.283264",
             "status": "INACTIVE"
         },
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1589707094.911116,
-            "last_retested_at_iso": "2020-05-17T09:18:14.911116",
+            "last_retested_at_epoch": 1589794275.872324,
+            "last_retested_at_iso": "2020-05-18T09:31:15.872324",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -717,8 +717,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1589707004.417433,
-            "last_retested_at_iso": "2020-05-17T09:16:44.417433",
+            "last_retested_at_epoch": 1589794444.585675,
+            "last_retested_at_iso": "2020-05-18T09:34:04.585675",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -892,8 +892,8 @@
         "www.18pure.info": {
             "included_at_epoch": 1588473789.0,
             "included_at_iso": "2020-05-03T02:43:09",
-            "last_retested_at_epoch": 1589690616.0145,
-            "last_retested_at_iso": "2020-05-17T04:43:36.014500",
+            "last_retested_at_epoch": 1589794693.152944,
+            "last_retested_at_iso": "2020-05-18T09:38:13.152944",
             "status": "INACTIVE"
         },
         "www.18teengirl.com": {
@@ -1284,8 +1284,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1589707127.893621,
-            "last_retested_at_iso": "2020-05-17T09:18:47.893621",
+            "last_retested_at_epoch": 1589794721.375202,
+            "last_retested_at_iso": "2020-05-18T09:38:41.375202",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1396,8 +1396,8 @@
         "www.6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1589694816.401622,
-            "last_retested_at_iso": "2020-05-17T05:53:36.401622",
+            "last_retested_at_epoch": 1589794676.494964,
+            "last_retested_at_iso": "2020-05-18T09:37:56.494964",
             "status": "INACTIVE"
         },
         "www.6server.com": {
@@ -1746,8 +1746,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1589707023.71837,
-            "last_retested_at_iso": "2020-05-17T09:17:03.718370",
+            "last_retested_at_epoch": 1589794507.303544,
+            "last_retested_at_iso": "2020-05-18T09:35:07.303544",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2138,8 +2138,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1589707313.217318,
-            "last_retested_at_iso": "2020-05-17T09:21:53.217318",
+            "last_retested_at_epoch": 1589794350.218922,
+            "last_retested_at_iso": "2020-05-18T09:32:30.218922",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2250,8 +2250,8 @@
         "www.cs6hm.com": {
             "included_at_epoch": 1588496610.0,
             "included_at_iso": "2020-05-03T09:03:30",
-            "last_retested_at_epoch": 1589694762.753776,
-            "last_retested_at_iso": "2020-05-17T05:52:42.753776",
+            "last_retested_at_epoch": 1589794709.290588,
+            "last_retested_at_iso": "2020-05-18T09:38:29.290588",
             "status": "INACTIVE"
         },
         "www.csk.ru": {
