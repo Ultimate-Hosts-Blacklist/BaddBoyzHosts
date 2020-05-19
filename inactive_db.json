@@ -24,8 +24,8 @@
         "013sv.com": {
             "included_at_epoch": 1588496502.0,
             "included_at_iso": "2020-05-03T09:01:42",
-            "last_retested_at_epoch": 1589794572.249204,
-            "last_retested_at_iso": "2020-05-18T09:36:12.249204",
+            "last_retested_at_epoch": 1589914938.914585,
+            "last_retested_at_iso": "2020-05-19T19:02:18.914585",
             "status": "INACTIVE"
         },
         "015gf.com": {
@@ -108,8 +108,8 @@
         "247locksmith-tucson.com": {
             "included_at_epoch": 1588445334.0,
             "included_at_iso": "2020-05-02T18:48:54",
-            "last_retested_at_epoch": 1589817388.239011,
-            "last_retested_at_iso": "2020-05-18T15:56:28.239011",
+            "last_retested_at_epoch": 1589914610.621692,
+            "last_retested_at_iso": "2020-05-19T18:56:50.621692",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -122,8 +122,8 @@
         "272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1589789334.599761,
-            "last_retested_at_iso": "2020-05-18T08:08:54.599761",
+            "last_retested_at_epoch": 1589915127.228553,
+            "last_retested_at_iso": "2020-05-19T19:05:27.228553",
             "status": "INACTIVE"
         },
         "2cam.nl": {
@@ -192,8 +192,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1589813335.054458,
-            "last_retested_at_iso": "2020-05-18T14:48:55.054458",
+            "last_retested_at_epoch": 1589914895.875912,
+            "last_retested_at_iso": "2020-05-19T19:01:35.875912",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -710,8 +710,8 @@
         "www.013sv.com": {
             "included_at_epoch": 1588496502.0,
             "included_at_iso": "2020-05-03T09:01:42",
-            "last_retested_at_epoch": 1589794572.283264,
-            "last_retested_at_iso": "2020-05-18T09:36:12.283264",
+            "last_retested_at_epoch": 1589914938.91358,
+            "last_retested_at_iso": "2020-05-19T19:02:18.913580",
             "status": "INACTIVE"
         },
         "www.015gf.com": {
@@ -1004,8 +1004,8 @@
         "www.247locksmith-tucson.com": {
             "included_at_epoch": 1588445335.0,
             "included_at_iso": "2020-05-02T18:48:55",
-            "last_retested_at_epoch": 1589817388.321551,
-            "last_retested_at_iso": "2020-05-18T15:56:28.321551",
+            "last_retested_at_epoch": 1589914610.728873,
+            "last_retested_at_iso": "2020-05-19T18:56:50.728873",
             "status": "INACTIVE"
         },
         "www.24holdem.com": {
@@ -1060,8 +1060,8 @@
         "www.272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1589789334.598777,
-            "last_retested_at_iso": "2020-05-18T08:08:54.598777",
+            "last_retested_at_epoch": 1589915127.227543,
+            "last_retested_at_iso": "2020-05-19T19:05:27.227543",
             "status": "INACTIVE"
         },
         "www.2anal.net": {
@@ -1403,8 +1403,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1589813335.090337,
-            "last_retested_at_iso": "2020-05-18T14:48:55.090337",
+            "last_retested_at_epoch": 1589914895.94286,
+            "last_retested_at_iso": "2020-05-19T19:01:35.942860",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1529,8 +1529,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1589822221.638783,
-            "last_retested_at_iso": "2020-05-18T17:17:01.638783",
+            "last_retested_at_epoch": 1589914733.677321,
+            "last_retested_at_iso": "2020-05-19T18:58:53.677321",
             "status": "INACTIVE"
         },
         "www.a48.info": {
@@ -1550,8 +1550,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1589817221.943651,
-            "last_retested_at_iso": "2020-05-18T15:53:41.943651",
+            "last_retested_at_epoch": 1589914655.002614,
+            "last_retested_at_iso": "2020-05-19T18:57:35.002614",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -2033,8 +2033,8 @@
         "www.anal-intentions.com": {
             "included_at_epoch": 1588518675.0,
             "included_at_iso": "2020-05-03T15:11:15",
-            "last_retested_at_epoch": 1589826667.307204,
-            "last_retested_at_iso": "2020-05-18T18:31:07.307204",
+            "last_retested_at_epoch": 1589914671.826474,
+            "last_retested_at_iso": "2020-05-19T18:57:51.826474",
             "status": "INACTIVE"
         },
         "www.anal-videos-photos.com": {
