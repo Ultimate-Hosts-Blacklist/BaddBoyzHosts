@@ -157,8 +157,8 @@
         "3xit.net": {
             "included_at_epoch": 1588473938.0,
             "included_at_iso": "2020-05-03T02:45:38",
-            "last_retested_at_epoch": 1589897690.445269,
-            "last_retested_at_iso": "2020-05-19T14:14:50.445269",
+            "last_retested_at_epoch": 1589992878.867359,
+            "last_retested_at_iso": "2020-05-20T16:41:18.867359",
             "status": "INACTIVE"
         },
         "50centstreetkingimmortal.com": {
@@ -255,8 +255,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1589897485.206571,
-            "last_retested_at_iso": "2020-05-19T14:11:25.206571",
+            "last_retested_at_epoch": 1589992865.194546,
+            "last_retested_at_iso": "2020-05-20T16:41:05.194546",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1249,8 +1249,8 @@
         "www.3xit.net": {
             "included_at_epoch": 1588473939.0,
             "included_at_iso": "2020-05-03T02:45:39",
-            "last_retested_at_epoch": 1589897690.561092,
-            "last_retested_at_iso": "2020-05-19T14:14:50.561092",
+            "last_retested_at_epoch": 1589992878.891922,
+            "last_retested_at_iso": "2020-05-20T16:41:18.891922",
             "status": "INACTIVE"
         },
         "www.423.ru": {
@@ -1438,8 +1438,8 @@
         "www.6stuff.com": {
             "included_at_epoch": 1588515640.0,
             "included_at_iso": "2020-05-03T14:20:40",
-            "last_retested_at_epoch": 1589882724.679574,
-            "last_retested_at_iso": "2020-05-19T10:05:24.679574",
+            "last_retested_at_epoch": 1589993184.266183,
+            "last_retested_at_iso": "2020-05-20T16:46:24.266183",
             "status": "INACTIVE"
         },
         "www.72impala.com": {
@@ -1529,8 +1529,8 @@
         "www.99topnn.info": {
             "included_at_epoch": 1588482471.0,
             "included_at_iso": "2020-05-03T05:07:51",
-            "last_retested_at_epoch": 1589893083.824026,
-            "last_retested_at_iso": "2020-05-19T12:58:03.824026",
+            "last_retested_at_epoch": 1589993237.737688,
+            "last_retested_at_iso": "2020-05-20T16:47:17.737688",
             "status": "INACTIVE"
         },
         "www.9c51vda.com": {
@@ -1564,8 +1564,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1589897485.303807,
-            "last_retested_at_iso": "2020-05-19T14:11:25.303807",
+            "last_retested_at_epoch": 1589992865.187217,
+            "last_retested_at_iso": "2020-05-20T16:41:05.187217",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -2271,8 +2271,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1589897759.628951,
-            "last_retested_at_iso": "2020-05-19T14:15:59.628951",
+            "last_retested_at_epoch": 1589993149.639586,
+            "last_retested_at_iso": "2020-05-20T16:45:49.639586",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
@@ -2306,8 +2306,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1589897781.735476,
-            "last_retested_at_iso": "2020-05-19T14:16:21.735476",
+            "last_retested_at_epoch": 1589993293.992963,
+            "last_retested_at_iso": "2020-05-20T16:48:13.992963",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
