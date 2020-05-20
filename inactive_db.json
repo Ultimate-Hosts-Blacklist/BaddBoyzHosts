@@ -1179,8 +1179,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1589882961.963681,
-            "last_retested_at_iso": "2020-05-19T10:09:21.963681",
+            "last_retested_at_epoch": 1589978229.185357,
+            "last_retested_at_iso": "2020-05-20T12:37:09.185357",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -1347,8 +1347,8 @@
         "www.52djcy.com": {
             "included_at_epoch": 1588454619.0,
             "included_at_iso": "2020-05-02T21:23:39",
-            "last_retested_at_epoch": 1589878556.43105,
-            "last_retested_at_iso": "2020-05-19T08:55:56.431050",
+            "last_retested_at_epoch": 1589978543.267258,
+            "last_retested_at_iso": "2020-05-20T12:42:23.267258",
             "status": "INACTIVE"
         },
         "www.550a.com": {
@@ -1774,8 +1774,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1589887849.782534,
-            "last_retested_at_iso": "2020-05-19T11:30:49.782534",
+            "last_retested_at_epoch": 1589978240.213746,
+            "last_retested_at_iso": "2020-05-20T12:37:20.213746",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -1788,8 +1788,8 @@
         "www.akzmaihd.net": {
             "included_at_epoch": 1588512570.0,
             "included_at_iso": "2020-05-03T13:29:30",
-            "last_retested_at_epoch": 1589882956.750247,
-            "last_retested_at_iso": "2020-05-19T10:09:16.750247",
+            "last_retested_at_epoch": 1589978578.298369,
+            "last_retested_at_iso": "2020-05-20T12:42:58.298369",
             "status": "INACTIVE"
         },
         "www.alamosupply.com": {
@@ -2278,8 +2278,8 @@
         "www.cs6hm.com": {
             "included_at_epoch": 1588496610.0,
             "included_at_iso": "2020-05-03T09:03:30",
-            "last_retested_at_epoch": 1589887591.722728,
-            "last_retested_at_iso": "2020-05-19T11:26:31.722728",
+            "last_retested_at_epoch": 1589978492.504408,
+            "last_retested_at_iso": "2020-05-20T12:41:32.504408",
             "status": "INACTIVE"
         },
         "www.csk.ru": {
