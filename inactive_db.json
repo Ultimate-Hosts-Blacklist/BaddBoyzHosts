@@ -73,8 +73,8 @@
         "123.fluxads.com": {
             "included_at_epoch": 1588518886.0,
             "included_at_iso": "2020-05-03T15:14:46",
-            "last_retested_at_epoch": 1589954875.128526,
-            "last_retested_at_iso": "2020-05-20T06:07:55.128526",
+            "last_retested_at_epoch": 1590115956.19602,
+            "last_retested_at_iso": "2020-05-22T02:52:36.196020",
             "status": "INACTIVE"
         },
         "18teengirl.com": {
@@ -150,8 +150,8 @@
         "3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1590013015.733537,
-            "last_retested_at_iso": "2020-05-20T22:16:55.733537",
+            "last_retested_at_epoch": 1590115855.645862,
+            "last_retested_at_iso": "2020-05-22T02:50:55.645862",
             "status": "INACTIVE"
         },
         "3xit.net": {
@@ -213,8 +213,8 @@
         "86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1590028183.680975,
-            "last_retested_at_iso": "2020-05-21T02:29:43.680975",
+            "last_retested_at_epoch": 1590116035.863266,
+            "last_retested_at_iso": "2020-05-22T02:53:55.863266",
             "status": "INACTIVE"
         },
         "8khmer.com": {
@@ -976,8 +976,8 @@
         "www.1re.info": {
             "included_at_epoch": 1588490134.0,
             "included_at_iso": "2020-05-03T07:15:34",
-            "last_retested_at_epoch": 1590028226.614888,
-            "last_retested_at_iso": "2020-05-21T02:30:26.614888",
+            "last_retested_at_epoch": 1590115495.081399,
+            "last_retested_at_iso": "2020-05-22T02:44:55.081399",
             "status": "INACTIVE"
         },
         "www.1unblock.com": {
@@ -1214,8 +1214,8 @@
         "www.3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1590013015.681069,
-            "last_retested_at_iso": "2020-05-20T22:16:55.681069",
+            "last_retested_at_epoch": 1590115855.724796,
+            "last_retested_at_iso": "2020-05-22T02:50:55.724796",
             "status": "INACTIVE"
         },
         "www.3dsemulator.info": {
@@ -1473,8 +1473,8 @@
         "www.86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1590028183.728698,
-            "last_retested_at_iso": "2020-05-21T02:29:43.728698",
+            "last_retested_at_epoch": 1590116035.934878,
+            "last_retested_at_iso": "2020-05-22T02:53:55.934878",
             "status": "INACTIVE"
         },
         "www.87w.info": {
@@ -2544,8 +2544,8 @@
         "www.hymen-defloration.info": {
             "included_at_epoch": 1588464031.0,
             "included_at_iso": "2020-05-03T00:00:31",
-            "last_retested_at_epoch": 1590022853.895978,
-            "last_retested_at_iso": "2020-05-21T01:00:53.895978",
+            "last_retested_at_epoch": 1590115593.703562,
+            "last_retested_at_iso": "2020-05-22T02:46:33.703562",
             "status": "INACTIVE"
         },
         "www.hympsvtktvtm.biz": {
@@ -2663,8 +2663,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1590028332.002706,
-            "last_retested_at_iso": "2020-05-21T02:32:12.002706",
+            "last_retested_at_epoch": 1590116000.404843,
+            "last_retested_at_iso": "2020-05-22T02:53:20.404843",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
