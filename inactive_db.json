@@ -1032,8 +1032,8 @@
         "www.257639.com": {
             "included_at_epoch": 1588500315.0,
             "included_at_iso": "2020-05-03T10:05:15",
-            "last_retested_at_epoch": 1590061414.917097,
-            "last_retested_at_iso": "2020-05-21T11:43:34.917097",
+            "last_retested_at_epoch": 1590154369.518983,
+            "last_retested_at_iso": "2020-05-22T13:32:49.518983",
             "status": "INACTIVE"
         },
         "www.259572.com": {
@@ -1347,8 +1347,8 @@
         "www.52djcy.com": {
             "included_at_epoch": 1588454619.0,
             "included_at_iso": "2020-05-02T21:23:39",
-            "last_retested_at_epoch": 1590065829.479914,
-            "last_retested_at_iso": "2020-05-21T12:57:09.479914",
+            "last_retested_at_epoch": 1590154183.173979,
+            "last_retested_at_iso": "2020-05-22T13:29:43.173979",
             "status": "INACTIVE"
         },
         "www.550a.com": {
