@@ -1137,8 +1137,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1590085737.376556,
-            "last_retested_at_iso": "2020-05-21T18:28:57.376556",
+            "last_retested_at_epoch": 1590176335.695725,
+            "last_retested_at_iso": "2020-05-22T19:38:55.695725",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1536,8 +1536,8 @@
         "www.99topnn.info": {
             "included_at_epoch": 1588482471.0,
             "included_at_iso": "2020-05-03T05:07:51",
-            "last_retested_at_epoch": 1590080324.038226,
-            "last_retested_at_iso": "2020-05-21T16:58:44.038226",
+            "last_retested_at_epoch": 1590175939.394303,
+            "last_retested_at_iso": "2020-05-22T19:32:19.394303",
             "status": "INACTIVE"
         },
         "www.9c51vda.com": {
@@ -2082,8 +2082,8 @@
         "www.andrewrobertsllc.info": {
             "included_at_epoch": 1588509262.0,
             "included_at_iso": "2020-05-03T12:34:22",
-            "last_retested_at_epoch": 1590085928.764203,
-            "last_retested_at_iso": "2020-05-21T18:32:08.764203",
+            "last_retested_at_epoch": 1590176200.283974,
+            "last_retested_at_iso": "2020-05-22T19:36:40.283974",
             "status": "INACTIVE"
         },
         "www.android-style.com": {
