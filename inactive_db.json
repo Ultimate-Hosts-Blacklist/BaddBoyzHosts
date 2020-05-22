@@ -885,8 +885,8 @@
         "www.15bb51.info": {
             "included_at_epoch": 1588473845.0,
             "included_at_iso": "2020-05-03T02:44:05",
-            "last_retested_at_epoch": 1590085884.017695,
-            "last_retested_at_iso": "2020-05-21T18:31:24.017695",
+            "last_retested_at_epoch": 1590178760.139503,
+            "last_retested_at_iso": "2020-05-22T20:19:20.139503",
             "status": "INACTIVE"
         },
         "www.16aq.cn": {
@@ -1368,8 +1368,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1590085502.760778,
-            "last_retested_at_iso": "2020-05-21T18:25:02.760778",
+            "last_retested_at_epoch": 1590179023.425097,
+            "last_retested_at_iso": "2020-05-22T20:23:43.425097",
             "status": "INACTIVE"
         },
         "www.65xps.com": {
