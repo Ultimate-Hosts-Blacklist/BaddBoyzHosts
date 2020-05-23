@@ -976,8 +976,8 @@
         "www.1re.info": {
             "included_at_epoch": 1588490134.0,
             "included_at_iso": "2020-05-03T07:15:34",
-            "last_retested_at_epoch": 1590115495.081399,
-            "last_retested_at_iso": "2020-05-22T02:44:55.081399",
+            "last_retested_at_epoch": 1590210643.507656,
+            "last_retested_at_iso": "2020-05-23T05:10:43.507656",
             "status": "INACTIVE"
         },
         "www.1unblock.com": {
@@ -2663,8 +2663,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1590116000.404843,
-            "last_retested_at_iso": "2020-05-22T02:53:20.404843",
+            "last_retested_at_epoch": 1590211092.40749,
+            "last_retested_at_iso": "2020-05-23T05:18:12.407490",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
