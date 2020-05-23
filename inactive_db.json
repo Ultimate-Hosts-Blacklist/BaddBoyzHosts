@@ -136,8 +136,8 @@
         "2o34.com": {
             "included_at_epoch": 1588473830.0,
             "included_at_iso": "2020-05-03T02:43:50",
-            "last_retested_at_epoch": 1590100412.047517,
-            "last_retested_at_iso": "2020-05-21T22:33:32.047517",
+            "last_retested_at_epoch": 1590200499.036638,
+            "last_retested_at_iso": "2020-05-23T02:21:39.036638",
             "status": "INACTIVE"
         },
         "360clicks.de": {
@@ -276,8 +276,8 @@
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588493262.0,
             "included_at_iso": "2020-05-03T08:07:42",
-            "last_retested_at_epoch": 1590085427.314146,
-            "last_retested_at_iso": "2020-05-21T18:23:47.314146",
+            "last_retested_at_epoch": 1590200878.930132,
+            "last_retested_at_iso": "2020-05-23T02:27:58.930132",
             "status": "INACTIVE"
         },
         "aa9d046aab36af4ff182f097f840430d51.com": {
@@ -451,8 +451,8 @@
         "amatueranal.com": {
             "included_at_epoch": 1588503012.0,
             "included_at_iso": "2020-05-03T10:50:12",
-            "last_retested_at_epoch": 1590090724.35198,
-            "last_retested_at_iso": "2020-05-21T19:52:04.351980",
+            "last_retested_at_epoch": 1590200955.371455,
+            "last_retested_at_iso": "2020-05-23T02:29:15.371455",
             "status": "INACTIVE"
         },
         "amatvideo.free.fr": {
@@ -1123,8 +1123,8 @@
         "www.2o34.com": {
             "included_at_epoch": 1588473830.0,
             "included_at_iso": "2020-05-03T02:43:50",
-            "last_retested_at_epoch": 1590100412.064167,
-            "last_retested_at_iso": "2020-05-21T22:33:32.064167",
+            "last_retested_at_epoch": 1590200498.920916,
+            "last_retested_at_iso": "2020-05-23T02:21:38.920916",
             "status": "INACTIVE"
         },
         "www.2p9fyvx.com": {
@@ -2005,8 +2005,8 @@
         "www.amatueranal.com": {
             "included_at_epoch": 1588503012.0,
             "included_at_iso": "2020-05-03T10:50:12",
-            "last_retested_at_epoch": 1590090724.275463,
-            "last_retested_at_iso": "2020-05-21T19:52:04.275463",
+            "last_retested_at_epoch": 1590200955.360334,
+            "last_retested_at_iso": "2020-05-23T02:29:15.360334",
             "status": "INACTIVE"
         },
         "www.amorepaixaomensagens.com.br": {
