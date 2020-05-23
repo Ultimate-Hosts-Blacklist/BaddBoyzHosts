@@ -752,8 +752,8 @@
         "www.0m4.ru": {
             "included_at_epoch": 1588454561.0,
             "included_at_iso": "2020-05-02T21:22:41",
-            "last_retested_at_epoch": 1590134637.011485,
-            "last_retested_at_iso": "2020-05-22T08:03:57.011485",
+            "last_retested_at_epoch": 1590224512.256877,
+            "last_retested_at_iso": "2020-05-23T09:01:52.256877",
             "status": "INACTIVE"
         },
         "www.0pros.com": {
@@ -1466,8 +1466,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1590134679.236651,
-            "last_retested_at_iso": "2020-05-22T08:04:39.236651",
+            "last_retested_at_epoch": 1590224716.177235,
+            "last_retested_at_iso": "2020-05-23T09:05:16.177235",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -1830,8 +1830,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1590129592.552396,
-            "last_retested_at_iso": "2020-05-22T06:39:52.552396",
+            "last_retested_at_epoch": 1590224633.231062,
+            "last_retested_at_iso": "2020-05-23T09:03:53.231062",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
