@@ -87,8 +87,8 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1590214559.639879,
-            "last_retested_at_iso": "2020-05-23T06:15:59.639879",
+            "last_retested_at_epoch": 1590303313.433935,
+            "last_retested_at_iso": "2020-05-24T06:55:13.433935",
             "status": "INACTIVE"
         },
         "1hour.info": {
@@ -948,8 +948,8 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1590214559.800189,
-            "last_retested_at_iso": "2020-05-23T06:15:59.800189",
+            "last_retested_at_epoch": 1590303313.286121,
+            "last_retested_at_iso": "2020-05-24T06:55:13.286121",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
@@ -997,8 +997,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1590207712.708046,
-            "last_retested_at_iso": "2020-05-23T04:21:52.708046",
+            "last_retested_at_epoch": 1590303056.860758,
+            "last_retested_at_iso": "2020-05-24T06:50:56.860758",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -1235,8 +1235,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1590214420.890759,
-            "last_retested_at_iso": "2020-05-23T06:13:40.890759",
+            "last_retested_at_epoch": 1590303124.602872,
+            "last_retested_at_iso": "2020-05-24T06:52:04.602872",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1515,8 +1515,8 @@
         "www.94cdn.com": {
             "included_at_epoch": 1588459703.0,
             "included_at_iso": "2020-05-02T22:48:23",
-            "last_retested_at_epoch": 1590214281.122232,
-            "last_retested_at_iso": "2020-05-23T06:11:21.122232",
+            "last_retested_at_epoch": 1590302899.210116,
+            "last_retested_at_iso": "2020-05-24T06:48:19.210116",
             "status": "INACTIVE"
         },
         "www.98oi.ru": {
