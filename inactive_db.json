@@ -661,8 +661,8 @@
         "ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1590246914.439074,
-            "last_retested_at_iso": "2020-05-23T15:15:14.439074",
+            "last_retested_at_epoch": 1590355712.156703,
+            "last_retested_at_iso": "2020-05-24T21:28:32.156703",
             "status": "INACTIVE"
         },
         "keepcolletive.com": {
@@ -885,8 +885,8 @@
         "www.15bb51.info": {
             "included_at_epoch": 1588473845.0,
             "included_at_iso": "2020-05-03T02:44:05",
-            "last_retested_at_epoch": 1590267307.56687,
-            "last_retested_at_iso": "2020-05-23T20:55:07.566870",
+            "last_retested_at_epoch": 1590355205.994835,
+            "last_retested_at_iso": "2020-05-24T21:20:05.994835",
             "status": "INACTIVE"
         },
         "www.16aq.cn": {
@@ -1536,8 +1536,8 @@
         "www.99topnn.info": {
             "included_at_epoch": 1588482471.0,
             "included_at_iso": "2020-05-03T05:07:51",
-            "last_retested_at_epoch": 1590266984.100142,
-            "last_retested_at_iso": "2020-05-23T20:49:44.100142",
+            "last_retested_at_epoch": 1590355132.33931,
+            "last_retested_at_iso": "2020-05-24T21:18:52.339310",
             "status": "INACTIVE"
         },
         "www.9c51vda.com": {
@@ -1879,8 +1879,8 @@
         "www.alhijaztrvl.com": {
             "included_at_epoch": 1588486047.0,
             "included_at_iso": "2020-05-03T06:07:27",
-            "last_retested_at_epoch": 1590267255.890866,
-            "last_retested_at_iso": "2020-05-23T20:54:15.890866",
+            "last_retested_at_epoch": 1590355429.654959,
+            "last_retested_at_iso": "2020-05-24T21:23:49.654959",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2593,8 +2593,8 @@
         "www.ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1590246914.379461,
-            "last_retested_at_iso": "2020-05-23T15:15:14.379461",
+            "last_retested_at_epoch": 1590355712.157535,
+            "last_retested_at_iso": "2020-05-24T21:28:32.157535",
             "status": "INACTIVE"
         },
         "www.idecoideas.com": {
