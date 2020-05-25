@@ -150,8 +150,8 @@
         "3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1590298267.590219,
-            "last_retested_at_iso": "2020-05-24T05:31:07.590219",
+            "last_retested_at_epoch": 1590393443.374435,
+            "last_retested_at_iso": "2020-05-25T07:57:23.374435",
             "status": "INACTIVE"
         },
         "3xit.net": {
@@ -1221,8 +1221,8 @@
         "www.3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1590298267.718749,
-            "last_retested_at_iso": "2020-05-24T05:31:07.718749",
+            "last_retested_at_epoch": 1590393443.386808,
+            "last_retested_at_iso": "2020-05-25T07:57:23.386808",
             "status": "INACTIVE"
         },
         "www.3dsemulator.info": {
@@ -1242,8 +1242,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1590303124.602872,
-            "last_retested_at_iso": "2020-05-24T06:52:04.602872",
+            "last_retested_at_epoch": 1590393492.752589,
+            "last_retested_at_iso": "2020-05-25T07:58:12.752589",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1522,8 +1522,8 @@
         "www.94cdn.com": {
             "included_at_epoch": 1588459703.0,
             "included_at_iso": "2020-05-02T22:48:23",
-            "last_retested_at_epoch": 1590302899.210116,
-            "last_retested_at_iso": "2020-05-24T06:48:19.210116",
+            "last_retested_at_epoch": 1590393228.524565,
+            "last_retested_at_iso": "2020-05-25T07:53:48.524565",
             "status": "INACTIVE"
         },
         "www.98oi.ru": {
@@ -2495,8 +2495,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1590306794.036532,
-            "last_retested_at_iso": "2020-05-24T07:53:14.036532",
+            "last_retested_at_epoch": 1590393390.056769,
+            "last_retested_at_iso": "2020-05-25T07:56:30.056769",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
