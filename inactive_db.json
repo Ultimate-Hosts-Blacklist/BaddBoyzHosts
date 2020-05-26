@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1590421863.88117,
-            "last_retested_at_iso": "2020-05-25T15:51:03.881170",
+            "last_retested_at_epoch": 1590510090.273412,
+            "last_retested_at_iso": "2020-05-26T16:21:30.273412",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -136,8 +136,8 @@
         "2o34.com": {
             "included_at_epoch": 1588473830.0,
             "included_at_iso": "2020-05-03T02:43:50",
-            "last_retested_at_epoch": 1590407909.740539,
-            "last_retested_at_iso": "2020-05-25T11:58:29.740539",
+            "last_retested_at_epoch": 1590509915.143358,
+            "last_retested_at_iso": "2020-05-26T16:18:35.143358",
             "status": "INACTIVE"
         },
         "360clicks.de": {
@@ -346,8 +346,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1590417486.024262,
-            "last_retested_at_iso": "2020-05-25T14:38:06.024262",
+            "last_retested_at_epoch": 1590510164.448697,
+            "last_retested_at_iso": "2020-05-26T16:22:44.448697",
             "status": "INACTIVE"
         },
         "acount-cheks0912.suport-acount-confrim12.gq": {
@@ -717,8 +717,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1590421863.880154,
-            "last_retested_at_iso": "2020-05-25T15:51:03.880154",
+            "last_retested_at_epoch": 1590510090.207148,
+            "last_retested_at_iso": "2020-05-26T16:21:30.207148",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -885,8 +885,8 @@
         "www.1337crew.info": {
             "included_at_epoch": 1587276713.0,
             "included_at_iso": "2020-04-19T06:11:53",
-            "last_retested_at_epoch": 1590422278.897289,
-            "last_retested_at_iso": "2020-05-25T15:57:58.897289",
+            "last_retested_at_epoch": 1590509961.821876,
+            "last_retested_at_iso": "2020-05-26T16:19:21.821876",
             "status": "INACTIVE"
         },
         "www.138shenbosbo.com": {
@@ -1018,8 +1018,8 @@
         "www.2013tomsshoesforsale.com": {
             "included_at_epoch": 1588489670.0,
             "included_at_iso": "2020-05-03T07:07:50",
-            "last_retested_at_epoch": 1590422232.890972,
-            "last_retested_at_iso": "2020-05-25T15:57:12.890972",
+            "last_retested_at_epoch": 1590510003.863326,
+            "last_retested_at_iso": "2020-05-26T16:20:03.863326",
             "status": "INACTIVE"
         },
         "www.247locksmith-tucson.com": {
@@ -1137,8 +1137,8 @@
         "www.2o34.com": {
             "included_at_epoch": 1588473830.0,
             "included_at_iso": "2020-05-03T02:43:50",
-            "last_retested_at_epoch": 1590407909.576909,
-            "last_retested_at_iso": "2020-05-25T11:58:29.576909",
+            "last_retested_at_epoch": 1590509915.295243,
+            "last_retested_at_iso": "2020-05-26T16:18:35.295243",
             "status": "INACTIVE"
         },
         "www.2p9fyvx.com": {
@@ -1739,8 +1739,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1590417486.005787,
-            "last_retested_at_iso": "2020-05-25T14:38:06.005787",
+            "last_retested_at_epoch": 1590510164.532955,
+            "last_retested_at_iso": "2020-05-26T16:22:44.532955",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -2152,8 +2152,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1590412063.06681,
-            "last_retested_at_iso": "2020-05-25T13:07:43.066810",
+            "last_retested_at_epoch": 1590510190.309756,
+            "last_retested_at_iso": "2020-05-26T16:23:10.309756",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
