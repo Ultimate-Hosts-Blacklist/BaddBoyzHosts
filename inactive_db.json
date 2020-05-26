@@ -1249,8 +1249,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1590393492.752589,
-            "last_retested_at_iso": "2020-05-25T07:58:12.752589",
+            "last_retested_at_epoch": 1590481037.746078,
+            "last_retested_at_iso": "2020-05-26T08:17:17.746078",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1522,8 +1522,8 @@
         "www.90i.info": {
             "included_at_epoch": 1590095656.035231,
             "included_at_iso": "2020-05-21T21:14:16.035231",
-            "last_retested_at_epoch": 1590369936.981216,
-            "last_retested_at_iso": "2020-05-25T01:25:36.981216",
+            "last_retested_at_epoch": 1590481001.741587,
+            "last_retested_at_iso": "2020-05-26T08:16:41.741587",
             "status": "INACTIVE"
         },
         "www.94cdn.com": {
@@ -2502,8 +2502,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1590393390.056769,
-            "last_retested_at_iso": "2020-05-25T07:56:30.056769",
+            "last_retested_at_epoch": 1590481378.992642,
+            "last_retested_at_iso": "2020-05-26T08:22:58.992642",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
