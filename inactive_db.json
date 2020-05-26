@@ -290,8 +290,8 @@
         "aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1590408098.705201,
-            "last_retested_at_iso": "2020-05-25T12:01:38.705201",
+            "last_retested_at_epoch": 1590505297.078426,
+            "last_retested_at_iso": "2020-05-26T15:01:37.078426",
             "status": "INACTIVE"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -507,8 +507,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1590417160.653276,
-            "last_retested_at_iso": "2020-05-25T14:32:40.653276",
+            "last_retested_at_epoch": 1590505375.173629,
+            "last_retested_at_iso": "2020-05-26T15:02:55.173629",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -612,8 +612,8 @@
         "euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1590407933.667765,
-            "last_retested_at_iso": "2020-05-25T11:58:53.667765",
+            "last_retested_at_epoch": 1590505523.054095,
+            "last_retested_at_iso": "2020-05-26T15:05:23.054095",
             "status": "INACTIVE"
         },
         "everydresses.com": {
@@ -864,8 +864,8 @@
         "www.12month.loan": {
             "included_at_epoch": 1589954656.497982,
             "included_at_iso": "2020-05-20T06:04:16.497982",
-            "last_retested_at_epoch": 1590407648.714017,
-            "last_retested_at_iso": "2020-05-25T11:54:08.714017",
+            "last_retested_at_epoch": 1590505463.681108,
+            "last_retested_at_iso": "2020-05-26T15:04:23.681108",
             "status": "INACTIVE"
         },
         "www.12research.com": {
@@ -1228,8 +1228,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1590398124.947321,
-            "last_retested_at_iso": "2020-05-25T09:15:24.947321",
+            "last_retested_at_epoch": 1590505482.150666,
+            "last_retested_at_iso": "2020-05-26T15:04:42.150666",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -1333,8 +1333,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1590417295.520562,
-            "last_retested_at_iso": "2020-05-25T14:34:55.520562",
+            "last_retested_at_epoch": 1590505384.922176,
+            "last_retested_at_iso": "2020-05-26T15:03:04.922176",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1494,8 +1494,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1590417247.142991,
-            "last_retested_at_iso": "2020-05-25T14:34:07.142991",
+            "last_retested_at_epoch": 1590505659.19137,
+            "last_retested_at_iso": "2020-05-26T15:07:39.191370",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -1634,8 +1634,8 @@
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1590408098.733445,
-            "last_retested_at_iso": "2020-05-25T12:01:38.733445",
+            "last_retested_at_epoch": 1590505297.136889,
+            "last_retested_at_iso": "2020-05-26T15:01:37.136889",
             "status": "INACTIVE"
         },
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -2159,8 +2159,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1590417160.64009,
-            "last_retested_at_iso": "2020-05-25T14:32:40.640090",
+            "last_retested_at_epoch": 1590505375.05662,
+            "last_retested_at_iso": "2020-05-26T15:02:55.056620",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
@@ -2355,8 +2355,8 @@
         "www.euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1590407933.555933,
-            "last_retested_at_iso": "2020-05-25T11:58:53.555933",
+            "last_retested_at_epoch": 1590505523.04233,
+            "last_retested_at_iso": "2020-05-26T15:05:23.042330",
             "status": "INACTIVE"
         },
         "www.everydresses.com": {
@@ -2453,8 +2453,8 @@
         "www.goddessvip.com": {
             "included_at_epoch": 1589119492.912587,
             "included_at_iso": "2020-05-10T14:04:52.912587",
-            "last_retested_at_epoch": 1590417126.99795,
-            "last_retested_at_iso": "2020-05-25T14:32:06.997950",
+            "last_retested_at_epoch": 1590505624.068808,
+            "last_retested_at_iso": "2020-05-26T15:07:04.068808",
             "status": "INACTIVE"
         },
         "www.grabbersex.com": {
