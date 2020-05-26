@@ -2682,7 +2682,7 @@
     "eu-cookie-law.info": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "eu-survey.com": {
         "epoch": 1612224000.0,
