@@ -668,8 +668,8 @@
         "hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1590441680.560188,
-            "last_retested_at_iso": "2020-05-25T21:21:20.560188",
+            "last_retested_at_epoch": 1590529027.737058,
+            "last_retested_at_iso": "2020-05-26T21:37:07.737058",
             "status": "INACTIVE"
         },
         "husky-shop.cz": {
@@ -1494,8 +1494,8 @@
         "www.7gfs.com": {
             "included_at_epoch": 1588473883.0,
             "included_at_iso": "2020-05-03T02:44:43",
-            "last_retested_at_epoch": 1590442055.57743,
-            "last_retested_at_iso": "2020-05-25T21:27:35.577430",
+            "last_retested_at_epoch": 1590529032.498292,
+            "last_retested_at_iso": "2020-05-26T21:37:12.498292",
             "status": "INACTIVE"
         },
         "www.8090cpa.com": {
@@ -2320,8 +2320,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1590432078.505562,
-            "last_retested_at_iso": "2020-05-25T18:41:18.505562",
+            "last_retested_at_epoch": 1590528657.591132,
+            "last_retested_at_iso": "2020-05-26T21:30:57.591132",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
@@ -2551,8 +2551,8 @@
         "www.hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1590441680.711462,
-            "last_retested_at_iso": "2020-05-25T21:21:20.711462",
+            "last_retested_at_epoch": 1590529027.730975,
+            "last_retested_at_iso": "2020-05-26T21:37:07.730975",
             "status": "INACTIVE"
         },
         "www.husky-shop.cz": {
@@ -2663,8 +2663,8 @@
         "www.idvipteam.com": {
             "included_at_epoch": 1588464477.0,
             "included_at_iso": "2020-05-03T00:07:57",
-            "last_retested_at_epoch": 1590436916.21222,
-            "last_retested_at_iso": "2020-05-25T20:01:56.212220",
+            "last_retested_at_epoch": 1590528730.504522,
+            "last_retested_at_iso": "2020-05-26T21:32:10.504522",
             "status": "INACTIVE"
         },
         "www.imdaginea.cf": {
