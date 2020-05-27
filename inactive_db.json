@@ -304,8 +304,8 @@
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1590486045.425998,
-            "last_retested_at_iso": "2020-05-26T09:40:45.425998",
+            "last_retested_at_epoch": 1590574626.628874,
+            "last_retested_at_iso": "2020-05-27T10:17:06.628874",
             "status": "INACTIVE"
         },
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -696,8 +696,8 @@
         "slowmac.tech": {
             "included_at_epoch": 1588459637.0,
             "included_at_iso": "2020-05-02T22:47:17",
-            "last_retested_at_epoch": 1590485667.109676,
-            "last_retested_at_iso": "2020-05-26T09:34:27.109676",
+            "last_retested_at_epoch": 1590574649.140506,
+            "last_retested_at_iso": "2020-05-27T10:17:29.140506",
             "status": "INACTIVE"
         },
         "ssl.eroscomix.com": {
@@ -1256,8 +1256,8 @@
         "www.3jmcwio.com": {
             "included_at_epoch": 1588521937.0,
             "included_at_iso": "2020-05-03T16:05:37",
-            "last_retested_at_epoch": 1590467444.477717,
-            "last_retested_at_iso": "2020-05-26T04:30:44.477717",
+            "last_retested_at_epoch": 1590574971.298683,
+            "last_retested_at_iso": "2020-05-27T10:22:51.298683",
             "status": "INACTIVE"
         },
         "www.3lm.info": {
@@ -1543,8 +1543,8 @@
         "www.90i.info": {
             "included_at_epoch": 1590095656.035231,
             "included_at_iso": "2020-05-21T21:14:16.035231",
-            "last_retested_at_epoch": 1590481001.741587,
-            "last_retested_at_iso": "2020-05-26T08:16:41.741587",
+            "last_retested_at_epoch": 1590574446.324762,
+            "last_retested_at_iso": "2020-05-27T10:14:06.324762",
             "status": "INACTIVE"
         },
         "www.94cdn.com": {
@@ -1655,8 +1655,8 @@
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1590486045.507429,
-            "last_retested_at_iso": "2020-05-26T09:40:45.507429",
+            "last_retested_at_epoch": 1590574626.734502,
+            "last_retested_at_iso": "2020-05-27T10:17:06.734502",
             "status": "INACTIVE"
         },
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -1879,8 +1879,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1590485858.168496,
-            "last_retested_at_iso": "2020-05-26T09:37:38.168496",
+            "last_retested_at_epoch": 1590574707.554491,
+            "last_retested_at_iso": "2020-05-27T10:18:27.554491",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -2530,8 +2530,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1590481378.992642,
-            "last_retested_at_iso": "2020-05-26T08:22:58.992642",
+            "last_retested_at_epoch": 1590574907.419452,
+            "last_retested_at_iso": "2020-05-27T10:21:47.419452",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
@@ -2649,8 +2649,8 @@
         "www.ideibiznesa2015.ru": {
             "included_at_epoch": 1588473905.0,
             "included_at_iso": "2020-05-03T02:45:05",
-            "last_retested_at_epoch": 1590485677.484255,
-            "last_retested_at_iso": "2020-05-26T09:34:37.484255",
+            "last_retested_at_epoch": 1590574426.744929,
+            "last_retested_at_iso": "2020-05-27T10:13:46.744929",
             "status": "INACTIVE"
         },
         "www.idkom.com": {
@@ -2712,8 +2712,8 @@
         "www.slowmac.tech": {
             "included_at_epoch": 1588459636.0,
             "included_at_iso": "2020-05-02T22:47:16",
-            "last_retested_at_epoch": 1590485662.282163,
-            "last_retested_at_iso": "2020-05-26T09:34:22.282163",
+            "last_retested_at_epoch": 1590574644.311078,
+            "last_retested_at_iso": "2020-05-27T10:17:24.311078",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
