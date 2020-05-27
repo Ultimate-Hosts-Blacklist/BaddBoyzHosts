@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1590510090.273412,
-            "last_retested_at_iso": "2020-05-26T16:21:30.273412",
+            "last_retested_at_epoch": 1590597075.931154,
+            "last_retested_at_iso": "2020-05-27T16:31:15.931154",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -297,8 +297,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1590500987.840852,
-            "last_retested_at_iso": "2020-05-26T13:49:47.840852",
+            "last_retested_at_epoch": 1590596746.032959,
+            "last_retested_at_iso": "2020-05-27T16:25:46.032959",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -724,8 +724,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1590510090.207148,
-            "last_retested_at_iso": "2020-05-26T16:21:30.207148",
+            "last_retested_at_epoch": 1590597075.941791,
+            "last_retested_at_iso": "2020-05-27T16:31:15.941791",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -871,8 +871,8 @@
         "www.12month.loan": {
             "included_at_epoch": 1589954656.497982,
             "included_at_iso": "2020-05-20T06:04:16.497982",
-            "last_retested_at_epoch": 1590505463.681108,
-            "last_retested_at_iso": "2020-05-26T15:04:23.681108",
+            "last_retested_at_epoch": 1590597134.476069,
+            "last_retested_at_iso": "2020-05-27T16:32:14.476069",
             "status": "INACTIVE"
         },
         "www.12research.com": {
@@ -1648,8 +1648,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1590500987.866474,
-            "last_retested_at_iso": "2020-05-26T13:49:47.866474",
+            "last_retested_at_epoch": 1590596746.030308,
+            "last_retested_at_iso": "2020-05-27T16:25:46.030308",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -2467,8 +2467,8 @@
         "www.goddessvip.com": {
             "included_at_epoch": 1589119492.912587,
             "included_at_iso": "2020-05-10T14:04:52.912587",
-            "last_retested_at_epoch": 1590505624.068808,
-            "last_retested_at_iso": "2020-05-26T15:07:04.068808",
+            "last_retested_at_epoch": 1590596810.292206,
+            "last_retested_at_iso": "2020-05-27T16:26:50.292206",
             "status": "INACTIVE"
         },
         "www.grabbersex.com": {
