@@ -38,8 +38,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1590519197.680131,
-            "last_retested_at_iso": "2020-05-26T18:53:17.680131",
+            "last_retested_at_epoch": 1590619205.433054,
+            "last_retested_at_iso": "2020-05-27T22:40:05.433054",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -262,8 +262,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1590524157.903129,
-            "last_retested_at_iso": "2020-05-26T20:15:57.903129",
+            "last_retested_at_epoch": 1590619557.118803,
+            "last_retested_at_iso": "2020-05-27T22:45:57.118803",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -745,8 +745,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1590519197.603041,
-            "last_retested_at_iso": "2020-05-26T18:53:17.603041",
+            "last_retested_at_epoch": 1590619205.446028,
+            "last_retested_at_iso": "2020-05-27T22:40:05.446028",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -1200,8 +1200,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1590524211.633719,
-            "last_retested_at_iso": "2020-05-26T20:16:51.633719",
+            "last_retested_at_epoch": 1590619394.260609,
+            "last_retested_at_iso": "2020-05-27T22:43:14.260609",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -1494,8 +1494,8 @@
         "www.7gfs.com": {
             "included_at_epoch": 1588473883.0,
             "included_at_iso": "2020-05-03T02:44:43",
-            "last_retested_at_epoch": 1590529032.498292,
-            "last_retested_at_iso": "2020-05-26T21:37:12.498292",
+            "last_retested_at_epoch": 1590619246.351313,
+            "last_retested_at_iso": "2020-05-27T22:40:46.351313",
             "status": "INACTIVE"
         },
         "www.8090cpa.com": {
@@ -1606,8 +1606,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1590524157.902218,
-            "last_retested_at_iso": "2020-05-26T20:15:57.902218",
+            "last_retested_at_epoch": 1590619557.117898,
+            "last_retested_at_iso": "2020-05-27T22:45:57.117898",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -2327,8 +2327,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1590528657.591132,
-            "last_retested_at_iso": "2020-05-26T21:30:57.591132",
+            "last_retested_at_epoch": 1590619658.536083,
+            "last_retested_at_iso": "2020-05-27T22:47:38.536083",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
@@ -2670,8 +2670,8 @@
         "www.idvipteam.com": {
             "included_at_epoch": 1588464477.0,
             "included_at_iso": "2020-05-03T00:07:57",
-            "last_retested_at_epoch": 1590528730.504522,
-            "last_retested_at_iso": "2020-05-26T21:32:10.504522",
+            "last_retested_at_epoch": 1590619146.250275,
+            "last_retested_at_iso": "2020-05-27T22:39:06.250275",
             "status": "INACTIVE"
         },
         "www.imdaginea.cf": {
