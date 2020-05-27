@@ -108,8 +108,8 @@
         "247locksmith-tucson.com": {
             "included_at_epoch": 1588445334.0,
             "included_at_iso": "2020-05-02T18:48:54",
-            "last_retested_at_epoch": 1590476682.959038,
-            "last_retested_at_iso": "2020-05-26T07:04:42.959038",
+            "last_retested_at_epoch": 1590570262.845304,
+            "last_retested_at_iso": "2020-05-27T09:04:22.845304",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -759,8 +759,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1590462137.342725,
-            "last_retested_at_iso": "2020-05-26T03:02:17.342725",
+            "last_retested_at_epoch": 1590570318.665973,
+            "last_retested_at_iso": "2020-05-27T09:05:18.665973",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1032,8 +1032,8 @@
         "www.247locksmith-tucson.com": {
             "included_at_epoch": 1588445335.0,
             "included_at_iso": "2020-05-02T18:48:55",
-            "last_retested_at_epoch": 1590476683.104861,
-            "last_retested_at_iso": "2020-05-26T07:04:43.104861",
+            "last_retested_at_epoch": 1590570262.998544,
+            "last_retested_at_iso": "2020-05-27T09:04:22.998544",
             "status": "INACTIVE"
         },
         "www.24holdem.com": {
@@ -1214,8 +1214,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1590462136.928145,
-            "last_retested_at_iso": "2020-05-26T03:02:16.928145",
+            "last_retested_at_epoch": 1590569833.599038,
+            "last_retested_at_iso": "2020-05-27T08:57:13.599038",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1263,8 +1263,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1590481037.746078,
-            "last_retested_at_iso": "2020-05-26T08:17:17.746078",
+            "last_retested_at_epoch": 1590570320.776143,
+            "last_retested_at_iso": "2020-05-27T09:05:20.776143",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -2705,8 +2705,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1590476984.569735,
-            "last_retested_at_iso": "2020-05-26T07:09:44.569735",
+            "last_retested_at_epoch": 1590570306.482278,
+            "last_retested_at_iso": "2020-05-27T09:05:06.482278",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
