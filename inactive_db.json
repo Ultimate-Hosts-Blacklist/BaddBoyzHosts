@@ -38,8 +38,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1590619205.433054,
-            "last_retested_at_iso": "2020-05-27T22:40:05.433054",
+            "last_retested_at_epoch": 1590705660.245656,
+            "last_retested_at_iso": "2020-05-28T22:41:00.245656",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -122,8 +122,8 @@
         "272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1590613194.741471,
-            "last_retested_at_iso": "2020-05-27T20:59:54.741471",
+            "last_retested_at_epoch": 1590705456.650721,
+            "last_retested_at_iso": "2020-05-28T22:37:36.650721",
             "status": "INACTIVE"
         },
         "2cam.nl": {
@@ -745,8 +745,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1590619205.446028,
-            "last_retested_at_iso": "2020-05-27T22:40:05.446028",
+            "last_retested_at_epoch": 1590705660.409912,
+            "last_retested_at_iso": "2020-05-28T22:41:00.409912",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -1095,8 +1095,8 @@
         "www.272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1590613194.856505,
-            "last_retested_at_iso": "2020-05-27T20:59:54.856505",
+            "last_retested_at_epoch": 1590705456.774514,
+            "last_retested_at_iso": "2020-05-28T22:37:36.774514",
             "status": "INACTIVE"
         },
         "www.2anal.net": {
@@ -1592,8 +1592,8 @@
         "www.a48.info": {
             "included_at_epoch": 1588760499.065523,
             "included_at_iso": "2020-05-06T10:21:39.065523",
-            "last_retested_at_epoch": 1590613276.836789,
-            "last_retested_at_iso": "2020-05-27T21:01:16.836789",
+            "last_retested_at_epoch": 1590705435.370104,
+            "last_retested_at_iso": "2020-05-28T22:37:15.370104",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -2173,8 +2173,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1590613615.796273,
-            "last_retested_at_iso": "2020-05-27T21:06:55.796273",
+            "last_retested_at_epoch": 1590705437.826871,
+            "last_retested_at_iso": "2020-05-28T22:37:17.826871",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
