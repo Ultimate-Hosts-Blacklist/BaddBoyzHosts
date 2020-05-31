@@ -934,15 +934,15 @@
         "www.18plusstore.com": {
             "included_at_epoch": 1577911319.0,
             "included_at_iso": "2020-01-01T20:41:59",
-            "last_retested_at_epoch": 1590822005.063786,
-            "last_retested_at_iso": "2020-05-30T07:00:05.063786",
+            "last_retested_at_epoch": 1590911872.942801,
+            "last_retested_at_iso": "2020-05-31T07:57:52.942801",
             "status": "INACTIVE"
         },
         "www.18pure.info": {
             "included_at_epoch": 1588473789.0,
             "included_at_iso": "2020-05-03T02:43:09",
-            "last_retested_at_epoch": 1590815591.73364,
-            "last_retested_at_iso": "2020-05-30T05:13:11.733640",
+            "last_retested_at_epoch": 1590911811.468305,
+            "last_retested_at_iso": "2020-05-31T07:56:51.468305",
             "status": "INACTIVE"
         },
         "www.18teengirl.com": {
@@ -1459,8 +1459,8 @@
         "www.69tubex.com": {
             "included_at_epoch": 1588440625.0,
             "included_at_iso": "2020-05-02T17:30:25",
-            "last_retested_at_epoch": 1590822341.163355,
-            "last_retested_at_iso": "2020-05-30T07:05:41.163355",
+            "last_retested_at_epoch": 1590911761.607897,
+            "last_retested_at_iso": "2020-05-31T07:56:01.607897",
             "status": "INACTIVE"
         },
         "www.6ftlady.com": {
@@ -2257,8 +2257,8 @@
         "www.backvids.com": {
             "included_at_epoch": 1588468604.0,
             "included_at_iso": "2020-05-03T01:16:44",
-            "last_retested_at_epoch": 1590821611.477875,
-            "last_retested_at_iso": "2020-05-30T06:53:31.477875",
+            "last_retested_at_epoch": 1590912293.458732,
+            "last_retested_at_iso": "2020-05-31T08:04:53.458732",
             "status": "INACTIVE"
         },
         "www.bagsonsale.online": {
