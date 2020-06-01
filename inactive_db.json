@@ -38,8 +38,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1590900954.814757,
-            "last_retested_at_iso": "2020-05-31T04:55:54.814757",
+            "last_retested_at_epoch": 1591002749.156813,
+            "last_retested_at_iso": "2020-06-01T09:12:29.156813",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -668,8 +668,8 @@
         "hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1590906569.373908,
-            "last_retested_at_iso": "2020-05-31T06:29:29.373908",
+            "last_retested_at_epoch": 1591002460.130274,
+            "last_retested_at_iso": "2020-06-01T09:07:40.130274",
             "status": "INACTIVE"
         },
         "husky-shop.cz": {
@@ -745,8 +745,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1590900954.886898,
-            "last_retested_at_iso": "2020-05-31T04:55:54.886898",
+            "last_retested_at_epoch": 1591002749.105165,
+            "last_retested_at_iso": "2020-06-01T09:12:29.105165",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -934,15 +934,15 @@
         "www.18plusstore.com": {
             "included_at_epoch": 1577911319.0,
             "included_at_iso": "2020-01-01T20:41:59",
-            "last_retested_at_epoch": 1590911872.942801,
-            "last_retested_at_iso": "2020-05-31T07:57:52.942801",
+            "last_retested_at_epoch": 1591002076.962483,
+            "last_retested_at_iso": "2020-06-01T09:01:16.962483",
             "status": "INACTIVE"
         },
         "www.18pure.info": {
             "included_at_epoch": 1588473789.0,
             "included_at_iso": "2020-05-03T02:43:09",
-            "last_retested_at_epoch": 1590911811.468305,
-            "last_retested_at_iso": "2020-05-31T07:56:51.468305",
+            "last_retested_at_epoch": 1591002654.273638,
+            "last_retested_at_iso": "2020-06-01T09:10:54.273638",
             "status": "INACTIVE"
         },
         "www.18teengirl.com": {
@@ -1585,8 +1585,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1590901177.732301,
-            "last_retested_at_iso": "2020-05-31T04:59:37.732301",
+            "last_retested_at_epoch": 1591002333.913271,
+            "last_retested_at_iso": "2020-06-01T09:05:33.913271",
             "status": "INACTIVE"
         },
         "www.a2zgroup.in": {
@@ -2586,8 +2586,8 @@
         "www.hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1590906569.372881,
-            "last_retested_at_iso": "2020-05-31T06:29:29.372881",
+            "last_retested_at_epoch": 1591002460.210327,
+            "last_retested_at_iso": "2020-06-01T09:07:40.210327",
             "status": "INACTIVE"
         },
         "www.husky-shop.cz": {
