@@ -66,8 +66,8 @@
         "103.hosting-5.xtream.co.il": {
             "included_at_epoch": 1588395394.0,
             "included_at_iso": "2020-05-02T04:56:34",
-            "last_retested_at_epoch": 1590741637.90144,
-            "last_retested_at_iso": "2020-05-29T08:40:37.901440",
+            "last_retested_at_epoch": 1591104225.758725,
+            "last_retested_at_iso": "2020-06-02T13:23:45.758725",
             "status": "INACTIVE"
         },
         "123.fluxads.com": {
@@ -311,8 +311,8 @@
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482757.0,
             "included_at_iso": "2020-05-03T05:12:37",
-            "last_retested_at_epoch": 1591013545.931357,
-            "last_retested_at_iso": "2020-06-01T12:12:25.931357",
+            "last_retested_at_epoch": 1591103850.29389,
+            "last_retested_at_iso": "2020-06-02T13:17:30.293890",
             "status": "INACTIVE"
         },
         "aasoldes.fr": {
@@ -843,8 +843,8 @@
         "www.108shot.com": {
             "included_at_epoch": 1586602079.0,
             "included_at_iso": "2020-04-11T10:47:59",
-            "last_retested_at_epoch": 1591013464.913699,
-            "last_retested_at_iso": "2020-06-01T12:11:04.913699",
+            "last_retested_at_epoch": 1591104285.270266,
+            "last_retested_at_iso": "2020-06-02T13:24:45.270266",
             "status": "INACTIVE"
         },
         "www.123kuma.com": {
@@ -1060,8 +1060,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1590995880.247844,
-            "last_retested_at_iso": "2020-06-01T07:18:00.247844",
+            "last_retested_at_epoch": 1591103939.398663,
+            "last_retested_at_iso": "2020-06-02T13:18:59.398663",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1228,8 +1228,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1591013481.937396,
-            "last_retested_at_iso": "2020-06-01T12:11:21.937396",
+            "last_retested_at_epoch": 1591104117.75886,
+            "last_retested_at_iso": "2020-06-02T13:21:57.758860",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1242,8 +1242,8 @@
         "www.3angelsvideo.com": {
             "included_at_epoch": 1590384205.965431,
             "included_at_iso": "2020-05-25T05:23:25.965431",
-            "last_retested_at_epoch": 1591013845.465586,
-            "last_retested_at_iso": "2020-06-01T12:17:25.465586",
+            "last_retested_at_epoch": 1591104574.221316,
+            "last_retested_at_iso": "2020-06-02T13:29:34.221316",
             "status": "INACTIVE"
         },
         "www.3d-daughter-list.info": {
@@ -1683,8 +1683,8 @@
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482758.0,
             "included_at_iso": "2020-05-03T05:12:38",
-            "last_retested_at_epoch": 1591013545.958579,
-            "last_retested_at_iso": "2020-06-01T12:12:25.958579",
+            "last_retested_at_epoch": 1591103850.367771,
+            "last_retested_at_iso": "2020-06-02T13:17:30.367771",
             "status": "INACTIVE"
         },
         "www.aapz.com": {
@@ -2299,8 +2299,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1591008356.978858,
-            "last_retested_at_iso": "2020-06-01T10:45:56.978858",
+            "last_retested_at_epoch": 1591104469.871957,
+            "last_retested_at_iso": "2020-06-02T13:27:49.871957",
             "status": "INACTIVE"
         },
         "www.cineitalia.top": {
