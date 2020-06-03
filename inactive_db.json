@@ -311,8 +311,8 @@
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482757.0,
             "included_at_iso": "2020-05-03T05:12:37",
-            "last_retested_at_epoch": 1591103850.29389,
-            "last_retested_at_iso": "2020-06-02T13:17:30.293890",
+            "last_retested_at_epoch": 1591192845.128183,
+            "last_retested_at_iso": "2020-06-03T14:00:45.128183",
             "status": "INACTIVE"
         },
         "aasoldes.fr": {
@@ -843,8 +843,8 @@
         "www.108shot.com": {
             "included_at_epoch": 1586602079.0,
             "included_at_iso": "2020-04-11T10:47:59",
-            "last_retested_at_epoch": 1591104285.270266,
-            "last_retested_at_iso": "2020-06-02T13:24:45.270266",
+            "last_retested_at_epoch": 1591192862.513641,
+            "last_retested_at_iso": "2020-06-03T14:01:02.513641",
             "status": "INACTIVE"
         },
         "www.123kuma.com": {
@@ -941,8 +941,8 @@
         "www.18plusstore.com": {
             "included_at_epoch": 1577911319.0,
             "included_at_iso": "2020-01-01T20:41:59",
-            "last_retested_at_epoch": 1591098664.647234,
-            "last_retested_at_iso": "2020-06-02T11:51:04.647234",
+            "last_retested_at_epoch": 1591192938.135484,
+            "last_retested_at_iso": "2020-06-03T14:02:18.135484",
             "status": "INACTIVE"
         },
         "www.18pure.info": {
@@ -1060,8 +1060,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1591103939.398663,
-            "last_retested_at_iso": "2020-06-02T13:18:59.398663",
+            "last_retested_at_epoch": 1591193347.163521,
+            "last_retested_at_iso": "2020-06-03T14:09:07.163521",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1228,8 +1228,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1591104117.75886,
-            "last_retested_at_iso": "2020-06-02T13:21:57.758860",
+            "last_retested_at_epoch": 1591193039.725726,
+            "last_retested_at_iso": "2020-06-03T14:03:59.725726",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1683,8 +1683,8 @@
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482758.0,
             "included_at_iso": "2020-05-03T05:12:38",
-            "last_retested_at_epoch": 1591103850.367771,
-            "last_retested_at_iso": "2020-06-02T13:17:30.367771",
+            "last_retested_at_epoch": 1591192845.155784,
+            "last_retested_at_iso": "2020-06-03T14:00:45.155784",
             "status": "INACTIVE"
         },
         "www.aapz.com": {
@@ -2299,8 +2299,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1591104469.871957,
-            "last_retested_at_iso": "2020-06-02T13:27:49.871957",
+            "last_retested_at_epoch": 1591193150.513238,
+            "last_retested_at_iso": "2020-06-03T14:05:50.513238",
             "status": "INACTIVE"
         },
         "www.cineitalia.top": {
