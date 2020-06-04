@@ -220,8 +220,8 @@
         "86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1591145926.268284,
-            "last_retested_at_iso": "2020-06-03T00:58:46.268284",
+            "last_retested_at_epoch": 1591248414.732084,
+            "last_retested_at_iso": "2020-06-04T05:26:54.732084",
             "status": "INACTIVE"
         },
         "8khmer.com": {
@@ -822,8 +822,8 @@
         "www.1001lingerie.com": {
             "included_at_epoch": 1588454632.0,
             "included_at_iso": "2020-05-02T21:23:52",
-            "last_retested_at_epoch": 1591158308.540372,
-            "last_retested_at_iso": "2020-06-03T04:25:08.540372",
+            "last_retested_at_epoch": 1591248742.872949,
+            "last_retested_at_iso": "2020-06-04T05:32:22.872949",
             "status": "INACTIVE"
         },
         "www.100dollars-seo.com": {
@@ -1522,8 +1522,8 @@
         "www.86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1591145926.49217,
-            "last_retested_at_iso": "2020-06-03T00:58:46.492170",
+            "last_retested_at_epoch": 1591248414.876641,
+            "last_retested_at_iso": "2020-06-04T05:26:54.876641",
             "status": "INACTIVE"
         },
         "www.87w.info": {
@@ -1844,8 +1844,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1591158979.603733,
-            "last_retested_at_iso": "2020-06-03T04:36:19.603733",
+            "last_retested_at_epoch": 1591249163.599191,
+            "last_retested_at_iso": "2020-06-04T05:39:23.599191",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2719,8 +2719,8 @@
         "www.inleadership.co.nz": {
             "included_at_epoch": 1588478652.0,
             "included_at_iso": "2020-05-03T04:04:12",
-            "last_retested_at_epoch": 1591158518.709917,
-            "last_retested_at_iso": "2020-06-03T04:28:38.709917",
+            "last_retested_at_epoch": 1591249095.950845,
+            "last_retested_at_iso": "2020-06-04T05:38:15.950845",
             "status": "INACTIVE"
         },
         "www.keepcolletive.com": {
