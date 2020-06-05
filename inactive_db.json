@@ -38,8 +38,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1591271848.136055,
-            "last_retested_at_iso": "2020-06-04T11:57:28.136055",
+            "last_retested_at_epoch": 1591358267.812293,
+            "last_retested_at_iso": "2020-06-05T11:57:47.812293",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -759,8 +759,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1591271848.337826,
-            "last_retested_at_iso": "2020-06-04T11:57:28.337826",
+            "last_retested_at_epoch": 1591358267.858885,
+            "last_retested_at_iso": "2020-06-05T11:57:47.858885",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -2201,8 +2201,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1591260428.207015,
-            "last_retested_at_iso": "2020-06-04T08:47:08.207015",
+            "last_retested_at_epoch": 1591358086.41403,
+            "last_retested_at_iso": "2020-06-05T11:54:46.414030",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
@@ -2334,8 +2334,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1591266273.189873,
-            "last_retested_at_iso": "2020-06-04T10:24:33.189873",
+            "last_retested_at_epoch": 1591358560.573523,
+            "last_retested_at_iso": "2020-06-05T12:02:40.573523",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
