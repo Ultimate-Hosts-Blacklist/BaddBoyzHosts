@@ -1186,8 +1186,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1591348085.426198,
-            "last_retested_at_iso": "2020-06-05T09:08:05.426198",
+            "last_retested_at_epoch": 1591434693.598892,
+            "last_retested_at_iso": "2020-06-06T09:11:33.598892",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -2609,6 +2609,13 @@
             "included_at_iso": "2020-04-02T11:25:17",
             "last_retested_at_epoch": 1591429668.177335,
             "last_retested_at_iso": "2020-06-06T07:47:48.177335",
+            "status": "INACTIVE"
+        },
+        "www.hunks-naked.com": {
+            "included_at_epoch": 1591434748.398224,
+            "included_at_iso": "2020-06-06T09:12:28.398224",
+            "last_retested_at_epoch": 1591434748.398224,
+            "last_retested_at_iso": "2020-06-06T09:12:28.398224",
             "status": "INACTIVE"
         },
         "www.hunktoons.com": {
