@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591420861.55437,
-            "last_retested_at_iso": "2020-06-06T05:21:01.554370",
+            "last_retested_at_epoch": 1591518972.915447,
+            "last_retested_at_iso": "2020-06-07T08:36:12.915447",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -206,8 +206,8 @@
         "6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1591430355.222497,
-            "last_retested_at_iso": "2020-06-06T07:59:15.222497",
+            "last_retested_at_epoch": 1591518782.751905,
+            "last_retested_at_iso": "2020-06-07T08:33:02.751905",
             "status": "INACTIVE"
         },
         "7cfmnf.top": {
@@ -297,8 +297,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1591429816.132934,
-            "last_retested_at_iso": "2020-06-06T07:50:16.132934",
+            "last_retested_at_epoch": 1591519120.952918,
+            "last_retested_at_iso": "2020-06-07T08:38:40.952918",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -346,8 +346,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1591429933.784368,
-            "last_retested_at_iso": "2020-06-06T07:52:13.784368",
+            "last_retested_at_epoch": 1591518970.658691,
+            "last_retested_at_iso": "2020-06-07T08:36:10.658691",
             "status": "INACTIVE"
         },
         "acount-cheks0912.suport-acount-confrim12.gq": {
@@ -738,8 +738,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591420861.566667,
-            "last_retested_at_iso": "2020-06-06T05:21:01.566667",
+            "last_retested_at_epoch": 1591518972.827224,
+            "last_retested_at_iso": "2020-06-07T08:36:12.827224",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1298,8 +1298,8 @@
         "www.3wt4c.com": {
             "included_at_epoch": 1588459713.0,
             "included_at_iso": "2020-05-02T22:48:33",
-            "last_retested_at_epoch": 1591430149.132358,
-            "last_retested_at_iso": "2020-06-06T07:55:49.132358",
+            "last_retested_at_epoch": 1591519085.581257,
+            "last_retested_at_iso": "2020-06-07T08:38:05.581257",
             "status": "INACTIVE"
         },
         "www.3xit.net": {
@@ -1312,8 +1312,8 @@
         "www.423.ru": {
             "included_at_epoch": 1588459214.0,
             "included_at_iso": "2020-05-02T22:40:14",
-            "last_retested_at_epoch": 1591430429.777576,
-            "last_retested_at_iso": "2020-06-06T08:00:29.777576",
+            "last_retested_at_epoch": 1591518285.0721,
+            "last_retested_at_iso": "2020-06-07T08:24:45.072100",
             "status": "INACTIVE"
         },
         "www.4inn.pl": {
@@ -1487,8 +1487,8 @@
         "www.6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1591430355.243084,
-            "last_retested_at_iso": "2020-06-06T07:59:15.243084",
+            "last_retested_at_epoch": 1591518782.879344,
+            "last_retested_at_iso": "2020-06-07T08:33:02.879344",
             "status": "INACTIVE"
         },
         "www.6server.com": {
@@ -1683,8 +1683,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1591429816.131901,
-            "last_retested_at_iso": "2020-06-06T07:50:16.131901",
+            "last_retested_at_epoch": 1591519120.982257,
+            "last_retested_at_iso": "2020-06-07T08:38:40.982257",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1781,8 +1781,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1591429933.763716,
-            "last_retested_at_iso": "2020-06-06T07:52:13.763716",
+            "last_retested_at_epoch": 1591518970.657835,
+            "last_retested_at_iso": "2020-06-07T08:36:10.657835",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -1858,8 +1858,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1591430184.682235,
-            "last_retested_at_iso": "2020-06-06T07:56:24.682235",
+            "last_retested_at_epoch": 1591518987.082655,
+            "last_retested_at_iso": "2020-06-07T08:36:27.082655",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2264,15 +2264,15 @@
         "www.bacanal.cl": {
             "included_at_epoch": 1588459170.0,
             "included_at_iso": "2020-05-02T22:39:30",
-            "last_retested_at_epoch": 1591430344.517344,
-            "last_retested_at_iso": "2020-06-06T07:59:04.517344",
+            "last_retested_at_epoch": 1591518474.351439,
+            "last_retested_at_iso": "2020-06-07T08:27:54.351439",
             "status": "INACTIVE"
         },
         "www.backonline.info": {
             "included_at_epoch": 1588493326.0,
             "included_at_iso": "2020-05-03T08:08:46",
-            "last_retested_at_epoch": 1591429746.348459,
-            "last_retested_at_iso": "2020-06-06T07:49:06.348459",
+            "last_retested_at_epoch": 1591518840.253919,
+            "last_retested_at_iso": "2020-06-07T08:34:00.253919",
             "status": "INACTIVE"
         },
         "www.backvids.com": {
@@ -2607,8 +2607,8 @@
         "www.hunks-hardcore.com": {
             "included_at_epoch": 1585826717.0,
             "included_at_iso": "2020-04-02T11:25:17",
-            "last_retested_at_epoch": 1591429668.177335,
-            "last_retested_at_iso": "2020-06-06T07:47:48.177335",
+            "last_retested_at_epoch": 1591519039.727296,
+            "last_retested_at_iso": "2020-06-07T08:37:19.727296",
             "status": "INACTIVE"
         },
         "www.hunks-naked.com": {
