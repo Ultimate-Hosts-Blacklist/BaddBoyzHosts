@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591518972.915447,
-            "last_retested_at_iso": "2020-06-07T08:36:12.915447",
+            "last_retested_at_epoch": 1591608626.285207,
+            "last_retested_at_iso": "2020-06-08T09:30:26.285207",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -738,8 +738,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591518972.827224,
-            "last_retested_at_iso": "2020-06-07T08:36:12.827224",
+            "last_retested_at_epoch": 1591608626.253527,
+            "last_retested_at_iso": "2020-06-08T09:30:26.253527",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1298,8 +1298,8 @@
         "www.3wt4c.com": {
             "included_at_epoch": 1588459713.0,
             "included_at_iso": "2020-05-02T22:48:33",
-            "last_retested_at_epoch": 1591519085.581257,
-            "last_retested_at_iso": "2020-06-07T08:38:05.581257",
+            "last_retested_at_epoch": 1591608386.197999,
+            "last_retested_at_iso": "2020-06-08T09:26:26.197999",
             "status": "INACTIVE"
         },
         "www.3xit.net": {
@@ -1312,8 +1312,8 @@
         "www.423.ru": {
             "included_at_epoch": 1588459214.0,
             "included_at_iso": "2020-05-02T22:40:14",
-            "last_retested_at_epoch": 1591518285.0721,
-            "last_retested_at_iso": "2020-06-07T08:24:45.072100",
+            "last_retested_at_epoch": 1591608376.752315,
+            "last_retested_at_iso": "2020-06-08T09:26:16.752315",
             "status": "INACTIVE"
         },
         "www.4inn.pl": {
@@ -2264,15 +2264,15 @@
         "www.bacanal.cl": {
             "included_at_epoch": 1588459170.0,
             "included_at_iso": "2020-05-02T22:39:30",
-            "last_retested_at_epoch": 1591518474.351439,
-            "last_retested_at_iso": "2020-06-07T08:27:54.351439",
+            "last_retested_at_epoch": 1591608452.886713,
+            "last_retested_at_iso": "2020-06-08T09:27:32.886713",
             "status": "INACTIVE"
         },
         "www.backonline.info": {
             "included_at_epoch": 1588493326.0,
             "included_at_iso": "2020-05-03T08:08:46",
-            "last_retested_at_epoch": 1591518840.253919,
-            "last_retested_at_iso": "2020-06-07T08:34:00.253919",
+            "last_retested_at_epoch": 1591608569.778717,
+            "last_retested_at_iso": "2020-06-08T09:29:29.778717",
             "status": "INACTIVE"
         },
         "www.backvids.com": {
@@ -2607,8 +2607,8 @@
         "www.hunks-hardcore.com": {
             "included_at_epoch": 1585826717.0,
             "included_at_iso": "2020-04-02T11:25:17",
-            "last_retested_at_epoch": 1591519039.727296,
-            "last_retested_at_iso": "2020-06-07T08:37:19.727296",
+            "last_retested_at_epoch": 1591608415.032371,
+            "last_retested_at_iso": "2020-06-08T09:26:55.032371",
             "status": "INACTIVE"
         },
         "www.hunks-naked.com": {
