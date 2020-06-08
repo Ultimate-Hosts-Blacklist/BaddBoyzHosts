@@ -339,8 +339,8 @@
         "abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1591503085.124238,
-            "last_retested_at_iso": "2020-06-07T04:11:25.124238",
+            "last_retested_at_epoch": 1591593983.483152,
+            "last_retested_at_iso": "2020-06-08T05:26:23.483152",
             "status": "INACTIVE"
         },
         "absolute-live.com": {
@@ -367,8 +367,8 @@
         "ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1591502825.948063,
-            "last_retested_at_iso": "2020-06-07T04:07:05.948063",
+            "last_retested_at_epoch": 1591593399.456042,
+            "last_retested_at_iso": "2020-06-08T05:16:39.456042",
             "status": "INACTIVE"
         },
         "ad.directanetworks.com": {
@@ -703,8 +703,8 @@
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1591502665.193468,
-            "last_retested_at_iso": "2020-06-07T04:04:25.193468",
+            "last_retested_at_epoch": 1591593634.333207,
+            "last_retested_at_iso": "2020-06-08T05:20:34.333207",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -1039,15 +1039,15 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1591502766.689917,
-            "last_retested_at_iso": "2020-06-07T04:06:06.689917",
+            "last_retested_at_epoch": 1591593540.284598,
+            "last_retested_at_iso": "2020-06-08T05:19:00.284598",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
             "included_at_epoch": 1588489670.0,
             "included_at_iso": "2020-05-03T07:07:50",
-            "last_retested_at_epoch": 1591503214.027031,
-            "last_retested_at_iso": "2020-06-07T04:13:34.027031",
+            "last_retested_at_epoch": 1591593711.486837,
+            "last_retested_at_iso": "2020-06-08T05:21:51.486837",
             "status": "INACTIVE"
         },
         "www.247locksmith-tucson.com": {
@@ -1221,8 +1221,8 @@
         "www.31seconds.net": {
             "included_at_epoch": 1588449467.0,
             "included_at_iso": "2020-05-02T19:57:47",
-            "last_retested_at_epoch": 1591503211.443421,
-            "last_retested_at_iso": "2020-06-07T04:13:31.443421",
+            "last_retested_at_epoch": 1591593831.539124,
+            "last_retested_at_iso": "2020-06-08T05:23:51.539124",
             "status": "INACTIVE"
         },
         "www.3278dy.com": {
@@ -1445,8 +1445,8 @@
         "www.666s.info": {
             "included_at_epoch": 1588482294.0,
             "included_at_iso": "2020-05-03T05:04:54",
-            "last_retested_at_epoch": 1591503025.607665,
-            "last_retested_at_iso": "2020-06-07T04:10:25.607665",
+            "last_retested_at_epoch": 1591593825.57169,
+            "last_retested_at_iso": "2020-06-08T05:23:45.571690",
             "status": "INACTIVE"
         },
         "www.66av.cc": {
@@ -1669,8 +1669,8 @@
         "www.aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588464287.0,
             "included_at_iso": "2020-05-03T00:04:47",
-            "last_retested_at_epoch": 1591497501.879067,
-            "last_retested_at_iso": "2020-06-07T02:38:21.879067",
+            "last_retested_at_epoch": 1591593927.803886,
+            "last_retested_at_iso": "2020-06-08T05:25:27.803886",
             "status": "INACTIVE"
         },
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
@@ -1753,8 +1753,8 @@
         "www.abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1591503085.05553,
-            "last_retested_at_iso": "2020-06-07T04:11:25.055530",
+            "last_retested_at_epoch": 1591593983.641631,
+            "last_retested_at_iso": "2020-06-08T05:26:23.641631",
             "status": "INACTIVE"
         },
         "www.abetran.com": {
@@ -1844,8 +1844,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1591502825.894031,
-            "last_retested_at_iso": "2020-06-07T04:07:05.894031",
+            "last_retested_at_epoch": 1591593399.556639,
+            "last_retested_at_iso": "2020-06-08T05:16:39.556639",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
@@ -2488,8 +2488,8 @@
         "www.freehomosexual.com": {
             "included_at_epoch": 1588468902.0,
             "included_at_iso": "2020-05-03T01:21:42",
-            "last_retested_at_epoch": 1591503155.946582,
-            "last_retested_at_iso": "2020-06-07T04:12:35.946582",
+            "last_retested_at_epoch": 1591593494.905281,
+            "last_retested_at_iso": "2020-06-08T05:18:14.905281",
             "status": "INACTIVE"
         },
         "www.freehornygirls.com": {
@@ -2551,8 +2551,8 @@
         "www.gratisweb.com": {
             "included_at_epoch": 1588496706.0,
             "included_at_iso": "2020-05-03T09:05:06",
-            "last_retested_at_epoch": 1591502742.404158,
-            "last_retested_at_iso": "2020-06-07T04:05:42.404158",
+            "last_retested_at_epoch": 1591594165.41172,
+            "last_retested_at_iso": "2020-06-08T05:29:25.411720",
             "status": "INACTIVE"
         },
         "www.hmuana.com": {
@@ -2754,8 +2754,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1591502665.178449,
-            "last_retested_at_iso": "2020-06-07T04:04:25.178449",
+            "last_retested_at_epoch": 1591593634.468149,
+            "last_retested_at_iso": "2020-06-08T05:20:34.468149",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
