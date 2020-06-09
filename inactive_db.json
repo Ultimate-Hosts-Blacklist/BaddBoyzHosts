@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591608626.285207,
-            "last_retested_at_iso": "2020-06-08T09:30:26.285207",
+            "last_retested_at_epoch": 1591695034.800311,
+            "last_retested_at_iso": "2020-06-09T09:30:34.800311",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -220,8 +220,8 @@
         "86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1591603686.84122,
-            "last_retested_at_iso": "2020-06-08T08:08:06.841220",
+            "last_retested_at_epoch": 1591695005.169914,
+            "last_retested_at_iso": "2020-06-09T09:30:05.169914",
             "status": "INACTIVE"
         },
         "8khmer.com": {
@@ -626,8 +626,8 @@
         "euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1591603393.164577,
-            "last_retested_at_iso": "2020-06-08T08:03:13.164577",
+            "last_retested_at_epoch": 1591694262.4698,
+            "last_retested_at_iso": "2020-06-09T09:17:42.469800",
             "status": "INACTIVE"
         },
         "everydresses.com": {
@@ -738,8 +738,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591608626.253527,
-            "last_retested_at_iso": "2020-06-08T09:30:26.253527",
+            "last_retested_at_epoch": 1591695034.841343,
+            "last_retested_at_iso": "2020-06-09T09:30:34.841343",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1319,8 +1319,8 @@
         "www.423.ru": {
             "included_at_epoch": 1588459214.0,
             "included_at_iso": "2020-05-02T22:40:14",
-            "last_retested_at_epoch": 1591608376.752315,
-            "last_retested_at_iso": "2020-06-08T09:26:16.752315",
+            "last_retested_at_epoch": 1591694951.597935,
+            "last_retested_at_iso": "2020-06-09T09:29:11.597935",
             "status": "INACTIVE"
         },
         "www.4inn.pl": {
@@ -1536,15 +1536,15 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1591603975.483035,
-            "last_retested_at_iso": "2020-06-08T08:12:55.483035",
+            "last_retested_at_epoch": 1591694946.674186,
+            "last_retested_at_iso": "2020-06-09T09:29:06.674186",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1591603686.815882,
-            "last_retested_at_iso": "2020-06-08T08:08:06.815882",
+            "last_retested_at_epoch": 1591695005.234023,
+            "last_retested_at_iso": "2020-06-09T09:30:05.234023",
             "status": "INACTIVE"
         },
         "www.87w.info": {
@@ -2278,8 +2278,8 @@
         "www.backonline.info": {
             "included_at_epoch": 1588493326.0,
             "included_at_iso": "2020-05-03T08:08:46",
-            "last_retested_at_epoch": 1591608569.778717,
-            "last_retested_at_iso": "2020-06-08T09:29:29.778717",
+            "last_retested_at_epoch": 1591694995.136738,
+            "last_retested_at_iso": "2020-06-09T09:29:55.136738",
             "status": "INACTIVE"
         },
         "www.backvids.com": {
@@ -2432,8 +2432,8 @@
         "www.euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1591603393.211704,
-            "last_retested_at_iso": "2020-06-08T08:03:13.211704",
+            "last_retested_at_epoch": 1591694262.401094,
+            "last_retested_at_iso": "2020-06-09T09:17:42.401094",
             "status": "INACTIVE"
         },
         "www.everydresses.com": {
@@ -2614,8 +2614,8 @@
         "www.hunks-hardcore.com": {
             "included_at_epoch": 1585826717.0,
             "included_at_iso": "2020-04-02T11:25:17",
-            "last_retested_at_epoch": 1591608415.032371,
-            "last_retested_at_iso": "2020-06-08T09:26:55.032371",
+            "last_retested_at_epoch": 1591694964.591878,
+            "last_retested_at_iso": "2020-06-09T09:29:24.591878",
             "status": "INACTIVE"
         },
         "www.hunks-naked.com": {
