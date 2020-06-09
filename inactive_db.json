@@ -87,8 +87,8 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1591654116.215836,
-            "last_retested_at_iso": "2020-06-08T22:08:36.215836",
+            "last_retested_at_epoch": 1591743450.088707,
+            "last_retested_at_iso": "2020-06-09T22:57:30.088707",
             "status": "INACTIVE"
         },
         "1hour.info": {
@@ -997,8 +997,8 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1591654116.543926,
-            "last_retested_at_iso": "2020-06-08T22:08:36.543926",
+            "last_retested_at_epoch": 1591743450.066801,
+            "last_retested_at_iso": "2020-06-09T22:57:30.066801",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
@@ -1249,8 +1249,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1591654042.100618,
-            "last_retested_at_iso": "2020-06-08T22:07:22.100618",
+            "last_retested_at_epoch": 1591743825.043223,
+            "last_retested_at_iso": "2020-06-09T23:03:45.043223",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1641,8 +1641,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1591643609.820651,
-            "last_retested_at_iso": "2020-06-08T19:13:29.820651",
+            "last_retested_at_epoch": 1591743559.662419,
+            "last_retested_at_iso": "2020-06-09T22:59:19.662419",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -1900,8 +1900,8 @@
         "www.alarmobninsk.ru": {
             "included_at_epoch": 1587868899.0,
             "included_at_iso": "2020-04-26T02:41:39",
-            "last_retested_at_epoch": 1587868899.0,
-            "last_retested_at_iso": "2020-04-26T02:41:39",
+            "last_retested_at_epoch": 1591744053.288506,
+            "last_retested_at_iso": "2020-06-09T23:07:33.288506",
             "status": "INACTIVE"
         },
         "www.alberguecasaanita.com": {
