@@ -150,8 +150,8 @@
         "3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1591572189.659746,
-            "last_retested_at_iso": "2020-06-07T23:23:09.659746",
+            "last_retested_at_epoch": 1591670326.710669,
+            "last_retested_at_iso": "2020-06-09T02:38:46.710669",
             "status": "INACTIVE"
         },
         "3xit.net": {
@@ -780,8 +780,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1591583223.134829,
-            "last_retested_at_iso": "2020-06-08T02:27:03.134829",
+            "last_retested_at_epoch": 1591670802.189028,
+            "last_retested_at_iso": "2020-06-09T02:46:42.189028",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -794,8 +794,8 @@
         "www.0m4.ru": {
             "included_at_epoch": 1588454561.0,
             "included_at_iso": "2020-05-02T21:22:41",
-            "last_retested_at_epoch": 1591583428.772826,
-            "last_retested_at_iso": "2020-06-08T02:30:28.772826",
+            "last_retested_at_epoch": 1591670468.148244,
+            "last_retested_at_iso": "2020-06-09T02:41:08.148244",
             "status": "INACTIVE"
         },
         "www.0pros.com": {
@@ -1270,15 +1270,15 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1591583121.642257,
-            "last_retested_at_iso": "2020-06-08T02:25:21.642257",
+            "last_retested_at_epoch": 1591670354.112476,
+            "last_retested_at_iso": "2020-06-09T02:39:14.112476",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1591572189.704278,
-            "last_retested_at_iso": "2020-06-07T23:23:09.704278",
+            "last_retested_at_epoch": 1591670326.740918,
+            "last_retested_at_iso": "2020-06-09T02:38:46.740918",
             "status": "INACTIVE"
         },
         "www.3dsemulator.info": {
@@ -1291,8 +1291,8 @@
         "www.3jmcwio.com": {
             "included_at_epoch": 1588521937.0,
             "included_at_iso": "2020-05-03T16:05:37",
-            "last_retested_at_epoch": 1591583739.258513,
-            "last_retested_at_iso": "2020-06-08T02:35:39.258513",
+            "last_retested_at_epoch": 1591670451.42425,
+            "last_retested_at_iso": "2020-06-09T02:40:51.424250",
             "status": "INACTIVE"
         },
         "www.3lm.info": {
@@ -1928,8 +1928,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1591577859.281755,
-            "last_retested_at_iso": "2020-06-08T00:57:39.281755",
+            "last_retested_at_epoch": 1591670845.092541,
+            "last_retested_at_iso": "2020-06-09T02:47:25.092541",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -1949,8 +1949,8 @@
         "www.alfalakgifts.com": {
             "included_at_epoch": 1576153844.0,
             "included_at_iso": "2019-12-12T12:30:44",
-            "last_retested_at_epoch": 1591583511.509849,
-            "last_retested_at_iso": "2020-06-08T02:31:51.509849",
+            "last_retested_at_epoch": 1591670632.015252,
+            "last_retested_at_iso": "2020-06-09T02:43:52.015252",
             "status": "INACTIVE"
         },
         "www.algerianembassy.co.in": {
@@ -2117,8 +2117,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1591567076.417439,
-            "last_retested_at_iso": "2020-06-07T21:57:56.417439",
+            "last_retested_at_epoch": 1591670385.951363,
+            "last_retested_at_iso": "2020-06-09T02:39:45.951363",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
@@ -2376,8 +2376,8 @@
         "www.cookingyourspanish.com": {
             "included_at_epoch": 1588493130.0,
             "included_at_iso": "2020-05-03T08:05:30",
-            "last_retested_at_epoch": 1591577559.183319,
-            "last_retested_at_iso": "2020-06-08T00:52:39.183319",
+            "last_retested_at_epoch": 1591670688.60857,
+            "last_retested_at_iso": "2020-06-09T02:44:48.608570",
             "status": "INACTIVE"
         },
         "www.coolbar.pro": {
