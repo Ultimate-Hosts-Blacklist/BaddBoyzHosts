@@ -269,8 +269,8 @@
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1591623290.031231,
-            "last_retested_at_iso": "2020-06-08T13:34:50.031231",
+            "last_retested_at_epoch": 1591728420.137063,
+            "last_retested_at_iso": "2020-06-09T18:47:00.137063",
             "status": "INACTIVE"
         },
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -283,8 +283,8 @@
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588493262.0,
             "included_at_iso": "2020-05-03T08:07:42",
-            "last_retested_at_epoch": 1591638965.984089,
-            "last_retested_at_iso": "2020-06-08T17:56:05.984089",
+            "last_retested_at_epoch": 1591727980.245222,
+            "last_retested_at_iso": "2020-06-09T18:39:40.245222",
             "status": "INACTIVE"
         },
         "aa9d046aab36af4ff182f097f840430d51.com": {
@@ -962,8 +962,8 @@
         "www.18plusstore.com": {
             "included_at_epoch": 1577911319.0,
             "included_at_iso": "2020-01-01T20:41:59",
-            "last_retested_at_epoch": 1591638811.249626,
-            "last_retested_at_iso": "2020-06-08T17:53:31.249626",
+            "last_retested_at_epoch": 1591728112.259917,
+            "last_retested_at_iso": "2020-06-09T18:41:52.259917",
             "status": "INACTIVE"
         },
         "www.18pure.info": {
@@ -1333,15 +1333,15 @@
         "www.4love.info": {
             "included_at_epoch": 1588478513.0,
             "included_at_iso": "2020-05-03T04:01:53",
-            "last_retested_at_epoch": 1591639042.338337,
-            "last_retested_at_iso": "2020-06-08T17:57:22.338337",
+            "last_retested_at_epoch": 1591728600.866858,
+            "last_retested_at_iso": "2020-06-09T18:50:00.866858",
             "status": "INACTIVE"
         },
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1591638753.154311,
-            "last_retested_at_iso": "2020-06-08T17:52:33.154311",
+            "last_retested_at_epoch": 1591728313.824219,
+            "last_retested_at_iso": "2020-06-09T18:45:13.824219",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -1655,8 +1655,8 @@
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1591623290.273596,
-            "last_retested_at_iso": "2020-06-08T13:34:50.273596",
+            "last_retested_at_epoch": 1591728418.064642,
+            "last_retested_at_iso": "2020-06-09T18:46:58.064642",
             "status": "INACTIVE"
         },
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
