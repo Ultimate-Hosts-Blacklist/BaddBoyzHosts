@@ -31,8 +31,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1591577308.953663,
-            "last_retested_at_iso": "2020-06-08T00:48:28.953663",
+            "last_retested_at_epoch": 1591664495.37148,
+            "last_retested_at_iso": "2020-06-09T01:01:35.371480",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -199,8 +199,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1591577054.187622,
-            "last_retested_at_iso": "2020-06-08T00:44:14.187622",
+            "last_retested_at_epoch": 1591664984.718544,
+            "last_retested_at_iso": "2020-06-09T01:09:44.718544",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -290,8 +290,8 @@
         "aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1591577930.460596,
-            "last_retested_at_iso": "2020-06-08T00:58:50.460596",
+            "last_retested_at_epoch": 1591664980.5122,
+            "last_retested_at_iso": "2020-06-09T01:09:40.512200",
             "status": "INACTIVE"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -752,8 +752,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1591577309.100278,
-            "last_retested_at_iso": "2020-06-08T00:48:29.100278",
+            "last_retested_at_epoch": 1591664495.330591,
+            "last_retested_at_iso": "2020-06-09T01:01:35.330591",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -768,6 +768,13 @@
             "included_at_iso": "2020-03-06T06:49:49",
             "last_retested_at_epoch": 1583477389.0,
             "last_retested_at_iso": "2020-03-06T06:49:49",
+            "status": "INACTIVE"
+        },
+        "www.01apple.com": {
+            "included_at_epoch": 1591665010.632205,
+            "included_at_iso": "2020-06-09T01:10:10.632205",
+            "last_retested_at_epoch": 1591665010.632205,
+            "last_retested_at_iso": "2020-06-09T01:10:10.632205",
             "status": "INACTIVE"
         },
         "www.03p.info": {
@@ -913,8 +920,8 @@
         "www.138shenbosbo.com": {
             "included_at_epoch": 1588464180.0,
             "included_at_iso": "2020-05-03T00:03:00",
-            "last_retested_at_epoch": 1591577727.635155,
-            "last_retested_at_iso": "2020-06-08T00:55:27.635155",
+            "last_retested_at_epoch": 1591664518.962758,
+            "last_retested_at_iso": "2020-06-09T01:01:58.962758",
             "status": "INACTIVE"
         },
         "www.14b.info": {
@@ -1368,8 +1375,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1591577714.144979,
-            "last_retested_at_iso": "2020-06-08T00:55:14.144979",
+            "last_retested_at_epoch": 1591664967.140305,
+            "last_retested_at_iso": "2020-06-09T01:09:27.140305",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1473,8 +1480,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1591577054.124196,
-            "last_retested_at_iso": "2020-06-08T00:44:14.124196",
+            "last_retested_at_epoch": 1591664984.857589,
+            "last_retested_at_iso": "2020-06-09T01:09:44.857589",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1676,8 +1683,8 @@
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1591577930.35807,
-            "last_retested_at_iso": "2020-06-08T00:58:50.358070",
+            "last_retested_at_epoch": 1591664980.426032,
+            "last_retested_at_iso": "2020-06-09T01:09:40.426032",
             "status": "INACTIVE"
         },
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
