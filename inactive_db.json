@@ -115,8 +115,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1591659667.096319,
-            "last_retested_at_iso": "2020-06-08T23:41:07.096319",
+            "last_retested_at_epoch": 1591753619.021673,
+            "last_retested_at_iso": "2020-06-10T01:46:59.021673",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -199,8 +199,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1591664984.718544,
-            "last_retested_at_iso": "2020-06-09T01:09:44.718544",
+            "last_retested_at_epoch": 1591754106.784502,
+            "last_retested_at_iso": "2020-06-10T01:55:06.784502",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -920,8 +920,8 @@
         "www.138shenbosbo.com": {
             "included_at_epoch": 1588464180.0,
             "included_at_iso": "2020-05-03T00:03:00",
-            "last_retested_at_epoch": 1591664518.962758,
-            "last_retested_at_iso": "2020-06-09T01:01:58.962758",
+            "last_retested_at_epoch": 1591753899.302574,
+            "last_retested_at_iso": "2020-06-10T01:51:39.302574",
             "status": "INACTIVE"
         },
         "www.14b.info": {
@@ -1109,8 +1109,8 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1591659667.206721,
-            "last_retested_at_iso": "2020-06-08T23:41:07.206721",
+            "last_retested_at_epoch": 1591753619.137589,
+            "last_retested_at_iso": "2020-06-10T01:46:59.137589",
             "status": "INACTIVE"
         },
         "www.271395.com": {
@@ -1480,8 +1480,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1591664984.857589,
-            "last_retested_at_iso": "2020-06-09T01:09:44.857589",
+            "last_retested_at_epoch": 1591754106.892988,
+            "last_retested_at_iso": "2020-06-10T01:55:06.892988",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
