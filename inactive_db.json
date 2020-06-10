@@ -297,8 +297,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1591704836.938725,
-            "last_retested_at_iso": "2020-06-09T12:13:56.938725",
+            "last_retested_at_epoch": 1591793479.694388,
+            "last_retested_at_iso": "2020-06-10T12:51:19.694388",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -346,8 +346,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1591704771.193133,
-            "last_retested_at_iso": "2020-06-09T12:12:51.193133",
+            "last_retested_at_epoch": 1591793340.425362,
+            "last_retested_at_iso": "2020-06-10T12:49:00.425362",
             "status": "INACTIVE"
         },
         "acount-cheks0912.suport-acount-confrim12.gq": {
@@ -1193,8 +1193,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1591704655.999189,
-            "last_retested_at_iso": "2020-06-09T12:10:55.999189",
+            "last_retested_at_epoch": 1591793372.641879,
+            "last_retested_at_iso": "2020-06-10T12:49:32.641879",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1627,8 +1627,8 @@
         "www.a48.info": {
             "included_at_epoch": 1588760499.065523,
             "included_at_iso": "2020-05-06T10:21:39.065523",
-            "last_retested_at_epoch": 1591704245.823195,
-            "last_retested_at_iso": "2020-06-09T12:04:05.823195",
+            "last_retested_at_epoch": 1591793181.564197,
+            "last_retested_at_iso": "2020-06-10T12:46:21.564197",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -1690,8 +1690,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1591704836.924069,
-            "last_retested_at_iso": "2020-06-09T12:13:56.924069",
+            "last_retested_at_epoch": 1591793479.754321,
+            "last_retested_at_iso": "2020-06-10T12:51:19.754321",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1788,8 +1788,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1591704771.256688,
-            "last_retested_at_iso": "2020-06-09T12:12:51.256688",
+            "last_retested_at_epoch": 1591793340.476842,
+            "last_retested_at_iso": "2020-06-10T12:49:00.476842",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -1865,8 +1865,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1591699928.83929,
-            "last_retested_at_iso": "2020-06-09T10:52:08.839290",
+            "last_retested_at_epoch": 1591793627.067235,
+            "last_retested_at_iso": "2020-06-10T12:53:47.067235",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -1991,8 +1991,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1591704555.214328,
-            "last_retested_at_iso": "2020-06-09T12:09:15.214328",
+            "last_retested_at_epoch": 1591793351.69119,
+            "last_retested_at_iso": "2020-06-10T12:49:11.691190",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
@@ -2271,8 +2271,8 @@
         "www.bacanal.cl": {
             "included_at_epoch": 1588459170.0,
             "included_at_iso": "2020-05-02T22:39:30",
-            "last_retested_at_epoch": 1591704592.515425,
-            "last_retested_at_iso": "2020-06-09T12:09:52.515425",
+            "last_retested_at_epoch": 1591793256.367952,
+            "last_retested_at_iso": "2020-06-10T12:47:36.367952",
             "status": "INACTIVE"
         },
         "www.backonline.info": {
@@ -2761,8 +2761,8 @@
         "www.inleadership.co.nz": {
             "included_at_epoch": 1588478652.0,
             "included_at_iso": "2020-05-03T04:04:12",
-            "last_retested_at_epoch": 1591704534.434146,
-            "last_retested_at_iso": "2020-06-09T12:08:54.434146",
+            "last_retested_at_epoch": 1591793481.102878,
+            "last_retested_at_iso": "2020-06-10T12:51:21.102878",
             "status": "INACTIVE"
         },
         "www.keepcolletive.com": {
