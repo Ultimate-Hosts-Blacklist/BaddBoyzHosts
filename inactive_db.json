@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591695034.800311,
-            "last_retested_at_iso": "2020-06-09T09:30:34.800311",
+            "last_retested_at_epoch": 1591788149.153085,
+            "last_retested_at_iso": "2020-06-10T11:22:29.153085",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -206,8 +206,8 @@
         "6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1591700004.523105,
-            "last_retested_at_iso": "2020-06-09T10:53:24.523105",
+            "last_retested_at_epoch": 1591788629.42198,
+            "last_retested_at_iso": "2020-06-10T11:30:29.421980",
             "status": "INACTIVE"
         },
         "7cfmnf.top": {
@@ -514,8 +514,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1591699852.449799,
-            "last_retested_at_iso": "2020-06-09T10:50:52.449799",
+            "last_retested_at_epoch": 1591788318.360026,
+            "last_retested_at_iso": "2020-06-10T11:25:18.360026",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -738,8 +738,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1591695034.841343,
-            "last_retested_at_iso": "2020-06-09T09:30:34.841343",
+            "last_retested_at_epoch": 1591788149.212717,
+            "last_retested_at_iso": "2020-06-10T11:22:29.212717",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1347,8 +1347,8 @@
         "www.4plus11.com": {
             "included_at_epoch": 1588489712.0,
             "included_at_iso": "2020-05-03T07:08:32",
-            "last_retested_at_epoch": 1591690406.526938,
-            "last_retested_at_iso": "2020-06-09T08:13:26.526938",
+            "last_retested_at_epoch": 1591788114.783029,
+            "last_retested_at_iso": "2020-06-10T11:21:54.783029",
             "status": "INACTIVE"
         },
         "www.4realzed.com": {
@@ -1494,8 +1494,8 @@
         "www.6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1591700004.864079,
-            "last_retested_at_iso": "2020-06-09T10:53:24.864079",
+            "last_retested_at_epoch": 1591788629.491763,
+            "last_retested_at_iso": "2020-06-10T11:30:29.491763",
             "status": "INACTIVE"
         },
         "www.6server.com": {
@@ -2215,8 +2215,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1591699852.095703,
-            "last_retested_at_iso": "2020-06-09T10:50:52.095703",
+            "last_retested_at_epoch": 1591788318.236653,
+            "last_retested_at_iso": "2020-06-10T11:25:18.236653",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
