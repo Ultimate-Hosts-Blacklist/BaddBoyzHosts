@@ -269,8 +269,8 @@
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1591728420.137063,
-            "last_retested_at_iso": "2020-06-09T18:47:00.137063",
+            "last_retested_at_epoch": 1591819399.427442,
+            "last_retested_at_iso": "2020-06-10T20:03:19.427442",
             "status": "INACTIVE"
         },
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -1235,8 +1235,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1591723511.952776,
-            "last_retested_at_iso": "2020-06-09T17:25:11.952776",
+            "last_retested_at_epoch": 1591818958.616532,
+            "last_retested_at_iso": "2020-06-10T19:55:58.616532",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -1333,15 +1333,15 @@
         "www.4love.info": {
             "included_at_epoch": 1588478513.0,
             "included_at_iso": "2020-05-03T04:01:53",
-            "last_retested_at_epoch": 1591728600.866858,
-            "last_retested_at_iso": "2020-06-09T18:50:00.866858",
+            "last_retested_at_epoch": 1591819512.41367,
+            "last_retested_at_iso": "2020-06-10T20:05:12.413670",
             "status": "INACTIVE"
         },
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1591728313.824219,
-            "last_retested_at_iso": "2020-06-09T18:45:13.824219",
+            "last_retested_at_epoch": 1591818891.048142,
+            "last_retested_at_iso": "2020-06-10T19:54:51.048142",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -1655,8 +1655,8 @@
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1591728418.064642,
-            "last_retested_at_iso": "2020-06-09T18:46:58.064642",
+            "last_retested_at_epoch": 1591819397.429293,
+            "last_retested_at_iso": "2020-06-10T20:03:17.429293",
             "status": "INACTIVE"
         },
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -2747,8 +2747,8 @@
         "www.idvipteam.com": {
             "included_at_epoch": 1588464477.0,
             "included_at_iso": "2020-05-03T00:07:57",
-            "last_retested_at_epoch": 1591723947.377119,
-            "last_retested_at_iso": "2020-06-09T17:32:27.377119",
+            "last_retested_at_epoch": 1591819102.464059,
+            "last_retested_at_iso": "2020-06-10T19:58:22.464059",
             "status": "INACTIVE"
         },
         "www.imdaginea.cf": {
