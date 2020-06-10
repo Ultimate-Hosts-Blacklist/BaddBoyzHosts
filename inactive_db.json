@@ -94,8 +94,8 @@
         "1hour.info": {
             "included_at_epoch": 1588468623.0,
             "included_at_iso": "2020-05-03T01:17:03",
-            "last_retested_at_epoch": 1591680792.186742,
-            "last_retested_at_iso": "2020-06-09T05:33:12.186742",
+            "last_retested_at_epoch": 1591769039.959989,
+            "last_retested_at_iso": "2020-06-10T06:03:59.959989",
             "status": "INACTIVE"
         },
         "2005-search.com": {
@@ -157,8 +157,8 @@
         "3xit.net": {
             "included_at_epoch": 1588473938.0,
             "included_at_iso": "2020-05-03T02:45:38",
-            "last_retested_at_epoch": 1591675490.398665,
-            "last_retested_at_iso": "2020-06-09T04:04:50.398665",
+            "last_retested_at_epoch": 1591769536.752729,
+            "last_retested_at_iso": "2020-06-10T06:12:16.752729",
             "status": "INACTIVE"
         },
         "50centstreetkingimmortal.com": {
@@ -598,8 +598,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1591680488.169575,
-            "last_retested_at_iso": "2020-06-09T05:28:08.169575",
+            "last_retested_at_epoch": 1591769196.648388,
+            "last_retested_at_iso": "2020-06-10T06:06:36.648388",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -703,8 +703,8 @@
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1591680428.099287,
-            "last_retested_at_iso": "2020-06-09T05:27:08.099287",
+            "last_retested_at_epoch": 1591769343.397412,
+            "last_retested_at_iso": "2020-06-10T06:09:03.397412",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -892,8 +892,8 @@
         "www.12month.loan": {
             "included_at_epoch": 1589954656.497982,
             "included_at_iso": "2020-05-20T06:04:16.497982",
-            "last_retested_at_epoch": 1591680258.866792,
-            "last_retested_at_iso": "2020-06-09T05:24:18.866792",
+            "last_retested_at_epoch": 1591769251.648512,
+            "last_retested_at_iso": "2020-06-10T06:07:31.648512",
             "status": "INACTIVE"
         },
         "www.12research.com": {
@@ -1004,15 +1004,15 @@
         "www.1hour.info": {
             "included_at_epoch": 1588468623.0,
             "included_at_iso": "2020-05-03T01:17:03",
-            "last_retested_at_epoch": 1591680792.306628,
-            "last_retested_at_iso": "2020-06-09T05:33:12.306628",
+            "last_retested_at_epoch": 1591769040.056838,
+            "last_retested_at_iso": "2020-06-10T06:04:00.056838",
             "status": "INACTIVE"
         },
         "www.1lesbiansex.com": {
             "included_at_epoch": 1588478473.0,
             "included_at_iso": "2020-05-03T04:01:13",
-            "last_retested_at_epoch": 1591680100.23904,
-            "last_retested_at_iso": "2020-06-09T05:21:40.239040",
+            "last_retested_at_epoch": 1591769497.286182,
+            "last_retested_at_iso": "2020-06-10T06:11:37.286182",
             "status": "INACTIVE"
         },
         "www.1pamm.ru": {
@@ -1242,8 +1242,8 @@
         "www.377baidu.com": {
             "included_at_epoch": 1588499813.0,
             "included_at_iso": "2020-05-03T09:56:53",
-            "last_retested_at_epoch": 1591680675.159564,
-            "last_retested_at_iso": "2020-06-09T05:31:15.159564",
+            "last_retested_at_epoch": 1591769687.16301,
+            "last_retested_at_iso": "2020-06-10T06:14:47.163010",
             "status": "INACTIVE"
         },
         "www.39bola.com": {
@@ -1312,8 +1312,8 @@
         "www.3xit.net": {
             "included_at_epoch": 1588473939.0,
             "included_at_iso": "2020-05-03T02:45:39",
-            "last_retested_at_epoch": 1591675490.537272,
-            "last_retested_at_iso": "2020-06-09T04:04:50.537272",
+            "last_retested_at_epoch": 1591769536.541458,
+            "last_retested_at_iso": "2020-06-10T06:12:16.541458",
             "status": "INACTIVE"
         },
         "www.423.ru": {
@@ -2327,8 +2327,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1591680488.934322,
-            "last_retested_at_iso": "2020-06-09T05:28:08.934322",
+            "last_retested_at_epoch": 1591769196.42685,
+            "last_retested_at_iso": "2020-06-10T06:06:36.426850",
             "status": "INACTIVE"
         },
         "www.cinematraffic.com": {
@@ -2362,8 +2362,8 @@
         "www.companycreators.co.uk": {
             "included_at_epoch": 1590678143.487618,
             "included_at_iso": "2020-05-28T15:02:23.487618",
-            "last_retested_at_epoch": 1591676186.324732,
-            "last_retested_at_iso": "2020-06-09T04:16:26.324732",
+            "last_retested_at_epoch": 1591769582.165123,
+            "last_retested_at_iso": "2020-06-10T06:13:02.165123",
             "status": "INACTIVE"
         },
         "www.constructionskills.in": {
@@ -2495,8 +2495,8 @@
         "www.freehomosexual.com": {
             "included_at_epoch": 1588468902.0,
             "included_at_iso": "2020-05-03T01:21:42",
-            "last_retested_at_epoch": 1591680816.072955,
-            "last_retested_at_iso": "2020-06-09T05:33:36.072955",
+            "last_retested_at_epoch": 1591769072.938358,
+            "last_retested_at_iso": "2020-06-10T06:04:32.938358",
             "status": "INACTIVE"
         },
         "www.freehornygirls.com": {
@@ -2558,8 +2558,8 @@
         "www.gratisweb.com": {
             "included_at_epoch": 1588496706.0,
             "included_at_iso": "2020-05-03T09:05:06",
-            "last_retested_at_epoch": 1591680587.117571,
-            "last_retested_at_iso": "2020-06-09T05:29:47.117571",
+            "last_retested_at_epoch": 1591769203.373574,
+            "last_retested_at_iso": "2020-06-10T06:06:43.373574",
             "status": "INACTIVE"
         },
         "www.hmuana.com": {
@@ -2761,8 +2761,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1591680428.115785,
-            "last_retested_at_iso": "2020-06-09T05:27:08.115785",
+            "last_retested_at_epoch": 1591769343.639722,
+            "last_retested_at_iso": "2020-06-10T06:09:03.639722",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
