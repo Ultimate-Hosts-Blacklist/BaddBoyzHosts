@@ -87,8 +87,8 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1591743450.088707,
-            "last_retested_at_iso": "2020-06-09T22:57:30.088707",
+            "last_retested_at_epoch": 1591835078.045182,
+            "last_retested_at_iso": "2020-06-11T00:24:38.045182",
             "status": "INACTIVE"
         },
         "1hour.info": {
@@ -465,8 +465,8 @@
         "amatueranal.com": {
             "included_at_epoch": 1588503012.0,
             "included_at_iso": "2020-05-03T10:50:12",
-            "last_retested_at_epoch": 1591748658.990605,
-            "last_retested_at_iso": "2020-06-10T00:24:18.990605",
+            "last_retested_at_epoch": 1591835103.008861,
+            "last_retested_at_iso": "2020-06-11T00:25:03.008861",
             "status": "INACTIVE"
         },
         "amatvideo.free.fr": {
@@ -710,8 +710,8 @@
         "slowmac.tech": {
             "included_at_epoch": 1588459637.0,
             "included_at_iso": "2020-05-02T22:47:17",
-            "last_retested_at_epoch": 1591748858.131932,
-            "last_retested_at_iso": "2020-06-10T00:27:38.131932",
+            "last_retested_at_epoch": 1591835319.04906,
+            "last_retested_at_iso": "2020-06-11T00:28:39.049060",
             "status": "INACTIVE"
         },
         "ssl.eroscomix.com": {
@@ -997,8 +997,8 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1591743450.066801,
-            "last_retested_at_iso": "2020-06-09T22:57:30.066801",
+            "last_retested_at_epoch": 1591835078.125169,
+            "last_retested_at_iso": "2020-06-11T00:24:38.125169",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
@@ -1249,8 +1249,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1591743825.043223,
-            "last_retested_at_iso": "2020-06-09T23:03:45.043223",
+            "last_retested_at_epoch": 1591834828.618615,
+            "last_retested_at_iso": "2020-06-11T00:20:28.618615",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1641,8 +1641,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1591743559.662419,
-            "last_retested_at_iso": "2020-06-09T22:59:19.662419",
+            "last_retested_at_epoch": 1591834671.873353,
+            "last_retested_at_iso": "2020-06-11T00:17:51.873353",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -2089,8 +2089,8 @@
         "www.amatueranal.com": {
             "included_at_epoch": 1588503012.0,
             "included_at_iso": "2020-05-03T10:50:12",
-            "last_retested_at_epoch": 1591748659.123329,
-            "last_retested_at_iso": "2020-06-10T00:24:19.123329",
+            "last_retested_at_epoch": 1591835103.032318,
+            "last_retested_at_iso": "2020-06-11T00:25:03.032318",
             "status": "INACTIVE"
         },
         "www.amorepaixaomensagens.com.br": {
@@ -2418,8 +2418,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1591739257.180074,
-            "last_retested_at_iso": "2020-06-09T21:47:37.180074",
+            "last_retested_at_epoch": 1591835236.544767,
+            "last_retested_at_iso": "2020-06-11T00:27:16.544767",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
@@ -2803,8 +2803,8 @@
         "www.slowmac.tech": {
             "included_at_epoch": 1588459636.0,
             "included_at_iso": "2020-05-02T22:47:16",
-            "last_retested_at_epoch": 1591748857.879601,
-            "last_retested_at_iso": "2020-06-10T00:27:37.879601",
+            "last_retested_at_epoch": 1591835318.729156,
+            "last_retested_at_iso": "2020-06-11T00:28:38.729156",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
