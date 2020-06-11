@@ -150,8 +150,8 @@
         "3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1591759462.695415,
-            "last_retested_at_iso": "2020-06-10T03:24:22.695415",
+            "last_retested_at_epoch": 1591846771.542888,
+            "last_retested_at_iso": "2020-06-11T03:39:31.542888",
             "status": "INACTIVE"
         },
         "3xit.net": {
@@ -780,8 +780,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1591759094.540662,
-            "last_retested_at_iso": "2020-06-10T03:18:14.540662",
+            "last_retested_at_epoch": 1591847024.599932,
+            "last_retested_at_iso": "2020-06-11T03:43:44.599932",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1207,8 +1207,8 @@
         "www.3-gay.com": {
             "included_at_epoch": 1588478504.0,
             "included_at_iso": "2020-05-03T04:01:44",
-            "last_retested_at_epoch": 1591749139.195475,
-            "last_retested_at_iso": "2020-06-10T00:32:19.195475",
+            "last_retested_at_epoch": 1591846612.684904,
+            "last_retested_at_iso": "2020-06-11T03:36:52.684904",
             "status": "INACTIVE"
         },
         "www.3-letter-domains.net": {
@@ -1270,15 +1270,15 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1591759393.592697,
-            "last_retested_at_iso": "2020-06-10T03:23:13.592697",
+            "last_retested_at_epoch": 1591847192.706704,
+            "last_retested_at_iso": "2020-06-11T03:46:32.706704",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1591759462.863064,
-            "last_retested_at_iso": "2020-06-10T03:24:22.863064",
+            "last_retested_at_epoch": 1591846771.514856,
+            "last_retested_at_iso": "2020-06-11T03:39:31.514856",
             "status": "INACTIVE"
         },
         "www.3dsemulator.info": {
@@ -1291,8 +1291,8 @@
         "www.3jmcwio.com": {
             "included_at_epoch": 1588521937.0,
             "included_at_iso": "2020-05-03T16:05:37",
-            "last_retested_at_epoch": 1591759288.216781,
-            "last_retested_at_iso": "2020-06-10T03:21:28.216781",
+            "last_retested_at_epoch": 1591846463.319148,
+            "last_retested_at_iso": "2020-06-11T03:34:23.319148",
             "status": "INACTIVE"
         },
         "www.3lm.info": {
@@ -1928,8 +1928,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1591759318.545886,
-            "last_retested_at_iso": "2020-06-10T03:21:58.545886",
+            "last_retested_at_epoch": 1591846670.659178,
+            "last_retested_at_iso": "2020-06-11T03:37:50.659178",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -1949,8 +1949,8 @@
         "www.alfalakgifts.com": {
             "included_at_epoch": 1576153844.0,
             "included_at_iso": "2019-12-12T12:30:44",
-            "last_retested_at_epoch": 1591759680.970394,
-            "last_retested_at_iso": "2020-06-10T03:28:00.970394",
+            "last_retested_at_epoch": 1591847007.256413,
+            "last_retested_at_iso": "2020-06-11T03:43:27.256413",
             "status": "INACTIVE"
         },
         "www.algerianembassy.co.in": {
@@ -2240,6 +2240,13 @@
             "last_retested_at_iso": "2020-03-21T21:03:45",
             "status": "INACTIVE"
         },
+        "www.avkzarabotok.info": {
+            "included_at_epoch": 1591846662.535543,
+            "included_at_iso": "2020-06-11T03:37:42.535543",
+            "last_retested_at_epoch": 1591846662.535543,
+            "last_retested_at_iso": "2020-06-11T03:37:42.535543",
+            "status": "INACTIVE"
+        },
         "www.avoidfilter.net": {
             "included_at_epoch": 1584996590.0,
             "included_at_iso": "2020-03-23T20:49:50",
@@ -2376,8 +2383,8 @@
         "www.cookingyourspanish.com": {
             "included_at_epoch": 1588493130.0,
             "included_at_iso": "2020-05-03T08:05:30",
-            "last_retested_at_epoch": 1591759157.870302,
-            "last_retested_at_iso": "2020-06-10T03:19:17.870302",
+            "last_retested_at_epoch": 1591846983.854187,
+            "last_retested_at_iso": "2020-06-11T03:43:03.854187",
             "status": "INACTIVE"
         },
         "www.coolbar.pro": {
