@@ -31,8 +31,8 @@
         "015gf.com": {
             "included_at_epoch": 1588445020.0,
             "included_at_iso": "2020-05-02T18:43:40",
-            "last_retested_at_epoch": 1591857098.788394,
-            "last_retested_at_iso": "2020-06-11T06:31:38.788394",
+            "last_retested_at_epoch": 1591944931.431458,
+            "last_retested_at_iso": "2020-06-12T06:55:31.431458",
             "status": "INACTIVE"
         },
         "016ih.com": {
@@ -290,8 +290,8 @@
         "aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1591852018.666994,
-            "last_retested_at_iso": "2020-06-11T05:06:58.666994",
+            "last_retested_at_epoch": 1591944558.284208,
+            "last_retested_at_iso": "2020-06-12T06:49:18.284208",
             "status": "INACTIVE"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -598,8 +598,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1591856942.876735,
-            "last_retested_at_iso": "2020-06-11T06:29:02.876735",
+            "last_retested_at_epoch": 1591945326.841738,
+            "last_retested_at_iso": "2020-06-12T07:02:06.841738",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -752,8 +752,8 @@
         "www.015gf.com": {
             "included_at_epoch": 1588435952.0,
             "included_at_iso": "2020-05-02T16:12:32",
-            "last_retested_at_epoch": 1591857098.822951,
-            "last_retested_at_iso": "2020-06-11T06:31:38.822951",
+            "last_retested_at_epoch": 1591944931.594886,
+            "last_retested_at_iso": "2020-06-12T06:55:31.594886",
             "status": "INACTIVE"
         },
         "www.016ih.com": {
@@ -892,8 +892,8 @@
         "www.12month.loan": {
             "included_at_epoch": 1589954656.497982,
             "included_at_iso": "2020-05-20T06:04:16.497982",
-            "last_retested_at_epoch": 1591857104.450909,
-            "last_retested_at_iso": "2020-06-11T06:31:44.450909",
+            "last_retested_at_epoch": 1591944692.141255,
+            "last_retested_at_iso": "2020-06-12T06:51:32.141255",
             "status": "INACTIVE"
         },
         "www.12research.com": {
@@ -1011,8 +1011,8 @@
         "www.1lesbiansex.com": {
             "included_at_epoch": 1588478473.0,
             "included_at_iso": "2020-05-03T04:01:13",
-            "last_retested_at_epoch": 1591857258.800028,
-            "last_retested_at_iso": "2020-06-11T06:34:18.800028",
+            "last_retested_at_epoch": 1591944758.324018,
+            "last_retested_at_iso": "2020-06-12T06:52:38.324018",
             "status": "INACTIVE"
         },
         "www.1pamm.ru": {
@@ -1242,8 +1242,8 @@
         "www.377baidu.com": {
             "included_at_epoch": 1588499813.0,
             "included_at_iso": "2020-05-03T09:56:53",
-            "last_retested_at_epoch": 1591857500.499033,
-            "last_retested_at_iso": "2020-06-11T06:38:20.499033",
+            "last_retested_at_epoch": 1591945002.315948,
+            "last_retested_at_iso": "2020-06-12T06:56:42.315948",
             "status": "INACTIVE"
         },
         "www.39bola.com": {
@@ -1305,8 +1305,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1591851787.589982,
-            "last_retested_at_iso": "2020-06-11T05:03:07.589982",
+            "last_retested_at_epoch": 1591945314.61083,
+            "last_retested_at_iso": "2020-06-12T07:01:54.610830",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1690,8 +1690,8 @@
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1591852018.979179,
-            "last_retested_at_iso": "2020-06-11T05:06:58.979179",
+            "last_retested_at_epoch": 1591944558.28371,
+            "last_retested_at_iso": "2020-06-12T06:49:18.283710",
             "status": "INACTIVE"
         },
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -1818,6 +1818,13 @@
             "included_at_iso": "2020-05-27T19:00:00.009517",
             "last_retested_at_epoch": 1590699381.692525,
             "last_retested_at_iso": "2020-05-28T20:56:21.692525",
+            "status": "INACTIVE"
+        },
+        "www.acompanhantesbrasil.com.br": {
+            "included_at_epoch": 1591945351.947112,
+            "included_at_iso": "2020-06-12T07:02:31.947112",
+            "last_retested_at_epoch": 1591945351.947112,
+            "last_retested_at_iso": "2020-06-12T07:02:31.947112",
             "status": "INACTIVE"
         },
         "www.acoustoopticmodulator.com": {
@@ -2341,8 +2348,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1591856942.854501,
-            "last_retested_at_iso": "2020-06-11T06:29:02.854501",
+            "last_retested_at_epoch": 1591945326.740035,
+            "last_retested_at_iso": "2020-06-12T07:02:06.740035",
             "status": "INACTIVE"
         },
         "www.cinematraffic.com": {
@@ -2509,8 +2516,8 @@
         "www.freehomosexual.com": {
             "included_at_epoch": 1588468902.0,
             "included_at_iso": "2020-05-03T01:21:42",
-            "last_retested_at_epoch": 1591856963.802827,
-            "last_retested_at_iso": "2020-06-11T06:29:23.802827",
+            "last_retested_at_epoch": 1591944815.400749,
+            "last_retested_at_iso": "2020-06-12T06:53:35.400749",
             "status": "INACTIVE"
         },
         "www.freehornygirls.com": {
@@ -2747,8 +2754,8 @@
         "www.ideibiznesa2015.ru": {
             "included_at_epoch": 1588473905.0,
             "included_at_iso": "2020-05-03T02:45:05",
-            "last_retested_at_epoch": 1591852440.091693,
-            "last_retested_at_iso": "2020-06-11T05:14:00.091693",
+            "last_retested_at_epoch": 1591944939.114506,
+            "last_retested_at_iso": "2020-06-12T06:55:39.114506",
             "status": "INACTIVE"
         },
         "www.idkom.com": {
