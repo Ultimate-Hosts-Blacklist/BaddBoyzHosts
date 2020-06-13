@@ -108,8 +108,8 @@
         "247locksmith-tucson.com": {
             "included_at_epoch": 1588445334.0,
             "included_at_iso": "2020-05-02T18:48:54",
-            "last_retested_at_epoch": 1591921453.267483,
-            "last_retested_at_iso": "2020-06-12T00:24:13.267483",
+            "last_retested_at_epoch": 1592013946.275967,
+            "last_retested_at_iso": "2020-06-13T02:05:46.275967",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -304,15 +304,15 @@
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1591927185.780332,
-            "last_retested_at_iso": "2020-06-12T01:59:45.780332",
+            "last_retested_at_epoch": 1592014111.435354,
+            "last_retested_at_iso": "2020-06-13T02:08:31.435354",
             "status": "INACTIVE"
         },
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482757.0,
             "included_at_iso": "2020-05-03T05:12:37",
-            "last_retested_at_epoch": 1591921653.189982,
-            "last_retested_at_iso": "2020-06-12T00:27:33.189982",
+            "last_retested_at_epoch": 1592013939.273199,
+            "last_retested_at_iso": "2020-06-13T02:05:39.273199",
             "status": "INACTIVE"
         },
         "aasoldes.fr": {
@@ -710,8 +710,8 @@
         "slowmac.tech": {
             "included_at_epoch": 1588459637.0,
             "included_at_iso": "2020-05-02T22:47:17",
-            "last_retested_at_epoch": 1591927520.431976,
-            "last_retested_at_iso": "2020-06-12T02:05:20.431976",
+            "last_retested_at_epoch": 1592014341.540841,
+            "last_retested_at_iso": "2020-06-13T02:12:21.540841",
             "status": "INACTIVE"
         },
         "ssl.eroscomix.com": {
@@ -1060,8 +1060,8 @@
         "www.247locksmith-tucson.com": {
             "included_at_epoch": 1588445335.0,
             "included_at_iso": "2020-05-02T18:48:55",
-            "last_retested_at_epoch": 1591921453.266535,
-            "last_retested_at_iso": "2020-06-12T00:24:13.266535",
+            "last_retested_at_epoch": 1592013946.27505,
+            "last_retested_at_iso": "2020-06-13T02:05:46.275050",
             "status": "INACTIVE"
         },
         "www.247lyrics.com": {
@@ -1081,8 +1081,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1591927491.789447,
-            "last_retested_at_iso": "2020-06-12T02:04:51.789447",
+            "last_retested_at_epoch": 1592014340.839171,
+            "last_retested_at_iso": "2020-06-13T02:12:20.839171",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1249,8 +1249,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1591927156.995656,
-            "last_retested_at_iso": "2020-06-12T01:59:16.995656",
+            "last_retested_at_epoch": 1592013634.943236,
+            "last_retested_at_iso": "2020-06-13T02:00:34.943236",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1585,8 +1585,8 @@
         "www.90i.info": {
             "included_at_epoch": 1590095656.035231,
             "included_at_iso": "2020-05-21T21:14:16.035231",
-            "last_retested_at_epoch": 1591927550.305558,
-            "last_retested_at_iso": "2020-06-12T02:05:50.305558",
+            "last_retested_at_epoch": 1592014080.481718,
+            "last_retested_at_iso": "2020-06-13T02:08:00.481718",
             "status": "INACTIVE"
         },
         "www.94cdn.com": {
@@ -1704,15 +1704,15 @@
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1591927185.76145,
-            "last_retested_at_iso": "2020-06-12T01:59:45.761450",
+            "last_retested_at_epoch": 1592014111.567325,
+            "last_retested_at_iso": "2020-06-13T02:08:31.567325",
             "status": "INACTIVE"
         },
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482758.0,
             "included_at_iso": "2020-05-03T05:12:38",
-            "last_retested_at_epoch": 1591921653.162378,
-            "last_retested_at_iso": "2020-06-12T00:27:33.162378",
+            "last_retested_at_epoch": 1592013939.51565,
+            "last_retested_at_iso": "2020-06-13T02:05:39.515650",
             "status": "INACTIVE"
         },
         "www.aapz.com": {
@@ -1746,8 +1746,8 @@
         "www.abahah.com": {
             "included_at_epoch": 1588459278.0,
             "included_at_iso": "2020-05-02T22:41:18",
-            "last_retested_at_epoch": 1591921350.749407,
-            "last_retested_at_iso": "2020-06-12T00:22:30.749407",
+            "last_retested_at_epoch": 1592014255.693651,
+            "last_retested_at_iso": "2020-06-13T02:10:55.693651",
             "status": "INACTIVE"
         },
         "www.abbeyxxx.com": {
@@ -1760,8 +1760,8 @@
         "www.abdl-adult-baby-phone-sex.info": {
             "included_at_epoch": 1588445173.0,
             "included_at_iso": "2020-05-02T18:46:13",
-            "last_retested_at_epoch": 1591921886.246451,
-            "last_retested_at_iso": "2020-06-12T00:31:26.246451",
+            "last_retested_at_epoch": 1592014246.085738,
+            "last_retested_at_iso": "2020-06-13T02:10:46.085738",
             "status": "INACTIVE"
         },
         "www.abeggs.com": {
@@ -2425,8 +2425,8 @@
         "www.csk2014.info": {
             "included_at_epoch": 1588486085.0,
             "included_at_iso": "2020-05-03T06:08:05",
-            "last_retested_at_epoch": 1591927616.096933,
-            "last_retested_at_iso": "2020-06-12T02:06:56.096933",
+            "last_retested_at_epoch": 1592014164.822005,
+            "last_retested_at_iso": "2020-06-13T02:09:24.822005",
             "status": "INACTIVE"
         },
         "www.etemis.com": {
@@ -2824,8 +2824,8 @@
         "www.slowmac.tech": {
             "included_at_epoch": 1588459636.0,
             "included_at_iso": "2020-05-02T22:47:16",
-            "last_retested_at_epoch": 1591927520.247942,
-            "last_retested_at_iso": "2020-06-12T02:05:20.247942",
+            "last_retested_at_epoch": 1592014341.28199,
+            "last_retested_at_iso": "2020-06-13T02:12:21.281990",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
