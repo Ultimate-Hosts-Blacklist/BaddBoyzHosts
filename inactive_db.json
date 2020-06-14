@@ -339,8 +339,8 @@
         "abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1592050479.368288,
-            "last_retested_at_iso": "2020-06-13T12:14:39.368288",
+            "last_retested_at_epoch": 1592140128.028819,
+            "last_retested_at_iso": "2020-06-14T13:08:48.028819",
             "status": "INACTIVE"
         },
         "absolute-live.com": {
@@ -542,8 +542,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1592050506.201353,
-            "last_retested_at_iso": "2020-06-13T12:15:06.201353",
+            "last_retested_at_epoch": 1592139638.005755,
+            "last_retested_at_iso": "2020-06-14T13:00:38.005755",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -913,8 +913,8 @@
         "www.1337crew.info": {
             "included_at_epoch": 1587276713.0,
             "included_at_iso": "2020-04-19T06:11:53",
-            "last_retested_at_epoch": 1592044024.721708,
-            "last_retested_at_iso": "2020-06-13T10:27:04.721708",
+            "last_retested_at_epoch": 1592139922.001474,
+            "last_retested_at_iso": "2020-06-14T13:05:22.001474",
             "status": "INACTIVE"
         },
         "www.138shenbosbo.com": {
@@ -1130,8 +1130,8 @@
         "www.2anal.net": {
             "included_at_epoch": 1588445185.0,
             "included_at_iso": "2020-05-02T18:46:25",
-            "last_retested_at_epoch": 1592050700.346976,
-            "last_retested_at_iso": "2020-06-13T12:18:20.346976",
+            "last_retested_at_epoch": 1592140221.947525,
+            "last_retested_at_iso": "2020-06-14T13:10:21.947525",
             "status": "INACTIVE"
         },
         "www.2cam.nl": {
@@ -1326,8 +1326,8 @@
         "www.423.ru": {
             "included_at_epoch": 1588459214.0,
             "included_at_iso": "2020-05-02T22:40:14",
-            "last_retested_at_epoch": 1592049913.258361,
-            "last_retested_at_iso": "2020-06-13T12:05:13.258361",
+            "last_retested_at_epoch": 1592139475.828105,
+            "last_retested_at_iso": "2020-06-14T12:57:55.828105",
             "status": "INACTIVE"
         },
         "www.4inn.pl": {
@@ -1543,8 +1543,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1592049938.34736,
-            "last_retested_at_iso": "2020-06-13T12:05:38.347360",
+            "last_retested_at_epoch": 1592139575.303289,
+            "last_retested_at_iso": "2020-06-14T12:59:35.303289",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -1739,8 +1739,8 @@
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
-            "last_retested_at_epoch": 1592050534.895467,
-            "last_retested_at_iso": "2020-06-13T12:15:34.895467",
+            "last_retested_at_epoch": 1592139820.127308,
+            "last_retested_at_iso": "2020-06-14T13:03:40.127308",
             "status": "INACTIVE"
         },
         "www.abahah.com": {
@@ -1767,8 +1767,8 @@
         "www.abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1592050479.453153,
-            "last_retested_at_iso": "2020-06-13T12:14:39.453153",
+            "last_retested_at_epoch": 1592140127.763271,
+            "last_retested_at_iso": "2020-06-14T13:08:47.763271",
             "status": "INACTIVE"
         },
         "www.abetran.com": {
@@ -1928,8 +1928,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1592050597.656905,
-            "last_retested_at_iso": "2020-06-13T12:16:37.656905",
+            "last_retested_at_epoch": 1592140272.172905,
+            "last_retested_at_iso": "2020-06-14T13:11:12.172905",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -2278,8 +2278,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1592050506.005595,
-            "last_retested_at_iso": "2020-06-13T12:15:06.005595",
+            "last_retested_at_epoch": 1592139637.997941,
+            "last_retested_at_iso": "2020-06-14T13:00:37.997941",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2383,8 +2383,8 @@
         "www.companycreators.co.uk": {
             "included_at_epoch": 1590678143.487618,
             "included_at_iso": "2020-05-28T15:02:23.487618",
-            "last_retested_at_epoch": 1592044001.165175,
-            "last_retested_at_iso": "2020-06-13T10:26:41.165175",
+            "last_retested_at_epoch": 1592139874.181168,
+            "last_retested_at_iso": "2020-06-14T13:04:34.181168",
             "status": "INACTIVE"
         },
         "www.constructionskills.in": {
