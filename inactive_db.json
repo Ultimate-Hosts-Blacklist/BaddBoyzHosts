@@ -38,8 +38,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1592086353.385991,
-            "last_retested_at_iso": "2020-06-13T22:12:33.385991",
+            "last_retested_at_epoch": 1592172804.410823,
+            "last_retested_at_iso": "2020-06-14T22:13:24.410823",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -759,8 +759,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1592086353.42529,
-            "last_retested_at_iso": "2020-06-13T22:12:33.425290",
+            "last_retested_at_epoch": 1592172804.473515,
+            "last_retested_at_iso": "2020-06-14T22:13:24.473515",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -1088,8 +1088,8 @@
         "www.257639.com": {
             "included_at_epoch": 1588500315.0,
             "included_at_iso": "2020-05-03T10:05:15",
-            "last_retested_at_epoch": 1592080722.093319,
-            "last_retested_at_iso": "2020-06-13T20:38:42.093319",
+            "last_retested_at_epoch": 1592172711.360051,
+            "last_retested_at_iso": "2020-06-14T22:11:51.360051",
             "status": "INACTIVE"
         },
         "www.259572.com": {
@@ -1200,8 +1200,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1592086271.004467,
-            "last_retested_at_iso": "2020-06-13T22:11:11.004467",
+            "last_retested_at_epoch": 1592172950.668273,
+            "last_retested_at_iso": "2020-06-14T22:15:50.668273",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -1417,8 +1417,8 @@
         "www.52djcy.com": {
             "included_at_epoch": 1588454619.0,
             "included_at_iso": "2020-05-02T21:23:39",
-            "last_retested_at_epoch": 1592085873.936438,
-            "last_retested_at_iso": "2020-06-13T22:04:33.936438",
+            "last_retested_at_epoch": 1592173024.975698,
+            "last_retested_at_iso": "2020-06-14T22:17:04.975698",
             "status": "INACTIVE"
         },
         "www.550a.com": {
@@ -1438,8 +1438,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1592080586.38524,
-            "last_retested_at_iso": "2020-06-13T20:36:26.385240",
+            "last_retested_at_epoch": 1592172746.983025,
+            "last_retested_at_iso": "2020-06-14T22:12:26.983025",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1620,8 +1620,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1592080442.285524,
-            "last_retested_at_iso": "2020-06-13T20:34:02.285524",
+            "last_retested_at_epoch": 1592172588.07685,
+            "last_retested_at_iso": "2020-06-14T22:09:48.076850",
             "status": "INACTIVE"
         },
         "www.a2zgroup.in": {
@@ -1865,8 +1865,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1592080733.388563,
-            "last_retested_at_iso": "2020-06-13T20:38:53.388563",
+            "last_retested_at_epoch": 1592172530.776044,
+            "last_retested_at_iso": "2020-06-14T22:08:50.776044",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
@@ -2362,8 +2362,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1592080861.24748,
-            "last_retested_at_iso": "2020-06-13T20:41:01.247480",
+            "last_retested_at_epoch": 1592172896.357318,
+            "last_retested_at_iso": "2020-06-14T22:14:56.357318",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
@@ -2404,8 +2404,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1592081099.098813,
-            "last_retested_at_iso": "2020-06-13T20:44:59.098813",
+            "last_retested_at_epoch": 1592172299.528305,
+            "last_retested_at_iso": "2020-06-14T22:04:59.528305",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
@@ -2649,8 +2649,8 @@
         "www.hunks-naked.com": {
             "included_at_epoch": 1591434748.398224,
             "included_at_iso": "2020-06-06T09:12:28.398224",
-            "last_retested_at_epoch": 1592085835.809187,
-            "last_retested_at_iso": "2020-06-13T22:03:55.809187",
+            "last_retested_at_epoch": 1592173039.753529,
+            "last_retested_at_iso": "2020-06-14T22:17:19.753529",
             "status": "INACTIVE"
         },
         "www.hunktoons.com": {
