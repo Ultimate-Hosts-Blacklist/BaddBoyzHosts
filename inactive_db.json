@@ -122,8 +122,8 @@
         "272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1592189183.064334,
-            "last_retested_at_iso": "2020-06-15T02:46:23.064334",
+            "last_retested_at_epoch": 1592356482.485639,
+            "last_retested_at_iso": "2020-06-17T01:14:42.485639",
             "status": "INACTIVE"
         },
         "2cam.nl": {
@@ -150,8 +150,8 @@
         "3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1592205320.881386,
-            "last_retested_at_iso": "2020-06-15T07:15:20.881386",
+            "last_retested_at_epoch": 1592356651.770524,
+            "last_retested_at_iso": "2020-06-17T01:17:31.770524",
             "status": "INACTIVE"
         },
         "3xit.net": {
@@ -703,8 +703,8 @@
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1592144945.472315,
-            "last_retested_at_iso": "2020-06-14T14:29:05.472315",
+            "last_retested_at_epoch": 1592357090.681509,
+            "last_retested_at_iso": "2020-06-17T01:24:50.681509",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -920,8 +920,8 @@
         "www.138shenbosbo.com": {
             "included_at_epoch": 1588464180.0,
             "included_at_iso": "2020-05-03T00:03:00",
-            "last_retested_at_epoch": 1592194886.261746,
-            "last_retested_at_iso": "2020-06-15T04:21:26.261746",
+            "last_retested_at_epoch": 1592356382.947062,
+            "last_retested_at_iso": "2020-06-17T01:13:02.947062",
             "status": "INACTIVE"
         },
         "www.14b.info": {
@@ -1123,8 +1123,8 @@
         "www.272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1592189183.065312,
-            "last_retested_at_iso": "2020-06-15T02:46:23.065312",
+            "last_retested_at_epoch": 1592356482.591455,
+            "last_retested_at_iso": "2020-06-17T01:14:42.591455",
             "status": "INACTIVE"
         },
         "www.2anal.net": {
@@ -1277,8 +1277,8 @@
         "www.3dcgfx.net": {
             "included_at_epoch": 1588464360.0,
             "included_at_iso": "2020-05-03T00:06:00",
-            "last_retested_at_epoch": 1592205321.02928,
-            "last_retested_at_iso": "2020-06-15T07:15:21.029280",
+            "last_retested_at_epoch": 1592356651.980942,
+            "last_retested_at_iso": "2020-06-17T01:17:31.980942",
             "status": "INACTIVE"
         },
         "www.3dsemulator.info": {
@@ -1438,8 +1438,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1592172746.983025,
-            "last_retested_at_iso": "2020-06-14T22:12:26.983025",
+            "last_retested_at_epoch": 1592356902.259539,
+            "last_retested_at_iso": "2020-06-17T01:21:42.259539",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1634,8 +1634,8 @@
         "www.a48.info": {
             "included_at_epoch": 1588760499.065523,
             "included_at_iso": "2020-05-06T10:21:39.065523",
-            "last_retested_at_epoch": 1592167391.632196,
-            "last_retested_at_iso": "2020-06-14T20:43:11.632196",
+            "last_retested_at_epoch": 1592356532.203226,
+            "last_retested_at_iso": "2020-06-17T01:15:32.203226",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -1963,8 +1963,8 @@
         "www.alfalakgifts.com": {
             "included_at_epoch": 1576153844.0,
             "included_at_iso": "2019-12-12T12:30:44",
-            "last_retested_at_epoch": 1592209934.570761,
-            "last_retested_at_iso": "2020-06-15T08:32:14.570761",
+            "last_retested_at_epoch": 1592357075.794547,
+            "last_retested_at_iso": "2020-06-17T01:24:35.794547",
             "status": "INACTIVE"
         },
         "www.algerianembassy.co.in": {
@@ -2180,8 +2180,8 @@
         "www.andrewrobertsllc.info": {
             "included_at_epoch": 1588509262.0,
             "included_at_iso": "2020-05-03T12:34:22",
-            "last_retested_at_epoch": 1592178267.424978,
-            "last_retested_at_iso": "2020-06-14T23:44:27.424978",
+            "last_retested_at_epoch": 1592356669.406008,
+            "last_retested_at_iso": "2020-06-17T01:17:49.406008",
             "status": "INACTIVE"
         },
         "www.android-style.com": {
@@ -2425,8 +2425,8 @@
         "www.csk2014.info": {
             "included_at_epoch": 1588486085.0,
             "included_at_iso": "2020-05-03T06:08:05",
-            "last_retested_at_epoch": 1592205230.935791,
-            "last_retested_at_iso": "2020-06-15T07:13:50.935791",
+            "last_retested_at_epoch": 1592356642.44194,
+            "last_retested_at_iso": "2020-06-17T01:17:22.441940",
             "status": "INACTIVE"
         },
         "www.etemis.com": {
@@ -2789,8 +2789,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1592144945.485438,
-            "last_retested_at_iso": "2020-06-14T14:29:05.485438",
+            "last_retested_at_epoch": 1592357090.798924,
+            "last_retested_at_iso": "2020-06-17T01:24:50.798924",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
