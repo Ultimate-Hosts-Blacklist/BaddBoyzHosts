@@ -2481,8 +2481,8 @@
         "www.falcoware.com": {
             "included_at_epoch": 1588330858.0,
             "included_at_iso": "2020-05-01T11:00:58",
-            "last_retested_at_epoch": 1588330858.0,
-            "last_retested_at_iso": "2020-05-01T11:00:58",
+            "last_retested_at_epoch": 1592386228.578094,
+            "last_retested_at_iso": "2020-06-17T09:30:28.578094",
             "status": "INACTIVE"
         },
         "www.familyholiday.ml": {
