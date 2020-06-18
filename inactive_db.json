@@ -976,8 +976,8 @@
         "www.18teengirl.com": {
             "included_at_epoch": 1588506402.0,
             "included_at_iso": "2020-05-03T11:46:42",
-            "last_retested_at_epoch": 1592362385.042493,
-            "last_retested_at_iso": "2020-06-17T02:53:05.042493",
+            "last_retested_at_epoch": 1592459629.03908,
+            "last_retested_at_iso": "2020-06-18T05:53:49.039080",
             "status": "INACTIVE"
         },
         "www.19blog.com": {
@@ -1907,8 +1907,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1592362213.47236,
-            "last_retested_at_iso": "2020-06-17T02:50:13.472360",
+            "last_retested_at_epoch": 1592459605.14524,
+            "last_retested_at_iso": "2020-06-18T05:53:25.145240",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -2131,8 +2131,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1592348034.38654,
-            "last_retested_at_iso": "2020-06-16T22:53:54.386540",
+            "last_retested_at_epoch": 1592459419.092388,
+            "last_retested_at_iso": "2020-06-18T05:50:19.092388",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
