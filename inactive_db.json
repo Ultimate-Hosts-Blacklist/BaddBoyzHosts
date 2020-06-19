@@ -598,8 +598,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1592470914.585011,
-            "last_retested_at_iso": "2020-06-18T09:01:54.585011",
+            "last_retested_at_epoch": 1592558890.093259,
+            "last_retested_at_iso": "2020-06-19T09:28:10.093259",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -2355,8 +2355,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1592470914.706932,
-            "last_retested_at_iso": "2020-06-18T09:01:54.706932",
+            "last_retested_at_epoch": 1592558889.66259,
+            "last_retested_at_iso": "2020-06-19T09:28:09.662590",
             "status": "INACTIVE"
         },
         "www.cinematraffic.com": {
