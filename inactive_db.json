@@ -654,8 +654,8 @@
         "fnmsk.ru": {
             "included_at_epoch": 1592493425.52935,
             "included_at_iso": "2020-06-18T15:17:05.529350",
-            "last_retested_at_epoch": 1592493425.52935,
-            "last_retested_at_iso": "2020-06-18T15:17:05.529350",
+            "last_retested_at_epoch": 1592580053.161504,
+            "last_retested_at_iso": "2020-06-19T15:20:53.161504",
             "status": "INACTIVE"
         },
         "freehornygirls.com": {
@@ -2390,8 +2390,8 @@
         "www.companycreators.co.uk": {
             "included_at_epoch": 1590678143.487618,
             "included_at_iso": "2020-05-28T15:02:23.487618",
-            "last_retested_at_epoch": 1592493057.437942,
-            "last_retested_at_iso": "2020-06-18T15:10:57.437942",
+            "last_retested_at_epoch": 1592580652.608342,
+            "last_retested_at_iso": "2020-06-19T15:30:52.608342",
             "status": "INACTIVE"
         },
         "www.constructionskills.in": {
