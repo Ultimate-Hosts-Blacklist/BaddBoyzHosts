@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1592434611.451198,
-            "last_retested_at_iso": "2020-06-17T22:56:51.451198",
+            "last_retested_at_epoch": 1592526284.565163,
+            "last_retested_at_iso": "2020-06-19T00:24:44.565163",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -206,8 +206,8 @@
         "6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1592434541.999984,
-            "last_retested_at_iso": "2020-06-17T22:55:41.999984",
+            "last_retested_at_epoch": 1592526124.678938,
+            "last_retested_at_iso": "2020-06-19T00:22:04.678938",
             "status": "INACTIVE"
         },
         "7cfmnf.top": {
@@ -283,8 +283,8 @@
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588493262.0,
             "included_at_iso": "2020-05-03T08:07:42",
-            "last_retested_at_epoch": 1592434663.501583,
-            "last_retested_at_iso": "2020-06-17T22:57:43.501583",
+            "last_retested_at_epoch": 1592526209.20501,
+            "last_retested_at_iso": "2020-06-19T00:23:29.205010",
             "status": "INACTIVE"
         },
         "aa9d046aab36af4ff182f097f840430d51.com": {
@@ -745,8 +745,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1592434611.530458,
-            "last_retested_at_iso": "2020-06-17T22:56:51.530458",
+            "last_retested_at_epoch": 1592526284.735843,
+            "last_retested_at_iso": "2020-06-19T00:24:44.735843",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1508,8 +1508,8 @@
         "www.6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1592434542.16411,
-            "last_retested_at_iso": "2020-06-17T22:55:42.164110",
+            "last_retested_at_epoch": 1592526124.8433,
+            "last_retested_at_iso": "2020-06-19T00:22:04.843300",
             "status": "INACTIVE"
         },
         "www.6server.com": {
@@ -1690,8 +1690,8 @@
         "www.aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588464287.0,
             "included_at_iso": "2020-05-03T00:04:47",
-            "last_retested_at_epoch": 1592434663.645677,
-            "last_retested_at_iso": "2020-06-17T22:57:43.645677",
+            "last_retested_at_epoch": 1592526209.204118,
+            "last_retested_at_iso": "2020-06-19T00:23:29.204118",
             "status": "INACTIVE"
         },
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
