@@ -199,8 +199,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1592549036.0654,
-            "last_retested_at_iso": "2020-06-19T06:43:56.065400",
+            "last_retested_at_epoch": 1592649458.7274,
+            "last_retested_at_iso": "2020-06-20T10:37:38.727400",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -598,8 +598,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1592558890.093259,
-            "last_retested_at_iso": "2020-06-19T09:28:10.093259",
+            "last_retested_at_epoch": 1592649287.200842,
+            "last_retested_at_iso": "2020-06-20T10:34:47.200842",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -1494,8 +1494,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1592549035.998841,
-            "last_retested_at_iso": "2020-06-19T06:43:55.998841",
+            "last_retested_at_epoch": 1592649458.88153,
+            "last_retested_at_iso": "2020-06-20T10:37:38.881530",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -2355,8 +2355,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1592558889.66259,
-            "last_retested_at_iso": "2020-06-19T09:28:09.662590",
+            "last_retested_at_epoch": 1592649287.179042,
+            "last_retested_at_iso": "2020-06-20T10:34:47.179042",
             "status": "INACTIVE"
         },
         "www.cinematraffic.com": {
