@@ -199,8 +199,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1592649458.7274,
-            "last_retested_at_iso": "2020-06-20T10:37:38.727400",
+            "last_retested_at_epoch": 1592745719.161931,
+            "last_retested_at_iso": "2020-06-21T13:21:59.161931",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -969,8 +969,8 @@
         "www.18plusstore.com": {
             "included_at_epoch": 1577911319.0,
             "included_at_iso": "2020-01-01T20:41:59",
-            "last_retested_at_epoch": 1592622030.003751,
-            "last_retested_at_iso": "2020-06-20T03:00:30.003751",
+            "last_retested_at_epoch": 1592745765.039207,
+            "last_retested_at_iso": "2020-06-21T13:22:45.039207",
             "status": "INACTIVE"
         },
         "www.18pure.info": {
@@ -1494,8 +1494,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1592649458.88153,
-            "last_retested_at_iso": "2020-06-20T10:37:38.881530",
+            "last_retested_at_epoch": 1592745719.136732,
+            "last_retested_at_iso": "2020-06-21T13:21:59.136732",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -2586,8 +2586,8 @@
         "www.gratis-sexkontakte.com": {
             "included_at_epoch": 1587729478.0,
             "included_at_iso": "2020-04-24T11:57:58",
-            "last_retested_at_epoch": 1589291911.449099,
-            "last_retested_at_iso": "2020-05-12T13:58:31.449099",
+            "last_retested_at_epoch": 1592745239.463906,
+            "last_retested_at_iso": "2020-06-21T13:13:59.463906",
             "status": "INACTIVE"
         },
         "www.gratisweb.com": {
