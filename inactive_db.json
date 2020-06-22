@@ -115,8 +115,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1592699434.763461,
-            "last_retested_at_iso": "2020-06-21T00:30:34.763461",
+            "last_retested_at_epoch": 1592786525.47326,
+            "last_retested_at_iso": "2020-06-22T00:42:05.473260",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -1116,8 +1116,8 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1592699434.874779,
-            "last_retested_at_iso": "2020-06-21T00:30:34.874779",
+            "last_retested_at_epoch": 1592786525.548336,
+            "last_retested_at_iso": "2020-06-22T00:42:05.548336",
             "status": "INACTIVE"
         },
         "www.271395.com": {
