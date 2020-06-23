@@ -598,8 +598,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1592828986.276034,
-            "last_retested_at_iso": "2020-06-22T12:29:46.276034",
+            "last_retested_at_epoch": 1592916650.019154,
+            "last_retested_at_iso": "2020-06-23T12:50:50.019154",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -948,8 +948,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1592828684.606375,
-            "last_retested_at_iso": "2020-06-22T12:24:44.606375",
+            "last_retested_at_epoch": 1592916869.364719,
+            "last_retested_at_iso": "2020-06-23T12:54:29.364719",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1361,8 +1361,8 @@
         "www.4plus11.com": {
             "included_at_epoch": 1588489712.0,
             "included_at_iso": "2020-05-03T07:08:32",
-            "last_retested_at_epoch": 1592829037.902685,
-            "last_retested_at_iso": "2020-06-22T12:30:37.902685",
+            "last_retested_at_epoch": 1592916851.08311,
+            "last_retested_at_iso": "2020-06-23T12:54:11.083110",
             "status": "INACTIVE"
         },
         "www.4realzed.com": {
@@ -1620,8 +1620,8 @@
         "www.99topnn.info": {
             "included_at_epoch": 1588482471.0,
             "included_at_iso": "2020-05-03T05:07:51",
-            "last_retested_at_epoch": 1592829062.951555,
-            "last_retested_at_iso": "2020-06-22T12:31:02.951555",
+            "last_retested_at_epoch": 1592916700.404245,
+            "last_retested_at_iso": "2020-06-23T12:51:40.404245",
             "status": "INACTIVE"
         },
         "www.9c51vda.com": {
@@ -1914,8 +1914,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1592829121.700111,
-            "last_retested_at_iso": "2020-06-22T12:32:01.700111",
+            "last_retested_at_epoch": 1592916447.583312,
+            "last_retested_at_iso": "2020-06-23T12:47:27.583312",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -1949,8 +1949,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1592821903.398599,
-            "last_retested_at_iso": "2020-06-22T10:31:43.398599",
+            "last_retested_at_epoch": 1592916448.046158,
+            "last_retested_at_iso": "2020-06-23T12:47:28.046158",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -2362,8 +2362,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1592828985.361016,
-            "last_retested_at_iso": "2020-06-22T12:29:45.361016",
+            "last_retested_at_epoch": 1592916650.943764,
+            "last_retested_at_iso": "2020-06-23T12:50:50.943764",
             "status": "INACTIVE"
         },
         "www.cinematraffic.com": {
