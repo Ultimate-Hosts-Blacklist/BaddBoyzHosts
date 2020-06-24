@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1592883922.455224,
-            "last_retested_at_iso": "2020-06-23T03:45:22.455224",
+            "last_retested_at_epoch": 1592972431.64062,
+            "last_retested_at_iso": "2020-06-24T04:20:31.640620",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -115,8 +115,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1592884410.174082,
-            "last_retested_at_iso": "2020-06-23T03:53:30.174082",
+            "last_retested_at_epoch": 1592972802.838221,
+            "last_retested_at_iso": "2020-06-24T04:26:42.838221",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -192,8 +192,8 @@
         "69lingerie.com": {
             "included_at_epoch": 1588463960.0,
             "included_at_iso": "2020-05-02T23:59:20",
-            "last_retested_at_epoch": 1592884288.909832,
-            "last_retested_at_iso": "2020-06-23T03:51:28.909832",
+            "last_retested_at_epoch": 1592972594.971131,
+            "last_retested_at_iso": "2020-06-24T04:23:14.971131",
             "status": "INACTIVE"
         },
         "69proof.com": {
@@ -283,8 +283,8 @@
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588493262.0,
             "included_at_iso": "2020-05-03T08:07:42",
-            "last_retested_at_epoch": 1592884407.607638,
-            "last_retested_at_iso": "2020-06-23T03:53:27.607638",
+            "last_retested_at_epoch": 1592972816.260867,
+            "last_retested_at_iso": "2020-06-24T04:26:56.260867",
             "status": "INACTIVE"
         },
         "aa9d046aab36af4ff182f097f840430d51.com": {
@@ -745,8 +745,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1592883922.387722,
-            "last_retested_at_iso": "2020-06-23T03:45:22.387722",
+            "last_retested_at_epoch": 1592972431.750318,
+            "last_retested_at_iso": "2020-06-24T04:20:31.750318",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1116,8 +1116,8 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1592884410.297213,
-            "last_retested_at_iso": "2020-06-23T03:53:30.297213",
+            "last_retested_at_epoch": 1592972802.85329,
+            "last_retested_at_iso": "2020-06-24T04:26:42.853290",
             "status": "INACTIVE"
         },
         "www.271395.com": {
@@ -1487,8 +1487,8 @@
         "www.69lingerie.com": {
             "included_at_epoch": 1588463961.0,
             "included_at_iso": "2020-05-02T23:59:21",
-            "last_retested_at_epoch": 1592884288.781262,
-            "last_retested_at_iso": "2020-06-23T03:51:28.781262",
+            "last_retested_at_epoch": 1592972595.004903,
+            "last_retested_at_iso": "2020-06-24T04:23:15.004903",
             "status": "INACTIVE"
         },
         "www.69proof.com": {
@@ -1690,8 +1690,8 @@
         "www.aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588464287.0,
             "included_at_iso": "2020-05-03T00:04:47",
-            "last_retested_at_epoch": 1592884407.690364,
-            "last_retested_at_iso": "2020-06-23T03:53:27.690364",
+            "last_retested_at_epoch": 1592972816.34559,
+            "last_retested_at_iso": "2020-06-24T04:26:56.345590",
             "status": "INACTIVE"
         },
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
@@ -2376,8 +2376,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1592884529.398456,
-            "last_retested_at_iso": "2020-06-23T03:55:29.398456",
+            "last_retested_at_epoch": 1592972365.28398,
+            "last_retested_at_iso": "2020-06-24T04:19:25.283980",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
