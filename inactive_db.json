@@ -350,6 +350,13 @@
             "last_retested_at_iso": "2020-06-24T10:24:11.463526",
             "status": "INACTIVE"
         },
+        "acortarurl.es": {
+            "included_at_epoch": 1593016204.75461,
+            "included_at_iso": "2020-06-24T16:30:04.754610",
+            "last_retested_at_epoch": 1593016204.75461,
+            "last_retested_at_iso": "2020-06-24T16:30:04.754610",
+            "status": "INACTIVE"
+        },
         "acount-cheks0912.suport-acount-confrim12.gq": {
             "included_at_epoch": 1588105737.0,
             "included_at_iso": "2020-04-28T20:28:57",
@@ -1841,6 +1848,13 @@
             "last_retested_at_iso": "2020-06-20T22:56:54.074332",
             "status": "INACTIVE"
         },
+        "www.acortarurl.es": {
+            "included_at_epoch": 1593016204.753665,
+            "included_at_iso": "2020-06-24T16:30:04.753665",
+            "last_retested_at_epoch": 1593016204.753665,
+            "last_retested_at_iso": "2020-06-24T16:30:04.753665",
+            "status": "INACTIVE"
+        },
         "www.acoustoopticmodulator.com": {
             "included_at_epoch": 1586534934.0,
             "included_at_iso": "2020-04-10T16:08:54",
@@ -2600,8 +2614,8 @@
         "www.gratis-sexkontakte.com": {
             "included_at_epoch": 1587729478.0,
             "included_at_iso": "2020-04-24T11:57:58",
-            "last_retested_at_epoch": 1592922215.805198,
-            "last_retested_at_iso": "2020-06-23T14:23:35.805198",
+            "last_retested_at_epoch": 1593016168.368786,
+            "last_retested_at_iso": "2020-06-24T16:29:28.368786",
             "status": "INACTIVE"
         },
         "www.gratisweb.com": {
