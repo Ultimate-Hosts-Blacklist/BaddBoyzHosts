@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593010691.190247,
-            "last_retested_at_iso": "2020-06-24T14:58:11.190247",
+            "last_retested_at_epoch": 1593101245.07658,
+            "last_retested_at_iso": "2020-06-25T16:07:25.076580",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1515,8 +1515,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593010691.162942,
-            "last_retested_at_iso": "2020-06-24T14:58:11.162942",
+            "last_retested_at_epoch": 1593101245.075571,
+            "last_retested_at_iso": "2020-06-25T16:07:25.075571",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -2264,8 +2264,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1593010396.505641,
-            "last_retested_at_iso": "2020-06-24T14:53:16.505641",
+            "last_retested_at_epoch": 1593101066.068599,
+            "last_retested_at_iso": "2020-06-25T16:04:26.068599",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
