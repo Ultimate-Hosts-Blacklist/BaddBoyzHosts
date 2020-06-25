@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-05-27T15:05:14.255876",
             "status": "INACTIVE"
         },
+        "12month.loan": {
+            "included_at_epoch": 1593046731.765607,
+            "included_at_iso": "2020-06-25T00:58:51.765607",
+            "last_retested_at_epoch": 1593046731.765607,
+            "last_retested_at_iso": "2020-06-25T00:58:51.765607",
+            "status": "INACTIVE"
+        },
         "18teengirl.com": {
             "included_at_epoch": 1585307999.0,
             "included_at_iso": "2020-03-27T11:19:59",
@@ -2418,8 +2425,8 @@
         "www.companycreators.co.uk": {
             "included_at_epoch": 1590678143.487618,
             "included_at_iso": "2020-05-28T15:02:23.487618",
-            "last_retested_at_epoch": 1592954161.69197,
-            "last_retested_at_iso": "2020-06-23T23:16:01.691970",
+            "last_retested_at_epoch": 1593046326.909402,
+            "last_retested_at_iso": "2020-06-25T00:52:06.909402",
             "status": "INACTIVE"
         },
         "www.constructionskills.in": {
