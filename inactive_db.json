@@ -199,8 +199,8 @@
         "69lingerie.com": {
             "included_at_epoch": 1588463960.0,
             "included_at_iso": "2020-05-02T23:59:20",
-            "last_retested_at_epoch": 1593059083.595575,
-            "last_retested_at_iso": "2020-06-25T04:24:43.595575",
+            "last_retested_at_epoch": 1593150145.806372,
+            "last_retested_at_iso": "2020-06-26T05:42:25.806372",
             "status": "INACTIVE"
         },
         "69proof.com": {
@@ -1508,8 +1508,8 @@
         "www.69lingerie.com": {
             "included_at_epoch": 1588463961.0,
             "included_at_iso": "2020-05-02T23:59:21",
-            "last_retested_at_epoch": 1593059083.624427,
-            "last_retested_at_iso": "2020-06-25T04:24:43.624427",
+            "last_retested_at_epoch": 1593150145.944458,
+            "last_retested_at_iso": "2020-06-26T05:42:25.944458",
             "status": "INACTIVE"
         },
         "www.69proof.com": {
@@ -2404,8 +2404,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1593059660.589985,
-            "last_retested_at_iso": "2020-06-25T04:34:20.589985",
+            "last_retested_at_epoch": 1593150013.359521,
+            "last_retested_at_iso": "2020-06-26T05:40:13.359521",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
