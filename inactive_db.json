@@ -136,8 +136,8 @@
         "2cam.nl": {
             "included_at_epoch": 1588299202.0,
             "included_at_iso": "2020-05-01T02:13:22",
-            "last_retested_at_epoch": 1589854653.197617,
-            "last_retested_at_iso": "2020-05-19T02:17:33.197617",
+            "last_retested_at_epoch": 1593137581.157822,
+            "last_retested_at_iso": "2020-06-26T02:13:01.157822",
             "status": "INACTIVE"
         },
         "2o34.com": {
@@ -1165,8 +1165,8 @@
         "www.2cam.nl": {
             "included_at_epoch": 1588212823.0,
             "included_at_iso": "2020-04-30T02:13:43",
-            "last_retested_at_epoch": 1589854654.95643,
-            "last_retested_at_iso": "2020-05-19T02:17:34.956430",
+            "last_retested_at_epoch": 1593137581.156777,
+            "last_retested_at_iso": "2020-06-26T02:13:01.156777",
             "status": "INACTIVE"
         },
         "www.2daytrendingnews.com": {
