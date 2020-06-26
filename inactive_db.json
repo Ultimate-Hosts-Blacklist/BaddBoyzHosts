@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593101245.07658,
-            "last_retested_at_iso": "2020-06-25T16:07:25.076580",
+            "last_retested_at_epoch": 1593192132.273659,
+            "last_retested_at_iso": "2020-06-26T17:22:12.273659",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1410,8 +1410,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1593089067.423237,
-            "last_retested_at_iso": "2020-06-25T12:44:27.423237",
+            "last_retested_at_epoch": 1593192294.392028,
+            "last_retested_at_iso": "2020-06-26T17:24:54.392028",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1515,8 +1515,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593101245.075571,
-            "last_retested_at_iso": "2020-06-25T16:07:25.075571",
+            "last_retested_at_epoch": 1593192132.308969,
+            "last_retested_at_iso": "2020-06-26T17:22:12.308969",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1970,15 +1970,15 @@
         "www.alexxxxpages.info": {
             "included_at_epoch": 1588521880.0,
             "included_at_iso": "2020-05-03T16:04:40",
-            "last_retested_at_epoch": 1593088433.958301,
-            "last_retested_at_iso": "2020-06-25T12:33:53.958301",
+            "last_retested_at_epoch": 1593191855.553485,
+            "last_retested_at_iso": "2020-06-26T17:17:35.553485",
             "status": "INACTIVE"
         },
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1593093851.361397,
-            "last_retested_at_iso": "2020-06-25T14:04:11.361397",
+            "last_retested_at_epoch": 1593192497.060304,
+            "last_retested_at_iso": "2020-06-26T17:28:17.060304",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -2264,8 +2264,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1593101066.068599,
-            "last_retested_at_iso": "2020-06-25T16:04:26.068599",
+            "last_retested_at_epoch": 1593192306.421431,
+            "last_retested_at_iso": "2020-06-26T17:25:06.421431",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
@@ -2663,8 +2663,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1593093899.037709,
-            "last_retested_at_iso": "2020-06-25T14:04:59.037709",
+            "last_retested_at_epoch": 1593192582.617249,
+            "last_retested_at_iso": "2020-06-26T17:29:42.617249",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
