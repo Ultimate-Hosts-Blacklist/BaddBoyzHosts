@@ -136,8 +136,8 @@
         "2cam.nl": {
             "included_at_epoch": 1588299202.0,
             "included_at_iso": "2020-05-01T02:13:22",
-            "last_retested_at_epoch": 1593137581.157822,
-            "last_retested_at_iso": "2020-06-26T02:13:01.157822",
+            "last_retested_at_epoch": 1593310483.365344,
+            "last_retested_at_iso": "2020-06-28T02:14:43.365344",
             "status": "INACTIVE"
         },
         "2o34.com": {
@@ -1172,8 +1172,8 @@
         "www.2cam.nl": {
             "included_at_epoch": 1588212823.0,
             "included_at_iso": "2020-04-30T02:13:43",
-            "last_retested_at_epoch": 1593137581.156777,
-            "last_retested_at_iso": "2020-06-26T02:13:01.156777",
+            "last_retested_at_epoch": 1593310477.837716,
+            "last_retested_at_iso": "2020-06-28T02:14:37.837716",
             "status": "INACTIVE"
         },
         "www.2daytrendingnews.com": {
@@ -1557,8 +1557,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1593222443.105362,
-            "last_retested_at_iso": "2020-06-27T01:47:23.105362",
+            "last_retested_at_epoch": 1593310544.669704,
+            "last_retested_at_iso": "2020-06-28T02:15:44.669704",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
