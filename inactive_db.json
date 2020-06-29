@@ -2425,8 +2425,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1593329374.597832,
-            "last_retested_at_iso": "2020-06-28T07:29:34.597832",
+            "last_retested_at_epoch": 1593417584.838396,
+            "last_retested_at_iso": "2020-06-29T07:59:44.838396",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
@@ -2446,8 +2446,8 @@
         "www.companycreators.co.uk": {
             "included_at_epoch": 1590678143.487618,
             "included_at_iso": "2020-05-28T15:02:23.487618",
-            "last_retested_at_epoch": 1593329127.356315,
-            "last_retested_at_iso": "2020-06-28T07:25:27.356315",
+            "last_retested_at_epoch": 1593418056.036236,
+            "last_retested_at_iso": "2020-06-29T08:07:36.036236",
             "status": "INACTIVE"
         },
         "www.constructionskills.in": {
