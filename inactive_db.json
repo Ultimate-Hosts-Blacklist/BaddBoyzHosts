@@ -269,8 +269,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593383613.813092,
-            "last_retested_at_iso": "2020-06-28T22:33:33.813092",
+            "last_retested_at_epoch": 1593473702.565843,
+            "last_retested_at_iso": "2020-06-29T23:35:02.565843",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1690,8 +1690,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593383613.812048,
-            "last_retested_at_iso": "2020-06-28T22:33:33.812048",
+            "last_retested_at_epoch": 1593473702.784048,
+            "last_retested_at_iso": "2020-06-29T23:35:02.784048",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -2292,8 +2292,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1593383364.238432,
-            "last_retested_at_iso": "2020-06-28T22:29:24.238432",
+            "last_retested_at_epoch": 1593473778.564143,
+            "last_retested_at_iso": "2020-06-29T23:36:18.564143",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
