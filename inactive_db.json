@@ -66,8 +66,8 @@
         "103.hosting-5.xtream.co.il": {
             "included_at_epoch": 1588395394.0,
             "included_at_iso": "2020-05-02T04:56:34",
-            "last_retested_at_epoch": 1592815505.679733,
-            "last_retested_at_iso": "2020-06-22T08:45:05.679733",
+            "last_retested_at_epoch": 1593548242.902211,
+            "last_retested_at_iso": "2020-06-30T20:17:22.902211",
             "status": "INACTIVE"
         },
         "123.fluxads.com": {
@@ -227,8 +227,8 @@
         "86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1593458147.179155,
-            "last_retested_at_iso": "2020-06-29T19:15:47.179155",
+            "last_retested_at_epoch": 1593548178.209947,
+            "last_retested_at_iso": "2020-06-30T20:16:18.209947",
             "status": "INACTIVE"
         },
         "8khmer.com": {
@@ -500,8 +500,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1593458044.760222,
-            "last_retested_at_iso": "2020-06-29T19:14:04.760222",
+            "last_retested_at_epoch": 1593548698.946479,
+            "last_retested_at_iso": "2020-06-30T20:24:58.946479",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1593457795.025377,
-            "last_retested_at_iso": "2020-06-29T19:09:55.025377",
+            "last_retested_at_epoch": 1593548319.247251,
+            "last_retested_at_iso": "2020-06-30T20:18:39.247251",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -836,8 +836,8 @@
         "www.1-800onlinecasino.com": {
             "included_at_epoch": 1588496777.0,
             "included_at_iso": "2020-05-03T09:06:17",
-            "last_retested_at_epoch": 1593458304.756912,
-            "last_retested_at_iso": "2020-06-29T19:18:24.756912",
+            "last_retested_at_epoch": 1593548036.439463,
+            "last_retested_at_iso": "2020-06-30T20:13:56.439463",
             "status": "INACTIVE"
         },
         "www.1-free-share-buttons.com": {
@@ -1046,8 +1046,8 @@
         "www.1lesbiansex.com": {
             "included_at_epoch": 1588478473.0,
             "included_at_iso": "2020-05-03T04:01:13",
-            "last_retested_at_epoch": 1593454658.654795,
-            "last_retested_at_iso": "2020-06-29T18:17:38.654795",
+            "last_retested_at_epoch": 1593548704.083476,
+            "last_retested_at_iso": "2020-06-30T20:25:04.083476",
             "status": "INACTIVE"
         },
         "www.1pamm.ru": {
@@ -1235,15 +1235,15 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1593457907.577138,
-            "last_retested_at_iso": "2020-06-29T19:11:47.577138",
+            "last_retested_at_epoch": 1593548141.693676,
+            "last_retested_at_iso": "2020-06-30T20:15:41.693676",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
             "included_at_epoch": 1588478504.0,
             "included_at_iso": "2020-05-03T04:01:44",
-            "last_retested_at_epoch": 1593457988.372029,
-            "last_retested_at_iso": "2020-06-29T19:13:08.372029",
+            "last_retested_at_epoch": 1593548170.748177,
+            "last_retested_at_iso": "2020-06-30T20:16:10.748177",
             "status": "INACTIVE"
         },
         "www.3-letter-domains.net": {
@@ -1389,8 +1389,8 @@
         "www.4plus11.com": {
             "included_at_epoch": 1588489712.0,
             "included_at_iso": "2020-05-03T07:08:32",
-            "last_retested_at_epoch": 1593454686.728472,
-            "last_retested_at_iso": "2020-06-29T18:18:06.728472",
+            "last_retested_at_epoch": 1593548706.235307,
+            "last_retested_at_iso": "2020-06-30T20:25:06.235307",
             "status": "INACTIVE"
         },
         "www.4realzed.com": {
@@ -1417,8 +1417,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1593462178.445582,
-            "last_retested_at_iso": "2020-06-29T20:22:58.445582",
+            "last_retested_at_epoch": 1593548586.357279,
+            "last_retested_at_iso": "2020-06-30T20:23:06.357279",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1585,8 +1585,8 @@
         "www.86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1593458147.098414,
-            "last_retested_at_iso": "2020-06-29T19:15:47.098414",
+            "last_retested_at_epoch": 1593548178.227774,
+            "last_retested_at_iso": "2020-06-30T20:16:18.227774",
             "status": "INACTIVE"
         },
         "www.87w.info": {
@@ -1683,8 +1683,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1593458446.21298,
-            "last_retested_at_iso": "2020-06-29T19:20:46.212980",
+            "last_retested_at_epoch": 1593548352.978669,
+            "last_retested_at_iso": "2020-06-30T20:19:12.978669",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -1970,8 +1970,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1593458261.955374,
-            "last_retested_at_iso": "2020-06-29T19:17:41.955374",
+            "last_retested_at_epoch": 1593547957.326636,
+            "last_retested_at_iso": "2020-06-30T20:12:37.326636",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -2005,8 +2005,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1593457997.614888,
-            "last_retested_at_iso": "2020-06-29T19:13:17.614888",
+            "last_retested_at_epoch": 1593548331.78444,
+            "last_retested_at_iso": "2020-06-30T20:18:51.784440",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -2068,8 +2068,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1593457826.011486,
-            "last_retested_at_iso": "2020-06-29T19:10:26.011486",
+            "last_retested_at_epoch": 1593548462.886938,
+            "last_retested_at_iso": "2020-06-30T20:21:02.886938",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
@@ -2180,8 +2180,8 @@
         "www.amphorasf.com": {
             "included_at_epoch": 1588519166.0,
             "included_at_iso": "2020-05-03T15:19:26",
-            "last_retested_at_epoch": 1593458044.804652,
-            "last_retested_at_iso": "2020-06-29T19:14:04.804652",
+            "last_retested_at_epoch": 1593548698.912588,
+            "last_retested_at_iso": "2020-06-30T20:24:58.912588",
             "status": "INACTIVE"
         },
         "www.amplitude-peinture.fr": {
@@ -2586,8 +2586,8 @@
         "www.freegayporn.biz": {
             "included_at_epoch": 1588464456.0,
             "included_at_iso": "2020-05-03T00:07:36",
-            "last_retested_at_epoch": 1593458064.959992,
-            "last_retested_at_iso": "2020-06-29T19:14:24.959992",
+            "last_retested_at_epoch": 1593548643.23247,
+            "last_retested_at_iso": "2020-06-30T20:24:03.232470",
             "status": "INACTIVE"
         },
         "www.freehomosexual.com": {
