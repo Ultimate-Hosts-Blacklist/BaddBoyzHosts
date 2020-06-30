@@ -430,8 +430,8 @@
         "allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1593432671.887523,
-            "last_retested_at_iso": "2020-06-29T12:11:11.887523",
+            "last_retested_at_epoch": 1593519247.515053,
+            "last_retested_at_iso": "2020-06-30T12:14:07.515053",
             "status": "INACTIVE"
         },
         "allboard.xobor.de": {
@@ -1382,8 +1382,8 @@
         "www.4o64flb.com": {
             "included_at_epoch": 1588509492.0,
             "included_at_iso": "2020-05-03T12:38:12",
-            "last_retested_at_epoch": 1593432711.245862,
-            "last_retested_at_iso": "2020-06-29T12:11:51.245862",
+            "last_retested_at_epoch": 1593519353.881448,
+            "last_retested_at_iso": "2020-06-30T12:15:53.881448",
             "status": "INACTIVE"
         },
         "www.4plus11.com": {
@@ -2061,8 +2061,8 @@
         "www.allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1593432671.978551,
-            "last_retested_at_iso": "2020-06-29T12:11:11.978551",
+            "last_retested_at_epoch": 1593519247.626181,
+            "last_retested_at_iso": "2020-06-30T12:14:07.626181",
             "status": "INACTIVE"
         },
         "www.allamericanmadetoys.com": {
