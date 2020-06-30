@@ -801,8 +801,8 @@
         "www.01apple.com": {
             "included_at_epoch": 1591665010.632205,
             "included_at_iso": "2020-06-09T01:10:10.632205",
-            "last_retested_at_epoch": 1591665010.632205,
-            "last_retested_at_iso": "2020-06-09T01:10:10.632205",
+            "last_retested_at_epoch": 1593496369.044009,
+            "last_retested_at_iso": "2020-06-30T05:52:49.044009",
             "status": "INACTIVE"
         },
         "www.03p.info": {
