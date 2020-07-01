@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1593548319.247251,
-            "last_retested_at_iso": "2020-06-30T20:18:39.247251",
+            "last_retested_at_epoch": 1593644319.636733,
+            "last_retested_at_iso": "2020-07-01T22:58:39.636733",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1305,8 +1305,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1593552813.159176,
-            "last_retested_at_iso": "2020-06-30T21:33:33.159176",
+            "last_retested_at_epoch": 1593644320.162676,
+            "last_retested_at_iso": "2020-07-01T22:58:40.162676",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -2040,8 +2040,8 @@
         "www.alhijaztrvl.com": {
             "included_at_epoch": 1588486047.0,
             "included_at_iso": "2020-05-03T06:07:27",
-            "last_retested_at_epoch": 1593552761.33431,
-            "last_retested_at_iso": "2020-06-30T21:32:41.334310",
+            "last_retested_at_epoch": 1593643504.247932,
+            "last_retested_at_iso": "2020-07-01T22:45:04.247932",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2838,8 +2838,8 @@
         "www.ideibiznesa2015.ru": {
             "included_at_epoch": 1588473905.0,
             "included_at_iso": "2020-05-03T02:45:05",
-            "last_retested_at_epoch": 1593552849.707477,
-            "last_retested_at_iso": "2020-06-30T21:34:09.707477",
+            "last_retested_at_epoch": 1593643619.88941,
+            "last_retested_at_iso": "2020-07-01T22:46:59.889410",
             "status": "INACTIVE"
         },
         "www.idkom.com": {
