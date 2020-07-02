@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593558613.836452,
-            "last_retested_at_iso": "2020-06-30T23:10:13.836452",
+            "last_retested_at_epoch": 1593649732.151694,
+            "last_retested_at_iso": "2020-07-02T00:28:52.151694",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -304,8 +304,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1593558772.7504,
-            "last_retested_at_iso": "2020-06-30T23:12:52.750400",
+            "last_retested_at_epoch": 1593650005.280199,
+            "last_retested_at_iso": "2020-07-02T00:33:25.280199",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -458,8 +458,8 @@
         "allo-sexe.net": {
             "included_at_epoch": 1588522174.0,
             "included_at_iso": "2020-05-03T16:09:34",
-            "last_retested_at_epoch": 1593552788.273145,
-            "last_retested_at_iso": "2020-06-30T21:33:08.273145",
+            "last_retested_at_epoch": 1593649517.051412,
+            "last_retested_at_iso": "2020-07-02T00:25:17.051412",
             "status": "INACTIVE"
         },
         "amateursexvideo.de": {
@@ -976,8 +976,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1593558351.435124,
-            "last_retested_at_iso": "2020-06-30T23:05:51.435124",
+            "last_retested_at_epoch": 1593650242.581209,
+            "last_retested_at_iso": "2020-07-02T00:37:22.581209",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1473,8 +1473,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1593558343.223503,
-            "last_retested_at_iso": "2020-06-30T23:05:43.223503",
+            "last_retested_at_epoch": 1593649634.387656,
+            "last_retested_at_iso": "2020-07-02T00:27:14.387656",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1522,8 +1522,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593558613.850156,
-            "last_retested_at_iso": "2020-06-30T23:10:13.850156",
+            "last_retested_at_epoch": 1593649732.355587,
+            "last_retested_at_iso": "2020-07-02T00:28:52.355587",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1578,8 +1578,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1593558467.168794,
-            "last_retested_at_iso": "2020-06-30T23:07:47.168794",
+            "last_retested_at_epoch": 1593649708.906074,
+            "last_retested_at_iso": "2020-07-02T00:28:28.906074",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -1648,8 +1648,8 @@
         "www.99topnn.info": {
             "included_at_epoch": 1588482471.0,
             "included_at_iso": "2020-05-03T05:07:51",
-            "last_retested_at_epoch": 1593558169.739202,
-            "last_retested_at_iso": "2020-06-30T23:02:49.739202",
+            "last_retested_at_epoch": 1593649741.560352,
+            "last_retested_at_iso": "2020-07-02T00:29:01.560352",
             "status": "INACTIVE"
         },
         "www.9c51vda.com": {
@@ -1732,8 +1732,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1593558772.933317,
-            "last_retested_at_iso": "2020-06-30T23:12:52.933317",
+            "last_retested_at_epoch": 1593650000.535552,
+            "last_retested_at_iso": "2020-07-02T00:33:20.535552",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1942,8 +1942,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1593558021.002006,
-            "last_retested_at_iso": "2020-06-30T23:00:21.002006",
+            "last_retested_at_epoch": 1593649411.779731,
+            "last_retested_at_iso": "2020-07-02T00:23:31.779731",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2110,8 +2110,8 @@
         "www.allo-sexe.net": {
             "included_at_epoch": 1588529881.0,
             "included_at_iso": "2020-05-03T18:18:01",
-            "last_retested_at_epoch": 1593552788.253016,
-            "last_retested_at_iso": "2020-06-30T21:33:08.253016",
+            "last_retested_at_epoch": 1593649517.106107,
+            "last_retested_at_iso": "2020-07-02T00:25:17.106107",
             "status": "INACTIVE"
         },
         "www.amateursconvert.com": {
@@ -2208,8 +2208,8 @@
         "www.anal-intentions.com": {
             "included_at_epoch": 1588518675.0,
             "included_at_iso": "2020-05-03T15:11:15",
-            "last_retested_at_epoch": 1593558615.525372,
-            "last_retested_at_iso": "2020-06-30T23:10:15.525372",
+            "last_retested_at_epoch": 1593649591.485821,
+            "last_retested_at_iso": "2020-07-02T00:26:31.485821",
             "status": "INACTIVE"
         },
         "www.anal-videos-photos.com": {
@@ -2593,8 +2593,8 @@
         "www.freegayporn.biz": {
             "included_at_epoch": 1588464456.0,
             "included_at_iso": "2020-05-03T00:07:36",
-            "last_retested_at_epoch": 1593548643.23247,
-            "last_retested_at_iso": "2020-06-30T20:24:03.232470",
+            "last_retested_at_epoch": 1593649461.475094,
+            "last_retested_at_iso": "2020-07-02T00:24:21.475094",
             "status": "INACTIVE"
         },
         "www.freehomosexual.com": {
@@ -2663,8 +2663,8 @@
         "www.gratis-sexkontakte.com": {
             "included_at_epoch": 1587729478.0,
             "included_at_iso": "2020-04-24T11:57:58",
-            "last_retested_at_epoch": 1593558619.985148,
-            "last_retested_at_iso": "2020-06-30T23:10:19.985148",
+            "last_retested_at_epoch": 1593649739.501507,
+            "last_retested_at_iso": "2020-07-02T00:28:59.501507",
             "status": "INACTIVE"
         },
         "www.gratisweb.com": {
@@ -2705,8 +2705,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1593553264.814505,
-            "last_retested_at_iso": "2020-06-30T21:41:04.814505",
+            "last_retested_at_epoch": 1593649812.334687,
+            "last_retested_at_iso": "2020-07-02T00:30:12.334687",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
