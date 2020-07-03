@@ -269,8 +269,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593661066.398393,
-            "last_retested_at_iso": "2020-07-02T03:37:46.398393",
+            "last_retested_at_epoch": 1593752488.179126,
+            "last_retested_at_iso": "2020-07-03T05:01:28.179126",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1557,8 +1557,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1593666572.254039,
-            "last_retested_at_iso": "2020-07-02T05:09:32.254039",
+            "last_retested_at_epoch": 1593753036.577207,
+            "last_retested_at_iso": "2020-07-03T05:10:36.577207",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -1690,8 +1690,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593661066.397492,
-            "last_retested_at_iso": "2020-07-02T03:37:46.397492",
+            "last_retested_at_epoch": 1593752488.210346,
+            "last_retested_at_iso": "2020-07-03T05:01:28.210346",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -2292,8 +2292,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1593661103.742695,
-            "last_retested_at_iso": "2020-07-02T03:38:23.742695",
+            "last_retested_at_epoch": 1593752483.043531,
+            "last_retested_at_iso": "2020-07-03T05:01:23.043531",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
@@ -2705,8 +2705,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1593649812.334687,
-            "last_retested_at_iso": "2020-07-02T00:30:12.334687",
+            "last_retested_at_epoch": 1593752595.439092,
+            "last_retested_at_iso": "2020-07-03T05:03:15.439092",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
