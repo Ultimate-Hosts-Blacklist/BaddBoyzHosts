@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1593644319.636733,
-            "last_retested_at_iso": "2020-07-01T22:58:39.636733",
+            "last_retested_at_epoch": 1593734313.845128,
+            "last_retested_at_iso": "2020-07-02T23:58:33.845128",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1417,8 +1417,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1593638097.553811,
-            "last_retested_at_iso": "2020-07-01T21:14:57.553811",
+            "last_retested_at_epoch": 1593734630.226198,
+            "last_retested_at_iso": "2020-07-03T00:03:50.226198",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1683,8 +1683,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1593638635.221368,
-            "last_retested_at_iso": "2020-07-01T21:23:55.221368",
+            "last_retested_at_epoch": 1593734750.42222,
+            "last_retested_at_iso": "2020-07-03T00:05:50.422220",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -2040,8 +2040,8 @@
         "www.alhijaztrvl.com": {
             "included_at_epoch": 1588486047.0,
             "included_at_iso": "2020-05-03T06:07:27",
-            "last_retested_at_epoch": 1593643504.247932,
-            "last_retested_at_iso": "2020-07-01T22:45:04.247932",
+            "last_retested_at_epoch": 1593734643.571155,
+            "last_retested_at_iso": "2020-07-03T00:04:03.571155",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2418,8 +2418,8 @@
         "www.cinedaily.com": {
             "included_at_epoch": 1593638906.887889,
             "included_at_iso": "2020-07-01T21:28:26.887889",
-            "last_retested_at_epoch": 1593638906.887889,
-            "last_retested_at_iso": "2020-07-01T21:28:26.887889",
+            "last_retested_at_epoch": 1593734735.748236,
+            "last_retested_at_iso": "2020-07-03T00:05:35.748236",
             "status": "INACTIVE"
         },
         "www.cineitalia.top": {
@@ -2838,8 +2838,8 @@
         "www.ideibiznesa2015.ru": {
             "included_at_epoch": 1588473905.0,
             "included_at_iso": "2020-05-03T02:45:05",
-            "last_retested_at_epoch": 1593643619.88941,
-            "last_retested_at_iso": "2020-07-01T22:46:59.889410",
+            "last_retested_at_epoch": 1593734844.843719,
+            "last_retested_at_iso": "2020-07-03T00:07:24.843719",
             "status": "INACTIVE"
         },
         "www.idkom.com": {
