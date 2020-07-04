@@ -577,8 +577,8 @@
         "backdoor.thumblogger.com": {
             "included_at_epoch": 1588078879.0,
             "included_at_iso": "2020-04-28T13:01:19",
-            "last_retested_at_epoch": 1588078879.0,
-            "last_retested_at_iso": "2020-04-28T13:01:19",
+            "last_retested_at_epoch": 1593867667.672093,
+            "last_retested_at_iso": "2020-07-04T13:01:07.672093",
             "status": "INACTIVE"
         },
         "backvids.com": {
