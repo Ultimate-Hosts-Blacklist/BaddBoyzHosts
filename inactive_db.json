@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593740162.488521,
-            "last_retested_at_iso": "2020-07-03T01:36:02.488521",
+            "last_retested_at_epoch": 1593844039.806495,
+            "last_retested_at_iso": "2020-07-04T06:27:19.806495",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -269,8 +269,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593752488.179126,
-            "last_retested_at_iso": "2020-07-03T05:01:28.179126",
+            "last_retested_at_epoch": 1593844012.421341,
+            "last_retested_at_iso": "2020-07-04T06:26:52.421341",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1593734313.845128,
-            "last_retested_at_iso": "2020-07-02T23:58:33.845128",
+            "last_retested_at_epoch": 1593844164.443017,
+            "last_retested_at_iso": "2020-07-04T06:29:24.443017",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1522,8 +1522,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593740162.321466,
-            "last_retested_at_iso": "2020-07-03T01:36:02.321466",
+            "last_retested_at_epoch": 1593844034.917253,
+            "last_retested_at_iso": "2020-07-04T06:27:14.917253",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1690,8 +1690,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593752488.210346,
-            "last_retested_at_iso": "2020-07-03T05:01:28.210346",
+            "last_retested_at_epoch": 1593844012.532771,
+            "last_retested_at_iso": "2020-07-04T06:26:52.532771",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -2292,8 +2292,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1593752483.043531,
-            "last_retested_at_iso": "2020-07-03T05:01:23.043531",
+            "last_retested_at_epoch": 1593843699.313649,
+            "last_retested_at_iso": "2020-07-04T06:21:39.313649",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
@@ -2705,8 +2705,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1593752595.439092,
-            "last_retested_at_iso": "2020-07-03T05:03:15.439092",
+            "last_retested_at_epoch": 1593844030.783931,
+            "last_retested_at_iso": "2020-07-04T06:27:10.783931",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
