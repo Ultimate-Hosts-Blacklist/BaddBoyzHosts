@@ -337,7 +337,7 @@
     "18744.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "189zx.com": {
         "epoch": 1622937600.0,
@@ -3222,7 +3222,7 @@
     "i-dating.info": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ichgcp.com": {
         "epoch": 1594512000.0,
