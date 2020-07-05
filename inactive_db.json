@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593844039.806495,
-            "last_retested_at_iso": "2020-07-04T06:27:19.806495",
+            "last_retested_at_epoch": 1593934451.784684,
+            "last_retested_at_iso": "2020-07-05T07:34:11.784684",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -269,8 +269,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593844012.421341,
-            "last_retested_at_iso": "2020-07-04T06:26:52.421341",
+            "last_retested_at_epoch": 1593935024.817977,
+            "last_retested_at_iso": "2020-07-05T07:43:44.817977",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -528,8 +528,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1593820118.066557,
-            "last_retested_at_iso": "2020-07-03T23:48:38.066557",
+            "last_retested_at_epoch": 1593935091.636266,
+            "last_retested_at_iso": "2020-07-05T07:44:51.636266",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1593844164.443017,
-            "last_retested_at_iso": "2020-07-04T06:29:24.443017",
+            "last_retested_at_epoch": 1593934322.758369,
+            "last_retested_at_iso": "2020-07-05T07:32:02.758369",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1522,8 +1522,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1593844034.917253,
-            "last_retested_at_iso": "2020-07-04T06:27:14.917253",
+            "last_retested_at_epoch": 1593934451.690574,
+            "last_retested_at_iso": "2020-07-05T07:34:11.690574",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1690,8 +1690,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1593844012.532771,
-            "last_retested_at_iso": "2020-07-04T06:26:52.532771",
+            "last_retested_at_epoch": 1593935024.847321,
+            "last_retested_at_iso": "2020-07-05T07:43:44.847321",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -2292,15 +2292,15 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1593843699.313649,
-            "last_retested_at_iso": "2020-07-04T06:21:39.313649",
+            "last_retested_at_epoch": 1593935091.129232,
+            "last_retested_at_iso": "2020-07-05T07:44:51.129232",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1593820117.979845,
-            "last_retested_at_iso": "2020-07-03T23:48:37.979845",
+            "last_retested_at_epoch": 1593935091.758748,
+            "last_retested_at_iso": "2020-07-05T07:44:51.758748",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
@@ -2565,8 +2565,8 @@
         "www.family1st.ca": {
             "included_at_epoch": 1593503574.308419,
             "included_at_iso": "2020-06-30T07:52:54.308419",
-            "last_retested_at_epoch": 1593503574.308419,
-            "last_retested_at_iso": "2020-06-30T07:52:54.308419",
+            "last_retested_at_epoch": 1593934983.318325,
+            "last_retested_at_iso": "2020-07-05T07:43:03.318325",
             "status": "INACTIVE"
         },
         "www.familyholiday.ml": {
@@ -2705,8 +2705,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1593844030.783931,
-            "last_retested_at_iso": "2020-07-04T06:27:10.783931",
+            "last_retested_at_epoch": 1593934607.406283,
+            "last_retested_at_iso": "2020-07-05T07:36:47.406283",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
