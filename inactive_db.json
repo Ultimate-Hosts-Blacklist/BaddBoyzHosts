@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1594023194.705076,
-            "last_retested_at_iso": "2020-07-06T08:13:14.705076",
+            "last_retested_at_epoch": 1594113252.571557,
+            "last_retested_at_iso": "2020-07-07T09:14:12.571557",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -269,8 +269,8 @@
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1594022552.255668,
-            "last_retested_at_iso": "2020-07-06T08:02:32.255668",
+            "last_retested_at_epoch": 1594113013.285716,
+            "last_retested_at_iso": "2020-07-07T09:10:13.285716",
             "status": "INACTIVE"
         },
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -507,8 +507,8 @@
         "amplitude-peinture.fr": {
             "included_at_epoch": 1588509280.0,
             "included_at_iso": "2020-05-03T12:34:40",
-            "last_retested_at_epoch": 1594012165.090638,
-            "last_retested_at_iso": "2020-07-06T05:09:25.090638",
+            "last_retested_at_epoch": 1594112526.79454,
+            "last_retested_at_iso": "2020-07-07T09:02:06.794540",
             "status": "INACTIVE"
         },
         "analsexphoto.yourfreesites.com": {
@@ -528,8 +528,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1594022869.345138,
-            "last_retested_at_iso": "2020-07-06T08:07:49.345138",
+            "last_retested_at_epoch": 1594113079.931843,
+            "last_retested_at_iso": "2020-07-07T09:11:19.931843",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1594023109.629159,
-            "last_retested_at_iso": "2020-07-06T08:11:49.629159",
+            "last_retested_at_epoch": 1594113240.492696,
+            "last_retested_at_iso": "2020-07-07T09:14:00.492696",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -976,8 +976,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1594023015.836282,
-            "last_retested_at_iso": "2020-07-06T08:10:15.836282",
+            "last_retested_at_epoch": 1594113285.348547,
+            "last_retested_at_iso": "2020-07-07T09:14:45.348547",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1522,8 +1522,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1594023195.056112,
-            "last_retested_at_iso": "2020-07-06T08:13:15.056112",
+            "last_retested_at_epoch": 1594113252.631614,
+            "last_retested_at_iso": "2020-07-07T09:14:12.631614",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1690,8 +1690,8 @@
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1588482514.0,
             "included_at_iso": "2020-05-03T05:08:34",
-            "last_retested_at_epoch": 1594022552.524149,
-            "last_retested_at_iso": "2020-07-06T08:02:32.524149",
+            "last_retested_at_epoch": 1594113013.267531,
+            "last_retested_at_iso": "2020-07-07T09:10:13.267531",
             "status": "INACTIVE"
         },
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -1942,8 +1942,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1594011341.73684,
-            "last_retested_at_iso": "2020-07-06T04:55:41.736840",
+            "last_retested_at_epoch": 1594112602.780024,
+            "last_retested_at_iso": "2020-07-07T09:03:22.780024",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2187,8 +2187,8 @@
         "www.amplitude-peinture.fr": {
             "included_at_epoch": 1588509281.0,
             "included_at_iso": "2020-05-03T12:34:41",
-            "last_retested_at_epoch": 1594012164.404414,
-            "last_retested_at_iso": "2020-07-06T05:09:24.404414",
+            "last_retested_at_epoch": 1594112526.462178,
+            "last_retested_at_iso": "2020-07-07T09:02:06.462178",
             "status": "INACTIVE"
         },
         "www.ampower.me": {
@@ -2299,8 +2299,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1594022869.517858,
-            "last_retested_at_iso": "2020-07-06T08:07:49.517858",
+            "last_retested_at_epoch": 1594113079.756164,
+            "last_retested_at_iso": "2020-07-07T09:11:19.756164",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
@@ -2705,8 +2705,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1594023096.161514,
-            "last_retested_at_iso": "2020-07-06T08:11:36.161514",
+            "last_retested_at_epoch": 1594113375.138708,
+            "last_retested_at_iso": "2020-07-07T09:16:15.138708",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
