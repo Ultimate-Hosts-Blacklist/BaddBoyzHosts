@@ -122,8 +122,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1594059079.674693,
-            "last_retested_at_iso": "2020-07-06T18:11:19.674693",
+            "last_retested_at_epoch": 1594147526.138529,
+            "last_retested_at_iso": "2020-07-07T18:45:26.138529",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -556,8 +556,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1594059330.738544,
-            "last_retested_at_iso": "2020-07-06T18:15:30.738544",
+            "last_retested_at_epoch": 1594148063.716061,
+            "last_retested_at_iso": "2020-07-07T18:54:23.716061",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1144,8 +1144,8 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1594059079.443485,
-            "last_retested_at_iso": "2020-07-06T18:11:19.443485",
+            "last_retested_at_epoch": 1594147526.145344,
+            "last_retested_at_iso": "2020-07-07T18:45:26.145344",
             "status": "INACTIVE"
         },
         "www.271395.com": {
@@ -1228,8 +1228,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1594059383.928612,
-            "last_retested_at_iso": "2020-07-06T18:16:23.928612",
+            "last_retested_at_epoch": 1594147755.841561,
+            "last_retested_at_iso": "2020-07-07T18:49:15.841561",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1928,8 +1928,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1594058832.475774,
-            "last_retested_at_iso": "2020-07-06T18:07:12.475774",
+            "last_retested_at_epoch": 1594147809.510529,
+            "last_retested_at_iso": "2020-07-07T18:50:09.510529",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
@@ -2348,8 +2348,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1594059330.648255,
-            "last_retested_at_iso": "2020-07-06T18:15:30.648255",
+            "last_retested_at_epoch": 1594148063.71485,
+            "last_retested_at_iso": "2020-07-07T18:54:23.714850",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2866,8 +2866,8 @@
         "www.inleadership.co.nz": {
             "included_at_epoch": 1588478652.0,
             "included_at_iso": "2020-05-03T04:04:12",
-            "last_retested_at_epoch": 1594058822.784344,
-            "last_retested_at_iso": "2020-07-06T18:07:02.784344",
+            "last_retested_at_epoch": 1594148354.829742,
+            "last_retested_at_iso": "2020-07-07T18:59:14.829742",
             "status": "INACTIVE"
         },
         "www.keepcolletive.com": {
