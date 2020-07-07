@@ -220,8 +220,8 @@
         "state": "future"
     },
     "123kuma.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "123laceypink.com": {
@@ -1095,8 +1095,8 @@
         "state": "future"
     },
     "7fb.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "7gfs.com": {
@@ -2212,7 +2212,7 @@
     "animalcum.net": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "answerzones.com": {
         "epoch": 1617235200.0,
