@@ -1893,8 +1893,8 @@
         "www.acpbdf.com.br": {
             "included_at_epoch": 1579032003.0,
             "included_at_iso": "2020-01-14T20:00:03",
-            "last_retested_at_epoch": 1579032003.0,
-            "last_retested_at_iso": "2020-01-14T20:00:03",
+            "last_retested_at_epoch": 1594136312.847291,
+            "last_retested_at_iso": "2020-07-07T15:38:32.847291",
             "status": "INACTIVE"
         },
         "www.acrowiswhite.com": {
@@ -2439,8 +2439,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1594040950.424148,
-            "last_retested_at_iso": "2020-07-06T13:09:10.424148",
+            "last_retested_at_epoch": 1594136236.888318,
+            "last_retested_at_iso": "2020-07-07T15:37:16.888318",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
