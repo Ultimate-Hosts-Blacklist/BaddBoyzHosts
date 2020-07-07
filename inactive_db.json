@@ -24,8 +24,8 @@
         "013sv.com": {
             "included_at_epoch": 1588496502.0,
             "included_at_iso": "2020-05-03T09:01:42",
-            "last_retested_at_epoch": 1593999789.20281,
-            "last_retested_at_iso": "2020-07-06T01:43:09.202810",
+            "last_retested_at_epoch": 1594095496.918444,
+            "last_retested_at_iso": "2020-07-07T04:18:16.918444",
             "status": "INACTIVE"
         },
         "015gf.com": {
@@ -311,8 +311,8 @@
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1594005773.726463,
-            "last_retested_at_iso": "2020-07-06T03:22:53.726463",
+            "last_retested_at_epoch": 1594095648.797721,
+            "last_retested_at_iso": "2020-07-07T04:20:48.797721",
             "status": "INACTIVE"
         },
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -500,8 +500,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1594005800.584826,
-            "last_retested_at_iso": "2020-07-06T03:23:20.584826",
+            "last_retested_at_epoch": 1594095638.704367,
+            "last_retested_at_iso": "2020-07-07T04:20:38.704367",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -773,8 +773,8 @@
         "www.013sv.com": {
             "included_at_epoch": 1588496502.0,
             "included_at_iso": "2020-05-03T09:01:42",
-            "last_retested_at_epoch": 1593999789.201912,
-            "last_retested_at_iso": "2020-07-06T01:43:09.201912",
+            "last_retested_at_epoch": 1594095496.996285,
+            "last_retested_at_iso": "2020-07-07T04:18:16.996285",
             "status": "INACTIVE"
         },
         "www.015gf.com": {
@@ -1235,8 +1235,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1594006176.162153,
-            "last_retested_at_iso": "2020-07-06T03:29:36.162153",
+            "last_retested_at_epoch": 1594095805.406501,
+            "last_retested_at_iso": "2020-07-07T04:23:25.406501",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -1389,8 +1389,8 @@
         "www.4plus11.com": {
             "included_at_epoch": 1588489712.0,
             "included_at_iso": "2020-05-03T07:08:32",
-            "last_retested_at_epoch": 1594005633.959019,
-            "last_retested_at_iso": "2020-07-06T03:20:33.959019",
+            "last_retested_at_epoch": 1594095842.682862,
+            "last_retested_at_iso": "2020-07-07T04:24:02.682862",
             "status": "INACTIVE"
         },
         "www.4realzed.com": {
@@ -1683,8 +1683,8 @@
         "www.a94.info": {
             "included_at_epoch": 1588760677.154159,
             "included_at_iso": "2020-05-06T10:24:37.154159",
-            "last_retested_at_epoch": 1594006125.044507,
-            "last_retested_at_iso": "2020-07-06T03:28:45.044507",
+            "last_retested_at_epoch": 1594095969.324932,
+            "last_retested_at_iso": "2020-07-07T04:26:09.324932",
             "status": "INACTIVE"
         },
         "www.aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -1739,8 +1739,8 @@
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
             "included_at_epoch": 1588464299.0,
             "included_at_iso": "2020-05-03T00:04:59",
-            "last_retested_at_epoch": 1594005771.621143,
-            "last_retested_at_iso": "2020-07-06T03:22:51.621143",
+            "last_retested_at_epoch": 1594095649.003849,
+            "last_retested_at_iso": "2020-07-07T04:20:49.003849",
             "status": "INACTIVE"
         },
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
@@ -2005,8 +2005,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1594005615.935533,
-            "last_retested_at_iso": "2020-07-06T03:20:15.935533",
+            "last_retested_at_epoch": 1594095634.57717,
+            "last_retested_at_iso": "2020-07-07T04:20:34.577170",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -2026,8 +2026,8 @@
         "www.alfalakgifts.com": {
             "included_at_epoch": 1576153844.0,
             "included_at_iso": "2019-12-12T12:30:44",
-            "last_retested_at_epoch": 1594005706.951407,
-            "last_retested_at_iso": "2020-07-06T03:21:46.951407",
+            "last_retested_at_epoch": 1594095392.372424,
+            "last_retested_at_iso": "2020-07-07T04:16:32.372424",
             "status": "INACTIVE"
         },
         "www.algerianembassy.co.in": {
@@ -2040,8 +2040,8 @@
         "www.alhijaztrvl.com": {
             "included_at_epoch": 1588486047.0,
             "included_at_iso": "2020-05-03T06:07:27",
-            "last_retested_at_epoch": 1594006280.287526,
-            "last_retested_at_iso": "2020-07-06T03:31:20.287526",
+            "last_retested_at_epoch": 1594095404.44007,
+            "last_retested_at_iso": "2020-07-07T04:16:44.440070",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2068,8 +2068,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1594005810.532293,
-            "last_retested_at_iso": "2020-07-06T03:23:30.532293",
+            "last_retested_at_epoch": 1594095883.630881,
+            "last_retested_at_iso": "2020-07-07T04:24:43.630881",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
@@ -2180,8 +2180,8 @@
         "www.amphorasf.com": {
             "included_at_epoch": 1588519166.0,
             "included_at_iso": "2020-05-03T15:19:26",
-            "last_retested_at_epoch": 1594005800.574019,
-            "last_retested_at_iso": "2020-07-06T03:23:20.574019",
+            "last_retested_at_epoch": 1594095638.735483,
+            "last_retested_at_iso": "2020-07-07T04:20:38.735483",
             "status": "INACTIVE"
         },
         "www.amplitude-peinture.fr": {
@@ -2775,8 +2775,8 @@
         "www.hymen-defloration.info": {
             "included_at_epoch": 1588464031.0,
             "included_at_iso": "2020-05-03T00:00:31",
-            "last_retested_at_epoch": 1594005903.968336,
-            "last_retested_at_iso": "2020-07-06T03:25:03.968336",
+            "last_retested_at_epoch": 1594095463.826838,
+            "last_retested_at_iso": "2020-07-07T04:17:43.826838",
             "status": "INACTIVE"
         },
         "www.hympsvtktvtm.biz": {
@@ -2838,8 +2838,8 @@
         "www.ideibiznesa2015.ru": {
             "included_at_epoch": 1588473905.0,
             "included_at_iso": "2020-05-03T02:45:05",
-            "last_retested_at_epoch": 1594006195.509156,
-            "last_retested_at_iso": "2020-07-06T03:29:55.509156",
+            "last_retested_at_epoch": 1594095351.411341,
+            "last_retested_at_iso": "2020-07-07T04:15:51.411341",
             "status": "INACTIVE"
         },
         "www.idkom.com": {
