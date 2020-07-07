@@ -1557,8 +1557,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1594028034.457048,
-            "last_retested_at_iso": "2020-07-06T09:33:54.457048",
+            "last_retested_at_epoch": 1594118657.020675,
+            "last_retested_at_iso": "2020-07-07T10:44:17.020675",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -2292,8 +2292,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1594028217.427039,
-            "last_retested_at_iso": "2020-07-06T09:36:57.427039",
+            "last_retested_at_epoch": 1594118762.01405,
+            "last_retested_at_iso": "2020-07-07T10:46:02.014050",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
