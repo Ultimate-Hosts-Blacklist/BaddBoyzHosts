@@ -976,8 +976,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1594113285.348547,
-            "last_retested_at_iso": "2020-07-07T09:14:45.348547",
+            "last_retested_at_epoch": 1594205418.318806,
+            "last_retested_at_iso": "2020-07-08T10:50:18.318806",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1557,8 +1557,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1594118657.020675,
-            "last_retested_at_iso": "2020-07-07T10:44:17.020675",
+            "last_retested_at_epoch": 1594205600.199079,
+            "last_retested_at_iso": "2020-07-08T10:53:20.199079",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
