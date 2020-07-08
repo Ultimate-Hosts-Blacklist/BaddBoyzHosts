@@ -2292,8 +2292,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1594118762.01405,
-            "last_retested_at_iso": "2020-07-07T10:46:02.014050",
+            "last_retested_at_epoch": 1594212631.349535,
+            "last_retested_at_iso": "2020-07-08T12:50:31.349535",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
