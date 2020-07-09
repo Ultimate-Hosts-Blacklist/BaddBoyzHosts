@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1594200294.108333,
-            "last_retested_at_iso": "2020-07-08T09:24:54.108333",
+            "last_retested_at_epoch": 1594295362.544358,
+            "last_retested_at_iso": "2020-07-09T11:49:22.544358",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -976,8 +976,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1594205418.318806,
-            "last_retested_at_iso": "2020-07-08T10:50:18.318806",
+            "last_retested_at_epoch": 1594295943.912697,
+            "last_retested_at_iso": "2020-07-09T11:59:03.912697",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1473,8 +1473,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1594193464.802531,
-            "last_retested_at_iso": "2020-07-08T07:31:04.802531",
+            "last_retested_at_epoch": 1594295993.541623,
+            "last_retested_at_iso": "2020-07-09T11:59:53.541623",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
