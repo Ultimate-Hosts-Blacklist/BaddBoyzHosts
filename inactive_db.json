@@ -122,8 +122,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1594236377.490723,
-            "last_retested_at_iso": "2020-07-08T19:26:17.490723",
+            "last_retested_at_epoch": 1594325649.390721,
+            "last_retested_at_iso": "2020-07-09T20:14:09.390721",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -556,8 +556,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1594235845.940942,
-            "last_retested_at_iso": "2020-07-08T19:17:25.940942",
+            "last_retested_at_epoch": 1594326150.162012,
+            "last_retested_at_iso": "2020-07-09T20:22:30.162012",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1144,8 +1144,8 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1594236377.465283,
-            "last_retested_at_iso": "2020-07-08T19:26:17.465283",
+            "last_retested_at_epoch": 1594325649.36276,
+            "last_retested_at_iso": "2020-07-09T20:14:09.362760",
             "status": "INACTIVE"
         },
         "www.271395.com": {
@@ -2348,8 +2348,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1594235846.169528,
-            "last_retested_at_iso": "2020-07-08T19:17:26.169528",
+            "last_retested_at_epoch": 1594326150.131807,
+            "last_retested_at_iso": "2020-07-09T20:22:30.131807",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
