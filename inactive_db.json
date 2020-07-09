@@ -2194,8 +2194,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1594229992.90062,
-            "last_retested_at_iso": "2020-07-08T17:39:52.900620",
+            "last_retested_at_epoch": 1594319255.160629,
+            "last_retested_at_iso": "2020-07-09T18:27:35.160629",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
@@ -2439,8 +2439,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1594230301.161489,
-            "last_retested_at_iso": "2020-07-08T17:45:01.161489",
+            "last_retested_at_epoch": 1594319398.333062,
+            "last_retested_at_iso": "2020-07-09T18:29:58.333062",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
