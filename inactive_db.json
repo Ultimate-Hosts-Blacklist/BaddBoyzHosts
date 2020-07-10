@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1594295362.544358,
-            "last_retested_at_iso": "2020-07-09T11:49:22.544358",
+            "last_retested_at_epoch": 1594390894.245017,
+            "last_retested_at_iso": "2020-07-10T14:21:34.245017",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1473,8 +1473,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1594295993.541623,
-            "last_retested_at_iso": "2020-07-09T11:59:53.541623",
+            "last_retested_at_epoch": 1594390724.270508,
+            "last_retested_at_iso": "2020-07-10T14:18:44.270508",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1557,8 +1557,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1594302171.151681,
-            "last_retested_at_iso": "2020-07-09T13:42:51.151681",
+            "last_retested_at_epoch": 1594390608.756083,
+            "last_retested_at_iso": "2020-07-10T14:16:48.756083",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -2292,8 +2292,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1594302165.819326,
-            "last_retested_at_iso": "2020-07-09T13:42:45.819326",
+            "last_retested_at_epoch": 1594390894.874058,
+            "last_retested_at_iso": "2020-07-10T14:21:34.874058",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
