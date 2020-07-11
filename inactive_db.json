@@ -304,8 +304,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1594378549.632889,
-            "last_retested_at_iso": "2020-07-10T10:55:49.632889",
+            "last_retested_at_epoch": 1594473666.680676,
+            "last_retested_at_iso": "2020-07-11T13:21:06.680676",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1732,8 +1732,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1594378549.681428,
-            "last_retested_at_iso": "2020-07-10T10:55:49.681428",
+            "last_retested_at_epoch": 1594473666.785216,
+            "last_retested_at_iso": "2020-07-11T13:21:06.785216",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -2005,8 +2005,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1594378202.656099,
-            "last_retested_at_iso": "2020-07-10T10:50:02.656099",
+            "last_retested_at_epoch": 1594473356.022939,
+            "last_retested_at_iso": "2020-07-11T13:15:56.022939",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
