@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1594479048.185146,
-            "last_retested_at_iso": "2020-07-11T14:50:48.185146",
+            "last_retested_at_epoch": 1594565718.430966,
+            "last_retested_at_iso": "2020-07-12T14:55:18.430966",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -976,8 +976,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1594479282.821167,
-            "last_retested_at_iso": "2020-07-11T14:54:42.821167",
+            "last_retested_at_epoch": 1594566397.976731,
+            "last_retested_at_iso": "2020-07-12T15:06:37.976731",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1473,8 +1473,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1594478479.198115,
-            "last_retested_at_iso": "2020-07-11T14:41:19.198115",
+            "last_retested_at_epoch": 1594565779.540343,
+            "last_retested_at_iso": "2020-07-12T14:56:19.540343",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1942,8 +1942,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1594479042.459809,
-            "last_retested_at_iso": "2020-07-11T14:50:42.459809",
+            "last_retested_at_epoch": 1594566260.429167,
+            "last_retested_at_iso": "2020-07-12T15:04:20.429167",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2292,8 +2292,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1594478410.878639,
-            "last_retested_at_iso": "2020-07-11T14:40:10.878639",
+            "last_retested_at_epoch": 1594566168.120149,
+            "last_retested_at_iso": "2020-07-12T15:02:48.120149",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
