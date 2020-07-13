@@ -1942,8 +1942,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1594566260.429167,
-            "last_retested_at_iso": "2020-07-12T15:04:20.429167",
+            "last_retested_at_epoch": 1594658531.411336,
+            "last_retested_at_iso": "2020-07-13T16:42:11.411336",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
