@@ -1557,8 +1557,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1594587993.827585,
-            "last_retested_at_iso": "2020-07-12T21:06:33.827585",
+            "last_retested_at_epoch": 1594675557.981933,
+            "last_retested_at_iso": "2020-07-13T21:25:57.981933",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -2439,8 +2439,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1594582545.572456,
-            "last_retested_at_iso": "2020-07-12T19:35:45.572456",
+            "last_retested_at_epoch": 1594675305.876123,
+            "last_retested_at_iso": "2020-07-13T21:21:45.876123",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
