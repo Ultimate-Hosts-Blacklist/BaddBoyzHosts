@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1594640845.262249,
-            "last_retested_at_iso": "2020-07-13T11:47:25.262249",
+            "last_retested_at_epoch": 1594758029.128138,
+            "last_retested_at_iso": "2020-07-14T20:20:29.128138",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1522,8 +1522,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1594640845.365815,
-            "last_retested_at_iso": "2020-07-13T11:47:25.365815",
+            "last_retested_at_epoch": 1594758029.137323,
+            "last_retested_at_iso": "2020-07-14T20:20:29.137323",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -2194,8 +2194,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1594671549.832757,
-            "last_retested_at_iso": "2020-07-13T20:19:09.832757",
+            "last_retested_at_epoch": 1594758661.49094,
+            "last_retested_at_iso": "2020-07-14T20:31:01.490940",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
