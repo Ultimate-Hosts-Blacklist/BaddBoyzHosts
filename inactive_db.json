@@ -304,8 +304,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1594649016.395286,
-            "last_retested_at_iso": "2020-07-13T14:03:36.395286",
+            "last_retested_at_epoch": 1594736151.868822,
+            "last_retested_at_iso": "2020-07-14T14:15:51.868822",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -353,8 +353,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1594644959.107456,
-            "last_retested_at_iso": "2020-07-13T12:55:59.107456",
+            "last_retested_at_epoch": 1594736555.422549,
+            "last_retested_at_iso": "2020-07-14T14:22:35.422549",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -500,8 +500,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1594649145.116852,
-            "last_retested_at_iso": "2020-07-13T14:05:45.116852",
+            "last_retested_at_epoch": 1594736222.075712,
+            "last_retested_at_iso": "2020-07-14T14:17:02.075712",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -836,8 +836,8 @@
         "www.1-800onlinecasino.com": {
             "included_at_epoch": 1588496777.0,
             "included_at_iso": "2020-05-03T09:06:17",
-            "last_retested_at_epoch": 1594649220.276903,
-            "last_retested_at_iso": "2020-07-13T14:07:00.276903",
+            "last_retested_at_epoch": 1594736584.462581,
+            "last_retested_at_iso": "2020-07-14T14:23:04.462581",
             "status": "INACTIVE"
         },
         "www.1-free-share-buttons.com": {
@@ -1305,8 +1305,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1594644846.097195,
-            "last_retested_at_iso": "2020-07-13T12:54:06.097195",
+            "last_retested_at_epoch": 1594736484.089859,
+            "last_retested_at_iso": "2020-07-14T14:21:24.089859",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -1655,8 +1655,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1594635658.294722,
-            "last_retested_at_iso": "2020-07-13T10:20:58.294722",
+            "last_retested_at_epoch": 1594736689.524407,
+            "last_retested_at_iso": "2020-07-14T14:24:49.524407",
             "status": "INACTIVE"
         },
         "www.a2zgroup.in": {
@@ -1732,8 +1732,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1594649016.43007,
-            "last_retested_at_iso": "2020-07-13T14:03:36.430070",
+            "last_retested_at_epoch": 1594736151.870003,
+            "last_retested_at_iso": "2020-07-14T14:15:51.870003",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1837,8 +1837,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1594644959.054741,
-            "last_retested_at_iso": "2020-07-13T12:55:59.054741",
+            "last_retested_at_epoch": 1594736555.391709,
+            "last_retested_at_iso": "2020-07-14T14:22:35.391709",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -2005,8 +2005,8 @@
         "www.alf-img.com": {
             "included_at_epoch": 1588489565.0,
             "included_at_iso": "2020-05-03T07:06:05",
-            "last_retested_at_epoch": 1594649169.166723,
-            "last_retested_at_iso": "2020-07-13T14:06:09.166723",
+            "last_retested_at_epoch": 1594736435.937064,
+            "last_retested_at_iso": "2020-07-14T14:20:35.937064",
             "status": "INACTIVE"
         },
         "www.alfa-img.com": {
@@ -2180,8 +2180,8 @@
         "www.amphorasf.com": {
             "included_at_epoch": 1588519166.0,
             "included_at_iso": "2020-05-03T15:19:26",
-            "last_retested_at_epoch": 1594649145.115754,
-            "last_retested_at_iso": "2020-07-13T14:05:45.115754",
+            "last_retested_at_epoch": 1594736222.107628,
+            "last_retested_at_iso": "2020-07-14T14:17:02.107628",
             "status": "INACTIVE"
         },
         "www.amplitude-peinture.fr": {
