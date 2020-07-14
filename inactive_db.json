@@ -808,8 +808,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1594654375.661647,
-            "last_retested_at_iso": "2020-07-13T15:32:55.661647",
+            "last_retested_at_epoch": 1594745175.414407,
+            "last_retested_at_iso": "2020-07-14T16:46:15.414407",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1473,8 +1473,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1594653765.891801,
-            "last_retested_at_iso": "2020-07-13T15:22:45.891801",
+            "last_retested_at_epoch": 1594745176.503861,
+            "last_retested_at_iso": "2020-07-14T16:46:16.503861",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1942,8 +1942,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1594658531.411336,
-            "last_retested_at_iso": "2020-07-13T16:42:11.411336",
+            "last_retested_at_epoch": 1594745003.849015,
+            "last_retested_at_iso": "2020-07-14T16:43:23.849015",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
