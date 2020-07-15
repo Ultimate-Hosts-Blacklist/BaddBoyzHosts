@@ -206,8 +206,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1594758029.128138,
-            "last_retested_at_iso": "2020-07-14T20:20:29.128138",
+            "last_retested_at_epoch": 1594847143.524097,
+            "last_retested_at_iso": "2020-07-15T21:05:43.524097",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1529,8 +1529,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1594758029.137323,
-            "last_retested_at_iso": "2020-07-14T20:20:29.137323",
+            "last_retested_at_epoch": 1594847143.829547,
+            "last_retested_at_iso": "2020-07-15T21:05:43.829547",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
