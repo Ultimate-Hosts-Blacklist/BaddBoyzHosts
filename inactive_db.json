@@ -1592,8 +1592,8 @@
         "www.87w.info": {
             "included_at_epoch": 1586640956.0,
             "included_at_iso": "2020-04-11T21:35:56",
-            "last_retested_at_epoch": 1586640956.0,
-            "last_retested_at_iso": "2020-04-11T21:35:56",
+            "last_retested_at_epoch": 1594804190.487901,
+            "last_retested_at_iso": "2020-07-15T09:09:50.487901",
             "status": "INACTIVE"
         },
         "www.888-vip.net": {
@@ -1774,8 +1774,8 @@
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
-            "last_retested_at_epoch": 1594705642.772849,
-            "last_retested_at_iso": "2020-07-14T05:47:22.772849",
+            "last_retested_at_epoch": 1594803809.305908,
+            "last_retested_at_iso": "2020-07-15T09:03:29.305908",
             "status": "INACTIVE"
         },
         "www.abahah.com": {
@@ -2516,8 +2516,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1594706086.468186,
-            "last_retested_at_iso": "2020-07-14T05:54:46.468186",
+            "last_retested_at_epoch": 1594803655.794618,
+            "last_retested_at_iso": "2020-07-15T09:00:55.794618",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
