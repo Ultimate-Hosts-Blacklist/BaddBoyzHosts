@@ -528,8 +528,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1594830258.971579,
-            "last_retested_at_iso": "2020-07-15T16:24:18.971579",
+            "last_retested_at_epoch": 1594928730.880873,
+            "last_retested_at_iso": "2020-07-16T19:45:30.880873",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1949,8 +1949,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1594835481.576017,
-            "last_retested_at_iso": "2020-07-15T17:51:21.576017",
+            "last_retested_at_epoch": 1594928686.550233,
+            "last_retested_at_iso": "2020-07-16T19:44:46.550233",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2306,8 +2306,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1594830258.984575,
-            "last_retested_at_iso": "2020-07-15T16:24:18.984575",
+            "last_retested_at_epoch": 1594928730.879742,
+            "last_retested_at_iso": "2020-07-16T19:45:30.879742",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
