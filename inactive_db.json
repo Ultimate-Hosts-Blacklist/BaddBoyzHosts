@@ -304,8 +304,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1594823692.967703,
-            "last_retested_at_iso": "2020-07-15T14:34:52.967703",
+            "last_retested_at_epoch": 1594917424.759315,
+            "last_retested_at_iso": "2020-07-16T16:37:04.759315",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -353,8 +353,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1594824151.805195,
-            "last_retested_at_iso": "2020-07-15T14:42:31.805195",
+            "last_retested_at_epoch": 1594917048.439296,
+            "last_retested_at_iso": "2020-07-16T16:30:48.439296",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -507,8 +507,8 @@
         "amplitude-peinture.fr": {
             "included_at_epoch": 1588509280.0,
             "included_at_iso": "2020-05-03T12:34:40",
-            "last_retested_at_epoch": 1594830051.05179,
-            "last_retested_at_iso": "2020-07-15T16:20:51.051790",
+            "last_retested_at_epoch": 1594917499.478586,
+            "last_retested_at_iso": "2020-07-16T16:38:19.478586",
             "status": "INACTIVE"
         },
         "analsexphoto.yourfreesites.com": {
@@ -983,8 +983,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1594830754.475464,
-            "last_retested_at_iso": "2020-07-15T16:32:34.475464",
+            "last_retested_at_epoch": 1594917482.479021,
+            "last_retested_at_iso": "2020-07-16T16:38:02.479021",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1053,8 +1053,8 @@
         "www.1lesbiansex.com": {
             "included_at_epoch": 1588478473.0,
             "included_at_iso": "2020-05-03T04:01:13",
-            "last_retested_at_epoch": 1594829952.712642,
-            "last_retested_at_iso": "2020-07-15T16:19:12.712642",
+            "last_retested_at_epoch": 1594916987.141446,
+            "last_retested_at_iso": "2020-07-16T16:29:47.141446",
             "status": "INACTIVE"
         },
         "www.1pamm.ru": {
@@ -1291,8 +1291,8 @@
         "www.39bola.com": {
             "included_at_epoch": 1588503134.0,
             "included_at_iso": "2020-05-03T10:52:14",
-            "last_retested_at_epoch": 1594824233.409652,
-            "last_retested_at_iso": "2020-07-15T14:43:53.409652",
+            "last_retested_at_epoch": 1594917287.77843,
+            "last_retested_at_iso": "2020-07-16T16:34:47.778430",
             "status": "INACTIVE"
         },
         "www.3am.info": {
@@ -1312,8 +1312,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1594823621.163991,
-            "last_retested_at_iso": "2020-07-15T14:33:41.163991",
+            "last_retested_at_epoch": 1594917323.048179,
+            "last_retested_at_iso": "2020-07-16T16:35:23.048179",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -1585,8 +1585,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1594830826.368636,
-            "last_retested_at_iso": "2020-07-15T16:33:46.368636",
+            "last_retested_at_epoch": 1594917516.979561,
+            "last_retested_at_iso": "2020-07-16T16:38:36.979561",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -1739,8 +1739,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1594823692.923986,
-            "last_retested_at_iso": "2020-07-15T14:34:52.923986",
+            "last_retested_at_epoch": 1594917424.831826,
+            "last_retested_at_iso": "2020-07-16T16:37:04.831826",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1844,8 +1844,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1594824151.65617,
-            "last_retested_at_iso": "2020-07-15T14:42:31.656170",
+            "last_retested_at_epoch": 1594917048.438301,
+            "last_retested_at_iso": "2020-07-16T16:30:48.438301",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -1858,8 +1858,8 @@
         "www.acads.net": {
             "included_at_epoch": 1588464052.0,
             "included_at_iso": "2020-05-03T00:00:52",
-            "last_retested_at_epoch": 1594823451.571925,
-            "last_retested_at_iso": "2020-07-15T14:30:51.571925",
+            "last_retested_at_epoch": 1594917042.757464,
+            "last_retested_at_iso": "2020-07-16T16:30:42.757464",
             "status": "INACTIVE"
         },
         "www.aciklise.web.tr": {
@@ -1977,8 +1977,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1594823838.349799,
-            "last_retested_at_iso": "2020-07-15T14:37:18.349799",
+            "last_retested_at_epoch": 1594917172.200557,
+            "last_retested_at_iso": "2020-07-16T16:32:52.200557",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -2033,8 +2033,8 @@
         "www.alfalakgifts.com": {
             "included_at_epoch": 1576153844.0,
             "included_at_iso": "2019-12-12T12:30:44",
-            "last_retested_at_epoch": 1594816012.355689,
-            "last_retested_at_iso": "2020-07-15T12:26:52.355689",
+            "last_retested_at_epoch": 1594917081.039394,
+            "last_retested_at_iso": "2020-07-16T16:31:21.039394",
             "status": "INACTIVE"
         },
         "www.algerianembassy.co.in": {
@@ -2194,8 +2194,8 @@
         "www.amplitude-peinture.fr": {
             "included_at_epoch": 1588509281.0,
             "included_at_iso": "2020-05-03T12:34:41",
-            "last_retested_at_epoch": 1594830051.303522,
-            "last_retested_at_iso": "2020-07-15T16:20:51.303522",
+            "last_retested_at_epoch": 1594917499.640497,
+            "last_retested_at_iso": "2020-07-16T16:38:19.640497",
             "status": "INACTIVE"
         },
         "www.ampower.me": {
@@ -2929,8 +2929,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1594823928.310849,
-            "last_retested_at_iso": "2020-07-15T14:38:48.310849",
+            "last_retested_at_epoch": 1594916832.825944,
+            "last_retested_at_iso": "2020-07-16T16:27:12.825944",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
