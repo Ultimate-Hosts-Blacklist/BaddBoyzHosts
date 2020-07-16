@@ -689,8 +689,8 @@
         "gov.yanao.ru": {
             "included_at_epoch": 1591259926.593028,
             "included_at_iso": "2020-06-04T08:38:46.593028",
-            "last_retested_at_epoch": 1591748524.023237,
-            "last_retested_at_iso": "2020-06-10T00:22:04.023237",
+            "last_retested_at_epoch": 1594940269.359165,
+            "last_retested_at_iso": "2020-07-16T22:57:49.359165",
             "status": "INACTIVE"
         },
         "graffcolor.net": {
@@ -1564,8 +1564,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1594852725.406801,
-            "last_retested_at_iso": "2020-07-15T22:38:45.406801",
+            "last_retested_at_epoch": 1594940004.04536,
+            "last_retested_at_iso": "2020-07-16T22:53:24.045360",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -2446,8 +2446,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1594852876.265806,
-            "last_retested_at_iso": "2020-07-15T22:41:16.265806",
+            "last_retested_at_epoch": 1594940297.901266,
+            "last_retested_at_iso": "2020-07-16T22:58:17.901266",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
