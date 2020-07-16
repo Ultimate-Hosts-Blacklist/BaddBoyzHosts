@@ -52,8 +52,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1594797703.200711,
-            "last_retested_at_iso": "2020-07-15T07:21:43.200711",
+            "last_retested_at_epoch": 1594888543.24254,
+            "last_retested_at_iso": "2020-07-16T08:35:43.242540",
             "status": "INACTIVE"
         },
         "1000bannerx.free.fr": {
@@ -213,8 +213,8 @@
         "6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1594787312.02502,
-            "last_retested_at_iso": "2020-07-15T04:28:32.025020",
+            "last_retested_at_epoch": 1594887841.784742,
+            "last_retested_at_iso": "2020-07-16T08:24:01.784742",
             "status": "INACTIVE"
         },
         "7cfmnf.top": {
@@ -290,8 +290,8 @@
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588493262.0,
             "included_at_iso": "2020-05-03T08:07:42",
-            "last_retested_at_epoch": 1594797837.787765,
-            "last_retested_at_iso": "2020-07-15T07:23:57.787765",
+            "last_retested_at_epoch": 1594887968.19992,
+            "last_retested_at_iso": "2020-07-16T08:26:08.199920",
             "status": "INACTIVE"
         },
         "aa9d046aab36af4ff182f097f840430d51.com": {
@@ -430,8 +430,8 @@
         "allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1594797455.636849,
-            "last_retested_at_iso": "2020-07-15T07:17:35.636849",
+            "last_retested_at_epoch": 1594887815.170537,
+            "last_retested_at_iso": "2020-07-16T08:23:35.170537",
             "status": "INACTIVE"
         },
         "allboard.xobor.de": {
@@ -836,8 +836,8 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1594797703.28605,
-            "last_retested_at_iso": "2020-07-15T07:21:43.286050",
+            "last_retested_at_epoch": 1594888543.241555,
+            "last_retested_at_iso": "2020-07-16T08:35:43.241555",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
@@ -955,8 +955,8 @@
         "www.1337crew.info": {
             "included_at_epoch": 1587276713.0,
             "included_at_iso": "2020-04-19T06:11:53",
-            "last_retested_at_epoch": 1594797590.16762,
-            "last_retested_at_iso": "2020-07-15T07:19:50.167620",
+            "last_retested_at_epoch": 1594888091.437907,
+            "last_retested_at_iso": "2020-07-16T08:28:11.437907",
             "status": "INACTIVE"
         },
         "www.138shenbosbo.com": {
@@ -1235,8 +1235,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1594786904.665365,
-            "last_retested_at_iso": "2020-07-15T04:21:44.665365",
+            "last_retested_at_epoch": 1594887863.678788,
+            "last_retested_at_iso": "2020-07-16T08:24:23.678788",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1536,15 +1536,15 @@
         "www.69tubex.com": {
             "included_at_epoch": 1588440625.0,
             "included_at_iso": "2020-05-02T17:30:25",
-            "last_retested_at_epoch": 1594798039.754889,
-            "last_retested_at_iso": "2020-07-15T07:27:19.754889",
+            "last_retested_at_epoch": 1594888135.378403,
+            "last_retested_at_iso": "2020-07-16T08:28:55.378403",
             "status": "INACTIVE"
         },
         "www.6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1594787312.084479,
-            "last_retested_at_iso": "2020-07-15T04:28:32.084479",
+            "last_retested_at_epoch": 1594887841.8284,
+            "last_retested_at_iso": "2020-07-16T08:24:01.828400",
             "status": "INACTIVE"
         },
         "www.6server.com": {
@@ -1725,8 +1725,8 @@
         "www.aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588464287.0,
             "included_at_iso": "2020-05-03T00:04:47",
-            "last_retested_at_epoch": 1594797837.698235,
-            "last_retested_at_iso": "2020-07-15T07:23:57.698235",
+            "last_retested_at_epoch": 1594887968.022348,
+            "last_retested_at_iso": "2020-07-16T08:26:08.022348",
             "status": "INACTIVE"
         },
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
@@ -2068,8 +2068,8 @@
         "www.allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1594797455.68263,
-            "last_retested_at_iso": "2020-07-15T07:17:35.682630",
+            "last_retested_at_epoch": 1594887815.080732,
+            "last_retested_at_iso": "2020-07-16T08:23:35.080732",
             "status": "INACTIVE"
         },
         "www.allamericanmadetoys.com": {
@@ -2719,8 +2719,8 @@
         "www.hugoparisescort.com": {
             "included_at_epoch": 1588490033.0,
             "included_at_iso": "2020-05-03T07:13:53",
-            "last_retested_at_epoch": 1594797904.458488,
-            "last_retested_at_iso": "2020-07-15T07:25:04.458488",
+            "last_retested_at_epoch": 1594888083.838653,
+            "last_retested_at_iso": "2020-07-16T08:28:03.838653",
             "status": "INACTIVE"
         },
         "www.humanelydrew.com": {
