@@ -220,8 +220,8 @@
         "7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1594870602.199736,
-            "last_retested_at_iso": "2020-07-16T03:36:42.199736",
+            "last_retested_at_epoch": 1594957981.781026,
+            "last_retested_at_iso": "2020-07-17T03:53:01.781026",
             "status": "INACTIVE"
         },
         "86d6.com": {
@@ -556,8 +556,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1594870811.552415,
-            "last_retested_at_iso": "2020-07-16T03:40:11.552415",
+            "last_retested_at_epoch": 1594957797.865517,
+            "last_retested_at_iso": "2020-07-17T03:49:57.865517",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1123,8 +1123,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1594870652.938608,
-            "last_retested_at_iso": "2020-07-16T03:37:32.938608",
+            "last_retested_at_epoch": 1594957907.41452,
+            "last_retested_at_iso": "2020-07-17T03:51:47.414520",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1571,8 +1571,8 @@
         "www.7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1594870601.938201,
-            "last_retested_at_iso": "2020-07-16T03:36:41.938201",
+            "last_retested_at_epoch": 1594957981.847986,
+            "last_retested_at_iso": "2020-07-17T03:53:01.847986",
             "status": "INACTIVE"
         },
         "www.7gfs.com": {
@@ -2355,8 +2355,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1594870811.505912,
-            "last_retested_at_iso": "2020-07-16T03:40:11.505912",
+            "last_retested_at_epoch": 1594957792.868399,
+            "last_retested_at_iso": "2020-07-17T03:49:52.868399",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2642,8 +2642,8 @@
         "www.go-gal.com": {
             "included_at_epoch": 1591778538.239985,
             "included_at_iso": "2020-06-10T08:42:18.239985",
-            "last_retested_at_epoch": 1594870637.706415,
-            "last_retested_at_iso": "2020-07-16T03:37:17.706415",
+            "last_retested_at_epoch": 1594957943.099802,
+            "last_retested_at_iso": "2020-07-17T03:52:23.099802",
             "status": "INACTIVE"
         },
         "www.go.biz": {
