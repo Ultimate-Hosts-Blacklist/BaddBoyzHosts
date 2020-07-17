@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-07-17T10:09:07.021057",
             "status": "INACTIVE"
         },
+        "0q2.sitey.me": {
+            "included_at_epoch": 1595020384.298928,
+            "included_at_iso": "2020-07-17T21:13:04.298928",
+            "last_retested_at_epoch": 1595020384.298928,
+            "last_retested_at_iso": "2020-07-17T21:13:04.298928",
+            "status": "INACTIVE"
+        },
         "1000bannerx.free.fr": {
             "included_at_epoch": 1588344836.0,
             "included_at_iso": "2020-05-01T14:53:56",
@@ -353,8 +360,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1594917048.439296,
-            "last_retested_at_iso": "2020-07-16T16:30:48.439296",
+            "last_retested_at_epoch": 1595019858.980925,
+            "last_retested_at_iso": "2020-07-17T21:04:18.980925",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -528,8 +535,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1594928730.880873,
-            "last_retested_at_iso": "2020-07-16T19:45:30.880873",
+            "last_retested_at_epoch": 1595019892.631045,
+            "last_retested_at_iso": "2020-07-17T21:04:52.631045",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -775,6 +782,13 @@
             "included_at_iso": "2020-05-03T06:06:26",
             "last_retested_at_epoch": 1594987135.94202,
             "last_retested_at_iso": "2020-07-17T11:58:55.942020",
+            "status": "INACTIVE"
+        },
+        "www.00webcams.com": {
+            "included_at_epoch": 1595020419.359637,
+            "included_at_iso": "2020-07-17T21:13:39.359637",
+            "last_retested_at_epoch": 1595020419.359637,
+            "last_retested_at_iso": "2020-07-17T21:13:39.359637",
             "status": "INACTIVE"
         },
         "www.01-sex-amateur.info": {
@@ -1344,6 +1358,13 @@
             "last_retested_at_iso": "2020-04-02T11:22:17",
             "status": "INACTIVE"
         },
+        "www.3dviolet.com": {
+            "included_at_epoch": 1595020349.239606,
+            "included_at_iso": "2020-07-17T21:12:29.239606",
+            "last_retested_at_epoch": 1595020349.239606,
+            "last_retested_at_iso": "2020-07-17T21:12:29.239606",
+            "status": "INACTIVE"
+        },
         "www.3henterprise.com": {
             "included_at_epoch": 1591908765.567666,
             "included_at_iso": "2020-06-11T20:52:45.567666",
@@ -1771,6 +1792,13 @@
             "last_retested_at_iso": "2020-07-17T14:58:05.869270",
             "status": "INACTIVE"
         },
+        "www.aadultwork.com": {
+            "included_at_epoch": 1595020454.416365,
+            "included_at_iso": "2020-07-17T21:14:14.416365",
+            "last_retested_at_epoch": 1595020454.416365,
+            "last_retested_at_iso": "2020-07-17T21:14:14.416365",
+            "status": "INACTIVE"
+        },
         "www.aapz.com": {
             "included_at_epoch": 1586309873.0,
             "included_at_iso": "2020-04-08T01:37:53",
@@ -1858,8 +1886,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1594917048.438301,
-            "last_retested_at_iso": "2020-07-16T16:30:48.438301",
+            "last_retested_at_epoch": 1595019859.063674,
+            "last_retested_at_iso": "2020-07-17T21:04:19.063674",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -1963,8 +1991,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1594928686.550233,
-            "last_retested_at_iso": "2020-07-16T19:44:46.550233",
+            "last_retested_at_epoch": 1595019872.628519,
+            "last_retested_at_iso": "2020-07-17T21:04:32.628519",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2327,8 +2355,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1594928730.879742,
-            "last_retested_at_iso": "2020-07-16T19:45:30.879742",
+            "last_retested_at_epoch": 1595019892.521042,
+            "last_retested_at_iso": "2020-07-17T21:04:52.521042",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
@@ -2726,8 +2754,8 @@
         "www.greatlakessurveillance.com": {
             "included_at_epoch": 1594835656.478499,
             "included_at_iso": "2020-07-15T17:54:16.478499",
-            "last_retested_at_epoch": 1594835656.478499,
-            "last_retested_at_iso": "2020-07-15T17:54:16.478499",
+            "last_retested_at_epoch": 1595020314.170526,
+            "last_retested_at_iso": "2020-07-17T21:11:54.170526",
             "status": "INACTIVE"
         },
         "www.hmuana.com": {
