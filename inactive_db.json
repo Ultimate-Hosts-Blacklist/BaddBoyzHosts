@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595014101.693449,
-            "last_retested_at_iso": "2020-07-17T19:28:21.693449",
+            "last_retested_at_epoch": 1595110825.826338,
+            "last_retested_at_iso": "2020-07-18T22:20:25.826338",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -535,8 +535,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595019892.631045,
-            "last_retested_at_iso": "2020-07-17T21:04:52.631045",
+            "last_retested_at_epoch": 1595110686.77129,
+            "last_retested_at_iso": "2020-07-18T22:18:06.771290",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1774,8 +1774,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595014101.692495,
-            "last_retested_at_iso": "2020-07-17T19:28:21.692495",
+            "last_retested_at_epoch": 1595110825.825293,
+            "last_retested_at_iso": "2020-07-18T22:20:25.825293",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1991,8 +1991,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1595019872.628519,
-            "last_retested_at_iso": "2020-07-17T21:04:32.628519",
+            "last_retested_at_epoch": 1595110584.812119,
+            "last_retested_at_iso": "2020-07-18T22:16:24.812119",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2355,8 +2355,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595019892.521042,
-            "last_retested_at_iso": "2020-07-17T21:04:52.521042",
+            "last_retested_at_epoch": 1595110686.618243,
+            "last_retested_at_iso": "2020-07-18T22:18:06.618243",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
