@@ -752,8 +752,8 @@
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1595003585.276728,
-            "last_retested_at_iso": "2020-07-17T16:33:05.276728",
+            "last_retested_at_epoch": 1595094086.481568,
+            "last_retested_at_iso": "2020-07-18T17:41:26.481568",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -1711,8 +1711,8 @@
         "www.a48.info": {
             "included_at_epoch": 1588760499.065523,
             "included_at_iso": "2020-05-06T10:21:39.065523",
-            "last_retested_at_epoch": 1595003279.027819,
-            "last_retested_at_iso": "2020-07-17T16:27:59.027819",
+            "last_retested_at_epoch": 1595094166.884944,
+            "last_retested_at_iso": "2020-07-18T17:42:46.884944",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -1900,8 +1900,8 @@
         "www.acads.net": {
             "included_at_epoch": 1588464052.0,
             "included_at_iso": "2020-05-03T00:00:52",
-            "last_retested_at_epoch": 1595003552.47302,
-            "last_retested_at_iso": "2020-07-17T16:32:32.473020",
+            "last_retested_at_epoch": 1595093975.741462,
+            "last_retested_at_iso": "2020-07-18T17:39:35.741462",
             "status": "INACTIVE"
         },
         "www.aciklise.web.tr": {
@@ -2040,8 +2040,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1595003560.680265,
-            "last_retested_at_iso": "2020-07-17T16:32:40.680265",
+            "last_retested_at_epoch": 1595093514.151929,
+            "last_retested_at_iso": "2020-07-18T17:31:54.151929",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -2978,8 +2978,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1595003585.292395,
-            "last_retested_at_iso": "2020-07-17T16:33:05.292395",
+            "last_retested_at_epoch": 1595094086.482531,
+            "last_retested_at_iso": "2020-07-18T17:41:26.482531",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
@@ -3006,8 +3006,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1595003703.979685,
-            "last_retested_at_iso": "2020-07-17T16:35:03.979685",
+            "last_retested_at_epoch": 1595093554.121069,
+            "last_retested_at_iso": "2020-07-18T17:32:34.121069",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
