@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1594974320.866414,
-            "last_retested_at_iso": "2020-07-17T08:25:20.866414",
+            "last_retested_at_epoch": 1595060886.44909,
+            "last_retested_at_iso": "2020-07-18T08:28:06.449090",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -801,8 +801,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1594974321.216348,
-            "last_retested_at_iso": "2020-07-17T08:25:21.216348",
+            "last_retested_at_epoch": 1595060886.448149,
+            "last_retested_at_iso": "2020-07-18T08:28:06.448149",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -2551,8 +2551,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1594974237.201506,
-            "last_retested_at_iso": "2020-07-17T08:23:57.201506",
+            "last_retested_at_epoch": 1595060771.168219,
+            "last_retested_at_iso": "2020-07-18T08:26:11.168219",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
