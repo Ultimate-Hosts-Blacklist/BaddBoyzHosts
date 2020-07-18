@@ -2157,7 +2157,7 @@
     "android-systems.ru": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "anduongjsc.com": {
         "epoch": 1617321600.0,
@@ -2305,8 +2305,8 @@
         "state": "past"
     },
     "babylyst.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "babywantsbling.com": {
@@ -2420,8 +2420,8 @@
         "state": "future"
     },
     "cineface.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "cinema3satu.com": {
