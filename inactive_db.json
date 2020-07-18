@@ -1263,8 +1263,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1594974405.018656,
-            "last_retested_at_iso": "2020-07-17T08:26:45.018656",
+            "last_retested_at_epoch": 1595065666.315346,
+            "last_retested_at_iso": "2020-07-18T09:47:46.315346",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1291,22 +1291,22 @@
         "www.300sk.com": {
             "included_at_epoch": 1588518694.0,
             "included_at_iso": "2020-05-03T15:11:34",
-            "last_retested_at_epoch": 1594974101.544785,
-            "last_retested_at_iso": "2020-07-17T08:21:41.544785",
+            "last_retested_at_epoch": 1595066015.692592,
+            "last_retested_at_iso": "2020-07-18T09:53:35.692592",
             "status": "INACTIVE"
         },
         "www.31seconds.net": {
             "included_at_epoch": 1588449467.0,
             "included_at_iso": "2020-05-02T19:57:47",
-            "last_retested_at_epoch": 1594969125.016597,
-            "last_retested_at_iso": "2020-07-17T06:58:45.016597",
+            "last_retested_at_epoch": 1595065747.00715,
+            "last_retested_at_iso": "2020-07-18T09:49:07.007150",
             "status": "INACTIVE"
         },
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1594974117.718428,
-            "last_retested_at_iso": "2020-07-17T08:21:57.718428",
+            "last_retested_at_epoch": 1595065498.065388,
+            "last_retested_at_iso": "2020-07-18T09:44:58.065388",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
