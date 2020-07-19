@@ -52,8 +52,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1595069995.646122,
-            "last_retested_at_iso": "2020-07-18T10:59:55.646122",
+            "last_retested_at_epoch": 1595161443.703625,
+            "last_retested_at_iso": "2020-07-19T12:24:03.703625",
             "status": "INACTIVE"
         },
         "0q2.sitey.me": {
@@ -220,8 +220,8 @@
         "6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1595070547.591255,
-            "last_retested_at_iso": "2020-07-18T11:09:07.591255",
+            "last_retested_at_epoch": 1595162208.311699,
+            "last_retested_at_iso": "2020-07-19T12:36:48.311699",
             "status": "INACTIVE"
         },
         "7cfmnf.top": {
@@ -297,8 +297,8 @@
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588493262.0,
             "included_at_iso": "2020-05-03T08:07:42",
-            "last_retested_at_epoch": 1595069957.465992,
-            "last_retested_at_iso": "2020-07-18T10:59:17.465992",
+            "last_retested_at_epoch": 1595162297.929447,
+            "last_retested_at_iso": "2020-07-19T12:38:17.929447",
             "status": "INACTIVE"
         },
         "aa9d046aab36af4ff182f097f840430d51.com": {
@@ -864,8 +864,8 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1595069995.705826,
-            "last_retested_at_iso": "2020-07-18T10:59:55.705826",
+            "last_retested_at_epoch": 1595161443.702585,
+            "last_retested_at_iso": "2020-07-19T12:24:03.702585",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
@@ -1487,8 +1487,8 @@
         "www.511a.cn": {
             "included_at_epoch": 1589502234.52841,
             "included_at_iso": "2020-05-15T00:23:54.528410",
-            "last_retested_at_epoch": 1595070464.448718,
-            "last_retested_at_iso": "2020-07-18T11:07:44.448718",
+            "last_retested_at_epoch": 1595161879.069798,
+            "last_retested_at_iso": "2020-07-19T12:31:19.069798",
             "status": "INACTIVE"
         },
         "www.52djcy.com": {
@@ -1571,15 +1571,15 @@
         "www.69tubex.com": {
             "included_at_epoch": 1588440625.0,
             "included_at_iso": "2020-05-02T17:30:25",
-            "last_retested_at_epoch": 1595070302.186231,
-            "last_retested_at_iso": "2020-07-18T11:05:02.186231",
+            "last_retested_at_epoch": 1595162205.571343,
+            "last_retested_at_iso": "2020-07-19T12:36:45.571343",
             "status": "INACTIVE"
         },
         "www.6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1595070547.701593,
-            "last_retested_at_iso": "2020-07-18T11:09:07.701593",
+            "last_retested_at_epoch": 1595162208.387384,
+            "last_retested_at_iso": "2020-07-19T12:36:48.387384",
             "status": "INACTIVE"
         },
         "www.6server.com": {
@@ -1634,8 +1634,8 @@
         "www.87w.info": {
             "included_at_epoch": 1586640956.0,
             "included_at_iso": "2020-04-11T21:35:56",
-            "last_retested_at_epoch": 1595069903.381196,
-            "last_retested_at_iso": "2020-07-18T10:58:23.381196",
+            "last_retested_at_epoch": 1595161575.033896,
+            "last_retested_at_iso": "2020-07-19T12:26:15.033896",
             "status": "INACTIVE"
         },
         "www.888-vip.net": {
@@ -1760,8 +1760,8 @@
         "www.aa9bd78f328a6a41279d0fad0a88df1901.com": {
             "included_at_epoch": 1588464287.0,
             "included_at_iso": "2020-05-03T00:04:47",
-            "last_retested_at_epoch": 1595069957.579834,
-            "last_retested_at_iso": "2020-07-18T10:59:17.579834",
+            "last_retested_at_epoch": 1595162297.978538,
+            "last_retested_at_iso": "2020-07-19T12:38:17.978538",
             "status": "INACTIVE"
         },
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
@@ -1823,8 +1823,8 @@
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
-            "last_retested_at_epoch": 1595069834.824863,
-            "last_retested_at_iso": "2020-07-18T10:57:14.824863",
+            "last_retested_at_epoch": 1595162034.024388,
+            "last_retested_at_iso": "2020-07-19T12:33:54.024388",
             "status": "INACTIVE"
         },
         "www.abahah.com": {
@@ -2292,8 +2292,8 @@
         "www.andrewrobertsllc.info": {
             "included_at_epoch": 1588509262.0,
             "included_at_iso": "2020-05-03T12:34:22",
-            "last_retested_at_epoch": 1595069886.641295,
-            "last_retested_at_iso": "2020-07-18T10:58:06.641295",
+            "last_retested_at_epoch": 1595162282.25976,
+            "last_retested_at_iso": "2020-07-19T12:38:02.259760",
             "status": "INACTIVE"
         },
         "www.android-style.com": {
@@ -2586,8 +2586,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1595070560.133664,
-            "last_retested_at_iso": "2020-07-18T11:09:20.133664",
+            "last_retested_at_epoch": 1595161444.123994,
+            "last_retested_at_iso": "2020-07-19T12:24:04.123994",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
