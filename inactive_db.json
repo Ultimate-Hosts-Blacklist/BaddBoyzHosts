@@ -1263,8 +1263,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1595065666.315346,
-            "last_retested_at_iso": "2020-07-18T09:47:46.315346",
+            "last_retested_at_epoch": 1595155166.386859,
+            "last_retested_at_iso": "2020-07-19T10:39:26.386859",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1291,22 +1291,22 @@
         "www.300sk.com": {
             "included_at_epoch": 1588518694.0,
             "included_at_iso": "2020-05-03T15:11:34",
-            "last_retested_at_epoch": 1595066015.692592,
-            "last_retested_at_iso": "2020-07-18T09:53:35.692592",
+            "last_retested_at_epoch": 1595155468.322697,
+            "last_retested_at_iso": "2020-07-19T10:44:28.322697",
             "status": "INACTIVE"
         },
         "www.31seconds.net": {
             "included_at_epoch": 1588449467.0,
             "included_at_iso": "2020-05-02T19:57:47",
-            "last_retested_at_epoch": 1595065747.00715,
-            "last_retested_at_iso": "2020-07-18T09:49:07.007150",
+            "last_retested_at_epoch": 1595155450.33069,
+            "last_retested_at_iso": "2020-07-19T10:44:10.330690",
             "status": "INACTIVE"
         },
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1595065498.065388,
-            "last_retested_at_iso": "2020-07-18T09:44:58.065388",
+            "last_retested_at_epoch": 1595155280.80036,
+            "last_retested_at_iso": "2020-07-19T10:41:20.800360",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -2523,8 +2523,8 @@
         "www.companycreators.co.uk": {
             "included_at_epoch": 1590678143.487618,
             "included_at_iso": "2020-05-28T15:02:23.487618",
-            "last_retested_at_epoch": 1595056220.084068,
-            "last_retested_at_iso": "2020-07-18T07:10:20.084068",
+            "last_retested_at_epoch": 1595154776.228918,
+            "last_retested_at_iso": "2020-07-19T10:32:56.228918",
             "status": "INACTIVE"
         },
         "www.constructionskills.in": {
