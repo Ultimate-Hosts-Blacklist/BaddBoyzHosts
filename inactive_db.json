@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595110825.826338,
-            "last_retested_at_iso": "2020-07-18T22:20:25.826338",
+            "last_retested_at_epoch": 1595204349.926268,
+            "last_retested_at_iso": "2020-07-20T00:19:09.926268",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1599,8 +1599,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1595115748.91248,
-            "last_retested_at_iso": "2020-07-18T23:42:28.912480",
+            "last_retested_at_epoch": 1595204417.467625,
+            "last_retested_at_iso": "2020-07-20T00:20:17.467625",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -1774,8 +1774,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595110825.825293,
-            "last_retested_at_iso": "2020-07-18T22:20:25.825293",
+            "last_retested_at_epoch": 1595204349.927435,
+            "last_retested_at_iso": "2020-07-20T00:19:09.927435",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -2873,8 +2873,8 @@
         "www.hymen-defloration.info": {
             "included_at_epoch": 1588464031.0,
             "included_at_iso": "2020-05-03T00:00:31",
-            "last_retested_at_epoch": 1595115558.189498,
-            "last_retested_at_iso": "2020-07-18T23:39:18.189498",
+            "last_retested_at_epoch": 1595204374.406891,
+            "last_retested_at_iso": "2020-07-20T00:19:34.406891",
             "status": "INACTIVE"
         },
         "www.hympsvtktvtm.biz": {
