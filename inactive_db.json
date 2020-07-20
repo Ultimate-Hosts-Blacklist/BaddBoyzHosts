@@ -2243,8 +2243,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1595119931.384937,
-            "last_retested_at_iso": "2020-07-19T00:52:11.384937",
+            "last_retested_at_epoch": 1595215821.832623,
+            "last_retested_at_iso": "2020-07-20T03:30:21.832623",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
