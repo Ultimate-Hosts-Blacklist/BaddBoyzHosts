@@ -752,8 +752,8 @@
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1595182458.040877,
-            "last_retested_at_iso": "2020-07-19T18:14:18.040877",
+            "last_retested_at_epoch": 1595270048.389669,
+            "last_retested_at_iso": "2020-07-20T18:34:08.389669",
             "status": "INACTIVE"
         },
         "slowmac.tech": {
@@ -1697,8 +1697,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1595178275.796028,
-            "last_retested_at_iso": "2020-07-19T17:04:35.796028",
+            "last_retested_at_epoch": 1595270150.180368,
+            "last_retested_at_iso": "2020-07-20T18:35:50.180368",
             "status": "INACTIVE"
         },
         "www.a2zgroup.in": {
@@ -1711,8 +1711,8 @@
         "www.a48.info": {
             "included_at_epoch": 1588760499.065523,
             "included_at_iso": "2020-05-06T10:21:39.065523",
-            "last_retested_at_epoch": 1595182797.164652,
-            "last_retested_at_iso": "2020-07-19T18:19:57.164652",
+            "last_retested_at_epoch": 1595269718.120023,
+            "last_retested_at_iso": "2020-07-20T18:28:38.120023",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -2040,8 +2040,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1595182770.680682,
-            "last_retested_at_iso": "2020-07-19T18:19:30.680682",
+            "last_retested_at_epoch": 1595270019.226571,
+            "last_retested_at_iso": "2020-07-20T18:33:39.226571",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -2117,8 +2117,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1595182437.552111,
-            "last_retested_at_iso": "2020-07-19T18:13:57.552111",
+            "last_retested_at_epoch": 1595270392.271518,
+            "last_retested_at_iso": "2020-07-20T18:39:52.271518",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
@@ -2978,8 +2978,8 @@
         "www.keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
-            "last_retested_at_epoch": 1595182458.03978,
-            "last_retested_at_iso": "2020-07-19T18:14:18.039780",
+            "last_retested_at_epoch": 1595270048.378247,
+            "last_retested_at_iso": "2020-07-20T18:34:08.378247",
             "status": "INACTIVE"
         },
         "www.kiwi237au.tk": {
@@ -3006,8 +3006,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1595182944.84401,
-            "last_retested_at_iso": "2020-07-19T18:22:24.844010",
+            "last_retested_at_epoch": 1595270319.664392,
+            "last_retested_at_iso": "2020-07-20T18:38:39.664392",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
