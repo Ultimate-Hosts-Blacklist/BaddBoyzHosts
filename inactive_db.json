@@ -213,8 +213,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595120581.783759,
-            "last_retested_at_iso": "2020-07-19T01:03:01.783759",
+            "last_retested_at_epoch": 1595209598.060582,
+            "last_retested_at_iso": "2020-07-20T01:46:38.060582",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1564,8 +1564,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595120581.782859,
-            "last_retested_at_iso": "2020-07-19T01:03:01.782859",
+            "last_retested_at_epoch": 1595209598.059754,
+            "last_retested_at_iso": "2020-07-20T01:46:38.059754",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -2502,8 +2502,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1595120231.626949,
-            "last_retested_at_iso": "2020-07-19T00:57:11.626949",
+            "last_retested_at_epoch": 1595209478.690974,
+            "last_retested_at_iso": "2020-07-20T01:44:38.690974",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
