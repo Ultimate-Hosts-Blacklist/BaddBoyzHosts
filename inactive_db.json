@@ -143,8 +143,8 @@
         "2cam.nl": {
             "included_at_epoch": 1588299202.0,
             "included_at_iso": "2020-05-01T02:13:22",
-            "last_retested_at_epoch": 1594610107.139306,
-            "last_retested_at_iso": "2020-07-13T03:15:07.139306",
+            "last_retested_at_epoch": 1595297790.770518,
+            "last_retested_at_iso": "2020-07-21T02:16:30.770518",
             "status": "INACTIVE"
         },
         "2o34.com": {
@@ -213,8 +213,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595209598.060582,
-            "last_retested_at_iso": "2020-07-20T01:46:38.060582",
+            "last_retested_at_epoch": 1595297710.319599,
+            "last_retested_at_iso": "2020-07-21T02:15:10.319599",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1207,8 +1207,8 @@
         "www.2cam.nl": {
             "included_at_epoch": 1588212823.0,
             "included_at_iso": "2020-04-30T02:13:43",
-            "last_retested_at_epoch": 1594952002.754528,
-            "last_retested_at_iso": "2020-07-17T02:13:22.754528",
+            "last_retested_at_epoch": 1595297789.842727,
+            "last_retested_at_iso": "2020-07-21T02:16:29.842727",
             "status": "INACTIVE"
         },
         "www.2daytrendingnews.com": {
@@ -1564,8 +1564,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595209598.059754,
-            "last_retested_at_iso": "2020-07-20T01:46:38.059754",
+            "last_retested_at_epoch": 1595297710.311554,
+            "last_retested_at_iso": "2020-07-21T02:15:10.311554",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -2502,8 +2502,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1595209478.690974,
-            "last_retested_at_iso": "2020-07-20T01:44:38.690974",
+            "last_retested_at_epoch": 1595297548.547268,
+            "last_retested_at_iso": "2020-07-21T02:12:28.547268",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
