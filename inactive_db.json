@@ -227,8 +227,8 @@
         "7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1595226417.75956,
-            "last_retested_at_iso": "2020-07-20T06:26:57.759560",
+            "last_retested_at_epoch": 1595315787.32449,
+            "last_retested_at_iso": "2020-07-21T07:16:27.324490",
             "status": "INACTIVE"
         },
         "86d6.com": {
@@ -1606,8 +1606,8 @@
         "www.7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1595226417.110371,
-            "last_retested_at_iso": "2020-07-20T06:26:57.110371",
+            "last_retested_at_epoch": 1595315788.562707,
+            "last_retested_at_iso": "2020-07-21T07:16:28.562707",
             "status": "INACTIVE"
         },
         "www.7gfs.com": {
@@ -2712,8 +2712,8 @@
         "www.go-gal.com": {
             "included_at_epoch": 1591778538.239985,
             "included_at_iso": "2020-06-10T08:42:18.239985",
-            "last_retested_at_epoch": 1595225619.456655,
-            "last_retested_at_iso": "2020-07-20T06:13:39.456655",
+            "last_retested_at_epoch": 1595316344.832147,
+            "last_retested_at_iso": "2020-07-21T07:25:44.832147",
             "status": "INACTIVE"
         },
         "www.go.biz": {
