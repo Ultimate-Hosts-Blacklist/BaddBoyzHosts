@@ -290,8 +290,8 @@
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
             "included_at_epoch": 1588474015.0,
             "included_at_iso": "2020-05-03T02:46:55",
-            "last_retested_at_epoch": 1595363207.7126,
-            "last_retested_at_iso": "2020-07-21T20:26:47.712600",
+            "last_retested_at_epoch": 1595453989.054776,
+            "last_retested_at_iso": "2020-07-22T21:39:49.054776",
             "status": "INACTIVE"
         },
         "aa9bd78f328a6a41279d0fad0a88df1901.com": {
@@ -437,8 +437,8 @@
         "allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1595363116.112431,
-            "last_retested_at_iso": "2020-07-21T20:25:16.112431",
+            "last_retested_at_epoch": 1595454038.420528,
+            "last_retested_at_iso": "2020-07-22T21:40:38.420528",
             "status": "INACTIVE"
         },
         "allboard.xobor.de": {
@@ -507,8 +507,8 @@
         "amphorasf.com": {
             "included_at_epoch": 1588500258.0,
             "included_at_iso": "2020-05-03T10:04:18",
-            "last_retested_at_epoch": 1595351446.974495,
-            "last_retested_at_iso": "2020-07-21T17:10:46.974495",
+            "last_retested_at_epoch": 1595453743.370857,
+            "last_retested_at_iso": "2020-07-22T21:35:43.370857",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {
@@ -1466,8 +1466,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1595362732.994619,
-            "last_retested_at_iso": "2020-07-21T20:18:52.994619",
+            "last_retested_at_epoch": 1595454215.065306,
+            "last_retested_at_iso": "2020-07-22T21:43:35.065306",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -1704,8 +1704,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1595357532.439622,
-            "last_retested_at_iso": "2020-07-21T18:52:12.439622",
+            "last_retested_at_epoch": 1595453988.685406,
+            "last_retested_at_iso": "2020-07-22T21:39:48.685406",
             "status": "INACTIVE"
         },
         "www.a2zgroup.in": {
@@ -1718,8 +1718,8 @@
         "www.a48.info": {
             "included_at_epoch": 1588760499.065523,
             "included_at_iso": "2020-05-06T10:21:39.065523",
-            "last_retested_at_epoch": 1595356883.288797,
-            "last_retested_at_iso": "2020-07-21T18:41:23.288797",
+            "last_retested_at_epoch": 1595454182.777253,
+            "last_retested_at_iso": "2020-07-22T21:43:02.777253",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -1753,8 +1753,8 @@
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
             "included_at_epoch": 1588474015.0,
             "included_at_iso": "2020-05-03T02:46:55",
-            "last_retested_at_epoch": 1595363207.711784,
-            "last_retested_at_iso": "2020-07-21T20:26:47.711784",
+            "last_retested_at_epoch": 1595453989.164645,
+            "last_retested_at_iso": "2020-07-22T21:39:49.164645",
             "status": "INACTIVE"
         },
         "www.aa81bf391151884adfa3dd677e41f94be1.com": {
@@ -2047,8 +2047,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1595363424.207017,
-            "last_retested_at_iso": "2020-07-21T20:30:24.207017",
+            "last_retested_at_epoch": 1595454153.84328,
+            "last_retested_at_iso": "2020-07-22T21:42:33.843280",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -2117,8 +2117,8 @@
         "www.allaboutxxx.com": {
             "included_at_epoch": 1588496604.0,
             "included_at_iso": "2020-05-03T09:03:24",
-            "last_retested_at_epoch": 1595363116.016712,
-            "last_retested_at_iso": "2020-07-21T20:25:16.016712",
+            "last_retested_at_epoch": 1595454038.618242,
+            "last_retested_at_iso": "2020-07-22T21:40:38.618242",
             "status": "INACTIVE"
         },
         "www.allamericanmadetoys.com": {
@@ -2236,8 +2236,8 @@
         "www.amphorasf.com": {
             "included_at_epoch": 1588519166.0,
             "included_at_iso": "2020-05-03T15:19:26",
-            "last_retested_at_epoch": 1595351447.00038,
-            "last_retested_at_iso": "2020-07-21T17:10:47.000380",
+            "last_retested_at_epoch": 1595453743.463791,
+            "last_retested_at_iso": "2020-07-22T21:35:43.463791",
             "status": "INACTIVE"
         },
         "www.amplitude-peinture.fr": {
@@ -2425,8 +2425,8 @@
         "www.bacanal.cl": {
             "included_at_epoch": 1588459170.0,
             "included_at_iso": "2020-05-02T22:39:30",
-            "last_retested_at_epoch": 1595363209.395114,
-            "last_retested_at_iso": "2020-07-21T20:26:49.395114",
+            "last_retested_at_epoch": 1595453727.855782,
+            "last_retested_at_iso": "2020-07-22T21:35:27.855782",
             "status": "INACTIVE"
         },
         "www.backonline.info": {
