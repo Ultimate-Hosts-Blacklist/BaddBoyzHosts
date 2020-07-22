@@ -213,8 +213,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595297710.319599,
-            "last_retested_at_iso": "2020-07-21T02:15:10.319599",
+            "last_retested_at_epoch": 1595385823.193139,
+            "last_retested_at_iso": "2020-07-22T02:43:43.193139",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1571,8 +1571,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595297710.311554,
-            "last_retested_at_iso": "2020-07-21T02:15:10.311554",
+            "last_retested_at_epoch": 1595385823.232386,
+            "last_retested_at_iso": "2020-07-22T02:43:43.232386",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1606,8 +1606,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1595291457.986785,
-            "last_retested_at_iso": "2020-07-21T00:30:57.986785",
+            "last_retested_at_epoch": 1595385718.638341,
+            "last_retested_at_iso": "2020-07-22T02:41:58.638341",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -2509,8 +2509,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1595297548.547268,
-            "last_retested_at_iso": "2020-07-21T02:12:28.547268",
+            "last_retested_at_epoch": 1595385792.00323,
+            "last_retested_at_iso": "2020-07-22T02:43:12.003230",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
