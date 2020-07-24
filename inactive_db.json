@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595469860.39499,
-            "last_retested_at_iso": "2020-07-23T02:04:20.394990",
+            "last_retested_at_epoch": 1595560981.205996,
+            "last_retested_at_iso": "2020-07-24T03:23:01.205996",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1529,8 +1529,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1595469773.920794,
-            "last_retested_at_iso": "2020-07-23T02:02:53.920794",
+            "last_retested_at_epoch": 1595561230.954423,
+            "last_retested_at_iso": "2020-07-24T03:27:10.954423",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1788,8 +1788,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595469860.564487,
-            "last_retested_at_iso": "2020-07-23T02:04:20.564487",
+            "last_retested_at_epoch": 1595560981.42567,
+            "last_retested_at_iso": "2020-07-24T03:23:01.425670",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -2817,8 +2817,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1595469750.549284,
-            "last_retested_at_iso": "2020-07-23T02:02:30.549284",
+            "last_retested_at_epoch": 1595560699.629664,
+            "last_retested_at_iso": "2020-07-24T03:18:19.629664",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
@@ -2901,8 +2901,8 @@
         "www.hymen-defloration.info": {
             "included_at_epoch": 1588464031.0,
             "included_at_iso": "2020-05-03T00:00:31",
-            "last_retested_at_epoch": 1595469337.053312,
-            "last_retested_at_iso": "2020-07-23T01:55:37.053312",
+            "last_retested_at_epoch": 1595560767.455738,
+            "last_retested_at_iso": "2020-07-24T03:19:27.455738",
             "status": "INACTIVE"
         },
         "www.hympsvtktvtm.biz": {
