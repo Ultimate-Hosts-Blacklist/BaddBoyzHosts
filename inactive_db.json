@@ -101,15 +101,15 @@
         "1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1595525350.817303,
-            "last_retested_at_iso": "2020-07-23T17:29:10.817303",
+            "last_retested_at_epoch": 1595612140.859453,
+            "last_retested_at_iso": "2020-07-24T17:35:40.859453",
             "status": "INACTIVE"
         },
         "1hour.info": {
             "included_at_epoch": 1588468623.0,
             "included_at_iso": "2020-05-03T01:17:03",
-            "last_retested_at_epoch": 1595524865.834199,
-            "last_retested_at_iso": "2020-07-23T17:21:05.834199",
+            "last_retested_at_epoch": 1595612417.579184,
+            "last_retested_at_iso": "2020-07-24T17:40:17.579184",
             "status": "INACTIVE"
         },
         "2005-search.com": {
@@ -654,8 +654,8 @@
         "euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1595519765.709841,
-            "last_retested_at_iso": "2020-07-23T15:56:05.709841",
+            "last_retested_at_epoch": 1595612737.201522,
+            "last_retested_at_iso": "2020-07-24T17:45:37.201522",
             "status": "INACTIVE"
         },
         "everydresses.com": {
@@ -1081,15 +1081,15 @@
         "www.1forced.com": {
             "included_at_epoch": 1588449678.0,
             "included_at_iso": "2020-05-02T20:01:18",
-            "last_retested_at_epoch": 1595525351.002525,
-            "last_retested_at_iso": "2020-07-23T17:29:11.002525",
+            "last_retested_at_epoch": 1595612140.86054,
+            "last_retested_at_iso": "2020-07-24T17:35:40.860540",
             "status": "INACTIVE"
         },
         "www.1hour.info": {
             "included_at_epoch": 1588468623.0,
             "included_at_iso": "2020-05-03T01:17:03",
-            "last_retested_at_epoch": 1595524865.674998,
-            "last_retested_at_iso": "2020-07-23T17:21:05.674998",
+            "last_retested_at_epoch": 1595612417.58681,
+            "last_retested_at_iso": "2020-07-24T17:40:17.586810",
             "status": "INACTIVE"
         },
         "www.1lesbiansex.com": {
@@ -1137,8 +1137,8 @@
         "www.2013tomsshoesforsale.com": {
             "included_at_epoch": 1588489670.0,
             "included_at_iso": "2020-05-03T07:07:50",
-            "last_retested_at_epoch": 1595525262.493509,
-            "last_retested_at_iso": "2020-07-23T17:27:42.493509",
+            "last_retested_at_epoch": 1595612470.917094,
+            "last_retested_at_iso": "2020-07-24T17:41:10.917094",
             "status": "INACTIVE"
         },
         "www.247locksmith-tucson.com": {
@@ -1249,8 +1249,8 @@
         "www.2muchsex.com": {
             "included_at_epoch": 1588493131.0,
             "included_at_iso": "2020-05-03T08:05:31",
-            "last_retested_at_epoch": 1595519482.988953,
-            "last_retested_at_iso": "2020-07-23T15:51:22.988953",
+            "last_retested_at_epoch": 1595612648.656216,
+            "last_retested_at_iso": "2020-07-24T17:44:08.656216",
             "status": "INACTIVE"
         },
         "www.2n2qlh5hqcwrvo.net": {
@@ -1403,8 +1403,8 @@
         "www.3wt4c.com": {
             "included_at_epoch": 1588459713.0,
             "included_at_iso": "2020-05-02T22:48:33",
-            "last_retested_at_epoch": 1595525136.619107,
-            "last_retested_at_iso": "2020-07-23T17:25:36.619107",
+            "last_retested_at_epoch": 1595612047.684451,
+            "last_retested_at_iso": "2020-07-24T17:34:07.684451",
             "status": "INACTIVE"
         },
         "www.3xit.net": {
@@ -1648,8 +1648,8 @@
         "www.87w.info": {
             "included_at_epoch": 1586640956.0,
             "included_at_iso": "2020-04-11T21:35:56",
-            "last_retested_at_epoch": 1595524872.189036,
-            "last_retested_at_iso": "2020-07-23T17:21:12.189036",
+            "last_retested_at_epoch": 1595612057.922393,
+            "last_retested_at_iso": "2020-07-24T17:34:17.922393",
             "status": "INACTIVE"
         },
         "www.888-vip.net": {
@@ -1991,8 +1991,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1595524881.03868,
-            "last_retested_at_iso": "2020-07-23T17:21:21.038680",
+            "last_retested_at_epoch": 1595612165.915738,
+            "last_retested_at_iso": "2020-07-24T17:36:05.915738",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
@@ -2607,8 +2607,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1595514556.554844,
-            "last_retested_at_iso": "2020-07-23T14:29:16.554844",
+            "last_retested_at_epoch": 1595612712.676888,
+            "last_retested_at_iso": "2020-07-24T17:45:12.676888",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
@@ -2621,8 +2621,8 @@
         "www.euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1595519765.699772,
-            "last_retested_at_iso": "2020-07-23T15:56:05.699772",
+            "last_retested_at_epoch": 1595612737.256777,
+            "last_retested_at_iso": "2020-07-24T17:45:37.256777",
             "status": "INACTIVE"
         },
         "www.everydresses.com": {
@@ -2796,8 +2796,8 @@
         "www.huge-cocks.biz": {
             "included_at_epoch": 1588468762.0,
             "included_at_iso": "2020-05-03T01:19:22",
-            "last_retested_at_epoch": 1595524674.266506,
-            "last_retested_at_iso": "2020-07-23T17:17:54.266506",
+            "last_retested_at_epoch": 1595612641.216382,
+            "last_retested_at_iso": "2020-07-24T17:44:01.216382",
             "status": "INACTIVE"
         },
         "www.hugersoft.com": {
