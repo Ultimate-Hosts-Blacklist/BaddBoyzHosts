@@ -1634,8 +1634,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1595459596.359855,
-            "last_retested_at_iso": "2020-07-22T23:13:16.359855",
+            "last_retested_at_epoch": 1595550633.893169,
+            "last_retested_at_iso": "2020-07-24T00:30:33.893169",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -2005,8 +2005,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1595464136.755066,
-            "last_retested_at_iso": "2020-07-23T00:28:56.755066",
+            "last_retested_at_epoch": 1595550843.171715,
+            "last_retested_at_iso": "2020-07-24T00:34:03.171715",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2362,8 +2362,8 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1595463987.13529,
-            "last_retested_at_iso": "2020-07-23T00:26:27.135290",
+            "last_retested_at_epoch": 1595550687.839349,
+            "last_retested_at_iso": "2020-07-24T00:31:27.839349",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
@@ -2525,6 +2525,13 @@
             "included_at_iso": "2020-04-25T16:20:17",
             "last_retested_at_epoch": 1587831617.0,
             "last_retested_at_iso": "2020-04-25T16:20:17",
+            "status": "INACTIVE"
+        },
+        "www.companies-catalog.com": {
+            "included_at_epoch": 1595550831.97323,
+            "included_at_iso": "2020-07-24T00:33:51.973230",
+            "last_retested_at_epoch": 1595550831.97323,
+            "last_retested_at_iso": "2020-07-24T00:33:51.973230",
             "status": "INACTIVE"
         },
         "www.company.com.ph": {
