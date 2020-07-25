@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595560981.205996,
-            "last_retested_at_iso": "2020-07-24T03:23:01.205996",
+            "last_retested_at_epoch": 1595647584.866601,
+            "last_retested_at_iso": "2020-07-25T03:26:24.866601",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -360,8 +360,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595555470.956401,
-            "last_retested_at_iso": "2020-07-24T01:51:10.956401",
+            "last_retested_at_epoch": 1595647413.780505,
+            "last_retested_at_iso": "2020-07-25T03:23:33.780505",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -857,8 +857,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1595555971.066009,
-            "last_retested_at_iso": "2020-07-24T01:59:31.066009",
+            "last_retested_at_epoch": 1595647181.12479,
+            "last_retested_at_iso": "2020-07-25T03:19:41.124790",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1354,8 +1354,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1595555824.31335,
-            "last_retested_at_iso": "2020-07-24T01:57:04.313350",
+            "last_retested_at_epoch": 1595647525.00225,
+            "last_retested_at_iso": "2020-07-25T03:25:25.002250",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -1529,8 +1529,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1595561230.954423,
-            "last_retested_at_iso": "2020-07-24T03:27:10.954423",
+            "last_retested_at_epoch": 1595647717.344915,
+            "last_retested_at_iso": "2020-07-25T03:28:37.344915",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1788,8 +1788,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595560981.42567,
-            "last_retested_at_iso": "2020-07-24T03:23:01.425670",
+            "last_retested_at_epoch": 1595647584.865691,
+            "last_retested_at_iso": "2020-07-25T03:26:24.865691",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1900,8 +1900,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595555470.982894,
-            "last_retested_at_iso": "2020-07-24T01:51:10.982894",
+            "last_retested_at_epoch": 1595647413.731103,
+            "last_retested_at_iso": "2020-07-25T03:23:33.731103",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -1914,8 +1914,8 @@
         "www.acads.net": {
             "included_at_epoch": 1588464052.0,
             "included_at_iso": "2020-05-03T00:00:52",
-            "last_retested_at_epoch": 1595555198.612527,
-            "last_retested_at_iso": "2020-07-24T01:46:38.612527",
+            "last_retested_at_epoch": 1595647090.666431,
+            "last_retested_at_iso": "2020-07-25T03:18:10.666431",
             "status": "INACTIVE"
         },
         "www.aciklise.web.tr": {
@@ -2033,8 +2033,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1595555145.865242,
-            "last_retested_at_iso": "2020-07-24T01:45:45.865242",
+            "last_retested_at_epoch": 1595647224.199849,
+            "last_retested_at_iso": "2020-07-25T03:20:24.199849",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
