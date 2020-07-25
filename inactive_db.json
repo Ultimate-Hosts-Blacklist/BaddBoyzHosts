@@ -542,8 +542,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595555398.19284,
-            "last_retested_at_iso": "2020-07-24T01:49:58.192840",
+            "last_retested_at_epoch": 1595641840.539923,
+            "last_retested_at_iso": "2020-07-25T01:50:40.539923",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1095,8 +1095,8 @@
         "www.1lesbiansex.com": {
             "included_at_epoch": 1588478473.0,
             "included_at_iso": "2020-05-03T04:01:13",
-            "last_retested_at_epoch": 1595555603.884245,
-            "last_retested_at_iso": "2020-07-24T01:53:23.884245",
+            "last_retested_at_epoch": 1595642004.283997,
+            "last_retested_at_iso": "2020-07-25T01:53:24.283997",
             "status": "INACTIVE"
         },
         "www.1pamm.ru": {
@@ -1634,8 +1634,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1595550633.893169,
-            "last_retested_at_iso": "2020-07-24T00:30:33.893169",
+            "last_retested_at_epoch": 1595641347.897296,
+            "last_retested_at_iso": "2020-07-25T01:42:27.897296",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -2005,8 +2005,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1595550843.171715,
-            "last_retested_at_iso": "2020-07-24T00:34:03.171715",
+            "last_retested_at_epoch": 1595641634.733917,
+            "last_retested_at_iso": "2020-07-25T01:47:14.733917",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2362,15 +2362,15 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1595550687.839349,
-            "last_retested_at_iso": "2020-07-24T00:31:27.839349",
+            "last_retested_at_epoch": 1595642074.243154,
+            "last_retested_at_iso": "2020-07-25T01:54:34.243154",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595555398.232536,
-            "last_retested_at_iso": "2020-07-24T01:49:58.232536",
+            "last_retested_at_epoch": 1595641840.523703,
+            "last_retested_at_iso": "2020-07-25T01:50:40.523703",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
