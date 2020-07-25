@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1595598597.208788,
-            "last_retested_at_iso": "2020-07-24T13:49:57.208788",
+            "last_retested_at_epoch": 1595685750.193042,
+            "last_retested_at_iso": "2020-07-25T14:02:30.193042",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -206,8 +206,8 @@
         "69lingerie.com": {
             "included_at_epoch": 1588463960.0,
             "included_at_iso": "2020-05-02T23:59:20",
-            "last_retested_at_epoch": 1595593247.608955,
-            "last_retested_at_iso": "2020-07-24T12:20:47.608955",
+            "last_retested_at_epoch": 1595686092.388339,
+            "last_retested_at_iso": "2020-07-25T14:08:12.388339",
             "status": "INACTIVE"
         },
         "69proof.com": {
@@ -626,8 +626,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595598413.908268,
-            "last_retested_at_iso": "2020-07-24T13:46:53.908268",
+            "last_retested_at_epoch": 1595685828.272754,
+            "last_retested_at_iso": "2020-07-25T14:03:48.272754",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -815,8 +815,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1595598597.380925,
-            "last_retested_at_iso": "2020-07-24T13:49:57.380925",
+            "last_retested_at_epoch": 1595685745.326915,
+            "last_retested_at_iso": "2020-07-25T14:02:25.326915",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1319,8 +1319,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1595598440.233021,
-            "last_retested_at_iso": "2020-07-24T13:47:20.233021",
+            "last_retested_at_epoch": 1595686120.516681,
+            "last_retested_at_iso": "2020-07-25T14:08:40.516681",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -1571,8 +1571,8 @@
         "www.69lingerie.com": {
             "included_at_epoch": 1588463961.0,
             "included_at_iso": "2020-05-02T23:59:21",
-            "last_retested_at_epoch": 1595593242.638921,
-            "last_retested_at_iso": "2020-07-24T12:20:42.638921",
+            "last_retested_at_epoch": 1595686092.294287,
+            "last_retested_at_iso": "2020-07-25T14:08:12.294287",
             "status": "INACTIVE"
         },
         "www.69proof.com": {
@@ -1627,8 +1627,8 @@
         "www.7gfs.com": {
             "included_at_epoch": 1588473883.0,
             "included_at_iso": "2020-05-03T02:44:43",
-            "last_retested_at_epoch": 1595593526.023965,
-            "last_retested_at_iso": "2020-07-24T12:25:26.023965",
+            "last_retested_at_epoch": 1595686568.495,
+            "last_retested_at_iso": "2020-07-25T14:16:08.495000",
             "status": "INACTIVE"
         },
         "www.8090cpa.com": {
@@ -2446,8 +2446,8 @@
         "www.backvids.com": {
             "included_at_epoch": 1588468604.0,
             "included_at_iso": "2020-05-03T01:16:44",
-            "last_retested_at_epoch": 1595598697.362291,
-            "last_retested_at_iso": "2020-07-24T13:51:37.362291",
+            "last_retested_at_epoch": 1595685868.131181,
+            "last_retested_at_iso": "2020-07-25T14:04:28.131181",
             "status": "INACTIVE"
         },
         "www.bagsonsale.online": {
@@ -2495,8 +2495,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595598414.069631,
-            "last_retested_at_iso": "2020-07-24T13:46:54.069631",
+            "last_retested_at_epoch": 1595685827.971964,
+            "last_retested_at_iso": "2020-07-25T14:03:47.971964",
             "status": "INACTIVE"
         },
         "www.cinemabio.com": {
@@ -2572,8 +2572,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1595598296.576655,
-            "last_retested_at_iso": "2020-07-24T13:44:56.576655",
+            "last_retested_at_epoch": 1595686588.040782,
+            "last_retested_at_iso": "2020-07-25T14:16:28.040782",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
