@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595647584.866601,
-            "last_retested_at_iso": "2020-07-25T03:26:24.866601",
+            "last_retested_at_epoch": 1595738493.41914,
+            "last_retested_at_iso": "2020-07-26T04:41:33.419140",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -360,8 +360,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595647413.780505,
-            "last_retested_at_iso": "2020-07-25T03:23:33.780505",
+            "last_retested_at_epoch": 1595738675.571105,
+            "last_retested_at_iso": "2020-07-26T04:44:35.571105",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1529,8 +1529,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1595647717.344915,
-            "last_retested_at_iso": "2020-07-25T03:28:37.344915",
+            "last_retested_at_epoch": 1595738153.517336,
+            "last_retested_at_iso": "2020-07-26T04:35:53.517336",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1788,8 +1788,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595647584.865691,
-            "last_retested_at_iso": "2020-07-25T03:26:24.865691",
+            "last_retested_at_epoch": 1595738493.403856,
+            "last_retested_at_iso": "2020-07-26T04:41:33.403856",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1900,8 +1900,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595647413.731103,
-            "last_retested_at_iso": "2020-07-25T03:23:33.731103",
+            "last_retested_at_epoch": 1595738675.720689,
+            "last_retested_at_iso": "2020-07-26T04:44:35.720689",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -2033,8 +2033,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1595647224.199849,
-            "last_retested_at_iso": "2020-07-25T03:20:24.199849",
+            "last_retested_at_epoch": 1595738718.979743,
+            "last_retested_at_iso": "2020-07-26T04:45:18.979743",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
