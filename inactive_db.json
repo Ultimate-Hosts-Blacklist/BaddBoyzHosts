@@ -1326,8 +1326,8 @@
         "www.377baidu.com": {
             "included_at_epoch": 1588499813.0,
             "included_at_iso": "2020-05-03T09:56:53",
-            "last_retested_at_epoch": 1595631044.319034,
-            "last_retested_at_iso": "2020-07-24T22:50:44.319034",
+            "last_retested_at_epoch": 1595728321.834572,
+            "last_retested_at_iso": "2020-07-26T01:52:01.834572",
             "status": "INACTIVE"
         },
         "www.39bola.com": {
@@ -2131,8 +2131,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1595635646.371081,
-            "last_retested_at_iso": "2020-07-25T00:07:26.371081",
+            "last_retested_at_epoch": 1595727647.873979,
+            "last_retested_at_iso": "2020-07-26T01:40:47.873979",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
