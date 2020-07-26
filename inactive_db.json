@@ -129,8 +129,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1595672034.5741,
-            "last_retested_at_iso": "2020-07-25T10:13:54.574100",
+            "last_retested_at_epoch": 1595763811.561094,
+            "last_retested_at_iso": "2020-07-26T11:43:31.561094",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -570,8 +570,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1595676794.746078,
-            "last_retested_at_iso": "2020-07-25T11:33:14.746078",
+            "last_retested_at_epoch": 1595763717.090604,
+            "last_retested_at_iso": "2020-07-26T11:41:57.090604",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1004,8 +1004,8 @@
         "www.138shenbosbo.com": {
             "included_at_epoch": 1588464180.0,
             "included_at_iso": "2020-05-03T00:03:00",
-            "last_retested_at_epoch": 1595676628.602761,
-            "last_retested_at_iso": "2020-07-25T11:30:28.602761",
+            "last_retested_at_epoch": 1595763649.212754,
+            "last_retested_at_iso": "2020-07-26T11:40:49.212754",
             "status": "INACTIVE"
         },
         "www.14b.info": {
@@ -1193,8 +1193,8 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1595672034.554392,
-            "last_retested_at_iso": "2020-07-25T10:13:54.554392",
+            "last_retested_at_epoch": 1595763811.606176,
+            "last_retested_at_iso": "2020-07-26T11:43:31.606176",
             "status": "INACTIVE"
         },
         "www.271395.com": {
@@ -2145,8 +2145,8 @@
         "www.allbestpantyhose.com": {
             "included_at_epoch": 1588449964.0,
             "included_at_iso": "2020-05-02T20:06:04",
-            "last_retested_at_epoch": 1595677017.696059,
-            "last_retested_at_iso": "2020-07-25T11:36:57.696059",
+            "last_retested_at_epoch": 1595763548.722514,
+            "last_retested_at_iso": "2020-07-26T11:39:08.722514",
             "status": "INACTIVE"
         },
         "www.allbritishescorts.com": {
@@ -2418,8 +2418,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1595676794.853884,
-            "last_retested_at_iso": "2020-07-25T11:33:14.853884",
+            "last_retested_at_epoch": 1595763717.048628,
+            "last_retested_at_iso": "2020-07-26T11:41:57.048628",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2733,8 +2733,8 @@
         "www.go-gal.com": {
             "included_at_epoch": 1591778538.239985,
             "included_at_iso": "2020-06-10T08:42:18.239985",
-            "last_retested_at_epoch": 1595676945.000118,
-            "last_retested_at_iso": "2020-07-25T11:35:45.000118",
+            "last_retested_at_epoch": 1595763690.543977,
+            "last_retested_at_iso": "2020-07-26T11:41:30.543977",
             "status": "INACTIVE"
         },
         "www.go.biz": {
