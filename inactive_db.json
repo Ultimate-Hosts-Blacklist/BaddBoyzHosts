@@ -143,8 +143,8 @@
         "2cam.nl": {
             "included_at_epoch": 1588299202.0,
             "included_at_iso": "2020-05-01T02:13:22",
-            "last_retested_at_epoch": 1595297790.770518,
-            "last_retested_at_iso": "2020-07-21T02:16:30.770518",
+            "last_retested_at_epoch": 1595816147.805467,
+            "last_retested_at_iso": "2020-07-27T02:15:47.805467",
             "status": "INACTIVE"
         },
         "2o34.com": {
@@ -1053,8 +1053,8 @@
         "www.18pure.info": {
             "included_at_epoch": 1588473789.0,
             "included_at_iso": "2020-05-03T02:43:09",
-            "last_retested_at_epoch": 1595723020.426179,
-            "last_retested_at_iso": "2020-07-26T00:23:40.426179",
+            "last_retested_at_epoch": 1595816051.855295,
+            "last_retested_at_iso": "2020-07-27T02:14:11.855295",
             "status": "INACTIVE"
         },
         "www.18teengirl.com": {
@@ -1221,8 +1221,8 @@
         "www.2cam.nl": {
             "included_at_epoch": 1588212823.0,
             "included_at_iso": "2020-04-30T02:13:43",
-            "last_retested_at_epoch": 1595297789.842727,
-            "last_retested_at_iso": "2020-07-21T02:16:29.842727",
+            "last_retested_at_epoch": 1595816143.016465,
+            "last_retested_at_iso": "2020-07-27T02:15:43.016465",
             "status": "INACTIVE"
         },
         "www.2daytrendingnews.com": {
@@ -1326,8 +1326,8 @@
         "www.377baidu.com": {
             "included_at_epoch": 1588499813.0,
             "included_at_iso": "2020-05-03T09:56:53",
-            "last_retested_at_epoch": 1595728321.834572,
-            "last_retested_at_iso": "2020-07-26T01:52:01.834572",
+            "last_retested_at_epoch": 1595816510.643708,
+            "last_retested_at_iso": "2020-07-27T02:21:50.643708",
             "status": "INACTIVE"
         },
         "www.39bola.com": {
@@ -1396,8 +1396,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1595723615.749471,
-            "last_retested_at_iso": "2020-07-26T00:33:35.749471",
+            "last_retested_at_epoch": 1595815957.442854,
+            "last_retested_at_iso": "2020-07-27T02:12:37.442854",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
