@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595738493.41914,
-            "last_retested_at_iso": "2020-07-26T04:41:33.419140",
+            "last_retested_at_epoch": 1595827404.767407,
+            "last_retested_at_iso": "2020-07-27T05:23:24.767407",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -360,8 +360,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595738675.571105,
-            "last_retested_at_iso": "2020-07-26T04:44:35.571105",
+            "last_retested_at_epoch": 1595827323.048321,
+            "last_retested_at_iso": "2020-07-27T05:22:03.048321",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -542,8 +542,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595733394.479403,
-            "last_retested_at_iso": "2020-07-26T03:16:34.479403",
+            "last_retested_at_epoch": 1595827161.491095,
+            "last_retested_at_iso": "2020-07-27T05:19:21.491095",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1529,8 +1529,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1595738153.517336,
-            "last_retested_at_iso": "2020-07-26T04:35:53.517336",
+            "last_retested_at_epoch": 1595827640.378205,
+            "last_retested_at_iso": "2020-07-27T05:27:20.378205",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1788,8 +1788,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595738493.403856,
-            "last_retested_at_iso": "2020-07-26T04:41:33.403856",
+            "last_retested_at_epoch": 1595827404.908171,
+            "last_retested_at_iso": "2020-07-27T05:23:24.908171",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1900,8 +1900,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595738675.720689,
-            "last_retested_at_iso": "2020-07-26T04:44:35.720689",
+            "last_retested_at_epoch": 1595827318.057754,
+            "last_retested_at_iso": "2020-07-27T05:21:58.057754",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -2005,8 +2005,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1595733665.002648,
-            "last_retested_at_iso": "2020-07-26T03:21:05.002648",
+            "last_retested_at_epoch": 1595826886.464211,
+            "last_retested_at_iso": "2020-07-27T05:14:46.464211",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2033,8 +2033,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1595738718.979743,
-            "last_retested_at_iso": "2020-07-26T04:45:18.979743",
+            "last_retested_at_epoch": 1595826980.689334,
+            "last_retested_at_iso": "2020-07-27T05:16:20.689334",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -2369,8 +2369,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595733394.557705,
-            "last_retested_at_iso": "2020-07-26T03:16:34.557705",
+            "last_retested_at_epoch": 1595827161.824401,
+            "last_retested_at_iso": "2020-07-27T05:19:21.824401",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
