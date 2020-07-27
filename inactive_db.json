@@ -2516,8 +2516,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1595743366.842322,
-            "last_retested_at_iso": "2020-07-26T06:02:46.842322",
+            "last_retested_at_epoch": 1595841932.782262,
+            "last_retested_at_iso": "2020-07-27T09:25:32.782262",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
