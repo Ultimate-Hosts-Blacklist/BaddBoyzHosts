@@ -626,8 +626,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595777404.355904,
-            "last_retested_at_iso": "2020-07-26T15:30:04.355904",
+            "last_retested_at_epoch": 1595867317.220863,
+            "last_retested_at_iso": "2020-07-27T16:28:37.220863",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -745,8 +745,8 @@
         "hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1595777546.903992,
-            "last_retested_at_iso": "2020-07-26T15:32:26.903992",
+            "last_retested_at_epoch": 1595867519.826822,
+            "last_retested_at_iso": "2020-07-27T16:31:59.826822",
             "status": "INACTIVE"
         },
         "husky-shop.cz": {
@@ -759,8 +759,8 @@
         "ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1595777750.336958,
-            "last_retested_at_iso": "2020-07-26T15:35:50.336958",
+            "last_retested_at_epoch": 1595867064.329052,
+            "last_retested_at_iso": "2020-07-27T16:24:24.329052",
             "status": "INACTIVE"
         },
         "keepcolletive.com": {
@@ -1214,8 +1214,8 @@
         "www.2anal.net": {
             "included_at_epoch": 1588445185.0,
             "included_at_iso": "2020-05-02T18:46:25",
-            "last_retested_at_epoch": 1595777708.846217,
-            "last_retested_at_iso": "2020-07-26T15:35:08.846217",
+            "last_retested_at_epoch": 1595867689.86201,
+            "last_retested_at_iso": "2020-07-27T16:34:49.862010",
             "status": "INACTIVE"
         },
         "www.2cam.nl": {
@@ -1305,8 +1305,8 @@
         "www.300sk.com": {
             "included_at_epoch": 1588518694.0,
             "included_at_iso": "2020-05-03T15:11:34",
-            "last_retested_at_epoch": 1595778059.284025,
-            "last_retested_at_iso": "2020-07-26T15:40:59.284025",
+            "last_retested_at_epoch": 1595867170.473461,
+            "last_retested_at_iso": "2020-07-27T16:26:10.473461",
             "status": "INACTIVE"
         },
         "www.31seconds.net": {
@@ -1319,8 +1319,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1595772939.537877,
-            "last_retested_at_iso": "2020-07-26T14:15:39.537877",
+            "last_retested_at_epoch": 1595866910.641029,
+            "last_retested_at_iso": "2020-07-27T16:21:50.641029",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -2495,8 +2495,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595777405.668447,
-            "last_retested_at_iso": "2020-07-26T15:30:05.668447",
+            "last_retested_at_epoch": 1595867317.164061,
+            "last_retested_at_iso": "2020-07-27T16:28:37.164061",
             "status": "INACTIVE"
         },
         "www.cinemabio.com": {
@@ -2572,8 +2572,8 @@
         "www.coolbar.pro": {
             "included_at_epoch": 1588503338.0,
             "included_at_iso": "2020-05-03T10:55:38",
-            "last_retested_at_epoch": 1595777879.348744,
-            "last_retested_at_iso": "2020-07-26T15:37:59.348744",
+            "last_retested_at_epoch": 1595867546.283006,
+            "last_retested_at_iso": "2020-07-27T16:32:26.283006",
             "status": "INACTIVE"
         },
         "www.cs6hm.com": {
@@ -2859,8 +2859,8 @@
         "www.hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1595777546.872,
-            "last_retested_at_iso": "2020-07-26T15:32:26.872000",
+            "last_retested_at_epoch": 1595867520.132682,
+            "last_retested_at_iso": "2020-07-27T16:32:00.132682",
             "status": "INACTIVE"
         },
         "www.husky-shop.cz": {
@@ -2950,8 +2950,8 @@
         "www.ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1595777750.402799,
-            "last_retested_at_iso": "2020-07-26T15:35:50.402799",
+            "last_retested_at_epoch": 1595867064.365838,
+            "last_retested_at_iso": "2020-07-27T16:24:24.365838",
             "status": "INACTIVE"
         },
         "www.idecoideas.com": {
@@ -2999,8 +2999,8 @@
         "www.inleadership.co.nz": {
             "included_at_epoch": 1588478652.0,
             "included_at_iso": "2020-05-03T04:04:12",
-            "last_retested_at_epoch": 1595778041.283932,
-            "last_retested_at_iso": "2020-07-26T15:40:41.283932",
+            "last_retested_at_epoch": 1595867057.174805,
+            "last_retested_at_iso": "2020-07-27T16:24:17.174805",
             "status": "INACTIVE"
         },
         "www.keepcolletive.com": {
