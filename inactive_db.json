@@ -129,8 +129,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1595763811.561094,
-            "last_retested_at_iso": "2020-07-26T11:43:31.561094",
+            "last_retested_at_epoch": 1595851670.771814,
+            "last_retested_at_iso": "2020-07-27T12:07:50.771814",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -1193,8 +1193,8 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1595763811.606176,
-            "last_retested_at_iso": "2020-07-26T11:43:31.606176",
+            "last_retested_at_epoch": 1595851670.60962,
+            "last_retested_at_iso": "2020-07-27T12:07:50.609620",
             "status": "INACTIVE"
         },
         "www.271395.com": {
@@ -2733,8 +2733,8 @@
         "www.go-gal.com": {
             "included_at_epoch": 1591778538.239985,
             "included_at_iso": "2020-06-10T08:42:18.239985",
-            "last_retested_at_epoch": 1595763690.543977,
-            "last_retested_at_iso": "2020-07-26T11:41:30.543977",
+            "last_retested_at_epoch": 1595851552.449343,
+            "last_retested_at_iso": "2020-07-27T12:05:52.449343",
             "status": "INACTIVE"
         },
         "www.go.biz": {
