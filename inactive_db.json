@@ -213,8 +213,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595832170.503719,
-            "last_retested_at_iso": "2020-07-27T06:42:50.503719",
+            "last_retested_at_epoch": 1595921092.451198,
+            "last_retested_at_iso": "2020-07-28T07:24:52.451198",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1578,8 +1578,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1595832170.502756,
-            "last_retested_at_iso": "2020-07-27T06:42:50.502756",
+            "last_retested_at_epoch": 1595921092.447479,
+            "last_retested_at_iso": "2020-07-28T07:24:52.447479",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -1613,8 +1613,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1595832309.083544,
-            "last_retested_at_iso": "2020-07-27T06:45:09.083544",
+            "last_retested_at_epoch": 1595920616.65881,
+            "last_retested_at_iso": "2020-07-28T07:16:56.658810",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -2663,8 +2663,8 @@
         "www.family1st.ca": {
             "included_at_epoch": 1593503574.308419,
             "included_at_iso": "2020-06-30T07:52:54.308419",
-            "last_retested_at_epoch": 1593934983.318325,
-            "last_retested_at_iso": "2020-07-05T07:43:03.318325",
+            "last_retested_at_epoch": 1595921061.746095,
+            "last_retested_at_iso": "2020-07-28T07:24:21.746095",
             "status": "INACTIVE"
         },
         "www.familyholiday.ml": {
