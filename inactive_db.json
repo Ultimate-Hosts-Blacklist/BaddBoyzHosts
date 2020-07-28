@@ -2817,8 +2817,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1595836882.359389,
-            "last_retested_at_iso": "2020-07-27T08:01:22.359389",
+            "last_retested_at_epoch": 1595925730.261695,
+            "last_retested_at_iso": "2020-07-28T08:42:10.261695",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
