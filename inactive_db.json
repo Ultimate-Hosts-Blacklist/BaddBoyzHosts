@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595827404.767407,
-            "last_retested_at_iso": "2020-07-27T05:23:24.767407",
+            "last_retested_at_epoch": 1595916854.093749,
+            "last_retested_at_iso": "2020-07-28T06:14:14.093749",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -360,8 +360,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595827323.048321,
-            "last_retested_at_iso": "2020-07-27T05:22:03.048321",
+            "last_retested_at_epoch": 1595916224.920565,
+            "last_retested_at_iso": "2020-07-28T06:03:44.920565",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -542,8 +542,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595827161.491095,
-            "last_retested_at_iso": "2020-07-27T05:19:21.491095",
+            "last_retested_at_epoch": 1595916248.969875,
+            "last_retested_at_iso": "2020-07-28T06:04:08.969875",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1529,8 +1529,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1595827640.378205,
-            "last_retested_at_iso": "2020-07-27T05:27:20.378205",
+            "last_retested_at_epoch": 1595916701.224521,
+            "last_retested_at_iso": "2020-07-28T06:11:41.224521",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1788,8 +1788,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1595827404.908171,
-            "last_retested_at_iso": "2020-07-27T05:23:24.908171",
+            "last_retested_at_epoch": 1595916854.080072,
+            "last_retested_at_iso": "2020-07-28T06:14:14.080072",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1900,8 +1900,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595827318.057754,
-            "last_retested_at_iso": "2020-07-27T05:21:58.057754",
+            "last_retested_at_epoch": 1595916224.954961,
+            "last_retested_at_iso": "2020-07-28T06:03:44.954961",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -2005,8 +2005,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1595826886.464211,
-            "last_retested_at_iso": "2020-07-27T05:14:46.464211",
+            "last_retested_at_epoch": 1595916526.367952,
+            "last_retested_at_iso": "2020-07-28T06:08:46.367952",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2033,8 +2033,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1595826980.689334,
-            "last_retested_at_iso": "2020-07-27T05:16:20.689334",
+            "last_retested_at_epoch": 1595916515.875039,
+            "last_retested_at_iso": "2020-07-28T06:08:35.875039",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -2362,15 +2362,15 @@
         "www.answerzones.com": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1595821916.062464,
-            "last_retested_at_iso": "2020-07-27T03:51:56.062464",
+            "last_retested_at_epoch": 1595916543.272152,
+            "last_retested_at_iso": "2020-07-28T06:09:03.272152",
             "status": "INACTIVE"
         },
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595827161.824401,
-            "last_retested_at_iso": "2020-07-27T05:19:21.824401",
+            "last_retested_at_epoch": 1595916248.994075,
+            "last_retested_at_iso": "2020-07-28T06:04:08.994075",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
