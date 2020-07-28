@@ -626,8 +626,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595867317.220863,
-            "last_retested_at_iso": "2020-07-27T16:28:37.220863",
+            "last_retested_at_epoch": 1595963148.691598,
+            "last_retested_at_iso": "2020-07-28T19:05:48.691598",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -1284,8 +1284,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1595872564.565946,
-            "last_retested_at_iso": "2020-07-27T17:56:04.565946",
+            "last_retested_at_epoch": 1595962490.673598,
+            "last_retested_at_iso": "2020-07-28T18:54:50.673598",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
@@ -1312,8 +1312,8 @@
         "www.300sk.com": {
             "included_at_epoch": 1588518694.0,
             "included_at_iso": "2020-05-03T15:11:34",
-            "last_retested_at_epoch": 1595867170.473461,
-            "last_retested_at_iso": "2020-07-27T16:26:10.473461",
+            "last_retested_at_epoch": 1595962554.310008,
+            "last_retested_at_iso": "2020-07-28T18:55:54.310008",
             "status": "INACTIVE"
         },
         "www.31seconds.net": {
@@ -1452,8 +1452,8 @@
         "www.4plus11.com": {
             "included_at_epoch": 1588489712.0,
             "included_at_iso": "2020-05-03T07:08:32",
-            "last_retested_at_epoch": 1595872076.843105,
-            "last_retested_at_iso": "2020-07-27T17:47:56.843105",
+            "last_retested_at_epoch": 1595962406.315314,
+            "last_retested_at_iso": "2020-07-28T18:53:26.315314",
             "status": "INACTIVE"
         },
         "www.4realzed.com": {
@@ -1508,8 +1508,8 @@
         "www.511a.cn": {
             "included_at_epoch": 1589502234.52841,
             "included_at_iso": "2020-05-15T00:23:54.528410",
-            "last_retested_at_epoch": 1595872649.959099,
-            "last_retested_at_iso": "2020-07-27T17:57:29.959099",
+            "last_retested_at_epoch": 1595962757.954874,
+            "last_retested_at_iso": "2020-07-28T18:59:17.954874",
             "status": "INACTIVE"
         },
         "www.52djcy.com": {
@@ -1844,8 +1844,8 @@
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
-            "last_retested_at_epoch": 1595872724.856309,
-            "last_retested_at_iso": "2020-07-27T17:58:44.856309",
+            "last_retested_at_epoch": 1595962686.273915,
+            "last_retested_at_iso": "2020-07-28T18:58:06.273915",
             "status": "INACTIVE"
         },
         "www.abahah.com": {
@@ -2112,6 +2112,13 @@
             "included_at_iso": "2020-05-03T06:07:27",
             "last_retested_at_epoch": 1595887260.935928,
             "last_retested_at_iso": "2020-07-27T22:01:00.935928",
+            "status": "INACTIVE"
+        },
+        "www.aliclonepro.xyz": {
+            "included_at_epoch": 1595963027.155126,
+            "included_at_iso": "2020-07-28T19:03:47.155126",
+            "last_retested_at_epoch": 1595963027.155126,
+            "last_retested_at_iso": "2020-07-28T19:03:47.155126",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2502,8 +2509,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595867317.164061,
-            "last_retested_at_iso": "2020-07-27T16:28:37.164061",
+            "last_retested_at_epoch": 1595963148.641972,
+            "last_retested_at_iso": "2020-07-28T19:05:48.641972",
             "status": "INACTIVE"
         },
         "www.cinemabio.com": {
