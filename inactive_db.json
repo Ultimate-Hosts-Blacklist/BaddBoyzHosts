@@ -2705,8 +2705,8 @@
         "www.freehomosexual.com": {
             "included_at_epoch": 1588468902.0,
             "included_at_iso": "2020-05-03T01:21:42",
-            "last_retested_at_epoch": 1595847680.44607,
-            "last_retested_at_iso": "2020-07-27T11:01:20.446070",
+            "last_retested_at_epoch": 1595939628.160378,
+            "last_retested_at_iso": "2020-07-28T12:33:48.160378",
             "status": "INACTIVE"
         },
         "www.freehornygirls.com": {
@@ -2733,8 +2733,8 @@
         "www.go-gal.com": {
             "included_at_epoch": 1591778538.239985,
             "included_at_iso": "2020-06-10T08:42:18.239985",
-            "last_retested_at_epoch": 1595851552.449343,
-            "last_retested_at_iso": "2020-07-27T12:05:52.449343",
+            "last_retested_at_epoch": 1595939625.292869,
+            "last_retested_at_iso": "2020-07-28T12:33:45.292869",
             "status": "INACTIVE"
         },
         "www.go.biz": {
