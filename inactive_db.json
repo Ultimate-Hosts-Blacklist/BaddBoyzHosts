@@ -52,8 +52,8 @@
         "0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1595967486.421401,
-            "last_retested_at_iso": "2020-07-28T20:18:06.421401",
+            "last_retested_at_epoch": 1596054865.508391,
+            "last_retested_at_iso": "2020-07-29T20:34:25.508391",
             "status": "INACTIVE"
         },
         "0q2.sitey.me": {
@@ -353,8 +353,8 @@
         "abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1595966697.779012,
-            "last_retested_at_iso": "2020-07-28T20:04:57.779012",
+            "last_retested_at_epoch": 1596054427.112762,
+            "last_retested_at_iso": "2020-07-29T20:27:07.112762",
             "status": "INACTIVE"
         },
         "absolute-live.com": {
@@ -626,8 +626,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595963148.691598,
-            "last_retested_at_iso": "2020-07-28T19:05:48.691598",
+            "last_retested_at_epoch": 1596054679.910828,
+            "last_retested_at_iso": "2020-07-29T20:31:19.910828",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -885,8 +885,8 @@
         "www.0pros.com": {
             "included_at_epoch": 1588459452.0,
             "included_at_iso": "2020-05-02T22:44:12",
-            "last_retested_at_epoch": 1595967486.420429,
-            "last_retested_at_iso": "2020-07-28T20:18:06.420429",
+            "last_retested_at_epoch": 1596054865.509342,
+            "last_retested_at_iso": "2020-07-29T20:34:25.509342",
             "status": "INACTIVE"
         },
         "www.1-800onlinecasino.com": {
@@ -1067,8 +1067,8 @@
         "www.18teengirl.com": {
             "included_at_epoch": 1588506402.0,
             "included_at_iso": "2020-05-03T11:46:42",
-            "last_retested_at_epoch": 1595966971.557146,
-            "last_retested_at_iso": "2020-07-28T20:09:31.557146",
+            "last_retested_at_epoch": 1596054415.202715,
+            "last_retested_at_iso": "2020-07-29T20:26:55.202715",
             "status": "INACTIVE"
         },
         "www.19blog.com": {
@@ -1207,8 +1207,8 @@
         "www.271395.com": {
             "included_at_epoch": 1585826735.0,
             "included_at_iso": "2020-04-02T11:25:35",
-            "last_retested_at_epoch": 1595966889.791887,
-            "last_retested_at_iso": "2020-07-28T20:08:09.791887",
+            "last_retested_at_epoch": 1596055137.437146,
+            "last_retested_at_iso": "2020-07-29T20:38:57.437146",
             "status": "INACTIVE"
         },
         "www.272351.com": {
@@ -1592,8 +1592,8 @@
         "www.69tubex.com": {
             "included_at_epoch": 1588440625.0,
             "included_at_iso": "2020-05-02T17:30:25",
-            "last_retested_at_epoch": 1595966952.120757,
-            "last_retested_at_iso": "2020-07-28T20:09:12.120757",
+            "last_retested_at_epoch": 1596054966.319079,
+            "last_retested_at_iso": "2020-07-29T20:36:06.319079",
             "status": "INACTIVE"
         },
         "www.6ftlady.com": {
@@ -1690,8 +1690,8 @@
         "www.94cdn.com": {
             "included_at_epoch": 1588459703.0,
             "included_at_iso": "2020-05-02T22:48:23",
-            "last_retested_at_epoch": 1595967162.689888,
-            "last_retested_at_iso": "2020-07-28T20:12:42.689888",
+            "last_retested_at_epoch": 1596054999.288385,
+            "last_retested_at_iso": "2020-07-29T20:36:39.288385",
             "status": "INACTIVE"
         },
         "www.98oi.ru": {
@@ -1879,8 +1879,8 @@
         "www.abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1595966697.725029,
-            "last_retested_at_iso": "2020-07-28T20:04:57.725029",
+            "last_retested_at_epoch": 1596054427.135285,
+            "last_retested_at_iso": "2020-07-29T20:27:07.135285",
             "status": "INACTIVE"
         },
         "www.abetran.com": {
@@ -2117,8 +2117,8 @@
         "www.aliclonepro.xyz": {
             "included_at_epoch": 1595963027.155126,
             "included_at_iso": "2020-07-28T19:03:47.155126",
-            "last_retested_at_epoch": 1595963027.155126,
-            "last_retested_at_iso": "2020-07-28T19:03:47.155126",
+            "last_retested_at_epoch": 1596054526.346684,
+            "last_retested_at_iso": "2020-07-29T20:28:46.346684",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2509,8 +2509,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1595963148.641972,
-            "last_retested_at_iso": "2020-07-28T19:05:48.641972",
+            "last_retested_at_epoch": 1596054679.890492,
+            "last_retested_at_iso": "2020-07-29T20:31:19.890492",
             "status": "INACTIVE"
         },
         "www.cinemabio.com": {
@@ -2761,8 +2761,8 @@
         "www.goddessvip.com": {
             "included_at_epoch": 1589119492.912587,
             "included_at_iso": "2020-05-10T14:04:52.912587",
-            "last_retested_at_epoch": 1595967082.004787,
-            "last_retested_at_iso": "2020-07-28T20:11:22.004787",
+            "last_retested_at_epoch": 1596054587.343502,
+            "last_retested_at_iso": "2020-07-29T20:29:47.343502",
             "status": "INACTIVE"
         },
         "www.grabbersex.com": {
@@ -2866,8 +2866,8 @@
         "www.hunks-naked.com": {
             "included_at_epoch": 1591434748.398224,
             "included_at_iso": "2020-06-06T09:12:28.398224",
-            "last_retested_at_epoch": 1595966909.423526,
-            "last_retested_at_iso": "2020-07-28T20:08:29.423526",
+            "last_retested_at_epoch": 1596054478.417956,
+            "last_retested_at_iso": "2020-07-29T20:27:58.417956",
             "status": "INACTIVE"
         },
         "www.hunktoons.com": {
