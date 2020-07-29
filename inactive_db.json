@@ -360,8 +360,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595916224.920565,
-            "last_retested_at_iso": "2020-07-28T06:03:44.920565",
+            "last_retested_at_epoch": 1596012757.699759,
+            "last_retested_at_iso": "2020-07-29T08:52:37.699759",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1907,8 +1907,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1595916224.954961,
-            "last_retested_at_iso": "2020-07-28T06:03:44.954961",
+            "last_retested_at_epoch": 1596012757.653509,
+            "last_retested_at_iso": "2020-07-29T08:52:37.653509",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -2831,8 +2831,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1595925730.261695,
-            "last_retested_at_iso": "2020-07-28T08:42:10.261695",
+            "last_retested_at_epoch": 1596012781.949014,
+            "last_retested_at_iso": "2020-07-29T08:53:01.949014",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
