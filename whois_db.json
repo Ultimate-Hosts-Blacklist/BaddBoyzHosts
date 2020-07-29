@@ -2467,7 +2467,7 @@
     "communitypetclinicmanteca.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "companies-catalog.com": {
         "epoch": 1622419200.0,
@@ -2710,8 +2710,8 @@
         "state": "future"
     },
     "eupornstar.info": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "euro-option.info": {
