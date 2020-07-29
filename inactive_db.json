@@ -542,8 +542,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595916248.969875,
-            "last_retested_at_iso": "2020-07-28T06:04:08.969875",
+            "last_retested_at_epoch": 1596003105.641836,
+            "last_retested_at_iso": "2020-07-29T06:11:45.641836",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1361,8 +1361,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1595911471.202587,
-            "last_retested_at_iso": "2020-07-28T04:44:31.202587",
+            "last_retested_at_epoch": 1596002442.460969,
+            "last_retested_at_iso": "2020-07-29T06:00:42.460969",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -1403,8 +1403,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1595907035.468213,
-            "last_retested_at_iso": "2020-07-28T03:30:35.468213",
+            "last_retested_at_epoch": 1596003157.808478,
+            "last_retested_at_iso": "2020-07-29T06:12:37.808478",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -2145,8 +2145,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1595911713.665795,
-            "last_retested_at_iso": "2020-07-28T04:48:33.665795",
+            "last_retested_at_epoch": 1596002571.595753,
+            "last_retested_at_iso": "2020-07-29T06:02:51.595753",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
@@ -2383,8 +2383,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1595916248.994075,
-            "last_retested_at_iso": "2020-07-28T06:04:08.994075",
+            "last_retested_at_epoch": 1596003105.667971,
+            "last_retested_at_iso": "2020-07-29T06:11:45.667971",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
