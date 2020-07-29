@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1595953556.952395,
-            "last_retested_at_iso": "2020-07-28T16:25:56.952395",
+            "last_retested_at_epoch": 1596044127.954509,
+            "last_retested_at_iso": "2020-07-29T17:35:27.954509",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -822,8 +822,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1595953556.951453,
-            "last_retested_at_iso": "2020-07-28T16:25:56.951453",
+            "last_retested_at_epoch": 1596044128.027879,
+            "last_retested_at_iso": "2020-07-29T17:35:28.027879",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1326,8 +1326,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1595953370.078899,
-            "last_retested_at_iso": "2020-07-28T16:22:50.078899",
+            "last_retested_at_epoch": 1596044190.29412,
+            "last_retested_at_iso": "2020-07-29T17:36:30.294120",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -3062,8 +3062,8 @@
         "www.townhousefilms.com": {
             "included_at_epoch": 1595953175.478358,
             "included_at_iso": "2020-07-28T16:19:35.478358",
-            "last_retested_at_epoch": 1595953175.478358,
-            "last_retested_at_iso": "2020-07-28T16:19:35.478358",
+            "last_retested_at_epoch": 1596044366.65561,
+            "last_retested_at_iso": "2020-07-29T17:39:26.655610",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
