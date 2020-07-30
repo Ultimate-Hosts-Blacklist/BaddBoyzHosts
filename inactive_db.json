@@ -542,8 +542,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1596003105.641836,
-            "last_retested_at_iso": "2020-07-29T06:11:45.641836",
+            "last_retested_at_epoch": 1596093048.50626,
+            "last_retested_at_iso": "2020-07-30T07:10:48.506260",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1361,8 +1361,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1596002442.460969,
-            "last_retested_at_iso": "2020-07-29T06:00:42.460969",
+            "last_retested_at_epoch": 1596092469.223326,
+            "last_retested_at_iso": "2020-07-30T07:01:09.223326",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -1403,8 +1403,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1596003157.808478,
-            "last_retested_at_iso": "2020-07-29T06:12:37.808478",
+            "last_retested_at_epoch": 1596092625.647935,
+            "last_retested_at_iso": "2020-07-30T07:03:45.647935",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1720,6 +1720,13 @@
             "included_at_iso": "2020-05-03T17:40:27",
             "last_retested_at_epoch": 1596071368.241809,
             "last_retested_at_iso": "2020-07-30T01:09:28.241809",
+            "status": "INACTIVE"
+        },
+        "www.a1thumbpost.com": {
+            "included_at_epoch": 1596092696.600716,
+            "included_at_iso": "2020-07-30T07:04:56.600716",
+            "last_retested_at_epoch": 1596092696.600716,
+            "last_retested_at_iso": "2020-07-30T07:04:56.600716",
             "status": "INACTIVE"
         },
         "www.a2zgroup.in": {
@@ -2145,8 +2152,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1596002571.595753,
-            "last_retested_at_iso": "2020-07-29T06:02:51.595753",
+            "last_retested_at_epoch": 1596093128.064525,
+            "last_retested_at_iso": "2020-07-30T07:12:08.064525",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
@@ -2383,8 +2390,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1596003105.667971,
-            "last_retested_at_iso": "2020-07-29T06:11:45.667971",
+            "last_retested_at_epoch": 1596093048.763281,
+            "last_retested_at_iso": "2020-07-30T07:10:48.763281",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
