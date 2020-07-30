@@ -17,8 +17,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1596044127.954509,
-            "last_retested_at_iso": "2020-07-29T17:35:27.954509",
+            "last_retested_at_epoch": 1596134311.583775,
+            "last_retested_at_iso": "2020-07-30T18:38:31.583775",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -822,8 +822,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1596044128.027879,
-            "last_retested_at_iso": "2020-07-29T17:35:28.027879",
+            "last_retested_at_epoch": 1596134311.609874,
+            "last_retested_at_iso": "2020-07-30T18:38:31.609874",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1326,8 +1326,8 @@
         "www.3278dy.com": {
             "included_at_epoch": 1588489759.0,
             "included_at_iso": "2020-05-03T07:09:19",
-            "last_retested_at_epoch": 1596044190.29412,
-            "last_retested_at_iso": "2020-07-29T17:36:30.294120",
+            "last_retested_at_epoch": 1596134461.125391,
+            "last_retested_at_iso": "2020-07-30T18:41:01.125391",
             "status": "INACTIVE"
         },
         "www.377baidu.com": {
@@ -2166,8 +2166,8 @@
         "www.allbestpantyhose.com": {
             "included_at_epoch": 1588449964.0,
             "included_at_iso": "2020-05-02T20:06:04",
-            "last_retested_at_epoch": 1596033165.071753,
-            "last_retested_at_iso": "2020-07-29T14:32:45.071753",
+            "last_retested_at_epoch": 1596133931.990836,
+            "last_retested_at_iso": "2020-07-30T18:32:11.990836",
             "status": "INACTIVE"
         },
         "www.allbritishescorts.com": {
@@ -3076,8 +3076,8 @@
         "www.townhousefilms.com": {
             "included_at_epoch": 1595953175.478358,
             "included_at_iso": "2020-07-28T16:19:35.478358",
-            "last_retested_at_epoch": 1596044366.65561,
-            "last_retested_at_iso": "2020-07-29T17:39:26.655610",
+            "last_retested_at_epoch": 1596134153.38612,
+            "last_retested_at_iso": "2020-07-30T18:35:53.386120",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
