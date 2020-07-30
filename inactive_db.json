@@ -2537,8 +2537,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1596018074.34808,
-            "last_retested_at_iso": "2020-07-29T10:21:14.348080",
+            "last_retested_at_epoch": 1596108230.60578,
+            "last_retested_at_iso": "2020-07-30T11:23:50.605780",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
@@ -2922,8 +2922,8 @@
         "www.hymen-defloration.info": {
             "included_at_epoch": 1588464031.0,
             "included_at_iso": "2020-05-03T00:00:31",
-            "last_retested_at_epoch": 1596018368.300305,
-            "last_retested_at_iso": "2020-07-29T10:26:08.300305",
+            "last_retested_at_epoch": 1596108802.721264,
+            "last_retested_at_iso": "2020-07-30T11:33:22.721264",
             "status": "INACTIVE"
         },
         "www.hympsvtktvtm.biz": {
