@@ -2278,8 +2278,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1596022777.685743,
-            "last_retested_at_iso": "2020-07-29T11:39:37.685743",
+            "last_retested_at_epoch": 1596113556.222174,
+            "last_retested_at_iso": "2020-07-30T12:52:36.222174",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
@@ -3064,6 +3064,13 @@
             "included_at_iso": "2020-05-02T22:47:16",
             "last_retested_at_epoch": 1596076896.53912,
             "last_retested_at_iso": "2020-07-30T02:41:36.539120",
+            "status": "INACTIVE"
+        },
+        "www.spacebridemag.com": {
+            "included_at_epoch": 1596113155.814006,
+            "included_at_iso": "2020-07-30T12:45:55.814006",
+            "last_retested_at_epoch": 1596113155.814006,
+            "last_retested_at_iso": "2020-07-30T12:45:55.814006",
             "status": "INACTIVE"
         },
         "www.townhousefilms.com": {
