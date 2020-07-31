@@ -542,8 +542,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1596093048.50626,
-            "last_retested_at_iso": "2020-07-30T07:10:48.506260",
+            "last_retested_at_epoch": 1596183063.371103,
+            "last_retested_at_iso": "2020-07-31T08:11:03.371103",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -1361,8 +1361,8 @@
         "www.3d-daughter-list.info": {
             "included_at_epoch": 1588464090.0,
             "included_at_iso": "2020-05-03T00:01:30",
-            "last_retested_at_epoch": 1596092469.223326,
-            "last_retested_at_iso": "2020-07-30T07:01:09.223326",
+            "last_retested_at_epoch": 1596183145.874323,
+            "last_retested_at_iso": "2020-07-31T08:12:25.874323",
             "status": "INACTIVE"
         },
         "www.3dcgfx.net": {
@@ -1403,8 +1403,8 @@
         "www.3lm.info": {
             "included_at_epoch": 1588527408.0,
             "included_at_iso": "2020-05-03T17:36:48",
-            "last_retested_at_epoch": 1596092625.647935,
-            "last_retested_at_iso": "2020-07-30T07:03:45.647935",
+            "last_retested_at_epoch": 1596183163.419351,
+            "last_retested_at_iso": "2020-07-31T08:12:43.419351",
             "status": "INACTIVE"
         },
         "www.3wt4c.com": {
@@ -1480,8 +1480,8 @@
         "www.4v9wp.com": {
             "included_at_epoch": 1588468570.0,
             "included_at_iso": "2020-05-03T01:16:10",
-            "last_retested_at_epoch": 1596082097.890314,
-            "last_retested_at_iso": "2020-07-30T04:08:17.890314",
+            "last_retested_at_epoch": 1596183128.998096,
+            "last_retested_at_iso": "2020-07-31T08:12:08.998096",
             "status": "INACTIVE"
         },
         "www.4webmasters.com": {
@@ -2390,8 +2390,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1596093048.763281,
-            "last_retested_at_iso": "2020-07-30T07:10:48.763281",
+            "last_retested_at_epoch": 1596183063.509967,
+            "last_retested_at_iso": "2020-07-31T08:11:03.509967",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
