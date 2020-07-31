@@ -227,8 +227,8 @@
         "7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1596128801.987299,
-            "last_retested_at_iso": "2020-07-30T17:06:41.987299",
+            "last_retested_at_epoch": 1596219547.799009,
+            "last_retested_at_iso": "2020-07-31T18:19:07.799009",
             "status": "INACTIVE"
         },
         "86d6.com": {
@@ -1627,8 +1627,8 @@
         "www.7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1596128801.356273,
-            "last_retested_at_iso": "2020-07-30T17:06:41.356273",
+            "last_retested_at_epoch": 1596219547.34248,
+            "last_retested_at_iso": "2020-07-31T18:19:07.342480",
             "status": "INACTIVE"
         },
         "www.7gfs.com": {
@@ -1683,8 +1683,8 @@
         "www.90i.info": {
             "included_at_epoch": 1590095656.035231,
             "included_at_iso": "2020-05-21T21:14:16.035231",
-            "last_retested_at_epoch": 1596129320.273819,
-            "last_retested_at_iso": "2020-07-30T17:15:20.273819",
+            "last_retested_at_epoch": 1596219216.761671,
+            "last_retested_at_iso": "2020-07-31T18:13:36.761671",
             "status": "INACTIVE"
         },
         "www.94cdn.com": {
@@ -2467,8 +2467,8 @@
         "www.backvids.com": {
             "included_at_epoch": 1588468604.0,
             "included_at_iso": "2020-05-03T01:16:44",
-            "last_retested_at_epoch": 1596128660.94403,
-            "last_retested_at_iso": "2020-07-30T17:04:20.944030",
+            "last_retested_at_epoch": 1596219659.444575,
+            "last_retested_at_iso": "2020-07-31T18:20:59.444575",
             "status": "INACTIVE"
         },
         "www.bagsonsale.online": {
