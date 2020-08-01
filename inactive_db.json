@@ -311,8 +311,8 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1596187993.9606,
-            "last_retested_at_iso": "2020-07-31T09:33:13.960600",
+            "last_retested_at_epoch": 1596278183.464373,
+            "last_retested_at_iso": "2020-08-01T10:36:23.464373",
             "status": "INACTIVE"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -1536,8 +1536,8 @@
         "www.5kstore.com": {
             "included_at_epoch": 1588454515.0,
             "included_at_iso": "2020-05-02T21:21:55",
-            "last_retested_at_epoch": 1596188004.110648,
-            "last_retested_at_iso": "2020-07-31T09:33:24.110648",
+            "last_retested_at_epoch": 1596277677.732516,
+            "last_retested_at_iso": "2020-08-01T10:27:57.732516",
             "status": "INACTIVE"
         },
         "www.5wh.co.zw": {
@@ -1620,8 +1620,8 @@
         "www.72impala.com": {
             "included_at_epoch": 1586460735.0,
             "included_at_iso": "2020-04-09T19:32:15",
-            "last_retested_at_epoch": 1596187743.306344,
-            "last_retested_at_iso": "2020-07-31T09:29:03.306344",
+            "last_retested_at_epoch": 1596278038.406219,
+            "last_retested_at_iso": "2020-08-01T10:33:58.406219",
             "status": "INACTIVE"
         },
         "www.7cfmnf.top": {
@@ -1641,8 +1641,8 @@
         "www.8090cpa.com": {
             "included_at_epoch": 1588464229.0,
             "included_at_iso": "2020-05-03T00:03:49",
-            "last_retested_at_epoch": 1596187591.672671,
-            "last_retested_at_iso": "2020-07-31T09:26:31.672671",
+            "last_retested_at_epoch": 1596277959.759344,
+            "last_retested_at_iso": "2020-08-01T10:32:39.759344",
             "status": "INACTIVE"
         },
         "www.86d6.com": {
@@ -1802,8 +1802,8 @@
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1588493503.0,
             "included_at_iso": "2020-05-03T08:11:43",
-            "last_retested_at_epoch": 1596187993.989167,
-            "last_retested_at_iso": "2020-07-31T09:33:13.989167",
+            "last_retested_at_epoch": 1596278183.555335,
+            "last_retested_at_iso": "2020-08-01T10:36:23.555335",
             "status": "INACTIVE"
         },
         "www.aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -2019,8 +2019,8 @@
         "www.aksao.com": {
             "included_at_epoch": 1588512748.0,
             "included_at_iso": "2020-05-03T13:32:28",
-            "last_retested_at_epoch": 1596188095.546265,
-            "last_retested_at_iso": "2020-07-31T09:34:55.546265",
+            "last_retested_at_epoch": 1596277587.325386,
+            "last_retested_at_iso": "2020-08-01T10:26:27.325386",
             "status": "INACTIVE"
         },
         "www.aksonural.ru": {
@@ -2047,8 +2047,8 @@
         "www.alanstrack.com": {
             "included_at_epoch": 1588503459.0,
             "included_at_iso": "2020-05-03T10:57:39",
-            "last_retested_at_epoch": 1596188398.019538,
-            "last_retested_at_iso": "2020-07-31T09:39:58.019538",
+            "last_retested_at_epoch": 1596278021.340635,
+            "last_retested_at_iso": "2020-08-01T10:33:41.340635",
             "status": "INACTIVE"
         },
         "www.alarmobninsk.ru": {
@@ -2152,8 +2152,8 @@
         "www.allamericanmadetoys.com": {
             "included_at_epoch": 1588500190.0,
             "included_at_iso": "2020-05-03T10:03:10",
-            "last_retested_at_epoch": 1596187859.595984,
-            "last_retested_at_iso": "2020-07-31T09:30:59.595984",
+            "last_retested_at_epoch": 1596277787.491358,
+            "last_retested_at_iso": "2020-08-01T10:29:47.491358",
             "status": "INACTIVE"
         },
         "www.allanimehentai.com": {
