@@ -1022,6 +1022,13 @@
             "last_retested_at_iso": "2020-06-03T12:32:10.995546",
             "status": "INACTIVE"
         },
+        "www.156002.com": {
+            "included_at_epoch": 1596292362.830794,
+            "included_at_iso": "2020-08-01T14:32:42.830794",
+            "last_retested_at_epoch": 1596292362.830794,
+            "last_retested_at_iso": "2020-08-01T14:32:42.830794",
+            "status": "INACTIVE"
+        },
         "www.15bb51.info": {
             "included_at_epoch": 1588473845.0,
             "included_at_iso": "2020-05-03T02:44:05",
@@ -2278,8 +2285,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1596202871.195125,
-            "last_retested_at_iso": "2020-07-31T13:41:11.195125",
+            "last_retested_at_epoch": 1596292816.93075,
+            "last_retested_at_iso": "2020-08-01T14:40:16.930750",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
@@ -2537,8 +2544,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1596203464.055315,
-            "last_retested_at_iso": "2020-07-31T13:51:04.055315",
+            "last_retested_at_epoch": 1596292920.179675,
+            "last_retested_at_iso": "2020-08-01T14:42:00.179675",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
@@ -3069,8 +3076,8 @@
         "www.spacebridemag.com": {
             "included_at_epoch": 1596113155.814006,
             "included_at_iso": "2020-07-30T12:45:55.814006",
-            "last_retested_at_epoch": 1596203002.152758,
-            "last_retested_at_iso": "2020-07-31T13:43:22.152758",
+            "last_retested_at_epoch": 1596292787.678898,
+            "last_retested_at_iso": "2020-08-01T14:39:47.678898",
             "status": "INACTIVE"
         },
         "www.townhousefilms.com": {
