@@ -213,8 +213,8 @@
         "69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1596192794.678893,
-            "last_retested_at_iso": "2020-07-31T10:53:14.678893",
+            "last_retested_at_epoch": 1596282122.213905,
+            "last_retested_at_iso": "2020-08-01T11:42:02.213905",
             "status": "INACTIVE"
         },
         "6ftlady.com": {
@@ -1585,8 +1585,8 @@
         "www.69proof.com": {
             "included_at_epoch": 1588478619.0,
             "included_at_iso": "2020-05-03T04:03:39",
-            "last_retested_at_epoch": 1596192794.6778,
-            "last_retested_at_iso": "2020-07-31T10:53:14.677800",
+            "last_retested_at_epoch": 1596282122.193211,
+            "last_retested_at_iso": "2020-08-01T11:42:02.193211",
             "status": "INACTIVE"
         },
         "www.69tubex.com": {
@@ -2068,8 +2068,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1596192998.308659,
-            "last_retested_at_iso": "2020-07-31T10:56:38.308659",
+            "last_retested_at_epoch": 1596282842.074633,
+            "last_retested_at_iso": "2020-08-01T11:54:02.074633",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
@@ -2838,8 +2838,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1596193226.219334,
-            "last_retested_at_iso": "2020-07-31T11:00:26.219334",
+            "last_retested_at_epoch": 1596282259.104656,
+            "last_retested_at_iso": "2020-08-01T11:44:19.104656",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
