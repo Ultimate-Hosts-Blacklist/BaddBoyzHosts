@@ -227,8 +227,8 @@
         "7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1596397244.80398,
-            "last_retested_at_iso": "2020-08-02T19:40:44.803980",
+            "last_retested_at_epoch": 1596486409.591724,
+            "last_retested_at_iso": "2020-08-03T20:26:49.591724",
             "status": "INACTIVE"
         },
         "86d6.com": {
@@ -1634,8 +1634,8 @@
         "www.7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1596397244.621393,
-            "last_retested_at_iso": "2020-08-02T19:40:44.621393",
+            "last_retested_at_epoch": 1596486409.435415,
+            "last_retested_at_iso": "2020-08-03T20:26:49.435415",
             "status": "INACTIVE"
         },
         "www.7gfs.com": {
@@ -1690,8 +1690,8 @@
         "www.90i.info": {
             "included_at_epoch": 1590095656.035231,
             "included_at_iso": "2020-05-21T21:14:16.035231",
-            "last_retested_at_epoch": 1596397616.401203,
-            "last_retested_at_iso": "2020-08-02T19:46:56.401203",
+            "last_retested_at_epoch": 1596485556.687852,
+            "last_retested_at_iso": "2020-08-03T20:12:36.687852",
             "status": "INACTIVE"
         },
         "www.94cdn.com": {
