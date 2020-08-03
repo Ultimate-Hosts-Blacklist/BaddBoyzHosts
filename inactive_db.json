@@ -1025,8 +1025,8 @@
         "www.156002.com": {
             "included_at_epoch": 1596292362.830794,
             "included_at_iso": "2020-08-01T14:32:42.830794",
-            "last_retested_at_epoch": 1596380864.724379,
-            "last_retested_at_iso": "2020-08-02T15:07:44.724379",
+            "last_retested_at_epoch": 1596470019.850992,
+            "last_retested_at_iso": "2020-08-03T15:53:39.850992",
             "status": "INACTIVE"
         },
         "www.15bb51.info": {
@@ -2285,8 +2285,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1596381312.22126,
-            "last_retested_at_iso": "2020-08-02T15:15:12.221260",
+            "last_retested_at_epoch": 1596469291.490477,
+            "last_retested_at_iso": "2020-08-03T15:41:31.490477",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
@@ -2544,8 +2544,8 @@
         "www.com-reports.com": {
             "included_at_epoch": 1588478439.0,
             "included_at_iso": "2020-05-03T04:00:39",
-            "last_retested_at_epoch": 1596381382.825372,
-            "last_retested_at_iso": "2020-08-02T15:16:22.825372",
+            "last_retested_at_epoch": 1596469417.069577,
+            "last_retested_at_iso": "2020-08-03T15:43:37.069577",
             "status": "INACTIVE"
         },
         "www.communisave.co.za": {
@@ -3076,8 +3076,8 @@
         "www.spacebridemag.com": {
             "included_at_epoch": 1596113155.814006,
             "included_at_iso": "2020-07-30T12:45:55.814006",
-            "last_retested_at_epoch": 1596381497.378364,
-            "last_retested_at_iso": "2020-08-02T15:18:17.378364",
+            "last_retested_at_epoch": 1596469948.759569,
+            "last_retested_at_iso": "2020-08-03T15:52:28.759569",
             "status": "INACTIVE"
         },
         "www.townhousefilms.com": {
