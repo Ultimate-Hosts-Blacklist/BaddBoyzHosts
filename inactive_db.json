@@ -227,8 +227,8 @@
         "7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1596486409.591724,
-            "last_retested_at_iso": "2020-08-03T20:26:49.591724",
+            "last_retested_at_epoch": 1596577690.803039,
+            "last_retested_at_iso": "2020-08-04T21:48:10.803039",
             "status": "INACTIVE"
         },
         "86d6.com": {
@@ -1466,8 +1466,8 @@
         "www.4plus11.com": {
             "included_at_epoch": 1588489712.0,
             "included_at_iso": "2020-05-03T07:08:32",
-            "last_retested_at_epoch": 1596490851.024893,
-            "last_retested_at_iso": "2020-08-03T21:40:51.024893",
+            "last_retested_at_epoch": 1596578015.239649,
+            "last_retested_at_iso": "2020-08-04T21:53:35.239649",
             "status": "INACTIVE"
         },
         "www.4realzed.com": {
@@ -1641,8 +1641,8 @@
         "www.7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1596486409.435415,
-            "last_retested_at_iso": "2020-08-03T20:26:49.435415",
+            "last_retested_at_epoch": 1596577690.343273,
+            "last_retested_at_iso": "2020-08-04T21:48:10.343273",
             "status": "INACTIVE"
         },
         "www.7gfs.com": {
