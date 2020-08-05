@@ -353,8 +353,8 @@
         "abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1596500739.832189,
-            "last_retested_at_iso": "2020-08-04T00:25:39.832189",
+            "last_retested_at_epoch": 1596587726.857603,
+            "last_retested_at_iso": "2020-08-05T00:35:26.857603",
             "status": "INACTIVE"
         },
         "absolute-live.com": {
@@ -570,8 +570,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1596501258.735953,
-            "last_retested_at_iso": "2020-08-04T00:34:18.735953",
+            "last_retested_at_epoch": 1596587943.556275,
+            "last_retested_at_iso": "2020-08-05T00:39:03.556275",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -759,8 +759,8 @@
         "hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1596501045.466672,
-            "last_retested_at_iso": "2020-08-04T00:30:45.466672",
+            "last_retested_at_epoch": 1596587924.38284,
+            "last_retested_at_iso": "2020-08-05T00:38:44.382840",
             "status": "INACTIVE"
         },
         "husky-shop.cz": {
@@ -1221,8 +1221,8 @@
         "www.271395.com": {
             "included_at_epoch": 1585826735.0,
             "included_at_iso": "2020-04-02T11:25:35",
-            "last_retested_at_epoch": 1596495488.713635,
-            "last_retested_at_iso": "2020-08-03T22:58:08.713635",
+            "last_retested_at_epoch": 1596587669.724971,
+            "last_retested_at_iso": "2020-08-05T00:34:29.724971",
             "status": "INACTIVE"
         },
         "www.272351.com": {
@@ -1235,8 +1235,8 @@
         "www.2anal.net": {
             "included_at_epoch": 1588445185.0,
             "included_at_iso": "2020-05-02T18:46:25",
-            "last_retested_at_epoch": 1596501414.34399,
-            "last_retested_at_iso": "2020-08-04T00:36:54.343990",
+            "last_retested_at_epoch": 1596588463.284985,
+            "last_retested_at_iso": "2020-08-05T00:47:43.284985",
             "status": "INACTIVE"
         },
         "www.2cam.nl": {
@@ -1900,8 +1900,8 @@
         "www.abeggs.com": {
             "included_at_epoch": 1588485968.0,
             "included_at_iso": "2020-05-03T06:06:08",
-            "last_retested_at_epoch": 1596500739.992372,
-            "last_retested_at_iso": "2020-08-04T00:25:39.992372",
+            "last_retested_at_epoch": 1596587726.816816,
+            "last_retested_at_iso": "2020-08-05T00:35:26.816816",
             "status": "INACTIVE"
         },
         "www.abetran.com": {
@@ -2138,8 +2138,8 @@
         "www.aliclonepro.xyz": {
             "included_at_epoch": 1595963027.155126,
             "included_at_iso": "2020-07-28T19:03:47.155126",
-            "last_retested_at_epoch": 1596496147.395486,
-            "last_retested_at_iso": "2020-08-03T23:09:07.395486",
+            "last_retested_at_epoch": 1596587735.505663,
+            "last_retested_at_iso": "2020-08-05T00:35:35.505663",
             "status": "INACTIVE"
         },
         "www.alirey.com": {
@@ -2187,8 +2187,8 @@
         "www.allbestpantyhose.com": {
             "included_at_epoch": 1588449964.0,
             "included_at_iso": "2020-05-02T20:06:04",
-            "last_retested_at_epoch": 1596491376.315217,
-            "last_retested_at_iso": "2020-08-03T21:49:36.315217",
+            "last_retested_at_epoch": 1596588355.811635,
+            "last_retested_at_iso": "2020-08-05T00:45:55.811635",
             "status": "INACTIVE"
         },
         "www.allbritishescorts.com": {
@@ -2460,8 +2460,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1596501258.735047,
-            "last_retested_at_iso": "2020-08-04T00:34:18.735047",
+            "last_retested_at_epoch": 1596587943.499485,
+            "last_retested_at_iso": "2020-08-05T00:39:03.499485",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -2901,8 +2901,8 @@
         "www.hunktoons.com": {
             "included_at_epoch": 1588478580.0,
             "included_at_iso": "2020-05-03T04:03:00",
-            "last_retested_at_epoch": 1596501045.72421,
-            "last_retested_at_iso": "2020-08-04T00:30:45.724210",
+            "last_retested_at_epoch": 1596587924.459722,
+            "last_retested_at_iso": "2020-08-05T00:38:44.459722",
             "status": "INACTIVE"
         },
         "www.husky-shop.cz": {
@@ -3097,8 +3097,8 @@
         "www.townhousefilms.com": {
             "included_at_epoch": 1595953175.478358,
             "included_at_iso": "2020-07-28T16:19:35.478358",
-            "last_retested_at_epoch": 1596490856.866651,
-            "last_retested_at_iso": "2020-08-03T21:40:56.866651",
+            "last_retested_at_epoch": 1596587682.048682,
+            "last_retested_at_iso": "2020-08-05T00:34:42.048682",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
