@@ -1862,6 +1862,13 @@
             "last_retested_at_iso": "2020-04-02T11:19:47",
             "status": "INACTIVE"
         },
+        "www.abacusnet.info": {
+            "included_at_epoch": 1596838147.514489,
+            "included_at_iso": "2020-08-07T22:09:07.514489",
+            "last_retested_at_epoch": 1596838147.514489,
+            "last_retested_at_iso": "2020-08-07T22:09:07.514489",
+            "status": "INACTIVE"
+        },
         "www.abacuspresents.com": {
             "included_at_epoch": 1588506242.0,
             "included_at_iso": "2020-05-03T11:44:02",
@@ -2341,8 +2348,8 @@
         "www.anchorpoint.co.za": {
             "included_at_epoch": 1581250922.0,
             "included_at_iso": "2020-02-09T12:22:02",
-            "last_retested_at_epoch": 1581250922.0,
-            "last_retested_at_iso": "2020-02-09T12:22:02",
+            "last_retested_at_epoch": 1596837647.530859,
+            "last_retested_at_iso": "2020-08-07T22:00:47.530859",
             "status": "INACTIVE"
         },
         "www.andrewrobertsllc.info": {
@@ -2565,8 +2572,8 @@
         "www.communisave.co.za": {
             "included_at_epoch": 1587831617.0,
             "included_at_iso": "2020-04-25T16:20:17",
-            "last_retested_at_epoch": 1587831617.0,
-            "last_retested_at_iso": "2020-04-25T16:20:17",
+            "last_retested_at_epoch": 1596837466.48796,
+            "last_retested_at_iso": "2020-08-07T21:57:46.487960",
             "status": "INACTIVE"
         },
         "www.companies-catalog.com": {
