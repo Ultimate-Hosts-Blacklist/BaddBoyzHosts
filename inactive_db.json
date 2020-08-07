@@ -2590,6 +2590,13 @@
             "last_retested_at_iso": "2020-07-29T23:46:59.158979",
             "status": "INACTIVE"
         },
+        "www.compitte.com": {
+            "included_at_epoch": 1596770918.260086,
+            "included_at_iso": "2020-08-07T03:28:38.260086",
+            "last_retested_at_epoch": 1596770918.260086,
+            "last_retested_at_iso": "2020-08-07T03:28:38.260086",
+            "status": "INACTIVE"
+        },
         "www.constructionskills.in": {
             "included_at_epoch": 1581805594.0,
             "included_at_iso": "2020-02-15T22:26:34",
