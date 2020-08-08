@@ -1403,8 +1403,8 @@
         "www.3henterprise.com": {
             "included_at_epoch": 1591908765.567666,
             "included_at_iso": "2020-06-11T20:52:45.567666",
-            "last_retested_at_epoch": 1591908765.567666,
-            "last_retested_at_iso": "2020-06-11T20:52:45.567666",
+            "last_retested_at_epoch": 1596860151.451427,
+            "last_retested_at_iso": "2020-08-08T04:15:51.451427",
             "status": "INACTIVE"
         },
         "www.3jmcwio.com": {
