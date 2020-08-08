@@ -1361,8 +1361,8 @@
         "www.3am.info": {
             "included_at_epoch": 1587471168.0,
             "included_at_iso": "2020-04-21T12:12:48",
-            "last_retested_at_epoch": 1587471168.0,
-            "last_retested_at_iso": "2020-04-21T12:12:48",
+            "last_retested_at_epoch": 1596865365.113946,
+            "last_retested_at_iso": "2020-08-08T05:42:45.113946",
             "status": "INACTIVE"
         },
         "www.3angelsvideo.com": {
