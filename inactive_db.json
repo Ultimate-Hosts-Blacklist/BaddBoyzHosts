@@ -2698,8 +2698,8 @@
         "www.everytalk.tv": {
             "included_at_epoch": 1574970759.0,
             "included_at_iso": "2019-11-28T19:52:39",
-            "last_retested_at_epoch": 1574970759.0,
-            "last_retested_at_iso": "2019-11-28T19:52:39",
+            "last_retested_at_epoch": 1596973485.290736,
+            "last_retested_at_iso": "2020-08-09T11:44:45.290736",
             "status": "INACTIVE"
         },
         "www.evidencecleanergold.com": {
