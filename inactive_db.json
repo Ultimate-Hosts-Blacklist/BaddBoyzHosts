@@ -1963,8 +1963,8 @@
         "www.acimo.com": {
             "included_at_epoch": 1593364392.29156,
             "included_at_iso": "2020-06-28T17:13:12.291560",
-            "last_retested_at_epoch": 1596718518.097909,
-            "last_retested_at_iso": "2020-08-06T12:55:18.097909",
+            "last_retested_at_epoch": 1596968818.665877,
+            "last_retested_at_iso": "2020-08-09T10:26:58.665877",
             "status": "INACTIVE"
         },
         "www.acompanhantesbrasil.com.br": {
@@ -2224,6 +2224,13 @@
             "included_at_iso": "2020-05-03T18:18:01",
             "last_retested_at_epoch": 1596893032.686151,
             "last_retested_at_iso": "2020-08-08T13:23:52.686151",
+            "status": "INACTIVE"
+        },
+        "www.allpdfmags.net": {
+            "included_at_epoch": 1596968730.439637,
+            "included_at_iso": "2020-08-09T10:25:30.439637",
+            "last_retested_at_epoch": 1596968730.439637,
+            "last_retested_at_iso": "2020-08-09T10:25:30.439637",
             "status": "INACTIVE"
         },
         "www.amateursconvert.com": {
