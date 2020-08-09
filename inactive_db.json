@@ -633,8 +633,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1596893882.334857,
-            "last_retested_at_iso": "2020-08-08T13:38:02.334857",
+            "last_retested_at_epoch": 1596996925.990938,
+            "last_retested_at_iso": "2020-08-09T18:15:25.990938",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -1193,8 +1193,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1596905125.130541,
-            "last_retested_at_iso": "2020-08-08T16:45:25.130541",
+            "last_retested_at_epoch": 1596996907.622775,
+            "last_retested_at_iso": "2020-08-09T18:15:07.622775",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1312,8 +1312,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1596904970.634393,
-            "last_retested_at_iso": "2020-08-08T16:42:50.634393",
+            "last_retested_at_epoch": 1596996333.93501,
+            "last_retested_at_iso": "2020-08-09T18:05:33.935010",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -2558,8 +2558,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1596893881.864314,
-            "last_retested_at_iso": "2020-08-08T13:38:01.864314",
+            "last_retested_at_epoch": 1596996925.575304,
+            "last_retested_at_iso": "2020-08-09T18:15:25.575304",
             "status": "INACTIVE"
         },
         "www.cinemabio.com": {
@@ -2845,8 +2845,8 @@
         "www.gratisweb.com": {
             "included_at_epoch": 1588496706.0,
             "included_at_iso": "2020-05-03T09:05:06",
-            "last_retested_at_epoch": 1596905661.257079,
-            "last_retested_at_iso": "2020-08-08T16:54:21.257079",
+            "last_retested_at_epoch": 1596996498.253554,
+            "last_retested_at_iso": "2020-08-09T18:08:18.253554",
             "status": "INACTIVE"
         },
         "www.greatlakessurveillance.com": {
@@ -3104,8 +3104,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1596899375.375148,
-            "last_retested_at_iso": "2020-08-08T15:09:35.375148",
+            "last_retested_at_epoch": 1596996368.850787,
+            "last_retested_at_iso": "2020-08-09T18:06:08.850787",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
@@ -3125,8 +3125,8 @@
         "www.townhousefilms.com": {
             "included_at_epoch": 1595953175.478358,
             "included_at_iso": "2020-07-28T16:19:35.478358",
-            "last_retested_at_epoch": 1596893824.836071,
-            "last_retested_at_iso": "2020-08-08T13:37:04.836071",
+            "last_retested_at_epoch": 1596996342.443959,
+            "last_retested_at_iso": "2020-08-09T18:05:42.443959",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
