@@ -784,6 +784,13 @@
             "last_retested_at_iso": "2020-08-09T13:10:16.154860",
             "status": "INACTIVE"
         },
+        "index.buckshost.com": {
+            "included_at_epoch": 1597036825.331037,
+            "included_at_iso": "2020-08-10T05:20:25.331037",
+            "last_retested_at_epoch": 1597036825.331037,
+            "last_retested_at_iso": "2020-08-10T05:20:25.331037",
+            "status": "INACTIVE"
+        },
         "keepcolletive.com": {
             "included_at_epoch": 1588482530.0,
             "included_at_iso": "2020-05-03T05:08:50",
