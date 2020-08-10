@@ -1984,8 +1984,8 @@
         "www.acimo.com": {
             "included_at_epoch": 1593364392.29156,
             "included_at_iso": "2020-06-28T17:13:12.291560",
-            "last_retested_at_epoch": 1596968818.665877,
-            "last_retested_at_iso": "2020-08-09T10:26:58.665877",
+            "last_retested_at_epoch": 1597064058.592207,
+            "last_retested_at_iso": "2020-08-10T12:54:18.592207",
             "status": "INACTIVE"
         },
         "www.acompanhantesbrasil.com.br": {
@@ -2250,8 +2250,8 @@
         "www.allpdfmags.net": {
             "included_at_epoch": 1596968730.439637,
             "included_at_iso": "2020-08-09T10:25:30.439637",
-            "last_retested_at_epoch": 1596968730.439637,
-            "last_retested_at_iso": "2020-08-09T10:25:30.439637",
+            "last_retested_at_epoch": 1597063996.004918,
+            "last_retested_at_iso": "2020-08-10T12:53:16.004918",
             "status": "INACTIVE"
         },
         "www.amateursconvert.com": {
@@ -2719,8 +2719,8 @@
         "www.everytalk.tv": {
             "included_at_epoch": 1574970759.0,
             "included_at_iso": "2019-11-28T19:52:39",
-            "last_retested_at_epoch": 1596973485.290736,
-            "last_retested_at_iso": "2020-08-09T11:44:45.290736",
+            "last_retested_at_epoch": 1597064380.600426,
+            "last_retested_at_iso": "2020-08-10T12:59:40.600426",
             "status": "INACTIVE"
         },
         "www.evidencecleanergold.com": {
