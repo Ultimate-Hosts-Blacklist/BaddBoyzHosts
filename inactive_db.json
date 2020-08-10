@@ -1484,6 +1484,13 @@
             "last_retested_at_iso": "2020-04-13T07:14:41",
             "status": "INACTIVE"
         },
+        "www.4replicawatch.net": {
+            "included_at_epoch": 1597024953.520492,
+            "included_at_iso": "2020-08-10T02:02:33.520492",
+            "last_retested_at_epoch": 1597024953.520492,
+            "last_retested_at_iso": "2020-08-10T02:02:33.520492",
+            "status": "INACTIVE"
+        },
         "www.4th3d48.com": {
             "included_at_epoch": 1586526073.0,
             "included_at_iso": "2020-04-10T13:41:13",
@@ -2847,6 +2854,13 @@
             "included_at_iso": "2020-05-03T09:05:06",
             "last_retested_at_epoch": 1596996498.253554,
             "last_retested_at_iso": "2020-08-09T18:08:18.253554",
+            "status": "INACTIVE"
+        },
+        "www.greatfireoflondon.org.uk": {
+            "included_at_epoch": 1597024282.693965,
+            "included_at_iso": "2020-08-10T01:51:22.693965",
+            "last_retested_at_epoch": 1597024282.693965,
+            "last_retested_at_iso": "2020-08-10T01:51:22.693965",
             "status": "INACTIVE"
         },
         "www.greatlakessurveillance.com": {
