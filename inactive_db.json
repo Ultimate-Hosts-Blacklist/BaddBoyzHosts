@@ -2247,6 +2247,13 @@
             "last_retested_at_iso": "2020-08-10T16:00:59.533906",
             "status": "INACTIVE"
         },
+        "www.alloysteel.ru": {
+            "included_at_epoch": 1597111994.36356,
+            "included_at_iso": "2020-08-11T02:13:14.363560",
+            "last_retested_at_epoch": 1597111994.36356,
+            "last_retested_at_iso": "2020-08-11T02:13:14.363560",
+            "status": "INACTIVE"
+        },
         "www.allpdfmags.net": {
             "included_at_epoch": 1596968730.439637,
             "included_at_iso": "2020-08-09T10:25:30.439637",
