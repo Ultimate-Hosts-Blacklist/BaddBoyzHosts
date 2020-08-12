@@ -45,8 +45,8 @@
         "042707d90914.agrigid.com": {
             "included_at_epoch": 1583424983.0,
             "included_at_iso": "2020-03-05T16:16:23",
-            "last_retested_at_epoch": 1595379941.576162,
-            "last_retested_at_iso": "2020-07-22T01:05:41.576162",
+            "last_retested_at_epoch": 1597207404.697547,
+            "last_retested_at_iso": "2020-08-12T04:43:24.697547",
             "status": "INACTIVE"
         },
         "0pros.com": {
@@ -1193,8 +1193,8 @@
         "www.24holdem.com": {
             "included_at_epoch": 1585307701.0,
             "included_at_iso": "2020-03-27T11:15:01",
-            "last_retested_at_epoch": 1595380375.78406,
-            "last_retested_at_iso": "2020-07-22T01:12:55.784060",
+            "last_retested_at_epoch": 1597207430.973914,
+            "last_retested_at_iso": "2020-08-12T04:43:50.973914",
             "status": "INACTIVE"
         },
         "www.24tradeplus.com": {
