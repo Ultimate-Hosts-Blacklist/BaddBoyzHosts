@@ -1963,8 +1963,8 @@
         "www.ac-transfer.com": {
             "included_at_epoch": 1580420172.0,
             "included_at_iso": "2020-01-30T21:36:12",
-            "last_retested_at_epoch": 1580420172.0,
-            "last_retested_at_iso": "2020-01-30T21:36:12",
+            "last_retested_at_epoch": 1597241932.336419,
+            "last_retested_at_iso": "2020-08-12T14:18:52.336419",
             "status": "INACTIVE"
         },
         "www.acads.net": {
