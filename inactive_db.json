@@ -3076,8 +3076,8 @@
         "www.ido3.com": {
             "included_at_epoch": 1594823774.253048,
             "included_at_iso": "2020-07-15T14:36:14.253048",
-            "last_retested_at_epoch": 1594823774.253048,
-            "last_retested_at_iso": "2020-07-15T14:36:14.253048",
+            "last_retested_at_epoch": 1597292980.705424,
+            "last_retested_at_iso": "2020-08-13T04:29:40.705424",
             "status": "INACTIVE"
         },
         "www.idvipteam.com": {
