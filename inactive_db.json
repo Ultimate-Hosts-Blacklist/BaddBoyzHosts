@@ -3031,6 +3031,13 @@
             "last_retested_at_iso": "2020-08-04T10:04:14.468657",
             "status": "INACTIVE"
         },
+        "www.i-dating.info": {
+            "included_at_epoch": 1597460544.136183,
+            "included_at_iso": "2020-08-15T03:02:24.136183",
+            "last_retested_at_epoch": 1597460544.136183,
+            "last_retested_at_iso": "2020-08-15T03:02:24.136183",
+            "status": "INACTIVE"
+        },
         "www.ici-sexe.tk": {
             "included_at_epoch": 1576888954.0,
             "included_at_iso": "2019-12-21T00:42:34",
@@ -3139,8 +3146,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1597362498.382626,
-            "last_retested_at_iso": "2020-08-13T23:48:18.382626",
+            "last_retested_at_epoch": 1597459940.163554,
+            "last_retested_at_iso": "2020-08-15T02:52:20.163554",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
