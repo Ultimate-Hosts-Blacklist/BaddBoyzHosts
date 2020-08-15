@@ -2047,8 +2047,8 @@
         "www.ad-logics.com": {
             "included_at_epoch": 1588468882.0,
             "included_at_iso": "2020-05-03T01:21:22",
-            "last_retested_at_epoch": 1597435514.840755,
-            "last_retested_at_iso": "2020-08-14T20:05:14.840755",
+            "last_retested_at_epoch": 1597527041.697454,
+            "last_retested_at_iso": "2020-08-15T21:30:41.697454",
             "status": "INACTIVE"
         },
         "www.airmore.co": {
@@ -2341,8 +2341,8 @@
         "www.ampower.me": {
             "included_at_epoch": 1588506418.0,
             "included_at_iso": "2020-05-03T11:46:58",
-            "last_retested_at_epoch": 1597435235.775025,
-            "last_retested_at_iso": "2020-08-14T20:00:35.775025",
+            "last_retested_at_epoch": 1597527160.094658,
+            "last_retested_at_iso": "2020-08-15T21:32:40.094658",
             "status": "INACTIVE"
         },
         "www.an-donut.com": {
@@ -2390,8 +2390,8 @@
         "www.andrewrobertsllc.info": {
             "included_at_epoch": 1588509262.0,
             "included_at_iso": "2020-05-03T12:34:22",
-            "last_retested_at_epoch": 1597435156.725577,
-            "last_retested_at_iso": "2020-08-14T19:59:16.725577",
+            "last_retested_at_epoch": 1597526360.227933,
+            "last_retested_at_iso": "2020-08-15T21:19:20.227933",
             "status": "INACTIVE"
         },
         "www.android-style.com": {
