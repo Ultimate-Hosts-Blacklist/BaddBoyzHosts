@@ -1071,6 +1071,13 @@
             "last_retested_at_iso": "2020-04-01T11:19:09",
             "status": "INACTIVE"
         },
+        "www.18hdxxx.com": {
+            "included_at_epoch": 1597568478.978466,
+            "included_at_iso": "2020-08-16T09:01:18.978466",
+            "last_retested_at_epoch": 1597568478.978466,
+            "last_retested_at_iso": "2020-08-16T09:01:18.978466",
+            "status": "INACTIVE"
+        },
         "www.18pluspics.com": {
             "included_at_epoch": 1583425117.0,
             "included_at_iso": "2020-03-05T16:18:37",
