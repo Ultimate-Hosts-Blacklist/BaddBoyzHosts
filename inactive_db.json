@@ -1319,8 +1319,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1597454223.075001,
-            "last_retested_at_iso": "2020-08-15T01:17:03.075001",
+            "last_retested_at_epoch": 1597546821.733,
+            "last_retested_at_iso": "2020-08-16T03:00:21.733000",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -2553,6 +2553,13 @@
             "included_at_iso": "2020-04-04T10:52:34",
             "last_retested_at_epoch": 1585997554.0,
             "last_retested_at_iso": "2020-04-04T10:52:34",
+            "status": "INACTIVE"
+        },
+        "www.cialismed.com": {
+            "included_at_epoch": 1597546877.270075,
+            "included_at_iso": "2020-08-16T03:01:17.270075",
+            "last_retested_at_epoch": 1597546877.270075,
+            "last_retested_at_iso": "2020-08-16T03:01:17.270075",
             "status": "INACTIVE"
         },
         "www.ciaplus.com.br": {
