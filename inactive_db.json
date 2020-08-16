@@ -38,8 +38,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1597448295.206386,
-            "last_retested_at_iso": "2020-08-14T23:38:15.206386",
+            "last_retested_at_epoch": 1597542619.054494,
+            "last_retested_at_iso": "2020-08-16T01:50:19.054494",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -633,8 +633,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1597454265.06184,
-            "last_retested_at_iso": "2020-08-15T01:17:45.061840",
+            "last_retested_at_epoch": 1597542442.638246,
+            "last_retested_at_iso": "2020-08-16T01:47:22.638246",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -864,8 +864,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1597448295.207484,
-            "last_retested_at_iso": "2020-08-14T23:38:15.207484",
+            "last_retested_at_epoch": 1597542619.272208,
+            "last_retested_at_iso": "2020-08-16T01:50:19.272208",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -1060,8 +1060,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1597448327.106784,
-            "last_retested_at_iso": "2020-08-14T23:38:47.106784",
+            "last_retested_at_epoch": 1597542223.976872,
+            "last_retested_at_iso": "2020-08-16T01:43:43.976872",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1165,8 +1165,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1597454378.582125,
-            "last_retested_at_iso": "2020-08-15T01:19:38.582125",
+            "last_retested_at_epoch": 1597542221.710149,
+            "last_retested_at_iso": "2020-08-16T01:43:41.710149",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -1200,8 +1200,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1597448738.957634,
-            "last_retested_at_iso": "2020-08-14T23:45:38.957634",
+            "last_retested_at_epoch": 1597542610.28191,
+            "last_retested_at_iso": "2020-08-16T01:50:10.281910",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1592,8 +1592,8 @@
         "www.666s.info": {
             "included_at_epoch": 1588482294.0,
             "included_at_iso": "2020-05-03T05:04:54",
-            "last_retested_at_epoch": 1597453847.874225,
-            "last_retested_at_iso": "2020-08-15T01:10:47.874225",
+            "last_retested_at_epoch": 1597543011.617705,
+            "last_retested_at_iso": "2020-08-16T01:56:51.617705",
             "status": "INACTIVE"
         },
         "www.66av.cc": {
@@ -2586,8 +2586,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1597454264.811553,
-            "last_retested_at_iso": "2020-08-15T01:17:44.811553",
+            "last_retested_at_epoch": 1597542442.615777,
+            "last_retested_at_iso": "2020-08-16T01:47:22.615777",
             "status": "INACTIVE"
         },
         "www.cinemabio.com": {
@@ -2873,8 +2873,8 @@
         "www.gratisweb.com": {
             "included_at_epoch": 1588496706.0,
             "included_at_iso": "2020-05-03T09:05:06",
-            "last_retested_at_epoch": 1597448612.827933,
-            "last_retested_at_iso": "2020-08-14T23:43:32.827933",
+            "last_retested_at_epoch": 1597542582.437787,
+            "last_retested_at_iso": "2020-08-16T01:49:42.437787",
             "status": "INACTIVE"
         },
         "www.greatfireoflondon.org.uk": {
@@ -3167,8 +3167,8 @@
         "www.townhousefilms.com": {
             "included_at_epoch": 1595953175.478358,
             "included_at_iso": "2020-07-28T16:19:35.478358",
-            "last_retested_at_epoch": 1597448101.075432,
-            "last_retested_at_iso": "2020-08-14T23:35:01.075432",
+            "last_retested_at_epoch": 1597542632.819337,
+            "last_retested_at_iso": "2020-08-16T01:50:32.819337",
             "status": "INACTIVE"
         },
         "yuarra.pluto.ro": {
