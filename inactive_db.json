@@ -3048,8 +3048,8 @@
         "www.i-dating.info": {
             "included_at_epoch": 1597460544.136183,
             "included_at_iso": "2020-08-15T03:02:24.136183",
-            "last_retested_at_epoch": 1597551318.291517,
-            "last_retested_at_iso": "2020-08-16T04:15:18.291517",
+            "last_retested_at_epoch": 1597642211.292782,
+            "last_retested_at_iso": "2020-08-17T05:30:11.292782",
             "status": "INACTIVE"
         },
         "www.ici-sexe.tk": {
@@ -3160,8 +3160,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1597551085.451362,
-            "last_retested_at_iso": "2020-08-16T04:11:25.451362",
+            "last_retested_at_epoch": 1597641684.772538,
+            "last_retested_at_iso": "2020-08-17T05:21:24.772538",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
