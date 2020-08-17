@@ -640,8 +640,8 @@
         "company.com.ph": {
             "included_at_epoch": 1590519727.842643,
             "included_at_iso": "2020-05-26T19:02:07.842643",
-            "last_retested_at_epoch": 1590519727.842643,
-            "last_retested_at_iso": "2020-05-26T19:02:07.842643",
+            "last_retested_at_epoch": 1597669260.964329,
+            "last_retested_at_iso": "2020-08-17T13:01:00.964329",
             "status": "INACTIVE"
         },
         "companycreators.co.uk": {
@@ -2611,6 +2611,13 @@
             "last_retested_at_iso": "2020-08-17T01:57:55.265864",
             "status": "INACTIVE"
         },
+        "www.cinema3satu.com": {
+            "included_at_epoch": 1597669236.728963,
+            "included_at_iso": "2020-08-17T13:00:36.728963",
+            "last_retested_at_epoch": 1597669236.728963,
+            "last_retested_at_iso": "2020-08-17T13:00:36.728963",
+            "status": "INACTIVE"
+        },
         "www.cinemabio.com": {
             "included_at_epoch": 1595009207.50882,
             "included_at_iso": "2020-07-17T18:06:47.508820",
@@ -2649,8 +2656,8 @@
         "www.company.com.ph": {
             "included_at_epoch": 1590519727.236155,
             "included_at_iso": "2020-05-26T19:02:07.236155",
-            "last_retested_at_epoch": 1590519727.236155,
-            "last_retested_at_iso": "2020-05-26T19:02:07.236155",
+            "last_retested_at_epoch": 1597669259.246511,
+            "last_retested_at_iso": "2020-08-17T13:00:59.246511",
             "status": "INACTIVE"
         },
         "www.companycreators.co.uk": {
@@ -2665,6 +2672,13 @@
             "included_at_iso": "2020-08-07T03:28:38.260086",
             "last_retested_at_epoch": 1596770918.260086,
             "last_retested_at_iso": "2020-08-07T03:28:38.260086",
+            "status": "INACTIVE"
+        },
+        "www.comprafacil.com.br": {
+            "included_at_epoch": 1597669375.319399,
+            "included_at_iso": "2020-08-17T13:02:55.319399",
+            "last_retested_at_epoch": 1597669375.319399,
+            "last_retested_at_iso": "2020-08-17T13:02:55.319399",
             "status": "INACTIVE"
         },
         "www.constructionskills.in": {
