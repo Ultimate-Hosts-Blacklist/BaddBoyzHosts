@@ -234,8 +234,8 @@
         "86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1597691123.067423,
-            "last_retested_at_iso": "2020-08-17T19:05:23.067423",
+            "last_retested_at_epoch": 1597781521.663771,
+            "last_retested_at_iso": "2020-08-18T20:12:01.663771",
             "status": "INACTIVE"
         },
         "8khmer.com": {
@@ -1690,8 +1690,8 @@
         "www.86d6.com": {
             "included_at_epoch": 1588482787.0,
             "included_at_iso": "2020-05-03T05:13:07",
-            "last_retested_at_epoch": 1597691122.821199,
-            "last_retested_at_iso": "2020-08-17T19:05:22.821199",
+            "last_retested_at_epoch": 1597781521.539804,
+            "last_retested_at_iso": "2020-08-18T20:12:01.539804",
             "status": "INACTIVE"
         },
         "www.87w.info": {
