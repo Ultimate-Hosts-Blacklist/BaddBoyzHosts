@@ -2044,6 +2044,13 @@
             "last_retested_at_iso": "2020-06-29T05:01:28.850337",
             "status": "INACTIVE"
         },
+        "www.activewatch.ro": {
+            "included_at_epoch": 1598017920.400661,
+            "included_at_iso": "2020-08-21T13:52:00.400661",
+            "last_retested_at_epoch": 1598017920.400661,
+            "last_retested_at_iso": "2020-08-21T13:52:00.400661",
+            "status": "INACTIVE"
+        },
         "www.actricesmexicanasdesnudas.com": {
             "included_at_epoch": 1584478046.0,
             "included_at_iso": "2020-03-17T20:47:26",
@@ -2604,6 +2611,13 @@
             "last_retested_at_iso": "2020-08-14T20:03:39.064366",
             "status": "INACTIVE"
         },
+        "www.cienum.fr": {
+            "included_at_epoch": 1598017873.946465,
+            "included_at_iso": "2020-08-21T13:51:13.946465",
+            "last_retested_at_epoch": 1598017873.946465,
+            "last_retested_at_iso": "2020-08-21T13:51:13.946465",
+            "status": "INACTIVE"
+        },
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
@@ -2875,6 +2889,13 @@
             "included_at_iso": "2019-12-15T18:21:16",
             "last_retested_at_epoch": 1576434076.0,
             "last_retested_at_iso": "2019-12-15T18:21:16",
+            "status": "INACTIVE"
+        },
+        "www.globusdate.com": {
+            "included_at_epoch": 1598017781.246122,
+            "included_at_iso": "2020-08-21T13:49:41.246122",
+            "last_retested_at_epoch": 1598017781.246122,
+            "last_retested_at_iso": "2020-08-21T13:49:41.246122",
             "status": "INACTIVE"
         },
         "www.go-gal.com": {
@@ -3185,6 +3206,13 @@
             "last_retested_at_iso": "2019-12-20T23:12:33",
             "status": "INACTIVE"
         },
+        "www.maincert.com": {
+            "included_at_epoch": 1598018146.329244,
+            "included_at_iso": "2020-08-21T13:55:46.329244",
+            "last_retested_at_epoch": 1598018146.329244,
+            "last_retested_at_iso": "2020-08-21T13:55:46.329244",
+            "status": "INACTIVE"
+        },
         "www.matureporno.info": {
             "included_at_epoch": 1591186993.752761,
             "included_at_iso": "2020-06-03T12:23:13.752761",
@@ -3237,8 +3265,8 @@
         "yunque.pluto.ro": {
             "included_at_epoch": 1588353519.0,
             "included_at_iso": "2020-05-01T17:18:39",
-            "last_retested_at_epoch": 1589808392.209097,
-            "last_retested_at_iso": "2020-05-18T13:26:32.209097",
+            "last_retested_at_epoch": 1598017797.856093,
+            "last_retested_at_iso": "2020-08-21T13:49:57.856093",
             "status": "INACTIVE"
         },
         "zc1.delta-boa.com": {
