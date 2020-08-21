@@ -2716,6 +2716,20 @@
             "last_retested_at_iso": "2020-02-15T22:26:34",
             "status": "INACTIVE"
         },
+        "www.construfuturo.com.mx": {
+            "included_at_epoch": 1598045873.830903,
+            "included_at_iso": "2020-08-21T21:37:53.830903",
+            "last_retested_at_epoch": 1598045873.830903,
+            "last_retested_at_iso": "2020-08-21T21:37:53.830903",
+            "status": "INACTIVE"
+        },
+        "www.construmac.com.mx": {
+            "included_at_epoch": 1598045341.551912,
+            "included_at_iso": "2020-08-21T21:29:01.551912",
+            "last_retested_at_epoch": 1598045341.551912,
+            "last_retested_at_iso": "2020-08-21T21:29:01.551912",
+            "status": "INACTIVE"
+        },
         "www.contextualyield.com": {
             "included_at_epoch": 1595008642.553333,
             "included_at_iso": "2020-07-17T17:57:22.553333",
