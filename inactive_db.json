@@ -556,8 +556,8 @@
         "anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1597899636.409779,
-            "last_retested_at_iso": "2020-08-20T05:00:36.409779",
+            "last_retested_at_epoch": 1597996000.009678,
+            "last_retested_at_iso": "2020-08-21T07:46:40.009678",
             "status": "INACTIVE"
         },
         "aviodg.eu": {
@@ -640,8 +640,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1597905022.928615,
-            "last_retested_at_iso": "2020-08-20T06:30:22.928615",
+            "last_retested_at_epoch": 1597996099.984852,
+            "last_retested_at_iso": "2020-08-21T07:48:19.984852",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -682,8 +682,8 @@
         "euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1597905125.66439,
-            "last_retested_at_iso": "2020-08-20T06:32:05.664390",
+            "last_retested_at_epoch": 1597995784.735258,
+            "last_retested_at_iso": "2020-08-21T07:43:04.735258",
             "status": "INACTIVE"
         },
         "everydresses.com": {
@@ -1179,8 +1179,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1597905404.764578,
-            "last_retested_at_iso": "2020-08-20T06:36:44.764578",
+            "last_retested_at_epoch": 1597996333.280434,
+            "last_retested_at_iso": "2020-08-21T07:52:13.280434",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -1606,8 +1606,8 @@
         "www.666s.info": {
             "included_at_epoch": 1588482294.0,
             "included_at_iso": "2020-05-03T05:04:54",
-            "last_retested_at_epoch": 1597905353.675757,
-            "last_retested_at_iso": "2020-08-20T06:35:53.675757",
+            "last_retested_at_epoch": 1597995998.650817,
+            "last_retested_at_iso": "2020-08-21T07:46:38.650817",
             "status": "INACTIVE"
         },
         "www.66av.cc": {
@@ -2481,8 +2481,8 @@
         "www.anti-virus-removal.info": {
             "included_at_epoch": 1588449958.0,
             "included_at_iso": "2020-05-02T20:05:58",
-            "last_retested_at_epoch": 1597899636.1846,
-            "last_retested_at_iso": "2020-08-20T05:00:36.184600",
+            "last_retested_at_epoch": 1597996000.134611,
+            "last_retested_at_iso": "2020-08-21T07:46:40.134611",
             "status": "INACTIVE"
         },
         "www.appyaviator.com": {
@@ -2621,8 +2621,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1597905022.539296,
-            "last_retested_at_iso": "2020-08-20T06:30:22.539296",
+            "last_retested_at_epoch": 1597996101.975511,
+            "last_retested_at_iso": "2020-08-21T07:48:21.975511",
             "status": "INACTIVE"
         },
         "www.cinema3satu.com": {
@@ -2768,8 +2768,8 @@
         "www.euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1597905125.800987,
-            "last_retested_at_iso": "2020-08-20T06:32:05.800987",
+            "last_retested_at_epoch": 1597995784.799767,
+            "last_retested_at_iso": "2020-08-21T07:43:04.799767",
             "status": "INACTIVE"
         },
         "www.everydresses.com": {
@@ -2922,8 +2922,8 @@
         "www.gratisweb.com": {
             "included_at_epoch": 1588496706.0,
             "included_at_iso": "2020-05-03T09:05:06",
-            "last_retested_at_epoch": 1597904597.074172,
-            "last_retested_at_iso": "2020-08-20T06:23:17.074172",
+            "last_retested_at_epoch": 1597996219.441192,
+            "last_retested_at_iso": "2020-08-21T07:50:19.441192",
             "status": "INACTIVE"
         },
         "www.greatfireoflondon.org.uk": {
@@ -2999,8 +2999,8 @@
         "www.hunks-hardcore.com": {
             "included_at_epoch": 1585826717.0,
             "included_at_iso": "2020-04-02T11:25:17",
-            "last_retested_at_epoch": 1597904796.4743,
-            "last_retested_at_iso": "2020-08-20T06:26:36.474300",
+            "last_retested_at_epoch": 1597996298.596797,
+            "last_retested_at_iso": "2020-08-21T07:51:38.596797",
             "status": "INACTIVE"
         },
         "www.hunks-naked.com": {
@@ -3141,6 +3141,13 @@
             "included_at_iso": "2020-07-15T14:36:14.253048",
             "last_retested_at_epoch": 1597292980.705424,
             "last_retested_at_iso": "2020-08-13T04:29:40.705424",
+            "status": "INACTIVE"
+        },
+        "www.idolhairsalon.com": {
+            "included_at_epoch": 1597995964.767582,
+            "included_at_iso": "2020-08-21T07:46:04.767582",
+            "last_retested_at_epoch": 1597995964.767582,
+            "last_retested_at_iso": "2020-08-21T07:46:04.767582",
             "status": "INACTIVE"
         },
         "www.idvipteam.com": {
