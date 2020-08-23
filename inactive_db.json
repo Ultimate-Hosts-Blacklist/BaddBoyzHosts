@@ -367,8 +367,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598103642.315204,
-            "last_retested_at_iso": "2020-08-22T13:40:42.315204",
+            "last_retested_at_epoch": 1598192261.991596,
+            "last_retested_at_iso": "2020-08-23T14:17:41.991596",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1032,8 +1032,8 @@
         "www.1337crew.info": {
             "included_at_epoch": 1587276713.0,
             "included_at_iso": "2020-04-19T06:11:53",
-            "last_retested_at_epoch": 1598103198.769918,
-            "last_retested_at_iso": "2020-08-22T13:33:18.769918",
+            "last_retested_at_epoch": 1598191693.637657,
+            "last_retested_at_iso": "2020-08-23T14:08:13.637657",
             "status": "INACTIVE"
         },
         "www.138shenbosbo.com": {
@@ -1970,8 +1970,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598103642.298567,
-            "last_retested_at_iso": "2020-08-22T13:40:42.298567",
+            "last_retested_at_epoch": 1598192261.965471,
+            "last_retested_at_iso": "2020-08-23T14:17:41.965471",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
