@@ -367,8 +367,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598192261.991596,
-            "last_retested_at_iso": "2020-08-23T14:17:41.991596",
+            "last_retested_at_epoch": 1598284079.532306,
+            "last_retested_at_iso": "2020-08-24T15:47:59.532306",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1970,8 +1970,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598192261.965471,
-            "last_retested_at_iso": "2020-08-23T14:17:41.965471",
+            "last_retested_at_epoch": 1598284079.549146,
+            "last_retested_at_iso": "2020-08-24T15:47:59.549146",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
