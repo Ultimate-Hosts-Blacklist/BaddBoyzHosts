@@ -136,8 +136,8 @@
         "272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1598180662.62753,
-            "last_retested_at_iso": "2020-08-23T11:04:22.627530",
+            "last_retested_at_epoch": 1598267401.598615,
+            "last_retested_at_iso": "2020-08-24T11:10:01.598615",
             "status": "INACTIVE"
         },
         "2cam.nl": {
@@ -640,8 +640,8 @@
         "cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1598174877.699235,
-            "last_retested_at_iso": "2020-08-23T09:27:57.699235",
+            "last_retested_at_epoch": 1598266764.614317,
+            "last_retested_at_iso": "2020-08-24T10:59:24.614317",
             "status": "INACTIVE"
         },
         "company.com.ph": {
@@ -1214,8 +1214,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1598174800.104991,
-            "last_retested_at_iso": "2020-08-23T09:26:40.104991",
+            "last_retested_at_epoch": 1598266724.414545,
+            "last_retested_at_iso": "2020-08-24T10:58:44.414545",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1256,15 +1256,15 @@
         "www.272351.com": {
             "included_at_epoch": 1588464061.0,
             "included_at_iso": "2020-05-03T00:01:01",
-            "last_retested_at_epoch": 1598180662.626608,
-            "last_retested_at_iso": "2020-08-23T11:04:22.626608",
+            "last_retested_at_epoch": 1598267401.580097,
+            "last_retested_at_iso": "2020-08-24T11:10:01.580097",
             "status": "INACTIVE"
         },
         "www.2anal.net": {
             "included_at_epoch": 1588445185.0,
             "included_at_iso": "2020-05-02T18:46:25",
-            "last_retested_at_epoch": 1598175143.837843,
-            "last_retested_at_iso": "2020-08-23T09:32:23.837843",
+            "last_retested_at_epoch": 1598266724.735402,
+            "last_retested_at_iso": "2020-08-24T10:58:44.735402",
             "status": "INACTIVE"
         },
         "www.2cam.nl": {
@@ -2593,8 +2593,8 @@
         "www.cialismed.com": {
             "included_at_epoch": 1597546877.270075,
             "included_at_iso": "2020-08-16T03:01:17.270075",
-            "last_retested_at_epoch": 1598180902.768218,
-            "last_retested_at_iso": "2020-08-23T11:08:22.768218",
+            "last_retested_at_epoch": 1598267444.213731,
+            "last_retested_at_iso": "2020-08-24T11:10:44.213731",
             "status": "INACTIVE"
         },
         "www.ciaplus.com.br": {
@@ -2635,8 +2635,8 @@
         "www.cineitalia.top": {
             "included_at_epoch": 1588482850.0,
             "included_at_iso": "2020-05-03T05:14:10",
-            "last_retested_at_epoch": 1598174877.665085,
-            "last_retested_at_iso": "2020-08-23T09:27:57.665085",
+            "last_retested_at_epoch": 1598266765.11441,
+            "last_retested_at_iso": "2020-08-24T10:59:25.114410",
             "status": "INACTIVE"
         },
         "www.cinema3satu.com": {
@@ -3251,8 +3251,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1598180690.354655,
-            "last_retested_at_iso": "2020-08-23T11:04:50.354655",
+            "last_retested_at_epoch": 1598267349.522654,
+            "last_retested_at_iso": "2020-08-24T11:09:09.522654",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
