@@ -682,8 +682,8 @@
         "euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1598278266.546398,
-            "last_retested_at_iso": "2020-08-24T14:11:06.546398",
+            "last_retested_at_epoch": 1598366923.350287,
+            "last_retested_at_iso": "2020-08-25T14:48:43.350287",
             "status": "INACTIVE"
         },
         "everydresses.com": {
@@ -1032,8 +1032,8 @@
         "www.1337crew.info": {
             "included_at_epoch": 1587276713.0,
             "included_at_iso": "2020-04-19T06:11:53",
-            "last_retested_at_epoch": 1598278129.705047,
-            "last_retested_at_iso": "2020-08-24T14:08:49.705047",
+            "last_retested_at_epoch": 1598367281.271157,
+            "last_retested_at_iso": "2020-08-25T14:54:41.271157",
             "status": "INACTIVE"
         },
         "www.138shenbosbo.com": {
@@ -1102,8 +1102,8 @@
         "www.18pure.info": {
             "included_at_epoch": 1588473789.0,
             "included_at_iso": "2020-05-03T02:43:09",
-            "last_retested_at_epoch": 1598271909.414356,
-            "last_retested_at_iso": "2020-08-24T12:25:09.414356",
+            "last_retested_at_epoch": 1598367238.079069,
+            "last_retested_at_iso": "2020-08-25T14:53:58.079069",
             "status": "INACTIVE"
         },
         "www.18teengirl.com": {
@@ -1333,8 +1333,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1598278443.683562,
-            "last_retested_at_iso": "2020-08-24T14:14:03.683562",
+            "last_retested_at_epoch": 1598366913.884051,
+            "last_retested_at_iso": "2020-08-25T14:48:33.884051",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -2789,8 +2789,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1598272134.17292,
-            "last_retested_at_iso": "2020-08-24T12:28:54.172920",
+            "last_retested_at_epoch": 1598366893.360211,
+            "last_retested_at_iso": "2020-08-25T14:48:13.360211",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
@@ -2803,8 +2803,8 @@
         "www.euuaa.com": {
             "included_at_epoch": 1588473552.0,
             "included_at_iso": "2020-05-03T02:39:12",
-            "last_retested_at_epoch": 1598278266.68753,
-            "last_retested_at_iso": "2020-08-24T14:11:06.687530",
+            "last_retested_at_epoch": 1598366923.473278,
+            "last_retested_at_iso": "2020-08-25T14:48:43.473278",
             "status": "INACTIVE"
         },
         "www.everydresses.com": {
@@ -3125,8 +3125,8 @@
         "www.i-dating.info": {
             "included_at_epoch": 1597460544.136183,
             "included_at_iso": "2020-08-15T03:02:24.136183",
-            "last_retested_at_epoch": 1598278570.17324,
-            "last_retested_at_iso": "2020-08-24T14:16:10.173240",
+            "last_retested_at_epoch": 1598367029.920796,
+            "last_retested_at_iso": "2020-08-25T14:50:29.920796",
             "status": "INACTIVE"
         },
         "www.ici-sexe.tk": {
