@@ -367,8 +367,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598284079.532306,
-            "last_retested_at_iso": "2020-08-24T15:47:59.532306",
+            "last_retested_at_epoch": 1598372778.584527,
+            "last_retested_at_iso": "2020-08-25T16:26:18.584527",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1067,8 +1067,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1598278343.41642,
-            "last_retested_at_iso": "2020-08-24T14:12:23.416420",
+            "last_retested_at_epoch": 1598372963.873155,
+            "last_retested_at_iso": "2020-08-25T16:29:23.873155",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1970,8 +1970,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598284079.549146,
-            "last_retested_at_iso": "2020-08-24T15:47:59.549146",
+            "last_retested_at_epoch": 1598372778.688318,
+            "last_retested_at_iso": "2020-08-25T16:26:18.688318",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
