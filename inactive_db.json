@@ -367,8 +367,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598372778.584527,
-            "last_retested_at_iso": "2020-08-25T16:26:18.584527",
+            "last_retested_at_epoch": 1598459917.590037,
+            "last_retested_at_iso": "2020-08-26T16:38:37.590037",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1067,8 +1067,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1598372963.873155,
-            "last_retested_at_iso": "2020-08-25T16:29:23.873155",
+            "last_retested_at_epoch": 1598459922.918255,
+            "last_retested_at_iso": "2020-08-26T16:38:42.918255",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1179,8 +1179,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1598362138.477031,
-            "last_retested_at_iso": "2020-08-25T13:28:58.477031",
+            "last_retested_at_epoch": 1598459939.589353,
+            "last_retested_at_iso": "2020-08-26T16:38:59.589353",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -1970,8 +1970,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598372778.688318,
-            "last_retested_at_iso": "2020-08-25T16:26:18.688318",
+            "last_retested_at_epoch": 1598459917.687389,
+            "last_retested_at_iso": "2020-08-26T16:38:37.687389",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -2789,8 +2789,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1598366893.360211,
-            "last_retested_at_iso": "2020-08-25T14:48:13.360211",
+            "last_retested_at_epoch": 1598459649.32797,
+            "last_retested_at_iso": "2020-08-26T16:34:09.327970",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
