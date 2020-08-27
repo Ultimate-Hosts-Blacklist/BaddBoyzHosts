@@ -1032,8 +1032,8 @@
         "www.1337crew.info": {
             "included_at_epoch": 1587276713.0,
             "included_at_iso": "2020-04-19T06:11:53",
-            "last_retested_at_epoch": 1598453752.598114,
-            "last_retested_at_iso": "2020-08-26T14:55:52.598114",
+            "last_retested_at_epoch": 1598554733.109603,
+            "last_retested_at_iso": "2020-08-27T18:58:53.109603",
             "status": "INACTIVE"
         },
         "www.138shenbosbo.com": {
@@ -1067,8 +1067,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1598459922.918255,
-            "last_retested_at_iso": "2020-08-26T16:38:42.918255",
+            "last_retested_at_epoch": 1598554446.726489,
+            "last_retested_at_iso": "2020-08-27T18:54:06.726489",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1179,8 +1179,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1598459939.589353,
-            "last_retested_at_iso": "2020-08-26T16:38:59.589353",
+            "last_retested_at_epoch": 1598555110.24337,
+            "last_retested_at_iso": "2020-08-27T19:05:10.243370",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -2789,8 +2789,8 @@
         "www.eu-cookie-law.info": {
             "included_at_epoch": 1588478554.0,
             "included_at_iso": "2020-05-03T04:02:34",
-            "last_retested_at_epoch": 1598459649.32797,
-            "last_retested_at_iso": "2020-08-26T16:34:09.327970",
+            "last_retested_at_epoch": 1598555231.940074,
+            "last_retested_at_iso": "2020-08-27T19:07:11.940074",
             "status": "INACTIVE"
         },
         "www.eu-survey.com": {
@@ -3188,8 +3188,8 @@
         "www.idolhairsalon.com": {
             "included_at_epoch": 1597995964.767582,
             "included_at_iso": "2020-08-21T07:46:04.767582",
-            "last_retested_at_epoch": 1598453316.776904,
-            "last_retested_at_iso": "2020-08-26T14:48:36.776904",
+            "last_retested_at_epoch": 1598555217.137886,
+            "last_retested_at_iso": "2020-08-27T19:06:57.137886",
             "status": "INACTIVE"
         },
         "www.idvipteam.com": {
