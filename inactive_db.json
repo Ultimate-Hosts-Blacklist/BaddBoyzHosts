@@ -367,8 +367,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598459917.590037,
-            "last_retested_at_iso": "2020-08-26T16:38:37.590037",
+            "last_retested_at_epoch": 1598560527.248493,
+            "last_retested_at_iso": "2020-08-27T20:35:27.248493",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1970,8 +1970,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598459917.687389,
-            "last_retested_at_iso": "2020-08-26T16:38:37.687389",
+            "last_retested_at_epoch": 1598560527.20565,
+            "last_retested_at_iso": "2020-08-27T20:35:27.205650",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -3230,8 +3230,8 @@
         "www.maincert.com": {
             "included_at_epoch": 1598018146.329244,
             "included_at_iso": "2020-08-21T13:55:46.329244",
-            "last_retested_at_epoch": 1598472227.568772,
-            "last_retested_at_iso": "2020-08-26T20:03:47.568772",
+            "last_retested_at_epoch": 1598560885.218377,
+            "last_retested_at_iso": "2020-08-27T20:41:25.218377",
             "status": "INACTIVE"
         },
         "www.matureporno.info": {
@@ -3251,8 +3251,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1598453806.170163,
-            "last_retested_at_iso": "2020-08-26T14:56:46.170163",
+            "last_retested_at_epoch": 1598561023.995845,
+            "last_retested_at_iso": "2020-08-27T20:43:43.995845",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
