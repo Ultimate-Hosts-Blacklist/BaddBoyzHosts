@@ -539,6 +539,13 @@
             "last_retested_at_iso": "2020-04-25T12:48:36",
             "status": "INACTIVE"
         },
+        "analytics.cliqz.com": {
+            "included_at_epoch": 1598633943.496648,
+            "included_at_iso": "2020-08-28T16:59:03.496648",
+            "last_retested_at_epoch": 1598633943.496648,
+            "last_retested_at_iso": "2020-08-28T16:59:03.496648",
+            "status": "INACTIVE"
+        },
         "android-systems.ru": {
             "included_at_epoch": 1595344646.173639,
             "included_at_iso": "2020-07-21T15:17:26.173639",
@@ -892,8 +899,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1598541678.059227,
-            "last_retested_at_iso": "2020-08-27T15:21:18.059227",
+            "last_retested_at_epoch": 1598634351.80025,
+            "last_retested_at_iso": "2020-08-28T17:05:51.800250",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -978,6 +985,13 @@
             "included_at_iso": "2020-03-09T20:47:41",
             "last_retested_at_epoch": 1595380334.513956,
             "last_retested_at_iso": "2020-07-22T01:12:14.513956",
+            "status": "INACTIVE"
+        },
+        "www.101flag.ru": {
+            "included_at_epoch": 1598634066.874645,
+            "included_at_iso": "2020-08-28T17:01:06.874645",
+            "last_retested_at_epoch": 1598634066.874645,
+            "last_retested_at_iso": "2020-08-28T17:01:06.874645",
             "status": "INACTIVE"
         },
         "www.108shot.com": {
@@ -2035,6 +2049,13 @@
             "included_at_iso": "2020-04-09T20:46:11",
             "last_retested_at_epoch": 1586465171.0,
             "last_retested_at_iso": "2020-04-09T20:46:11",
+            "status": "INACTIVE"
+        },
+        "www.actionmobilemarine.net": {
+            "included_at_epoch": 1598633932.522638,
+            "included_at_iso": "2020-08-28T16:58:52.522638",
+            "last_retested_at_epoch": 1598633932.522638,
+            "last_retested_at_iso": "2020-08-28T16:58:52.522638",
             "status": "INACTIVE"
         },
         "www.activeideas.net": {
