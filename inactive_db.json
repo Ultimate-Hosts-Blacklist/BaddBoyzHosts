@@ -73,8 +73,8 @@
         "103.hosting-5.xtream.co.il": {
             "included_at_epoch": 1588395394.0,
             "included_at_iso": "2020-05-02T04:56:34",
-            "last_retested_at_epoch": 1598349951.401764,
-            "last_retested_at_iso": "2020-08-25T10:05:51.401764",
+            "last_retested_at_epoch": 1598577456.035119,
+            "last_retested_at_iso": "2020-08-28T01:17:36.035119",
             "status": "INACTIVE"
         },
         "123.fluxads.com": {
