@@ -367,8 +367,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598560527.248493,
-            "last_retested_at_iso": "2020-08-27T20:35:27.248493",
+            "last_retested_at_epoch": 1598653125.515179,
+            "last_retested_at_iso": "2020-08-28T22:18:45.515179",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1984,8 +1984,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598560527.20565,
-            "last_retested_at_iso": "2020-08-27T20:35:27.205650",
+            "last_retested_at_epoch": 1598653125.514226,
+            "last_retested_at_iso": "2020-08-28T22:18:45.514226",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -3272,8 +3272,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1598561023.995845,
-            "last_retested_at_iso": "2020-08-27T20:43:43.995845",
+            "last_retested_at_epoch": 1598653154.254421,
+            "last_retested_at_iso": "2020-08-28T22:19:14.254421",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
