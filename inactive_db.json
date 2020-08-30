@@ -927,8 +927,8 @@
         "www.1-800onlinecasino.com": {
             "included_at_epoch": 1588496777.0,
             "included_at_iso": "2020-05-03T09:06:17",
-            "last_retested_at_epoch": 1598658712.046963,
-            "last_retested_at_iso": "2020-08-28T23:51:52.046963",
+            "last_retested_at_epoch": 1598749856.15613,
+            "last_retested_at_iso": "2020-08-30T01:10:56.156130",
             "status": "INACTIVE"
         },
         "www.1-free-share-buttons.com": {
@@ -3258,8 +3258,8 @@
         "www.maincert.com": {
             "included_at_epoch": 1598018146.329244,
             "included_at_iso": "2020-08-21T13:55:46.329244",
-            "last_retested_at_epoch": 1598658647.623239,
-            "last_retested_at_iso": "2020-08-28T23:50:47.623239",
+            "last_retested_at_epoch": 1598750128.209049,
+            "last_retested_at_iso": "2020-08-30T01:15:28.209049",
             "status": "INACTIVE"
         },
         "www.matureporno.info": {
