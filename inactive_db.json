@@ -1403,8 +1403,8 @@
         "www.24tradeplus.com": {
             "included_at_epoch": 1588454690.0,
             "included_at_iso": "2020-05-02T21:24:50",
-            "last_retested_at_epoch": 1598730012.107611,
-            "last_retested_at_iso": "2020-08-29T19:40:12.107611",
+            "last_retested_at_epoch": 1598818586.482952,
+            "last_retested_at_iso": "2020-08-30T20:16:26.482952",
             "status": "INACTIVE"
         },
         "www.257639.com": {
@@ -1585,8 +1585,8 @@
         "www.3angelsvideo.com": {
             "included_at_epoch": 1590384205.965431,
             "included_at_iso": "2020-05-25T05:23:25.965431",
-            "last_retested_at_epoch": 1598729474.537308,
-            "last_retested_at_iso": "2020-08-29T19:31:14.537308",
+            "last_retested_at_epoch": 1598818387.653577,
+            "last_retested_at_iso": "2020-08-30T20:13:07.653577",
             "status": "INACTIVE"
         },
         "www.3d-daughter-list.info": {
