@@ -24,8 +24,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1598771910.481997,
-            "last_retested_at_iso": "2020-08-30T07:18:30.481997",
+            "last_retested_at_epoch": 1598861990.352647,
+            "last_retested_at_iso": "2020-08-31T08:19:50.352647",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -402,8 +402,8 @@
         "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482757.0,
             "included_at_iso": "2020-05-03T05:12:37",
-            "last_retested_at_epoch": 1598771499.180833,
-            "last_retested_at_iso": "2020-08-30T07:11:39.180833",
+            "last_retested_at_epoch": 1598861912.717291,
+            "last_retested_at_iso": "2020-08-31T08:18:32.717291",
             "status": "INACTIVE"
         },
         "aasoldes.fr": {
@@ -509,6 +509,13 @@
             "included_at_iso": "2020-08-30T10:09:10.166261",
             "last_retested_at_epoch": 1598782150.166261,
             "last_retested_at_iso": "2020-08-30T10:09:10.166261",
+            "status": "INACTIVE"
+        },
+        "aktivator-windows10.blogspot.com": {
+            "included_at_epoch": 1598861761.286271,
+            "included_at_iso": "2020-08-31T08:16:01.286271",
+            "last_retested_at_epoch": 1598861761.286271,
+            "last_retested_at_iso": "2020-08-31T08:16:01.286271",
             "status": "INACTIVE"
         },
         "akzmaihd.net": {
@@ -955,8 +962,8 @@
         "ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1598771893.442907,
-            "last_retested_at_iso": "2020-08-30T07:18:13.442907",
+            "last_retested_at_epoch": 1598861773.610788,
+            "last_retested_at_iso": "2020-08-31T08:16:13.610788",
             "status": "INACTIVE"
         },
         "index.buckshost.com": {
@@ -1025,8 +1032,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1598771910.460793,
-            "last_retested_at_iso": "2020-08-30T07:18:30.460793",
+            "last_retested_at_epoch": 1598861990.402033,
+            "last_retested_at_iso": "2020-08-31T08:19:50.402033",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1081,8 +1088,8 @@
         "www.0m4.ru": {
             "included_at_epoch": 1588454561.0,
             "included_at_iso": "2020-05-02T21:22:41",
-            "last_retested_at_epoch": 1598772311.650276,
-            "last_retested_at_iso": "2020-08-30T07:25:11.650276",
+            "last_retested_at_epoch": 1598862525.014599,
+            "last_retested_at_iso": "2020-08-31T08:28:45.014599",
             "status": "INACTIVE"
         },
         "www.0pros.com": {
@@ -1410,8 +1417,8 @@
         "www.257639.com": {
             "included_at_epoch": 1588500315.0,
             "included_at_iso": "2020-05-03T10:05:15",
-            "last_retested_at_epoch": 1598771527.248426,
-            "last_retested_at_iso": "2020-08-30T07:12:07.248426",
+            "last_retested_at_epoch": 1598861806.723522,
+            "last_retested_at_iso": "2020-08-31T08:16:46.723522",
             "status": "INACTIVE"
         },
         "www.259572.com": {
@@ -1487,8 +1494,8 @@
         "www.2muchsex.com": {
             "included_at_epoch": 1588493131.0,
             "included_at_iso": "2020-05-03T08:05:31",
-            "last_retested_at_epoch": 1598771922.316043,
-            "last_retested_at_iso": "2020-08-30T07:18:42.316043",
+            "last_retested_at_epoch": 1598862315.612193,
+            "last_retested_at_iso": "2020-08-31T08:25:15.612193",
             "status": "INACTIVE"
         },
         "www.2n2qlh5hqcwrvo.net": {
@@ -1893,8 +1900,8 @@
         "www.87w.info": {
             "included_at_epoch": 1586640956.0,
             "included_at_iso": "2020-04-11T21:35:56",
-            "last_retested_at_epoch": 1598772062.952604,
-            "last_retested_at_iso": "2020-08-30T07:21:02.952604",
+            "last_retested_at_epoch": 1598861943.50808,
+            "last_retested_at_iso": "2020-08-31T08:19:03.508080",
             "status": "INACTIVE"
         },
         "www.888-vip.net": {
@@ -2061,8 +2068,8 @@
         "www.aad1f4acb0a373420d9b0c4202d38d94fa.com": {
             "included_at_epoch": 1588482758.0,
             "included_at_iso": "2020-05-03T05:12:38",
-            "last_retested_at_epoch": 1598771499.173492,
-            "last_retested_at_iso": "2020-08-30T07:11:39.173492",
+            "last_retested_at_epoch": 1598861912.716372,
+            "last_retested_at_iso": "2020-08-31T08:18:32.716372",
             "status": "INACTIVE"
         },
         "www.aadultwork.com": {
@@ -2301,6 +2308,13 @@
             "included_at_iso": "2020-01-21T20:10:35",
             "last_retested_at_epoch": 1579637435.0,
             "last_retested_at_iso": "2020-01-21T20:10:35",
+            "status": "INACTIVE"
+        },
+        "www.aktivator-windows10.blogspot.com": {
+            "included_at_epoch": 1598861761.222072,
+            "included_at_iso": "2020-08-31T08:16:01.222072",
+            "last_retested_at_epoch": 1598861761.222072,
+            "last_retested_at_iso": "2020-08-31T08:16:01.222072",
             "status": "INACTIVE"
         },
         "www.akuhni.by": {
@@ -3384,8 +3398,8 @@
         "www.ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1598771893.544856,
-            "last_retested_at_iso": "2020-08-30T07:18:13.544856",
+            "last_retested_at_epoch": 1598861773.589571,
+            "last_retested_at_iso": "2020-08-31T08:16:13.589571",
             "status": "INACTIVE"
         },
         "www.idecoideas.com": {
