@@ -297,15 +297,15 @@
         "6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1598777134.201037,
-            "last_retested_at_iso": "2020-08-30T08:45:34.201037",
+            "last_retested_at_epoch": 1598872448.191727,
+            "last_retested_at_iso": "2020-08-31T11:14:08.191727",
             "status": "INACTIVE"
         },
         "7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1598781945.286891,
-            "last_retested_at_iso": "2020-08-30T10:05:45.286891",
+            "last_retested_at_epoch": 1598872865.822121,
+            "last_retested_at_iso": "2020-08-31T11:21:05.822121",
             "status": "INACTIVE"
         },
         "86d6.com": {
@@ -388,8 +388,8 @@
         "aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1598781725.633967,
-            "last_retested_at_iso": "2020-08-30T10:02:05.633967",
+            "last_retested_at_epoch": 1598872584.41024,
+            "last_retested_at_iso": "2020-08-31T11:16:24.410240",
             "status": "INACTIVE"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -1858,8 +1858,8 @@
         "www.6ftlady.com": {
             "included_at_epoch": 1588482392.0,
             "included_at_iso": "2020-05-03T05:06:32",
-            "last_retested_at_epoch": 1598777134.20198,
-            "last_retested_at_iso": "2020-08-30T08:45:34.201980",
+            "last_retested_at_epoch": 1598872448.190732,
+            "last_retested_at_iso": "2020-08-31T11:14:08.190732",
             "status": "INACTIVE"
         },
         "www.6server.com": {
@@ -1886,8 +1886,8 @@
         "www.7cfmnf.top": {
             "included_at_epoch": 1588464263.0,
             "included_at_iso": "2020-05-03T00:04:23",
-            "last_retested_at_epoch": 1598781944.929939,
-            "last_retested_at_iso": "2020-08-30T10:05:44.929939",
+            "last_retested_at_epoch": 1598872865.807062,
+            "last_retested_at_iso": "2020-08-31T11:21:05.807062",
             "status": "INACTIVE"
         },
         "www.7gfs.com": {
@@ -1942,8 +1942,8 @@
         "www.90i.info": {
             "included_at_epoch": 1590095656.035231,
             "included_at_iso": "2020-05-21T21:14:16.035231",
-            "last_retested_at_epoch": 1598781901.746636,
-            "last_retested_at_iso": "2020-08-30T10:05:01.746636",
+            "last_retested_at_epoch": 1598872701.915206,
+            "last_retested_at_iso": "2020-08-31T11:18:21.915206",
             "status": "INACTIVE"
         },
         "www.94cdn.com": {
@@ -2061,8 +2061,8 @@
         "www.aa9d046aab36af4ff182f097f840430d51.com": {
             "included_at_epoch": 1588473625.0,
             "included_at_iso": "2020-05-03T02:40:25",
-            "last_retested_at_epoch": 1598781725.660693,
-            "last_retested_at_iso": "2020-08-30T10:02:05.660693",
+            "last_retested_at_epoch": 1598872584.523159,
+            "last_retested_at_iso": "2020-08-31T11:16:24.523159",
             "status": "INACTIVE"
         },
         "www.aac500b7a15b2646968f6bd8c6305869d7.com": {
@@ -2131,8 +2131,8 @@
         "www.abahah.com": {
             "included_at_epoch": 1588459278.0,
             "included_at_iso": "2020-05-02T22:41:18",
-            "last_retested_at_epoch": 1598782259.233661,
-            "last_retested_at_iso": "2020-08-30T10:10:59.233661",
+            "last_retested_at_epoch": 1598872703.564959,
+            "last_retested_at_iso": "2020-08-31T11:18:23.564959",
             "status": "INACTIVE"
         },
         "www.abbeyxxx.com": {
@@ -2383,8 +2383,8 @@
         "www.alexa-silver.com": {
             "included_at_epoch": 1588499753.0,
             "included_at_iso": "2020-05-03T09:55:53",
-            "last_retested_at_epoch": 1598781770.243404,
-            "last_retested_at_iso": "2020-08-30T10:02:50.243404",
+            "last_retested_at_epoch": 1598872566.890191,
+            "last_retested_at_iso": "2020-08-31T11:16:06.890191",
             "status": "INACTIVE"
         },
         "www.alexxxxpages.info": {
