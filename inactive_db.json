@@ -101,8 +101,8 @@
         "103.hosting-5.xtream.co.il": {
             "included_at_epoch": 1588395394.0,
             "included_at_iso": "2020-05-02T04:56:34",
-            "last_retested_at_epoch": 1598577456.035119,
-            "last_retested_at_iso": "2020-08-28T01:17:36.035119",
+            "last_retested_at_epoch": 1599003010.392524,
+            "last_retested_at_iso": "2020-09-01T23:30:10.392524",
             "status": "INACTIVE"
         },
         "123.fluxads.com": {
@@ -458,8 +458,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598916231.885606,
-            "last_retested_at_iso": "2020-08-31T23:23:51.885606",
+            "last_retested_at_epoch": 1599002768.074694,
+            "last_retested_at_iso": "2020-09-01T23:26:08.074694",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1277,8 +1277,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1598916462.896634,
-            "last_retested_at_iso": "2020-08-31T23:27:42.896634",
+            "last_retested_at_epoch": 1599003065.888621,
+            "last_retested_at_iso": "2020-09-01T23:31:05.888621",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1389,8 +1389,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1598915638.77439,
-            "last_retested_at_iso": "2020-08-31T23:13:58.774390",
+            "last_retested_at_epoch": 1599002487.859214,
+            "last_retested_at_iso": "2020-09-01T23:21:27.859214",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -1935,8 +1935,8 @@
         "www.8streams.com": {
             "included_at_epoch": 1583425375.0,
             "included_at_iso": "2020-03-05T16:22:55",
-            "last_retested_at_epoch": 1598915736.207083,
-            "last_retested_at_iso": "2020-08-31T23:15:36.207083",
+            "last_retested_at_epoch": 1599003359.294011,
+            "last_retested_at_iso": "2020-09-01T23:35:59.294011",
             "status": "INACTIVE"
         },
         "www.90i.info": {
@@ -2187,8 +2187,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1598916231.918926,
-            "last_retested_at_iso": "2020-08-31T23:23:51.918926",
+            "last_retested_at_epoch": 1599002768.436823,
+            "last_retested_at_iso": "2020-09-01T23:26:08.436823",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
@@ -3447,8 +3447,8 @@
         "www.idolhairsalon.com": {
             "included_at_epoch": 1597995964.767582,
             "included_at_iso": "2020-08-21T07:46:04.767582",
-            "last_retested_at_epoch": 1598915914.047421,
-            "last_retested_at_iso": "2020-08-31T23:18:34.047421",
+            "last_retested_at_epoch": 1599003221.112724,
+            "last_retested_at_iso": "2020-09-01T23:33:41.112724",
             "status": "INACTIVE"
         },
         "www.idvipteam.com": {
