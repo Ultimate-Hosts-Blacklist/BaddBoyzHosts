@@ -199,8 +199,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1598969551.497941,
-            "last_retested_at_iso": "2020-09-01T14:12:31.497941",
+            "last_retested_at_epoch": 1599057103.512358,
+            "last_retested_at_iso": "2020-09-02T14:31:43.512358",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -948,8 +948,8 @@
         "graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1598969698.656566,
-            "last_retested_at_iso": "2020-09-01T14:14:58.656566",
+            "last_retested_at_epoch": 1599057194.428006,
+            "last_retested_at_iso": "2020-09-02T14:33:14.428006",
             "status": "INACTIVE"
         },
         "hmuana.com": {
@@ -1459,15 +1459,15 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1598969551.496843,
-            "last_retested_at_iso": "2020-09-01T14:12:31.496843",
+            "last_retested_at_epoch": 1599057103.399156,
+            "last_retested_at_iso": "2020-09-02T14:31:43.399156",
             "status": "INACTIVE"
         },
         "www.271395.com": {
             "included_at_epoch": 1585826735.0,
             "included_at_iso": "2020-04-02T11:25:35",
-            "last_retested_at_epoch": 1598969186.230195,
-            "last_retested_at_iso": "2020-09-01T14:06:26.230195",
+            "last_retested_at_epoch": 1599057256.826368,
+            "last_retested_at_iso": "2020-09-02T14:34:16.826368",
             "status": "INACTIVE"
         },
         "www.272351.com": {
@@ -1543,8 +1543,8 @@
         "www.2rich4bitches.com": {
             "included_at_epoch": 1588506555.0,
             "included_at_iso": "2020-05-03T11:49:15",
-            "last_retested_at_epoch": 1598969473.155247,
-            "last_retested_at_iso": "2020-09-01T14:11:13.155247",
+            "last_retested_at_epoch": 1599057689.377512,
+            "last_retested_at_iso": "2020-09-02T14:41:29.377512",
             "status": "INACTIVE"
         },
         "www.2wink.com.au": {
@@ -1963,8 +1963,8 @@
         "www.94cdn.com": {
             "included_at_epoch": 1588459703.0,
             "included_at_iso": "2020-05-02T22:48:23",
-            "last_retested_at_epoch": 1598969048.685751,
-            "last_retested_at_iso": "2020-09-01T14:04:08.685751",
+            "last_retested_at_epoch": 1599057459.468323,
+            "last_retested_at_iso": "2020-09-02T14:37:39.468323",
             "status": "INACTIVE"
         },
         "www.98oi.ru": {
@@ -2019,8 +2019,8 @@
         "www.a48.info": {
             "included_at_epoch": 1588760499.065523,
             "included_at_iso": "2020-05-06T10:21:39.065523",
-            "last_retested_at_epoch": 1598969764.905957,
-            "last_retested_at_iso": "2020-09-01T14:16:04.905957",
+            "last_retested_at_epoch": 1599057119.656291,
+            "last_retested_at_iso": "2020-09-02T14:31:59.656291",
             "status": "INACTIVE"
         },
         "www.a85.info": {
@@ -2502,8 +2502,8 @@
         "www.allbestpantyhose.com": {
             "included_at_epoch": 1588449964.0,
             "included_at_iso": "2020-05-02T20:06:04",
-            "last_retested_at_epoch": 1598969564.833473,
-            "last_retested_at_iso": "2020-09-01T14:12:44.833473",
+            "last_retested_at_epoch": 1599057266.935926,
+            "last_retested_at_iso": "2020-09-02T14:34:26.935926",
             "status": "INACTIVE"
         },
         "www.allbritishescorts.com": {
@@ -2817,8 +2817,8 @@
         "www.backonline.info": {
             "included_at_epoch": 1588493326.0,
             "included_at_iso": "2020-05-03T08:08:46",
-            "last_retested_at_epoch": 1598969756.158156,
-            "last_retested_at_iso": "2020-09-01T14:15:56.158156",
+            "last_retested_at_epoch": 1599057460.917511,
+            "last_retested_at_iso": "2020-09-02T14:37:40.917511",
             "status": "INACTIVE"
         },
         "www.backvids.com": {
@@ -2880,8 +2880,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1598969126.341693,
-            "last_retested_at_iso": "2020-09-01T14:05:26.341693",
+            "last_retested_at_epoch": 1599057535.622431,
+            "last_retested_at_iso": "2020-09-02T14:38:55.622431",
             "status": "INACTIVE"
         },
         "www.cinedaily.com": {
@@ -3055,8 +3055,8 @@
         "www.ethanslayton.com": {
             "included_at_epoch": 1598075117.441742,
             "included_at_iso": "2020-08-22T05:45:17.441742",
-            "last_retested_at_epoch": 1598968985.10731,
-            "last_retested_at_iso": "2020-09-01T14:03:05.107310",
+            "last_retested_at_epoch": 1599057376.835469,
+            "last_retested_at_iso": "2020-09-02T14:36:16.835469",
             "status": "INACTIVE"
         },
         "www.eu-cookie-law.info": {
@@ -3223,8 +3223,8 @@
         "www.graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1598969698.576528,
-            "last_retested_at_iso": "2020-09-01T14:14:58.576528",
+            "last_retested_at_epoch": 1599057194.471868,
+            "last_retested_at_iso": "2020-09-02T14:33:14.471868",
             "status": "INACTIVE"
         },
         "www.gratis-sexkontakte.com": {
@@ -3286,8 +3286,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1598969653.886643,
-            "last_retested_at_iso": "2020-09-01T14:14:13.886643",
+            "last_retested_at_epoch": 1599057890.953545,
+            "last_retested_at_iso": "2020-09-02T14:44:50.953545",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
