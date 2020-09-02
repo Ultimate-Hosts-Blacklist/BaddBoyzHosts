@@ -224,6 +224,13 @@
             "last_retested_at_iso": "2020-07-06T21:32:24.101733",
             "status": "INACTIVE"
         },
+        "2wink.com.au": {
+            "included_at_epoch": 1599007371.112948,
+            "included_at_iso": "2020-09-02T00:42:51.112948",
+            "last_retested_at_epoch": 1599007371.112948,
+            "last_retested_at_iso": "2020-09-02T00:42:51.112948",
+            "status": "INACTIVE"
+        },
         "360clicks.de": {
             "included_at_epoch": 1589300718.309618,
             "included_at_iso": "2020-05-12T16:25:18.309618",
@@ -1242,8 +1249,8 @@
         "www.1337crew.info": {
             "included_at_epoch": 1587276713.0,
             "included_at_iso": "2020-04-19T06:11:53",
-            "last_retested_at_epoch": 1598915658.399661,
-            "last_retested_at_iso": "2020-08-31T23:14:18.399661",
+            "last_retested_at_epoch": 1599007221.70711,
+            "last_retested_at_iso": "2020-09-02T00:40:21.707110",
             "status": "INACTIVE"
         },
         "www.138shenbosbo.com": {
@@ -1538,6 +1545,13 @@
             "included_at_iso": "2020-05-03T11:49:15",
             "last_retested_at_epoch": 1598969473.155247,
             "last_retested_at_iso": "2020-09-01T14:11:13.155247",
+            "status": "INACTIVE"
+        },
+        "www.2wink.com.au": {
+            "included_at_epoch": 1599007370.685159,
+            "included_at_iso": "2020-09-02T00:42:50.685159",
+            "last_retested_at_epoch": 1599007370.685159,
+            "last_retested_at_iso": "2020-09-02T00:42:50.685159",
             "status": "INACTIVE"
         },
         "www.2ydian.com": {
