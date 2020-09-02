@@ -213,8 +213,8 @@
         "2cam.nl": {
             "included_at_epoch": 1588299202.0,
             "included_at_iso": "2020-05-01T02:13:22",
-            "last_retested_at_epoch": 1598840395.79867,
-            "last_retested_at_iso": "2020-08-31T02:19:55.798670",
+            "last_retested_at_epoch": 1599012442.106906,
+            "last_retested_at_iso": "2020-09-02T02:07:22.106906",
             "status": "INACTIVE"
         },
         "2o34.com": {
@@ -3524,8 +3524,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1598920946.722773,
-            "last_retested_at_iso": "2020-09-01T00:42:26.722773",
+            "last_retested_at_epoch": 1599012662.096586,
+            "last_retested_at_iso": "2020-09-02T02:11:02.096586",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
