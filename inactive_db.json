@@ -45,8 +45,8 @@
         "016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1599078352.074088,
-            "last_retested_at_iso": "2020-09-02T20:25:52.074088",
+            "last_retested_at_epoch": 1599164766.966714,
+            "last_retested_at_iso": "2020-09-03T20:26:06.966714",
             "status": "INACTIVE"
         },
         "042707d90914.agrigid.com": {
@@ -374,8 +374,8 @@
         "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1599078027.884508,
-            "last_retested_at_iso": "2020-09-02T20:20:27.884508",
+            "last_retested_at_epoch": 1599165180.61012,
+            "last_retested_at_iso": "2020-09-03T20:33:00.610120",
             "status": "INACTIVE"
         },
         "aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -759,8 +759,8 @@
         "baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1599077750.098779,
-            "last_retested_at_iso": "2020-09-02T20:15:50.098779",
+            "last_retested_at_epoch": 1599165030.636166,
+            "last_retested_at_iso": "2020-09-03T20:30:30.636166",
             "status": "INACTIVE"
         },
         "baby.dorki.info": {
@@ -1067,8 +1067,8 @@
         "www.016ih.com": {
             "included_at_epoch": 1588473829.0,
             "included_at_iso": "2020-05-03T02:43:49",
-            "last_retested_at_epoch": 1599078351.933439,
-            "last_retested_at_iso": "2020-09-02T20:25:51.933439",
+            "last_retested_at_epoch": 1599164767.03544,
+            "last_retested_at_iso": "2020-09-03T20:26:07.035440",
             "status": "INACTIVE"
         },
         "www.017gj.com": {
@@ -1088,8 +1088,8 @@
         "www.03p.info": {
             "included_at_epoch": 1589328239.088401,
             "included_at_iso": "2020-05-13T00:03:59.088401",
-            "last_retested_at_epoch": 1599078433.843615,
-            "last_retested_at_iso": "2020-09-02T20:27:13.843615",
+            "last_retested_at_epoch": 1599165196.750658,
+            "last_retested_at_iso": "2020-09-03T20:33:16.750658",
             "status": "INACTIVE"
         },
         "www.09zyy.com": {
@@ -1557,8 +1557,8 @@
         "www.2ydian.com": {
             "included_at_epoch": 1588459209.0,
             "included_at_iso": "2020-05-02T22:40:09",
-            "last_retested_at_epoch": 1599078152.537306,
-            "last_retested_at_iso": "2020-09-02T20:22:32.537306",
+            "last_retested_at_epoch": 1599165315.932894,
+            "last_retested_at_iso": "2020-09-03T20:35:15.932894",
             "status": "INACTIVE"
         },
         "www.3-gay.com": {
@@ -1907,8 +1907,8 @@
         "www.7gfs.com": {
             "included_at_epoch": 1588473883.0,
             "included_at_iso": "2020-05-03T02:44:43",
-            "last_retested_at_epoch": 1599073568.861415,
-            "last_retested_at_iso": "2020-09-02T19:06:08.861415",
+            "last_retested_at_epoch": 1599165396.194832,
+            "last_retested_at_iso": "2020-09-03T20:36:36.194832",
             "status": "INACTIVE"
         },
         "www.8090cpa.com": {
@@ -1991,8 +1991,8 @@
         "www.9c51vda.com": {
             "included_at_epoch": 1588527627.0,
             "included_at_iso": "2020-05-03T17:40:27",
-            "last_retested_at_epoch": 1599067706.527663,
-            "last_retested_at_iso": "2020-09-02T17:28:26.527663",
+            "last_retested_at_epoch": 1599164977.733114,
+            "last_retested_at_iso": "2020-09-03T20:29:37.733114",
             "status": "INACTIVE"
         },
         "www.a1thumbpost.com": {
@@ -2047,8 +2047,8 @@
         "www.aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
             "included_at_epoch": 1588482464.0,
             "included_at_iso": "2020-05-03T05:07:44",
-            "last_retested_at_epoch": 1599078027.883613,
-            "last_retested_at_iso": "2020-09-02T20:20:27.883613",
+            "last_retested_at_epoch": 1599165180.807452,
+            "last_retested_at_iso": "2020-09-03T20:33:00.807452",
             "status": "INACTIVE"
         },
         "www.aa625d84f1587749c1ab011d6f269f7d64.com": {
@@ -2796,8 +2796,8 @@
         "www.baby-soft.ca": {
             "included_at_epoch": 1588503287.0,
             "included_at_iso": "2020-05-03T10:54:47",
-            "last_retested_at_epoch": 1599077750.41297,
-            "last_retested_at_iso": "2020-09-02T20:15:50.412970",
+            "last_retested_at_epoch": 1599165030.56727,
+            "last_retested_at_iso": "2020-09-03T20:30:30.567270",
             "status": "INACTIVE"
         },
         "www.babywantsbling.com": {
@@ -3440,8 +3440,8 @@
         "www.ideibiznesa2015.ru": {
             "included_at_epoch": 1588473905.0,
             "included_at_iso": "2020-05-03T02:45:05",
-            "last_retested_at_epoch": 1599072812.791832,
-            "last_retested_at_iso": "2020-09-02T18:53:32.791832",
+            "last_retested_at_epoch": 1599165027.222268,
+            "last_retested_at_iso": "2020-09-03T20:30:27.222268",
             "status": "INACTIVE"
         },
         "www.idkom.com": {
