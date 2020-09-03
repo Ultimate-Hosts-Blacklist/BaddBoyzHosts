@@ -199,8 +199,8 @@
         "267932.com": {
             "included_at_epoch": 1588486117.0,
             "included_at_iso": "2020-05-03T06:08:37",
-            "last_retested_at_epoch": 1599057103.512358,
-            "last_retested_at_iso": "2020-09-02T14:31:43.512358",
+            "last_retested_at_epoch": 1599144646.562792,
+            "last_retested_at_iso": "2020-09-03T14:50:46.562792",
             "status": "INACTIVE"
         },
         "272351.com": {
@@ -948,8 +948,8 @@
         "graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1599057194.428006,
-            "last_retested_at_iso": "2020-09-02T14:33:14.428006",
+            "last_retested_at_epoch": 1599144467.887279,
+            "last_retested_at_iso": "2020-09-03T14:47:47.887279",
             "status": "INACTIVE"
         },
         "hmuana.com": {
@@ -1459,15 +1459,15 @@
         "www.267932.com": {
             "included_at_epoch": 1588486118.0,
             "included_at_iso": "2020-05-03T06:08:38",
-            "last_retested_at_epoch": 1599057103.399156,
-            "last_retested_at_iso": "2020-09-02T14:31:43.399156",
+            "last_retested_at_epoch": 1599144646.527486,
+            "last_retested_at_iso": "2020-09-03T14:50:46.527486",
             "status": "INACTIVE"
         },
         "www.271395.com": {
             "included_at_epoch": 1585826735.0,
             "included_at_iso": "2020-04-02T11:25:35",
-            "last_retested_at_epoch": 1599057256.826368,
-            "last_retested_at_iso": "2020-09-02T14:34:16.826368",
+            "last_retested_at_epoch": 1599144271.528344,
+            "last_retested_at_iso": "2020-09-03T14:44:31.528344",
             "status": "INACTIVE"
         },
         "www.272351.com": {
@@ -1956,15 +1956,15 @@
         "www.90i.info": {
             "included_at_epoch": 1590095656.035231,
             "included_at_iso": "2020-05-21T21:14:16.035231",
-            "last_retested_at_epoch": 1599052862.91316,
-            "last_retested_at_iso": "2020-09-02T13:21:02.913160",
+            "last_retested_at_epoch": 1599144133.937978,
+            "last_retested_at_iso": "2020-09-03T14:42:13.937978",
             "status": "INACTIVE"
         },
         "www.94cdn.com": {
             "included_at_epoch": 1588459703.0,
             "included_at_iso": "2020-05-02T22:48:23",
-            "last_retested_at_epoch": 1599057459.468323,
-            "last_retested_at_iso": "2020-09-02T14:37:39.468323",
+            "last_retested_at_epoch": 1599144348.732288,
+            "last_retested_at_iso": "2020-09-03T14:45:48.732288",
             "status": "INACTIVE"
         },
         "www.98oi.ru": {
@@ -2145,8 +2145,8 @@
         "www.abahah.com": {
             "included_at_epoch": 1588459278.0,
             "included_at_iso": "2020-05-02T22:41:18",
-            "last_retested_at_epoch": 1599052849.812627,
-            "last_retested_at_iso": "2020-09-02T13:20:49.812627",
+            "last_retested_at_epoch": 1599144349.901062,
+            "last_retested_at_iso": "2020-09-03T14:45:49.901062",
             "status": "INACTIVE"
         },
         "www.abbeyxxx.com": {
@@ -2502,8 +2502,8 @@
         "www.allbestpantyhose.com": {
             "included_at_epoch": 1588449964.0,
             "included_at_iso": "2020-05-02T20:06:04",
-            "last_retested_at_epoch": 1599057266.935926,
-            "last_retested_at_iso": "2020-09-02T14:34:26.935926",
+            "last_retested_at_epoch": 1599143887.925452,
+            "last_retested_at_iso": "2020-09-03T14:38:07.925452",
             "status": "INACTIVE"
         },
         "www.allbritishescorts.com": {
@@ -2747,8 +2747,8 @@
         "www.appyaviator.com": {
             "included_at_epoch": 1581106326.0,
             "included_at_iso": "2020-02-07T20:12:06",
-            "last_retested_at_epoch": 1581106326.0,
-            "last_retested_at_iso": "2020-02-07T20:12:06",
+            "last_retested_at_epoch": 1599144612.803146,
+            "last_retested_at_iso": "2020-09-03T14:50:12.803146",
             "status": "INACTIVE"
         },
         "www.aviodg.eu": {
@@ -2880,8 +2880,8 @@
         "www.cif.su": {
             "included_at_epoch": 1588499931.0,
             "included_at_iso": "2020-05-03T09:58:51",
-            "last_retested_at_epoch": 1599057535.622431,
-            "last_retested_at_iso": "2020-09-02T14:38:55.622431",
+            "last_retested_at_epoch": 1599143986.035801,
+            "last_retested_at_iso": "2020-09-03T14:39:46.035801",
             "status": "INACTIVE"
         },
         "www.cinedaily.com": {
@@ -3055,8 +3055,8 @@
         "www.ethanslayton.com": {
             "included_at_epoch": 1598075117.441742,
             "included_at_iso": "2020-08-22T05:45:17.441742",
-            "last_retested_at_epoch": 1599057376.835469,
-            "last_retested_at_iso": "2020-09-02T14:36:16.835469",
+            "last_retested_at_epoch": 1599144379.26869,
+            "last_retested_at_iso": "2020-09-03T14:46:19.268690",
             "status": "INACTIVE"
         },
         "www.eu-cookie-law.info": {
@@ -3223,8 +3223,8 @@
         "www.graffcolor.net": {
             "included_at_epoch": 1588521727.0,
             "included_at_iso": "2020-05-03T16:02:07",
-            "last_retested_at_epoch": 1599057194.471868,
-            "last_retested_at_iso": "2020-09-02T14:33:14.471868",
+            "last_retested_at_epoch": 1599144468.002951,
+            "last_retested_at_iso": "2020-09-03T14:47:48.002951",
             "status": "INACTIVE"
         },
         "www.gratis-sexkontakte.com": {
@@ -3286,8 +3286,8 @@
         "www.humanelydrew.com": {
             "included_at_epoch": 1588468869.0,
             "included_at_iso": "2020-05-03T01:21:09",
-            "last_retested_at_epoch": 1599057890.953545,
-            "last_retested_at_iso": "2020-09-02T14:44:50.953545",
+            "last_retested_at_epoch": 1599144460.436773,
+            "last_retested_at_iso": "2020-09-03T14:47:40.436773",
             "status": "INACTIVE"
         },
         "www.humorpool.com": {
