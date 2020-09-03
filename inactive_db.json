@@ -3524,8 +3524,8 @@
         "www.prizesfu74.life": {
             "included_at_epoch": 1588459744.0,
             "included_at_iso": "2020-05-02T22:49:04",
-            "last_retested_at_epoch": 1599012662.096586,
-            "last_retested_at_iso": "2020-09-02T02:11:02.096586",
+            "last_retested_at_epoch": 1599104000.097226,
+            "last_retested_at_iso": "2020-09-03T03:33:20.097226",
             "status": "INACTIVE"
         },
         "www.slowmac.tech": {
