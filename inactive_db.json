@@ -465,8 +465,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1599002768.074694,
-            "last_retested_at_iso": "2020-09-01T23:26:08.074694",
+            "last_retested_at_epoch": 1599092372.17879,
+            "last_retested_at_iso": "2020-09-03T00:19:32.178790",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1396,8 +1396,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1599002487.859214,
-            "last_retested_at_iso": "2020-09-01T23:21:27.859214",
+            "last_retested_at_epoch": 1599092706.836015,
+            "last_retested_at_iso": "2020-09-03T00:25:06.836015",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -1949,8 +1949,8 @@
         "www.8streams.com": {
             "included_at_epoch": 1583425375.0,
             "included_at_iso": "2020-03-05T16:22:55",
-            "last_retested_at_epoch": 1599003359.294011,
-            "last_retested_at_iso": "2020-09-01T23:35:59.294011",
+            "last_retested_at_epoch": 1599092337.591742,
+            "last_retested_at_iso": "2020-09-03T00:18:57.591742",
             "status": "INACTIVE"
         },
         "www.90i.info": {
@@ -2201,8 +2201,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1599002768.436823,
-            "last_retested_at_iso": "2020-09-01T23:26:08.436823",
+            "last_retested_at_epoch": 1599092372.22697,
+            "last_retested_at_iso": "2020-09-03T00:19:32.226970",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
