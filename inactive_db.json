@@ -465,8 +465,8 @@
         "absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1599092372.17879,
-            "last_retested_at_iso": "2020-09-03T00:19:32.178790",
+            "last_retested_at_epoch": 1599179447.8658,
+            "last_retested_at_iso": "2020-09-04T00:30:47.865800",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
@@ -1396,8 +1396,8 @@
         "www.2012countdown.info": {
             "included_at_epoch": 1588527261.0,
             "included_at_iso": "2020-05-03T17:34:21",
-            "last_retested_at_epoch": 1599092706.836015,
-            "last_retested_at_iso": "2020-09-03T00:25:06.836015",
+            "last_retested_at_epoch": 1599180044.443272,
+            "last_retested_at_iso": "2020-09-04T00:40:44.443272",
             "status": "INACTIVE"
         },
         "www.2013tomsshoesforsale.com": {
@@ -2201,8 +2201,8 @@
         "www.absolute-live.com": {
             "included_at_epoch": 1588478361.0,
             "included_at_iso": "2020-05-03T03:59:21",
-            "last_retested_at_epoch": 1599092372.22697,
-            "last_retested_at_iso": "2020-09-03T00:19:32.226970",
+            "last_retested_at_epoch": 1599179447.6179,
+            "last_retested_at_iso": "2020-09-04T00:30:47.617900",
             "status": "INACTIVE"
         },
         "www.ac-transfer.com": {
