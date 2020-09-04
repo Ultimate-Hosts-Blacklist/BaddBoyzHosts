@@ -24,8 +24,8 @@
         "012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1599125212.198235,
-            "last_retested_at_iso": "2020-09-03T09:26:52.198235",
+            "last_retested_at_epoch": 1599213398.384045,
+            "last_retested_at_iso": "2020-09-04T09:56:38.384045",
             "status": "INACTIVE"
         },
         "013sv.com": {
@@ -976,8 +976,8 @@
         "ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1599125102.029515,
-            "last_retested_at_iso": "2020-09-03T09:25:02.029515",
+            "last_retested_at_epoch": 1599213740.320093,
+            "last_retested_at_iso": "2020-09-04T10:02:20.320093",
             "status": "INACTIVE"
         },
         "index.buckshost.com": {
@@ -1046,8 +1046,8 @@
         "www.012br.com": {
             "included_at_epoch": 1588464487.0,
             "included_at_iso": "2020-05-03T00:08:07",
-            "last_retested_at_epoch": 1599125212.225594,
-            "last_retested_at_iso": "2020-09-03T09:26:52.225594",
+            "last_retested_at_epoch": 1599213398.449491,
+            "last_retested_at_iso": "2020-09-04T09:56:38.449491",
             "status": "INACTIVE"
         },
         "www.013sv.com": {
@@ -1438,8 +1438,8 @@
         "www.257639.com": {
             "included_at_epoch": 1588500315.0,
             "included_at_iso": "2020-05-03T10:05:15",
-            "last_retested_at_epoch": 1599125000.078395,
-            "last_retested_at_iso": "2020-09-03T09:23:20.078395",
+            "last_retested_at_epoch": 1599213608.854508,
+            "last_retested_at_iso": "2020-09-04T10:00:08.854508",
             "status": "INACTIVE"
         },
         "www.259572.com": {
@@ -1928,8 +1928,8 @@
         "www.87w.info": {
             "included_at_epoch": 1586640956.0,
             "included_at_iso": "2020-04-11T21:35:56",
-            "last_retested_at_epoch": 1599124922.045652,
-            "last_retested_at_iso": "2020-09-03T09:22:02.045652",
+            "last_retested_at_epoch": 1599213662.661578,
+            "last_retested_at_iso": "2020-09-04T10:01:02.661578",
             "status": "INACTIVE"
         },
         "www.888-vip.net": {
@@ -3160,8 +3160,8 @@
         "www.freehomosexual.com": {
             "included_at_epoch": 1588468902.0,
             "included_at_iso": "2020-05-03T01:21:42",
-            "last_retested_at_epoch": 1599124718.015034,
-            "last_retested_at_iso": "2020-09-03T09:18:38.015034",
+            "last_retested_at_epoch": 1599213414.130315,
+            "last_retested_at_iso": "2020-09-04T09:56:54.130315",
             "status": "INACTIVE"
         },
         "www.freehornygirls.com": {
@@ -3321,8 +3321,8 @@
         "www.hunks-naked.com": {
             "included_at_epoch": 1591434748.398224,
             "included_at_iso": "2020-06-06T09:12:28.398224",
-            "last_retested_at_epoch": 1599124732.431315,
-            "last_retested_at_iso": "2020-09-03T09:18:52.431315",
+            "last_retested_at_epoch": 1599213421.772237,
+            "last_retested_at_iso": "2020-09-04T09:57:01.772237",
             "status": "INACTIVE"
         },
         "www.hunktoons.com": {
@@ -3426,8 +3426,8 @@
         "www.ideationary.com": {
             "included_at_epoch": 1588478289.0,
             "included_at_iso": "2020-05-03T03:58:09",
-            "last_retested_at_epoch": 1599125101.981411,
-            "last_retested_at_iso": "2020-09-03T09:25:01.981411",
+            "last_retested_at_epoch": 1599213740.292644,
+            "last_retested_at_iso": "2020-09-04T10:02:20.292644",
             "status": "INACTIVE"
         },
         "www.idecoideas.com": {
