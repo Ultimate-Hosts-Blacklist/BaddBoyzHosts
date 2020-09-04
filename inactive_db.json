@@ -1284,8 +1284,8 @@
         "www.16aq.cn": {
             "included_at_epoch": 1589318963.253382,
             "included_at_iso": "2020-05-12T21:29:23.253382",
-            "last_retested_at_epoch": 1599098131.340448,
-            "last_retested_at_iso": "2020-09-03T01:55:31.340448",
+            "last_retested_at_epoch": 1599185344.226695,
+            "last_retested_at_iso": "2020-09-04T02:09:04.226695",
             "status": "INACTIVE"
         },
         "www.17youzi.com": {
@@ -1718,8 +1718,8 @@
         "www.4plus11.com": {
             "included_at_epoch": 1588489712.0,
             "included_at_iso": "2020-05-03T07:08:32",
-            "last_retested_at_epoch": 1596713716.607635,
-            "last_retested_at_iso": "2020-08-06T11:35:16.607635",
+            "last_retested_at_epoch": 1599185221.879279,
+            "last_retested_at_iso": "2020-09-04T02:07:01.879279",
             "status": "INACTIVE"
         },
         "www.4realzed.com": {
@@ -3461,8 +3461,8 @@
         "www.idolhairsalon.com": {
             "included_at_epoch": 1597995964.767582,
             "included_at_iso": "2020-08-21T07:46:04.767582",
-            "last_retested_at_epoch": 1599097730.711083,
-            "last_retested_at_iso": "2020-09-03T01:48:50.711083",
+            "last_retested_at_epoch": 1599185746.118297,
+            "last_retested_at_iso": "2020-09-04T02:15:46.118297",
             "status": "INACTIVE"
         },
         "www.idvipteam.com": {
