@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/BaddBoyzHosts/BaddBoyzHosts/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "a0a3a1b29636b179a1ac28527d3130f7a03a88076d781bd4e7e0d561",
+    "line_number": 1503,
+    "output_dir": "/home/runner/work/BaddBoyzHosts/BaddBoyzHosts/output/domains.list",
+    "previous_hash": "a0a3a1b29636b179a1ac28527d3130f7a03a88076d781bd4e7e0d561",
+    "rel_source": "domains.list",
+    "session_id": "0f5006f69554faa1c2bb099a",
+    "source": "/home/runner/work/BaddBoyzHosts/BaddBoyzHosts/domains.list",
+    "subject": "/home/runner/work/BaddBoyzHosts/BaddBoyzHosts/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
