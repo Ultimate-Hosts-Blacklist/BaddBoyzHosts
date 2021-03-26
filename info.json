@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-03-26T00:59:30.825210",
-    "end_epoch": 1616720370.82521,
+    "end_datetime": "2021-03-26T13:17:41.253516",
+    "end_epoch": 1616764661.253516,
     "issue_link": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/new/choose",
     "link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
     "name": "BaddBoyzHosts",
