@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "00a3defa9c485897e4d5fb2afe837ca41d5783711dc3a055a3d283d7",
+    "line_number": 1387,
+    "output_dir": "/home/runner/work/BaddBoyzHosts/BaddBoyzHosts/output/domains.list",
+    "previous_hash": "00a3defa9c485897e4d5fb2afe837ca41d5783711dc3a055a3d283d7",
+    "session_id": "e8bdb18b449919dc98f508bd",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
