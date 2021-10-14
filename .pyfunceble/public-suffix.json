@@ -8299,6 +8299,7 @@
         "lib.az.us",
         "lib.ca.us",
         "lib.co.us",
+        "lib.ct.us",
         "lib.dc.us",
         "lib.de.us",
         "lib.fl.us",
@@ -8555,7 +8556,6 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "lib.ct.us",
         "mil.zw",
         "org.zw"
     ],
