@@ -1,16 +1,14 @@
 {
     "counter": {
         "Domainers Registrar AG ( https://nic.at/registrar/668 )": 1,
-        "GoDaddy.com, LLC": 1,
         "Netregistry Pty Ltd": 3,
         "Web Connect": 1,
-        "total": 6
+        "total": 5
     },
     "percentage": {
-        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 16.666666666666668,
-        "GoDaddy.com, LLC": 16.666666666666668,
-        "Netregistry Pty Ltd": 50.0,
-        "Web Connect": 16.666666666666668,
-        "total": 100.00000000000001
+        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 20.0,
+        "Netregistry Pty Ltd": 60.0,
+        "Web Connect": 20.0,
+        "total": 100.0
     }
 }
