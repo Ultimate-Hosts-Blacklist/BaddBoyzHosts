@@ -2,15 +2,13 @@
     "counter": {
         "Domainers Registrar AG ( https://nic.at/registrar/668 )": 1,
         "FastDomain Inc.": 1,
-        "Netregistry Pty Ltd": 3,
-        "Web Connect": 1,
-        "total": 6
+        "Netregistry Pty Ltd": 2,
+        "total": 4
     },
     "percentage": {
-        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 16.666666666666668,
-        "FastDomain Inc.": 16.666666666666668,
+        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 25.0,
+        "FastDomain Inc.": 25.0,
         "Netregistry Pty Ltd": 50.0,
-        "Web Connect": 16.666666666666668,
-        "total": 100.00000000000001
+        "total": 100.0
     }
 }
