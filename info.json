@@ -1,19 +1,19 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2022-03-05T12:33:53.580098",
     "end_epoch": 1646483633.580098,
     "issue_link": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/new/choose",
     "link": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts/",
     "name": "BaddBoyzHosts",
-    "previous_end_datetime": "2022-03-05T03:49:54.709453",
-    "previous_end_epoch": 1646452194.709453,
-    "previous_start_datetime": "2022-03-05T03:05:52.944838",
-    "previous_start_epoch": 1646449552.944838,
+    "previous_end_datetime": "2022-03-05T12:33:53.580098",
+    "previous_end_epoch": 1646483633.580098,
+    "previous_start_datetime": "2022-03-05T11:50:08.465305",
+    "previous_start_epoch": 1646481008.465305,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/domains",
-    "start_datetime": "2022-03-05T11:50:08.465305",
-    "start_epoch": 1646481008.465305
+    "start_datetime": "2022-03-06T10:45:10.350165",
+    "start_epoch": 1646563510.350165
 }
