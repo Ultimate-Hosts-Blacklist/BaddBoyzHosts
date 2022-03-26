@@ -1,10 +1,14 @@
 {
     "counter": {
-        "Netregistry Pty Ltd": 1,
-        "total": 1
+        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 1,
+        "Netregistry Pty Ltd": 2,
+        "Web Connect": 1,
+        "total": 4
     },
     "percentage": {
-        "Netregistry Pty Ltd": 100.0,
+        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 25.0,
+        "Netregistry Pty Ltd": 50.0,
+        "Web Connect": 25.0,
         "total": 100.0
     }
 }
