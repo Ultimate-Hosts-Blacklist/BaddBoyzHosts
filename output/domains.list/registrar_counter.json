@@ -1,14 +1,10 @@
 {
     "counter": {
-        "1st Domains": 1,
-        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 1,
         "Netregistry Pty Ltd": 1,
-        "total": 3
+        "total": 1
     },
     "percentage": {
-        "1st Domains": 33.333333333333336,
-        "Domainers Registrar AG ( https://nic.at/registrar/668 )": 33.333333333333336,
-        "Netregistry Pty Ltd": 33.333333333333336,
+        "Netregistry Pty Ltd": 100.0,
         "total": 100.0
     }
 }
