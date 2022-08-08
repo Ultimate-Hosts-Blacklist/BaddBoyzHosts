@@ -472,7 +472,6 @@
         "org.bo",
         "patria.bo",
         "plurinacional.bo",
-        "politica.bo",
         "profesional.bo",
         "pueblo.bo",
         "revista.bo",
@@ -620,6 +619,7 @@
         "pi.gov.br",
         "pi.leg.br",
         "poa.br",
+        "politica.bo",
         "ppg.br",
         "pr.gov.br",
         "pr.leg.br",
@@ -6980,7 +6980,8 @@
         "øvre-eiker.no",
         "øyer.no",
         "øygarden.no",
-        "øystre-slidre.no"
+        "øystre-slidre.no",
+        "čáhcesuolo.no"
     ],
     "np": [
         "np"
