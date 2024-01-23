@@ -1,10 +1,12 @@
 {
     "counter": {
         "Eranet International Limited": 2,
-        "total": 2
+        "Voyager Internet Ltd T/A 1st Domains": 2,
+        "total": 4
     },
     "percentage": {
-        "Eranet International Limited": 100.0,
+        "Eranet International Limited": 50.0,
+        "Voyager Internet Ltd T/A 1st Domains": 50.0,
         "total": 100.0
     }
 }
