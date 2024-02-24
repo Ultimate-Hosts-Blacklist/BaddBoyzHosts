@@ -1,10 +1,12 @@
 {
     "counter": {
         "Melbourne IT": 2,
-        "total": 2
+        "Voyager Internet Ltd T/A 1st Domains": 2,
+        "total": 4
     },
     "percentage": {
-        "Melbourne IT": 100.0,
+        "Melbourne IT": 50.0,
+        "Voyager Internet Ltd T/A 1st Domains": 50.0,
         "total": 100.0
     }
 }
