@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2024-06-04T11:47:42.824763",
-    "end_epoch": 1717501662.824763,
+    "end_datetime": "2024-06-05T08:55:41.328135",
+    "end_epoch": 1717577741.328135,
     "issue_link": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/new/choose",
     "link": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts/",
     "name": "BaddBoyzHosts",
