@@ -2,15 +2,17 @@
     "counter": {
         "Eranet International Limited": 2,
         "FastDomain Inc.": 2,
+        "Melbourne IT": 2,
         "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 2,
         "Wild West Domains, LLC": 2,
-        "total": 8
+        "total": 10
     },
     "percentage": {
-        "Eranet International Limited": 25.0,
-        "FastDomain Inc.": 25.0,
-        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 25.0,
-        "Wild West Domains, LLC": 25.0,
+        "Eranet International Limited": 20.0,
+        "FastDomain Inc.": 20.0,
+        "Melbourne IT": 20.0,
+        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 20.0,
+        "Wild West Domains, LLC": 20.0,
         "total": 100.0
     }
 }
