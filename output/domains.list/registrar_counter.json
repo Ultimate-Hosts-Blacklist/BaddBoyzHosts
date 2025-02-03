@@ -1,10 +1,18 @@
 {
     "counter": {
         "Above.au Pty Limited": 2,
-        "total": 2
+        "Eranet International Limited": 2,
+        "FastDomain Inc.": 2,
+        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 2,
+        "Wild West Domains, LLC": 2,
+        "total": 10
     },
     "percentage": {
-        "Above.au Pty Limited": 100.0,
+        "Above.au Pty Limited": 20.0,
+        "Eranet International Limited": 20.0,
+        "FastDomain Inc.": 20.0,
+        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 20.0,
+        "Wild West Domains, LLC": 20.0,
         "total": 100.0
     }
 }
