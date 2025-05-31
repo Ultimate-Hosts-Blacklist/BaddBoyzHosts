@@ -1,18 +1,18 @@
 {
     "counter": {
-        "Eranet International Limited": 8,
-        "FastDomain Inc.": 8,
-        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 8,
+        "Eranet International Limited": 10,
+        "FastDomain Inc.": 10,
+        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 10,
         "Voyager Internet Ltd T/A 1st Domains": 4,
-        "Wild West Domains, LLC": 8,
-        "total": 36
+        "Wild West Domains, LLC": 10,
+        "total": 44
     },
     "percentage": {
-        "Eranet International Limited": 22.22222222222222,
-        "FastDomain Inc.": 22.22222222222222,
-        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 22.22222222222222,
-        "Voyager Internet Ltd T/A 1st Domains": 11.11111111111111,
-        "Wild West Domains, LLC": 22.22222222222222,
+        "Eranet International Limited": 22.727272727272727,
+        "FastDomain Inc.": 22.727272727272727,
+        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 22.727272727272727,
+        "Voyager Internet Ltd T/A 1st Domains": 9.090909090909092,
+        "Wild West Domains, LLC": 22.727272727272727,
         "total": 100.0
     }
 }
