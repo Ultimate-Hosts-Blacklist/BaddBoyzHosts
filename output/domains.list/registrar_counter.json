@@ -1,22 +1,22 @@
 {
     "counter": {
-        "Above.au Pty Limited": 38,
-        "Eranet International Limited": 58,
-        "FastDomain Inc.": 58,
+        "Above.au Pty Limited": 40,
+        "Eranet International Limited": 60,
+        "FastDomain Inc.": 60,
         "Melbourne IT": 22,
-        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 58,
+        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 60,
         "Voyager Internet Ltd T/A 1st Domains": 34,
-        "Wild West Domains, LLC": 58,
-        "total": 326
+        "Wild West Domains, LLC": 60,
+        "total": 336
     },
     "percentage": {
-        "Above.au Pty Limited": 11.656441717791411,
-        "Eranet International Limited": 17.791411042944784,
-        "FastDomain Inc.": 17.791411042944784,
-        "Melbourne IT": 6.748466257668712,
-        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 17.791411042944784,
-        "Voyager Internet Ltd T/A 1st Domains": 10.429447852760736,
-        "Wild West Domains, LLC": 17.791411042944784,
-        "total": 100.0
+        "Above.au Pty Limited": 11.904761904761905,
+        "Eranet International Limited": 17.857142857142858,
+        "FastDomain Inc.": 17.857142857142858,
+        "Melbourne IT": 6.5476190476190474,
+        "Tool Domains Ltd. ( https://nic.at/registrar/719 )": 17.857142857142858,
+        "Voyager Internet Ltd T/A 1st Domains": 10.119047619047619,
+        "Wild West Domains, LLC": 17.857142857142858,
+        "total": 100.00000000000001
     }
 }
